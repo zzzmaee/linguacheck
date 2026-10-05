@@ -1,0 +1,2604 @@
+=== PAGE /grammar-points/a2/no-longer-any-longer-anymore/ | No longer, any longer, anymore | level a2
+--- QUIZ 875
+CONTEXT:
+Exercise 3
+ Rewrite these sentences, adding ‘no longer’, ‘any longer’ or ‘anymore’ in the correct place.
+ EXAMPLE: Joe no longer believes in ghosts. (Joe believes in ghosts.)
+Q 7457 [gaps] {1} . (John doesn’t live in London.)
+  {1} free text
+Q 7458 [gaps] {1} . (Ms Peters is our teacher.)
+  {1} free text
+Q 7459 [gaps] {1} ? (Why don’t you call us?)
+  {1} free text
+Q 7460 [gaps] {1} . (Ian belongs to the gym.)
+  {1} free text
+Q 7461 [gaps] {1} . (We are in the same class.)
+  {1} free text
+Q 7462 [gaps] {1} . (She doesn’t wear glasses.)
+  {1} free text
+Q 7463 [gaps] {1} . (Robert can hear very well.)
+  {1} free text
+Q 7464 [gaps] {1} . (Fred doesn’t like carrots.)
+  {1} free text
+Q 7465 [gaps] {1} . (The property is for sale.)
+  {1} free text
+Q 7466 [gaps] {1} . (We can’t wear jeans to work.)
+  {1} free text
+
+=== PAGE /writing/b1/how-to-write-a-hotel-review-after-a-stay/ | How to write a hotel review after a stay | level b1
+--- QUIZ 867
+CONTEXT:
+Exercise 1
+ Choose the appropriate adjectives to complete these descriptions.
+Q 7397 [radio] Great cleaning service! The room was absolutely _____.
+ 12908) A. tasteless
+ 12909) B. convenient
+ 12910) C. spotless
+ 12911) D. dusty
+Q 7398 [radio] The room was very ____. It was small, and there was too much furniture in it.
+ 12912) A. cramped
+ 12913) B. spacious
+ 12914) C. understaffed
+ 12915) D. stained
+Q 7399 [radio] The bed was very ____. I would have preferred a softer one.
+ 12916) A. comfortable
+ 12917) B. tatty
+ 12918) C. stained
+ 12919) D. firm
+Q 7400 [radio] The hotel was _____. I had to wait a long time to get served at the reception.
+ 12920) A. affordable
+ 12921) B. central
+ 12922) C. inattentive
+ 12923) D. understaffed
+Q 7401 [radio] The sheets on the bed were clean and ____. They were obviously high quality.
+ 12924) A. crisp
+ 12925) B. peaceful
+ 12926) C. tatty
+ 12927) D. spacious
+Q 7402 [radio] The room wasn’t very clean. The carpets and furniture were ____.
+ 12928) A. old-fashioned
+ 12929) B. reasonable
+ 12930) C. spotless
+ 12931) D. dusty
+Q 7403 [radio] The hotel was very ____. It didn’t cost very much for a pleasant room and breakfast.
+ 12932) A. affordable
+ 12933) B. overpriced
+ 12934) C. convenient
+ 12935) D. dated
+Q 7404 [radio] The hotel was very ____. The only noise was the sounds of nature.
+ 12936) A. noisy
+ 12937) B. crisp
+ 12938) C. peaceful
+ 12939) D. tasteless
+
+=== PAGE /writing/b1/how-to-write-a-hotel-review-after-a-stay/ | How to write a hotel review after a stay | level b1
+--- QUIZ 868
+CONTEXT:
+Exercise 2
+ Choose the correct options to complete these sentences.
+Q 7405 [gaps] The restaurant was good {1} .
+  {1} options: One thing we really appreciated | too much trouble | Another problem was that | we could wish for | The only problem was | value for money | out of their way | our expectations
+Q 7406 [gaps] The service was beyond {1} .
+  {1} options: One thing we really appreciated | The only problem was | out of their way | we could wish for | value for money | Another problem was that | too much trouble | our expectations
+Q 7407 [gaps] The staff went {1} to help us.
+  {1} options: our expectations | One thing we really appreciated | Another problem was that | out of their way | too much trouble | value for money | The only problem was | we could wish for
+Q 7408 [gaps] Nothing was {1} .
+  {1} options: out of their way | Another problem was that | our expectations | One thing we really appreciated | The only problem was | we could wish for | value for money | too much trouble
+Q 7409 [gaps] The bathroom had everything {1} .
+  {1} options: One thing we really appreciated | The only problem was | our expectations | we could wish for | Another problem was that | out of their way | value for money | too much trouble
+Q 7410 [gaps] {1} the noise from the bar.
+  {1} options: we could wish for | value for money | Another problem was that | The only problem was | out of their way | our expectations | One thing we really appreciated | too much trouble
+Q 7411 [gaps] {1} was the sauna.
+  {1} options: our expectations | we could wish for | value for money | One thing we really appreciated | too much trouble | The only problem was | out of their way | Another problem was that
+Q 7412 [gaps] {1} the air-conditioning didn’t work.
+  {1} options: value for money | our expectations | too much trouble | out of their way | The only problem was | we could wish for | One thing we really appreciated | Another problem was that
+
+=== PAGE /writing/b1/how-to-write-a-hotel-review-after-a-stay/ | How to write a hotel review after a stay | level b1
+--- QUIZ 869
+CONTEXT:
+Exercise 3
+ Fill in the gaps with the words and phrases in the box below.
+ also – another problem was that – as well as – bland – having said – helpful – on top of – one thing that – one thing we
+Q 7413 [gaps] 1 {1} really appreciated was the spacious bedrooms. 2 {2} that, the rooms were really quiet. 3 {3} , the bed was really comfortable. However, there were a few problems. 4 {4} was disappointing was the breakfast. The food was 5 {5} and there was very little choice for vegetarians. 6 {6} that, the coffee was very weak. 7 {7} the lift wasn’t working. 8 {8} that, the staff were very helpful and carried our luggage up the stairs.
+  {1} free text
+  {2} free text
+  {3} free text
+  {4} free text
+  {5} free text
+  {6} free text
+  {7} free text
+  {8} free text
+
+=== PAGE /writing/b1/how-to-write-a-hotel-review-after-a-stay/ | How to write a hotel review after a stay | level b1
+--- QUIZ 870
+CONTEXT:
+Exercise 4
+ Choose the correct options to complete this hotel review.
+Q 7414 [gaps] Our stay at the Riverside Hotel was quite pleasant. We couldn’t 1 {1} the service. The staff were 2 {2} and friendly and made us feel very welcome. Nothing was too much 3 {3} for them. Also, our room was 4 {4} – no dust or stains. However, the décor was very 5 {5} , the bed was not very 6 {6} and the bedding was worn. 7 {7} the lack of car parking. 8 {8} , the hotel is in a convenient location, with good access to the town centre, the sights and the shops.
+  {1} options: mention | fault | complain
+  {2} options: attentive | delicious | dusty
+  {3} options: trouble | problem | fault
+  {4} options: dirty | untidy | spotless
+  {5} options: understaffed | reasonable | old-fashioned
+  {6} options: firm | old-fashioned | spacious
+  {7} options: Another problem was | One good thing was | On top of that
+  {8} options: Having said that | As well as that | On top of that
+
+=== PAGE /reading/b2/do-we-need-cash-anymore-b2-reading-test/ | Do we really need cash anymore? – B2 English Reading Test | level b2
+--- QUIZ 871
+CONTEXT:
+B2 English Reading Test
+ Read an article about the rise of a cashless society, and for questions 1 to 6, choose the correct answer.
+ Do we really need cash anymore?
+ When the Covid-19 pandemic spread around the globe, many banks took action. The Federal Reserve began to quarantine money, while in some regions of China, banknotes were taken away and disinfected. 1 __. The public responded positively. In the UK, the number of contactless payments increased by 36% between 2020 and 2021. 
+ Today, many people are embracing the cashless economy. After all, it comes with many advantages. For a start, it’s safer, as cash is easily stolen. 2 __. Mobile payments are even more secure. As well as that, all your transactions are logged, making record-keeping far simpler. 3 __. Cashless transactions make it easier for them to collect data, identify economic trends and detect fraud.
+ However, it seems as if we are just not ready to say goodbye to cash for good. Recent data shows that cash has made a comeback since the cost of living started to rise steeply. 4 __. It was the case during USA’s Great Depression and in Iceland during the Credit Crunch of 2008. Using notes and coins helps people budget, whereas, with electronic payments, it’s harder to keep track of where your money is going. 
+ Even if cash payments do not vanish entirely, our economies are transitioning to become far less reliant on cash than they once were. And while switching to electronic payments is simple and convenient for many people, this isn’t true for everyone. 5 __. An increasing number of stores have stopped accepting cash payments altogether, meaning that such people may become more marginalised. Moreover, alongside the decline in cash usage, the number of ATMs and local banks has dropped significantly. 6 __.
+ Despite the popularity of electronic transactions, it’s clear that they won’t become the sole transaction method, at least in the near future. And as companies rush towards finding ever more convenient transaction methods, it’s important not to abandon those who prefer to pay in the traditional way. 
+ Questions
+Q 7415 [radio] Gap 1
+ 12940) A. Credit and debit cards are too, but it’s possible to trace payments and cancel the cards.
+ 12941) B. At the same time, banks encouraged the public to avoid using cash and make electronic payments where possible.
+ 12942) C. This makes access to cash increasingly hard for those who depend on it.
+ 12943) D. Banks, businesses and governments are also keen to make the transition.
+ 12944) E. That’s not unusual since people tend to prefer having paper money at hand when times are hard.
+ 12945) F. The most cash-friendly societies in the world, China and Sweden, utilise innovative ways to make quick, simple payments.
+ 12946) G. There are concerns about those who rely on cash, such as the homeless, the undocumented or the elderly.
+Q 7416 [radio] Gap 2
+ 12947) A. Credit and debit cards are too, but it’s possible to trace payments and cancel the cards.
+ 12948) B. At the same time, banks encouraged the public to avoid using cash and make electronic payments where possible.
+ 12949) C. This makes access to cash increasingly hard for those who depend on it.
+ 12950) D. Banks, businesses and governments are also keen to make the transition.
+ 12951) E. That’s not unusual since people tend to prefer having paper money at hand when times are hard.
+ 12952) F. The most cash-friendly societies in the world, China and Sweden, utilise innovative ways to make quick, simple payments.
+ 12953) G. There are concerns about those who rely on cash, such as the homeless, the undocumented or the elderly.
+Q 7417 [radio] Gap 3
+ 12954) A. Credit and debit cards are too, but it’s possible to trace payments and cancel the cards.
+ 12955) B. At the same time, banks encouraged the public to avoid using cash and make electronic payments where possible.
+ 12956) C. This makes access to cash increasingly hard for those who depend on it.
+ 12957) D. Banks, businesses and governments are also keen to make the transition.
+ 12958) E. That’s not unusual since people tend to prefer having paper money at hand when times are hard.
+ 12959) F. The most cash-friendly societies in the world, China and Sweden, utilise innovative ways to make quick, simple payments.
+ 12960) G. There are concerns about those who rely on cash, such as the homeless, the undocumented or the elderly.
+Q 7418 [radio] Gap 4
+ 12961) A. Credit and debit cards are too, but it’s possible to trace payments and cancel the cards.
+ 12962) B. At the same time, banks encouraged the public to avoid using cash and make electronic payments where possible.
+ 12963) C. This makes access to cash increasingly hard for those who depend on it.
+ 12964) D. Banks, businesses and governments are also keen to make the transition.
+ 12965) E. That’s not unusual since people tend to prefer having paper money at hand when times are hard.
+ 12966) F. The most cash-friendly societies in the world, China and Sweden, utilise innovative ways to make quick, simple payments.
+ 12967) G. There are concerns about those who rely on cash, such as the homeless, the undocumented or the elderly.
+Q 7419 [radio] Gap 5
+ 12968) A. Credit and debit cards are too, but it’s possible to trace payments and cancel the cards.
+ 12969) B. At the same time, banks encouraged the public to avoid using cash and make electronic payments where possible.
+ 12970) C. This makes access to cash increasingly hard for those who depend on it.
+ 12971) D. Banks, businesses and governments are also keen to make the transition.
+ 12972) E. That’s not unusual since people tend to prefer having paper money at hand when times are hard.
+ 12973) F. The most cash-friendly societies in the world, China and Sweden, utilise innovative ways to make quick, simple payments.
+ 12974) G. There are concerns about those who rely on cash, such as the homeless, the undocumented or the elderly.
+Q 7420 [radio] Gap 6
+ 12975) A. Credit and debit cards are too, but it’s possible to trace payments and cancel the cards.
+ 12976) B. At the same time, banks encouraged the public to avoid using cash and make electronic payments where possible.
+ 12977) C. This makes access to cash increasingly hard for those who depend on it.
+ 12978) D. Banks, businesses and governments are also keen to make the transition.
+ 12979) E. That’s not unusual since people tend to prefer having paper money at hand when times are hard.
+ 12980) F. The most cash-friendly societies in the world, China and Sweden, utilise innovative ways to make quick, simple payments.
+ 12981) G. There are concerns about those who rely on cash, such as the homeless, the undocumented or the elderly.
+
+=== PAGE /use-of-english/a2/a2-english-test-9-text-with-multiple-choice-gaps/ | A2 English test 9 – Text with multiple-choice gaps | level a2
+--- QUIZ 866
+CONTEXT:
+Use of English Test – A2
+ Read the text and choose the correct answer for each gap.
+Q 7396 [gaps] The Glastonbury Festival is a big music festival. It is held at Michael Eavis’s farm 1 {1} the southwest of England on the last weekend in June. It is widely 2 {2} internationally, and many popular bands play there every year.  /  The festival is extremely popular. About 100,000 people attend it each time, and this number 3 {3} . When the tickets for the 2019 event 4 {4} on sale, they were all sold in just 36 minutes. But the organisers have to sell all the tickets 5 {5} avoid losing money. It costs about £40 million to put on the event each year, and the festival also donates £2 million annually to the charities it supports.  /  Farmer Michael Eavis 6 {6} his first festival in the 1970s after 7 {7} an open-air Led Zeppelin concert. He held festivals every few years until 1981. Since then, the festival 8 {8} place most years. 9 {9} , about every five years, there is a “fallow year” when the festival 10 {10} . This is to give the land, the local population, and organisers a break. 2018 was a fallow year, and 11 {11} a festival was planned for 2020, it was cancelled because of the covid pandemic.  /  The festival aims to encourage youth culture from around the world in all its forms, including music, theatre and creative arts. Thousands of people perform 12 {12} the festival each year, and many bands have released albums 13 {13} were recorded there. 14 {14} into the festival is not always easy. Transport and traffic are often problematic, and there are often long queues. But once inside, people enter an alternative world with different social rules. It’s a dirty, friendly, wild event which is loved 15 {15} people of all ages, nationalities, backgrounds and musical tastes.
+  {1} options: in | on | at
+  {2} options: know | known | knew
+  {3} options: still increases | have still increased | is still increasing
+  {4} options: have gone | went | had gone
+  {5} options: so | to | for
+  {6} options: was hosted | hosted | has hosted
+  {7} options: he was seeing | seen | seeing
+  {8} options: takes | was taken | has taken
+  {9} options: Although | Since | However
+  {10} options: isn't organised | hasn't organised | doesn't organise
+  {11} options: although | however | if
+  {12} options: at | on | in
+  {13} options: that | what | who
+  {14} options: Getting | Get | Have got
+  {15} options: by | for | of
+
+=== PAGE /grammar-points/a2/phrasal-verbs-transitive-and-intransitive-separable-and-inseparable/ | Phrasal verbs: Transitive/intransitive, separable/inseparable | level a2
+--- QUIZ 864
+CONTEXT:
+Phrasal verbs: Transitive and intransitive, separable and inseparable
+ Exercise 1
+ Choose the correct phrasal verb forms to complete the sentences below.
+Q 7376 [radio] I'm really _____.
+ 12878) A. looking my holiday forward to
+ 12879) B. looking forward to my holiday
+ 12880) C. Both A and B are correct
+Q 7377 [radio] He _____ because he fell in love with another woman.
+ 12881) A. called the wedding off
+ 12882) B. called off the wedding
+ 12883) C. Both A and B are correct
+Q 7378 [radio] My shoes were uncomfortable, so I _____.
+ 12884) A. took off them
+ 12885) B. took them off
+ 12886) C. Both A and B are correct
+Q 7379 [radio] I helped Joe _____.
+ 12887) A. look for his keys
+ 12888) B. look his keys for
+ 12889) C. Both A and B are correct
+Q 7380 [radio] The teacher gave us a form and told us to _____.
+ 12890) A. fill in it
+ 12891) B. fill it in
+ 12892) C. Both A and B are correct
+Q 7381 [radio] She closed the door and _____.
+ 12893) A. turned up the music
+ 12894) B. turned the music up
+ 12895) C. Both A and B are correct
+Q 7382 [radio] I didn't know the meaning of the word, so I _____.
+ 12896) A. looked up it
+ 12897) B. looked it up
+ 12898) C. Both A and B are correct
+Q 7383 [radio] I have a good relationship with my cousins. I _____ very well.
+ 12899) A. get on them with
+ 12900) B. get on with them
+ 12901) C. Both A and B are correct
+Q 7384 [radio] The food didn't smell good, so I _____.
+ 12902) A. threw it away
+ 12903) B. threw away it
+ 12904) C. Both A and B are correct
+Q 7385 [radio] As soon as I left the classroom, I _____.
+ 12905) A. turned my phone on
+ 12906) B. turned on my phone
+ 12907) C. Both A and B are correct
+
+=== PAGE /grammar-points/a2/phrasal-verbs-transitive-and-intransitive-separable-and-inseparable/ | Phrasal verbs: Transitive/intransitive, separable/inseparable | level a2
+--- QUIZ 863
+CONTEXT:
+Phrasal verbs: Transitive and intransitive, separable and inseparable
+ Exercise 2
+ Choose the correct verb forms for the gaps below.
+Q 7366 [gaps] Judy {1} and pushed her chair under the table.
+  {1} options: stood it up | stood up it | stood up
+Q 7367 [gaps] I finished the apple, then I {1} .
+  {1} options: threw away it | threw away | threw it away
+Q 7368 [gaps] A: "And your phone?" B: "I am {1} ."
+  {1} options: looking for it | looking it for | looking my phone for
+Q 7369 [gaps] He gave me his number, and I {1} .
+  {1} options: wrote down it | wrote it down | wrote down
+Q 7370 [gaps] Anna {1} .
+  {1} options: takes the children care of | takes care of the children | takes them care of
+Q 7371 [gaps] I really like these shoes. Is it okay if I {1} ?
+  {1} options: try them on | try on them | try on
+Q 7372 [gaps] The price of gas has {1} a lot recently.
+  {1} options: gone up | gone it up | gone up it
+Q 7373 [gaps] I {1} .
+  {1} options: took off them | took off | took off my shoes
+Q 7374 [gaps] Cara is our babysitter. She {1} .
+  {1} options: looks us after | looks after | looks after us
+Q 7375 [gaps] I {1} .
+  {1} options: turned on it | turned on the radio | it turned on
+
+=== PAGE /grammar-points/a2/phrasal-verbs-transitive-and-intransitive-separable-and-inseparable/ | Phrasal verbs: Transitive/intransitive, separable/inseparable | level a2
+--- QUIZ 865
+CONTEXT:
+Phrasal verbs: Transitive and intransitive, separable and inseparable
+ Exercise 3
+ Fill in the gaps with the phrasal verb in brackets in the present or past simple. Use an OBJECT PRONOUN IF NECESSARY.
+ EXAMPLE: The light is on. Please turn it off when you leave. (turn off)
+Q 7386 [gaps] Before buying those shoes, you should really {1} . (try on)
+  {1} free text
+Q 7387 [gaps] At the end of the show, the audience {1} and clapped. (stand up)
+  {1} free text
+Q 7388 [gaps] I dropped the pencil on the floor, then I {1} . (pick up)
+  {1} free text
+Q 7389 [gaps] Jean has a granddaughter. She {1} every Saturday morning. (look after)
+  {1} free text
+Q 7390 [gaps] I hope to be much taller when I {1} . (grow up)
+  {1} free text
+Q 7391 [gaps] I took my jeans out of the wardrobe, then I {1} . (put on)
+  {1} free text
+Q 7392 [gaps] After losing my bag, I {1} everywhere, but I couldn't find it. (look for)
+  {1} free text
+Q 7393 [gaps] If I forget milk out of the fridge for a few hours, I always {1} . (throw away)
+  {1} free text
+Q 7394 [gaps] I walked over to the sofa, then I {1} . (sit down)
+  {1} free text
+Q 7395 [gaps] When we discovered that the gold was missing, we {1} for hours. (search for)
+  {1} free text
+
+=== PAGE /reading/b1-b2/scamming-the-scammers-b1-english-reading-test/ | Scamming the Scammers – B1+ English Reading Test | level b1-b2
+--- QUIZ 861
+CONTEXT:
+B1+ English Reading Test
+ Read the text about scammers and for questions 1 to 6, choose the correct answers.
+ Scamming the Scammers
+ Tiffany Wilson is a scambaiter; that is, she spends time communicating with scammers in order to catch them out. Here she tells her story. 
+ ‘I first got into scambaiting when my grandmother got tempted into adopting a puppy. She’d seen some pictures of cute puppies on social media, along with a text saying that they were going to get killed unless someone adopted them. Fortunately, I warned her before it was too late. Scammers attract people with bargain prices, so she didn’t lose much. It isn’t until later, when people have fallen in love with their puppy, that the scammers start demanding huge amounts of money. We tried to get the money back from the bank, but that wasn’t possible. 
+ ‘I was already familiar with the puppy scam then. We’d learnt about scamming during internet safety classes at school, though I heard about the puppy scam elsewhere. It was mentioned in an online video about the different ways scammers get money out of people. I think my generation knows much more about scamming than older people. It’s occasionally mentioned in the kinds of news articles my grandma reads, but people my age who see loads of scambaiting videos have a much better idea of how common scamming is and the tactics that are used. 
+ ‘Scambaiting involves engaging scammers in conversation. When they ask you to do something, you act a little stupid by asking lots of questions or making mistakes. It’s frustrating for them, but they stay on the line patiently because they think they will get money out of you. I don’t think you can be a scambaiter unless you are pretty sociable, as you have to talk to people for a long time. Most scambaiters put videos of their calls online, and the popular ones are very funny. 
+ ‘I scambait first and foremost because I want to help people recognise scams, and although most viewers of my videos are young, I’m sure the content they learn passes on to other family members. It’d be nice if I actually helped to get a scammer arrested, but there are just too many scammers for police to deal with. But as long as I am wasting a scammer’s time, that person can’t be scamming someone else. I also get a bit of income from the adverts that go out on my videos. 
+ ‘Some scambaiters go too far, though, when creating entertainment by punishing the scammers. I saw one video in which the scambaiter convinced a scammer that he had a well-paid job for him in Lagos. The guy used all his money to travel to the capital of Nigeria, and when he got there, there was nothing for him. For the scambaiter and the viewers, that was all a big joke. For that poor guy in Africa who was trying to earn a living by any means, it was a real situation and it could have been dangerous. 
+ ‘I’m aware that scambaiting doesn’t promote good international relationships. The most popular of my videos are the ones that make the scammers look foolish, and I’m forever deleting racist comments. I know that a lot of scammers are really poor. They believe that all Westerners are rich and that scamming them does little harm. I’ve tried to convince scammers to get a more responsible job, but I haven’t had any luck yet, as they have few employment opportunities. But I hope the conversations I have with them go some way in helping people understand the lives of people in poor countries and the things they have to do for cash.’ 
+ Questions
+Q 7354 [radio] Tiffany’s grandmother...
+ 12836) A. paid a small amount of money to scammers.
+ 12837) B. didn’t pay any money to scammers.
+ 12838) C. lost a lot of money to scammers.
+ 12839) D. paid a lot of money to scammers but was later refunded.
+Q 7355 [radio] How did Tiffany find out about the puppy scam?
+ 12840) A. From an internet safety class at school.
+ 12841) B. From a video that was made by a scambaiter.
+ 12842) C. From an online source.
+ 12843) D. From a news article her grandmother read.
+Q 7356 [radio] According to Tiffany, all scambaiters need to be...
+ 12844) A. good actors
+ 12845) B. patient
+ 12846) C. not good at technology
+ 12847) D. sociable
+Q 7357 [radio] Which one is NOT a reason why Tiffany scambaits?
+ 12848) A. To educate people.
+ 12849) B. To help police catch scammers.
+ 12850) C. To waste scammers’ time.
+ 12851) D. To earn money.
+Q 7358 [radio] What behaviour by a scambaiter did Tiffany find particularly shocking?
+ 12852) A. A scambaiter stole money that the scammer had earned from scamming.
+ 12853) B. A scambaiter discovered a scammer’s address and travelled there to film him.
+ 12854) C. A scambaiter tricked the scammer into spending his money to get a fake job.
+ 12855) D. A scambaiter got the scammer a job in order to trick him.
+Q 7359 [radio] What is Tiffany currently trying to do on her videos?
+ 12856) A. Make scammers appear foolish.
+ 12857) B. To change scammers’ perceptions of Westerners.
+ 12858) C. Help scammers find other jobs.
+ 12859) D. Educate viewers about the lives of scammers.
+
+=== PAGE /writing/a2/how-to-write-an-application-letter-for-a-summer-job/ | How to write an application letter for a summer job – A2 English writing | level a2
+--- QUIZ 857
+CONTEXT:
+How to write an application letter for a summer job
+ Exercise 1
+ Choose the correct options to complete this application letter.
+Q 7329 [gaps] 1 {1} Sir|Madam, /  I would like to apply 2 {2} the role of customer service assistant, which I saw advertised on your website.  /  At the moment, I 3 {3} a student at Plymouth College, where I study Tourism Management, and I am keen 4 {4} work experience in the tourism industry.  /  I am 5 {5} for work between June 30th and September 12th, and I would be 6 {6} to work early in the morning or late at night. I am polite and friendly so I 7 {7} happy to work with customers and ensure they have a good time at your holiday park.  /  I am also adept 8 {8} with computers and I am good 9 {9} problem-solving. My work experience includes 10 {10} for the Students Entertainment Organisation at Plymouth College and working in a grocery store.  /  I 11 {11} the opportunity to meet you in person and discuss my application. I attach my curriculum vitae. /  Thank you for your 12 {12} .  /  Yours faithfully, /  Amelia Seymour
+  {1} options: Hi | Hey | Dear
+  {2} options: at | to | for
+  {3} options: was | am | would be
+  {4} options: gaining | gain | to gain
+  {5} options: available | willing | good
+  {6} options: willing | good | interested
+  {7} options: would be | will be | am
+  {8} options: at working | working | to work
+  {9} options: at | in | for
+  {10} options: volunteer | volunteering | to volunteer
+  {11} options: would welcome | am welcoming | welcome
+  {12} options: interest | consideration | application
+
+=== PAGE /writing/a2/how-to-write-an-application-letter-for-a-summer-job/ | How to write an application letter for a summer job – A2 English writing | level a2
+--- QUIZ 858
+CONTEXT:
+How to write an application letter for a summer job
+ Exercise 2
+ Choose the correct option to complete each sentence.
+Q 7330 [gaps] I read online that you are currently {1} .
+  {1} options: seeking kitchen assistants | for the position of gardener | volunteering for a local charity | to gain some work experience | at problem-solving | do manual labour | from July until September | happy to meet you for an interview
+Q 7331 [gaps] I am interested in applying {1} .
+  {1} options: happy to meet you for an interview | to gain some work experience | for the position of gardener | volunteering for a local charity | from July until September | at problem-solving | seeking kitchen assistants | do manual labour
+Q 7332 [gaps] I would be {1} .
+  {1} options: happy to meet you for an interview | do manual labour | at problem-solving | to gain some work experience | seeking kitchen assistants | for the position of gardener | from July until September | volunteering for a local charity
+Q 7333 [gaps] I am keen {1} .
+  {1} options: from July until September | happy to meet you for an interview | seeking kitchen assistants | at problem-solving | for the position of gardener | to gain some work experience | do manual labour | volunteering for a local charity
+Q 7334 [gaps] I would willingly {1} .
+  {1} options: volunteering for a local charity | from July until September | to gain some work experience | for the position of gardener | happy to meet you for an interview | do manual labour | seeking kitchen assistants | at problem-solving
+Q 7335 [gaps] My work experience includes {1} .
+  {1} options: for the position of gardener | to gain some work experience | do manual labour | happy to meet you for an interview | at problem-solving | from July until September | seeking kitchen assistants | volunteering for a local charity
+Q 7336 [gaps] I am available {1} .
+  {1} options: at problem-solving | from July until September | volunteering for a local charity | seeking kitchen assistants | do manual labour | for the position of gardener | happy to meet you for an interview | to gain some work experience
+Q 7337 [gaps] I am good {1} .
+  {1} options: to gain some work experience | from July until September | volunteering for a local charity | at problem-solving | happy to meet you for an interview | do manual labour | for the position of gardener | seeking kitchen assistants
+
+=== PAGE /writing/a2/how-to-write-an-application-letter-for-a-summer-job/ | How to write an application letter for a summer job – A2 English writing | level a2
+--- QUIZ 859
+CONTEXT:
+How to write an application letter for a summer job
+ Exercise 3
+ Choose the correct form of be.
+Q 7338 [gaps] I {1} currently a student at Holywell High School.
+  {1} options: am | would be
+Q 7343 [gaps] I {1} happy to meet you for an interview.
+  {1} options: would be | am
+Q 7339 [gaps] I {1} good at repairing computers.
+  {1} options: am | would be
+Q 7340 [gaps] I {1} friendly and polite.
+  {1} options: am | would be
+Q 7344 [gaps] I {1} happy to work early in the morning or late at night.
+  {1} options: am | would be
+Q 7341 [gaps] I {1} available from the end of June.
+  {1} options: would be | am
+Q 7345 [gaps] I {1} willing to do indoor or outdoor tasks.
+  {1} options: am | would be
+Q 7342 [gaps] I {1} interested in the role of customer service assistant.
+  {1} options: am | would be
+
+=== PAGE /writing/a2/how-to-write-an-application-letter-for-a-summer-job/ | How to write an application letter for a summer job – A2 English writing | level a2
+--- QUIZ 860
+CONTEXT:
+How to write an application letter for a summer job
+ Exercise 4
+ Write the verb in brackets in the correct form.
+Q 7346 [gaps] I’m good at {1} with computers. (work)
+  {1} free text
+Q 7347 [gaps] I am interested in {1} for this position. (apply)
+  {1} free text
+Q 7348 [gaps] I would be willing {1} at night. (work)
+  {1} free text
+Q 7349 [gaps] My work experience includes {1} at a children’s holiday club. (volunteer)
+  {1} free text
+Q 7350 [gaps] I would be happy to do outdoor jobs such as {1} the site tidy. (keep)
+  {1} free text
+Q 7351 [gaps] I am keen {1} experience in customer service. (gain)
+  {1} free text
+Q 7352 [gaps] I would willingly {1} weekends. (work)
+  {1} free text
+Q 7353 [gaps] I am adept at {1} problems. (solve)
+  {1} free text
+
+=== PAGE /use-of-english/b2/b2-english-test-8-multiple-choice-questions/ | B2 English test 8 – multiple choice questions | level b2
+--- QUIZ 838
+CONTEXT:
+Use of English Test – B2
+ For the following questions (1 to 15), choose a, b, c, or d.
+Q 7162 [radio] The images were blurred, and _____, the suspect could not be identified.
+ 12552) A. therefore
+ 12553) B. since
+ 12554) C. however
+ 12555) D. in case
+Q 7315 [radio] _____ used to be a library opposite my house. _____ was nice to have a library so close.
+ 12780) A. There / There
+ 12781) B. There / It
+ 12782) C. It / There
+ 12783) D. It / It
+Q 7316 [radio] He will probably become a much better player in the future; _____, he is only 21.
+ 12784) A. incidentally
+ 12785) B. in other words
+ 12786) C. otherwise
+ 12787) D. after all
+Q 7317 [radio] _____ tolerate censorship in academic settings.
+ 12788) A. Never we should
+ 12789) B. No way we should
+ 12790) C. Under no circumstances should we
+ 12791) D. On no account we should
+Q 7318 [radio] They left last year but we all wish they _____ that.
+ 12792) A. hadn't done
+ 12793) B. didn't do
+ 12794) C. wouldn't do
+ 12795) D. wouldn't have done
+Q 7319 [radio] Jannet has been vision-impaired since she was born, but that hasn't stopped _____ her dreams.
+ 12796) A. her to achieve
+ 12797) B. that she achieves
+ 12798) C. her achieve
+ 12799) D. her achieving
+Q 7320 [radio] If we _____ earlier, none of this would have happened.
+ 12800) A. would know
+ 12801) B. 'd known
+ 12802) C. would have known
+ 12803) D. knew
+Q 7321 [radio] After the match, the striker was clearly angry at _____.
+ 12804) A. having substituted
+ 12805) B. be substituted
+ 12806) C. being substituted
+ 12807) D. substituting
+Q 7322 [radio] The new stadium is _____ to open by the end of next year.
+ 12808) A. due
+ 12809) B. about
+ 12810) C. on the brink
+ 12811) D. on the point
+Q 7323 [radio] I _____ call him when I realised that I needed to tell him in person.
+ 12812) A. would
+ 12813) B. was going to
+ 12814) C. will
+ 12815) D. 'm going to
+Q 7324 [radio] _____ who uncovered the truth.
+ 12816) A. He was Tom
+ 12817) B. Tom it was
+ 12818) C. It was Tom
+ 12819) D. The person was Tom
+Q 7325 [radio] The film follows six recent university graduates, _____ lives are interconnected, as they struggle to get their first job.
+ 12820) A. whom their
+ 12821) B. whose their
+ 12822) C. all of whom
+ 12823) D. all of whose
+Q 7326 [radio] _____ with beer, fruits can lead to a spike in blood sugar levels.
+ 12824) A. Combining them
+ 12825) B. Combining
+ 12826) C. Combined
+ 12827) D. Combined they
+Q 7327 [radio] _____ as a bonus for winning the World Championship.
+ 12828) A. He was given a Ferrari
+ 12829) B. A Ferrari was given him
+ 12830) C. They were given a Ferrari to him
+ 12831) D. A Ferrari gave him
+Q 7328 [radio] It is required to give _____ notice before deleting any name from the list.
+ 12832) A. ten-days
+ 12833) B. ten days
+ 12834) C. ten day's
+ 12835) D. ten days'
+
+=== PAGE /grammar-points/b1-b2/pretty-rather-quite-fairly-intensifiers/ | Pretty, rather, quite, fairly: Adverbs of degree | level b1-b2
+--- QUIZ 853
+CONTEXT:
+Pretty, rather, quite, fairly
+ Exercise 1
+ Complete the sentences with pretty, rather, quite, or fairly.
+Q 7278 [gaps] {1} a few customers had complained about the terrible service.
+  {1} options: Quite | Fairly | Pretty
+Q 7279 [gaps] These shoes are {1} uncomfortable. I can't wait to take them off.
+  {1} options: rather | pretty | fairly
+Q 7280 [gaps] "How was the play?" " {1} good. It certainly wasn't the best I've seen, though."
+  {1} options: Fairly | Pretty | Rather
+Q 7281 [gaps] Dinner is not {1} ready. It will be soon, though.
+  {1} options: fairly | pretty | quite
+Q 7282 [gaps] I was {1} hoping you'd offer to help us.
+  {1} options: pretty | fairly | rather
+Q 7283 [gaps] Hey, that's {1} good! I didn't know you could draw.
+  {1} options: pretty | fairly | rather a
+Q 7284 [gaps] He told us {1} a funny joke on the way home from school.
+  {1} options: quite | pretty | fairly
+Q 7285 [gaps] Tom did {1} well in the test, though he could have done better.
+  {1} options: pretty | rather | fairly
+Q 7286 [gaps] We live {1} close to the school, so we don't need to take the bus.
+  {1} options: pretty | quite a | rather
+Q 7287 [gaps] The meal was {1} a disappointment.
+  {1} options: pretty | rather | fairly
+
+=== PAGE /grammar-points/b1-b2/pretty-rather-quite-fairly-intensifiers/ | Pretty, rather, quite, fairly: Adverbs of degree | level b1-b2
+--- QUIZ 854
+CONTEXT:
+Pretty, rather, quite, fairly
+ Exercise 2
+ Choose the most suitable expressions to complete these sentences.
+Q 7295 [radio] I'm not _____ sure I heard you properly. Can you repeat that?
+ 12750) A. rather
+ 12751) B. quite
+ 12752) C. pretty
+Q 7296 [radio] I _____ think you should reconsider before making a final decision.
+ 12753) A. rather
+ 12754) B. fairly
+ 12755) C. pretty
+Q 7297 [radio] He can play the piano _____ well. He's still not particularly good, though.
+ 12756) A. rather
+ 12757) B. fairly
+ 12758) C. pretty
+Q 7298 [radio] We'd had a _____ busy week and all of us were tired.
+ 12759) A. quite
+ 12760) B. fairly
+ 12761) C. pretty
+Q 7299 [radio] _____ a lot of rain had fallen, and many areas were flooded.
+ 12762) A. Quite
+ 12763) B. Pretty
+ 12764) C. Fairly
+Q 7300 [radio] The meat was _____ tough and difficult to swallow.
+ 12765) A. fairly
+ 12766) B. rather
+ 12767) C. pretty
+Q 7301 [radio] They get along _____ well these days. They'll never be best friends again, though.
+ 12768) A. fairly
+ 12769) B. pretty
+ 12770) C. rather
+Q 7302 [radio] I _____ like her new hair colour. I might try it on my own hair.
+ 12771) A. fairly
+ 12772) B. quite
+ 12773) C. pretty
+Q 7303 [checkbox, pick 2] The exam was _____ easy. Nobody had any problems with it. Choose TWO correct answers
+ 12774) A. fairly
+ 12775) B. quite
+ 12776) C. pretty
+Q 7304 [radio] I'm not _____ sure what the answer is. Can you help me?
+ 12777) A. quite
+ 12778) B. rather
+ 12779) C. fairly
+
+=== PAGE /grammar-points/b1-b2/pretty-rather-quite-fairly-intensifiers/ | Pretty, rather, quite, fairly: Adverbs of degree | level b1-b2
+--- QUIZ 855
+CONTEXT:
+Pretty, rather, quite, fairly
+ Exercise 3
+ Fill in each gap with the most suitable option: pretty, rather, quite, or fairly.
+ EXAMPLE: She is quite a character.
+Q 7305 [gaps] Sam had put on {1} a bit of weight, so all his clothes were very tight.
+  {1} free text
+Q 7306 [gaps] It took a {1} long time for our meal to arrive.
+  {1} free text
+Q 7313 [gaps] When we arrived, he was {1} dead.
+  {1} free text
+Q 7307 [gaps] The child is {1} good at reading, though he does need a lot of help.
+  {1} free text
+Q 7308 [gaps] It was {1} obvious to everyone that Peter was lying.
+  {1} free text
+Q 7309 [gaps] I {1} like listening to classical music. I find it very relaxing.
+  {1} free text
+Q 7310 [gaps] I {1} think you should read the contract carefully before signing it.
+  {1} free text
+Q 7314 [gaps] I'm {1} sure this is his house because I've been here several times before.
+  {1} free text
+Q 7311 [gaps] We know them {1} well, but we've never really spoken.
+  {1} free text
+Q 7312 [gaps] Jenny is not {1} ready yet. She'll be in a few minutes.
+  {1} free text
+
+=== PAGE /reading/b1-b2/binge-watching-b1-b2-reading-test/ | Binge-watching – B1+ English Reading Test | level b1-b2
+--- QUIZ 852
+CONTEXT:
+B1+ English Reading Test
+ Read the text about binge-watching and for questions 1 to 6, choose the correct answers.
+ Binge-watching
+ Binge-watching has become a popular way of consuming television and movie content, with streaming services making it easier than ever to marathon entire seasons or movie franchises in a single sitting. With the growing number of original series and the convenience of on-demand viewing, binge-watching has transformed how we watch television and has become a ubiquitous part of popular culture.
+ This week, we wanted to provide a unique look into the different experiences and perspectives on binge-watching within families. So, we talked to various members of the Evans family to discuss their habits and attitudes towards this trend.
+ 13-year-old Amelia admits to being a huge binge-watcher. She says, ‘For me, it’s an important part of fitting in. My friend Denise isn’t allowed to watch loads of television at home, and that makes joining in conversations really hard’. So now, Denise comes to the Evans house to binge-watch. Amelia admits that she doesn’t do much besides watching films and series. Once keen on ballet, she gave that up years ago and hasn’t picked up anything else since. However, Amelia knows that her grades at school are crucial in determining her ability to continue her TV-viewing habits.
+ Her mother, Karen, realises that Amelia is getting into a bad habit, but hasn’t done anything about it. ‘If I stopped her, then I would have to cut down on the amount that I watch to set a good example, and to be honest, I don’t want to,’ she says. ‘After a hard day doing work and chores, who doesn’t love chilling out for a few hours with some episodes of a good drama? Besides, it’s not like I could do anything else instead, like join an evening class. I rarely get a chance to sit down before eight o’clock’. 
+ Kyle, aged 17, usually has a video playing in his room. ‘I wouldn’t call myself a binge-watcher, though,’ he says. ‘I’m not one of those people who watch all the latest series as soon as they are released. For me, it’s just background noise while I’m getting on with my hobbies. I just let it play whatever comes up next. I’ve seen all sorts of interesting stuff that I’d never choose for myself. I once saw a guy teaching how to cut up different fish. That was really cool.’
+ Father, Rob, sees it in financial terms. ‘The monthly fee for streaming services is quite expensive, but in terms of the amount of entertainment we get, it’s good value. And the more you watch, the cheaper it gets. It’s much less than going out to the cinema, and everyone can watch whatever they like. Plus, even though movies or series are often bad, you can just switch to something else. Some of my friends have stopped paying for streaming services recently, saying they’re too expensive. That’s their loss’. 
+ Rob’s mother, Gill, is less enthusiastic, despite once enjoying watching back-to-back episodes of her favourite classic drama while bedridden due to illness. ‘I remember having to wait a whole week for the next episode of that series to come out,’ she says. ‘And months for the next series. You got the excitement of wondering what was going to happen next. Nowadays, you get everything as soon as you want it, not like old-fashioned TV, and I think you lose something as a result’. 
+ Meanwhile, Karen’s brother Kevin is interested in the intelligent design of streaming platforms. ‘They make recommendations based on what you’ve enjoyed, and often the recommendations are right up your street, so I guess that encourages binge-watching. Some people say that this limits what you watch. I’m not sure I agree, though. As a sci-fi fan, live-streaming services have introduced me to some great foreign and low-budget movies and series that I wouldn’t have known about. I’m sure that up-and-coming filmmakers worldwide are benefiting from that promotion.’ 
+ Questions
+Q 7272 [radio] Which of the following has resulted from Amelia's binge-watching habit?
+ 12705) A. She has poor conversation skills.
+ 12706) B. She does not have any hobbies.
+ 12707) C. She has problems fitting in.
+ 12708) D. She has improved her grades at school.
+Q 7273 [radio] What is Karen’s attitude to watching series on television?
+ 12709) A. She'll try to watch less television, to set a good example.
+ 12710) B. She watches television before eight.
+ 12711) C. She watches a lot of television as a way to relax.
+ 12712) D. She plans to do an evening class to reduce television time.
+Q 7274 [radio] What does Kyle enjoy watching?
+ 12713) A. Series, although not the most recent ones.
+ 12714) B. Instructional videos related to his hobbies and interests.
+ 12715) C. Videos that he didn’t pick himself.
+ 12716) D. Programmes that his friends have recommended.
+Q 7275 [radio] What does Rob think about streaming services?
+ 12717) A. They are well worth the money if you are a binge-watcher.
+ 12718) B. They aren’t as enjoyable as going out to the cinema.
+ 12719) C. They aren’t worth it because the movies and series are often bad.
+ 12720) D. He may stop paying for them soon because they are too expensive.
+Q 7276 [radio] Gill thinks that binge-watching...
+ 12721) A. is good entertainment for people with long-term illnesses.
+ 12722) B. is better, as you don’t have to wait to find out what happens.
+ 12723) C. results in people wasting a lot of their time.
+ 12724) D. prevents people from enjoying a sense of expectation.
+Q 7277 [radio] Kevin feels that live streaming platforms...
+ 12725) A. only recommend videos that they is trying to promote.
+ 12726) B. prevent people from watching a wide range of videos.
+ 12727) C. are helping people new to the film industry to get attention.
+ 12728) D. aren’t very good at recommending things to watch.
+
+=== PAGE /writing/a1/how-to-write-a-personal-profile-a1-english-writing/ | How to write a personal profile – A1 English writing | level a1
+--- QUIZ 849
+CONTEXT:
+How to write a personal profile 
+ Exercise 1
+ Complete the text with the correct options.
+Q 7253 [gaps] Hi! My name’s Rebecca. Let me tell you about myself! I’m quite short and I 1 {1} a bit fat, because I love fast food! I 2 {2} long, brown hair, green eyes and I 3 {3} glasses.  /  I’m 4 {4} quiet. I’m 5 {5} very sociable. I’m a little sensitive. I get upset when people 6 {6} angry with me. I’m also patient and I try to be kind!  /  For my hobbies, 7 {7} really like reading. 8 {8} favourite kind of book is historical stories. I sometimes 9 {9} stories and poems too. I 10 {10} like sports much. I hate games like basketball, football and hockey because 11 {11} a fast runner. I’m good 12 {12} cooking. I love 13 {13} cakes and I enjoy 14 {14} them too! I also like drawing, but I can’t paint very 15 {15} .  /  Tell me about yourself!
+  {1} options: have | ‘m | are
+  {2} options: am | got | have
+  {3} options: carry | wear | am
+  {4} options: bit | quite | some
+  {5} options: don’t | no | not
+  {6} options: are | have | is
+  {7} options: I | I’m | I’ve
+  {8} options: I’m | My | I
+  {9} options: writes | writing | write
+  {10} options: don't | not | no
+  {11} options: I can’t | I’m not | I don’t
+  {12} options: at | with | in
+  {13} options: making | makes | make
+  {14} options: eating | to eat | eat
+  {15} options: good | well | nice
+
+=== PAGE /writing/a1/how-to-write-a-personal-profile-a1-english-writing/ | How to write a personal profile – A1 English writing | level a1
+--- QUIZ 850
+CONTEXT:
+How to write a personal profile 
+ Exercise 2
+ Choose the correct option to complete each sentence.
+Q 7254 [gaps] I {1} short hair.
+  {1} options: have | am | can
+Q 7255 [gaps] I am good {1} singing.
+  {1} options: with | at | in
+Q 7256 [gaps] I can play basketball {1} .
+  {1} options: well | good | very good
+Q 7257 [gaps] I’m not {1} tall.
+  {1} options: very | quite | bit
+Q 7258 [gaps] I have a {1} .
+  {1} options: slim | brown hair | beard
+Q 7259 [gaps] I {1} glasses.
+  {1} options: can | am | wear
+Q 7260 [gaps] I like {1} the guitar.
+  {1} options: plays | play | playing
+Q 7261 [gaps] I’m a {1} impatient.
+  {1} options: very | well | bit
+Q 7262 [gaps] I {1} angry when people are late.
+  {1} options: can | get | have
+Q 7263 [gaps] I’ve got {1} moustache.
+  {1} options: the | a | -
+
+=== PAGE /writing/a1/how-to-write-a-personal-profile-a1-english-writing/ | How to write a personal profile – A1 English writing | level a1
+--- QUIZ 851
+CONTEXT:
+How to write a personal profile 
+ Exercise 3
+ Complete the negative form of the sentences. USE SHORT FORMS.
+ EXAMPLE: I’m tall ⇒ I ‘m not tall.
+Q 7264 [gaps] I can play basketball well. ⇒ I {1} basketball well.
+  {1} free text
+Q 7269 [gaps] I like singing. ⇒ I {1} singing.
+  {1} free text
+Q 7266 [gaps] I have got freckles. ⇒ I {1} freckles.
+  {1} free text
+Q 7267 [gaps] I wear glasses. ⇒ I {1} glasses.
+  {1} free text
+Q 7265 [gaps] I’m very good at cooking. ⇒ I {1} very good at cooking.
+  {1} free text
+Q 7268 [gaps] I have a beard. ⇒ I {1} a beard.
+  {1} free text
+Q 7271 [gaps] I can speak French. ⇒ I {1} French.
+  {1} free text
+Q 7270 [gaps] I’m shy. ⇒ I {1} shy.
+  {1} free text
+
+=== PAGE /use-of-english/b1-b2/b1-b2-english-test-8-multiple-choice-questions/ | B1+ English test 8 – multiple choice questions | level b1-b2
+--- QUIZ 837
+CONTEXT:
+Use of English Test – B1+
+ For the following questions (1 to 15), choose a, b, c, or d.
+Q 7161 [radio] I'd like to know when _____.
+ 12548) A. will he arrive
+ 12549) B. is he arriving
+ 12550) C. he will arrive
+ 12551) D. does he arrive
+Q 7239 [radio] We need to stop and rest. I am very tired and _____.
+ 12649) A. so are you
+ 12650) B. so you are
+ 12651) C. you do too
+ 12652) D. so do you
+Q 7240 [radio] She is a true winner. _____ there is, the better she performs.
+ 12653) A. As more pressure
+ 12654) B. The most pressure
+ 12655) C. More pressure
+ 12656) D. The more pressure
+Q 7241 [radio] I _____ dinner, but I haven't finished yet.
+ 12657) A. have cooked
+ 12658) B. 've been cooking
+ 12659) C. cook
+ 12660) D. am cooking
+Q 7242 [radio] Research shows that winter weather can bring depression to _____.
+ 12661) A. the elderly people
+ 12662) B. the elderly
+ 12663) C. the olders
+ 12664) D. the old people
+Q 7243 [radio] Which sentence is correct?
+ 12665) A. I don't read the newspaper usually in the library at weekends.
+ 12666) B. I don't read the newspaper in the library usually at weekends.
+ 12667) C. I don't usually read the newspaper in the library at weekends.
+ 12668) D. I don't usually read the newspaper at weekends in the library.
+Q 7244 [radio] I'll call you as soon as I _____.
+ 12669) A. finished
+ 12670) B. will finish
+ 12671) C. will have finished
+ 12672) D. have finished
+Q 7245 [radio] If it wasn't raining, we _____ on the beach right now.
+ 12673) A. 'd be
+ 12674) B. would have been
+ 12675) C. had been
+ 12676) D. were
+Q 7246 [radio] He _____ so much attention.
+ 12677) A. 's not used to getting
+ 12678) B. doesn't use to get
+ 12679) C. 's not used to get
+ 12680) D. 's got used to get
+Q 7247 [radio] I can't help _____ about my son's future.
+ 12681) A. worry
+ 12682) B. to worry
+ 12683) C. worrying
+ 12684) D. to worrying
+Q 7248 [radio] You _____ let him drive. He had been drinking.
+ 12685) A. shouldn't
+ 12686) B. shouldn't have
+ 12687) C. must have
+ 12688) D. can't have
+Q 7252 [radio] I wish you _____ that. It's very annoying!
+ 12697) A. wouldn't do
+ 12698) B. didn't do
+ 12699) C. hadn't done
+ 12700) D. shouldn't do
+Q 7251 [radio] We can't go out because it's _____ raining heavily.
+ 12693) A. for
+ 12694) B. yet
+ 12695) C. already
+ 12696) D. still
+Q 7250 [radio] We watched TV _____ there wasn't anything good on.
+ 12701) A. although
+ 12702) B. despite
+ 12703) C. however
+ 12704) D. in spite of
+Q 7249 [radio] Experts warn that more pandemics _____ happen in the future.
+ 12689) A. definitely will
+ 12690) B. are sure
+ 12691) C. are bound to
+ 12692) D. are likely
+
+=== PAGE /exams/a2-key/a2-key-exam1-reading-writing/ | A2 Key – Exam 1 – Reading and Writing | level -
+--- QUIZ 806
+CONTEXT:
+Cambridge A2 Key (KET) – Exam 1 – Reading and Writing
+ This A2 Key complete practice test is designed to help you enhance your reading comprehension and writing skills through a variety of engaging and realistic tasks. You can also work on our Listening and Speaking parts to fully prepare for the Cambridge A2 KEY exam. Let’s get started!
+ Part 1 – Questions 1 to 6
+ For each question, choose the correct answer.
+Q 6946 [radio] Hi Jim, /  Can you meet me at 2 pm today? I’ll be in Classroom B at that time.  /  Thanks, /  Sarah
+ 12046) A. Sarah’s class starts at 2 pm.
+ 12047) B. Sarah wants to meet Jim this afternoon.
+ 12048) C. Jim’s teaching in Classroom B today.
+Q 6948 [radio] THE STARLETS /  The show begins this Saturday at 8 pm! /  Buy your tickets now online and save 10%!
+ 12052) A. You can buy tickets for the show only on Saturday.
+ 12053) B. You can buy tickets for the show at 8 pm.
+ 12054) C. It’s cheaper to buy tickets online.
+Q 6947 [radio] Hi Mark,  /  Sorry but I can’t meet you tomorrow at the restaurant.  /  Can you meet me Thursday instead? /  Thanks,  /  David
+ 12049) A. David can’t meet Mark because he’s going to a restaurant.
+ 12050) B. David wants to see his friend on Thursday.
+ 12051) C. David doesn’t want to meet at a restaurant.
+Q 6949 [radio] SALE! /  All tables and chairs on sale now until next Friday. /  Tables are $99 /  Chairs are $89
+ 12055) A. There is free furniture until Friday.
+ 12056) B. The furniture sale starts on Friday.
+ 12057) C. Chairs are cheaper than tables.
+Q 6950 [radio] Hello Mr. Matthews, /  Sorry I missed our class today.  /  Can you please send me the homework? I will do it this evening.  /  Thanks,  /  Henry
+ 12058) A. Henry didn’t come to class today.
+ 12059) B. Henry is sorry he didn’t do the homework.
+ 12060) C. Henry wants to meet Mr. Matthews this evening.
+Q 6951 [radio] DO NOT ENTER  /  Please enter the building through Door 5. /  Door 3 is closed until 1 pm.
+ 12061) A. Door 5 will open at 1 pm.
+ 12062) B. Door 5 is now open.
+ 12063) C. Door 3 will be closed in the afternoon.
+
+=== PAGE /exams/a2-key/a2-key-exam1-reading-writing/ | A2 Key – Exam 1 – Reading and Writing | level -
+--- QUIZ 807
+CONTEXT:
+Cambridge A2 Key (KET) – Exam 1 – Reading and Writing
+ Part 2 – Questions 7 to 13
+ Read the text and for each question, choose the correct answer.
+ New students at The National University 
+ Mike
+ I’m a new student in the business department. I have 15 classes every week, but I have lots of homework. I love the course! Mr. Morash is a great teacher and Dr. Denman is good too. In the evenings, I work at a bike shop, about 20 hours every week. In my free time, I like riding my bike, walking in the mountains and meeting friends. 
+ Christy
+ My name is Christy McHugh, and I’m a first-year student of science. I study biology and chemistry. I prefer biology and I want to be a doctor. I have many classes: 30 classes per week, and I also have a lot of work. It’s difficult sometimes. When I’m not in school, I like to be with my family. I still live in my parents’ house, and we have a dog called Snooky. I love cats, dogs and horses.
+ Dave
+ Hi! I’m Dave and I’m a student of music. I started playing the piano at the age of six, and then, I learned the guitar and violin. My parents both play music. My dad plays the guitar and my mother is a singer. I love the music department here at The National University. I have 20 hours of classes. One of my teachers, Lyndsey Watkins, plays music on TV so it is great to learn from these teachers. I have no free time because I’m in a music group. I play concerts every week, but I like computers and making music online.
+ Questions
+Q 6952 [radio] 7 Which student likes cycling?
+ 12064) A. Mike
+ 12065) B. Christy
+ 12066) C. Dave
+Q 6953 [radio] 8 Which student has the most classes?
+ 12067) A. Mike
+ 12068) B. Christy
+ 12069) C. Dave
+Q 6954 [radio] 9 Which student has a job?
+ 12070) A. Mike
+ 12071) B. Christy
+ 12072) C. Dave
+Q 6955 [radio] 10 Which student plans to work in a hospital?
+ 12073) A. Mike
+ 12074) B. Christy
+ 12075) C. Dave
+Q 6956 [radio] 11 Which student plays in a band?
+ 12076) A. Mike
+ 12077) B. Christy
+ 12078) C. Dave
+Q 6957 [radio] 12 Which student loves animals?
+ 12079) A. Mike
+ 12080) B. Christy
+ 12081) C. Dave
+Q 6958 [radio] 13 Which student has a famous teacher?
+ 12082) A. Mike
+ 12083) B. Christy
+ 12084) C. Dave
+
+=== PAGE /exams/a2-key/a2-key-exam1-reading-writing/ | A2 Key – Exam 1 – Reading and Writing | level -
+--- QUIZ 808
+CONTEXT:
+Cambridge A2 Key (KET) – Exam 1 – Reading and Writing
+ Part 3 – Questions 14 to 18
+ Read the text and for each question, choose the correct answer.
+ Summer jobs for students
+ Are you free for the summer holidays? There are many different countries where you can work, make friends and practice your English!
+ Australia
+ Ozzie Jobz is a group that helps students get jobs in Australia.
+ There are many different jobs students can do in the summer months.
+ Lots of students enjoy working on farms. They can pick apples, kiwis and other fruit and they are paid for this work. The job is difficult but you can meet people and make friends. Students can also help families at home, work in gardens or get jobs in bars and pubs.
+ The United States
+ Student US is an organization that helps students find summer work in the United States. We arrange your student work visa and send you different job opportunities by email. Students can work in bars, restaurants and coffee shops in New York, Chicago and Los Angeles. We don’t help students to find apartments or hotels. Call or text us on 212-412-8598 for more information about summer jobs.
+ Europe
+ Would you like to know more about Europe? With Europe4You, you can travel and study at the same time. Students go to English classes in the morning and they do activities in the afternoon. Students visit the museums, do sports and visit the lake or beach by bus. At the weekend, students practice English with their host families. Everything is organized by Europe4You. 
+ Questions
+Q 6959 [radio] 14 Working on a farm in Australia is ...
+ 12085) A. not easy but a good way to meet people
+ 12086) B. easy but not well-paid
+ 12087) C. well-paid but not easy
+Q 6960 [radio] 15 How do students hear about jobs in the USA?
+ 12088) A. by text
+ 12089) B. by email
+ 12090) C. by phone
+Q 6961 [radio] 16 With Europe4You, when do students go to school?
+ 12091) A. In the morning.
+ 12092) B. In the afternoon.
+ 12093) C. At the weekends.
+Q 6962 [radio] 17 Which place needs a work visa which is organized for students?
+ 12094) A. Australia
+ 12095) B. The USA
+ 12096) C. Europe
+Q 6963 [radio] 18 Which group helps arrange a place to stay?
+ 12097) A. Ozzie Jobz.
+ 12098) B. Student US.
+ 12099) C. Europe4You.
+
+=== PAGE /exams/a2-key/a2-key-exam1-reading-writing/ | A2 Key – Exam 1 – Reading and Writing | level -
+--- QUIZ 809
+CONTEXT:
+Cambridge A2 Key (KET) – Exam 1 – Reading and Writing
+ Part 4 – Questions 19 to 24
+ Read the text and for each question, choose the correct answer.
+Q 6964 [gaps] Mother Teresa is a famous person in history. She was born in Europe in 1910. When she was eight years old, her father died. At the age of 18, she decided to 19 {1} the Sisters of Loreto. She studied English in Dublin, Ireland at Loreto Abbey to prepare for her job in India. She 20 {2} to teach, so she went to Darjeeling, India to work as a teacher. In 1931, she worked as the boss of a school in Calcutta. /  One day, she saw many very poor and sick people in India. She 21 {3} to help them. She opened a hospital and helped many of these sick people. There were 13 women working with her. She was often hungry with not 22 {4} money, but she was able to grow her hospital. In 1950, she started the Missionaries of Charity to 23 {5} the sick. Today, there are 4000 people working for this group. Over 60 years, Mother Teresa helped many, many people with problems. She 24 {6} the Nobel Peace Prize in 1979.
+  {1} options: teach | join | work
+  {2} options: could | wanted | must
+  {3} options: decided | discussed | thought
+  {4} options: some | any | much
+  {5} options: work | make | help
+  {6} options: took | had | received
+
+=== PAGE /exams/a2-key/a2-key-exam1-reading-writing/ | A2 Key – Exam 1 – Reading and Writing | level -
+--- QUIZ 810
+CONTEXT:
+Cambridge A2 Key (KET) – Exam 1 – Reading and Writing
+ Part 5 – Questions 25 to 30
+ Read the text and for each question, write the correct answer. Write ONE word for each gap.
+ EXAMPLE: 0 = Hi.
+Q 6965 [gaps] From: Clara /  To: Marcus /  0 Hi Marcus, /  How are you? 25 {1} weather here in Spain is very hot. 26 {2} the mornings, I go to my Spanish class with Mr. Iglesias. It’s very interesting. 27 {3} lunch-time, I go 28 {4} a restaurant with the other students. In the afternoons, we walk around the city of Barcelona. Yesterday, I went to the Gaudi Museum 29 {5} see famous paintings. We also went to a church by Gaudi. Spanish people 30 {6} very nice. They eat late in the evening, at around 9 pm. We are going to a Spanish tapas dinner tonight. /  Bye! /  Clara
+  {1} free text
+  {2} free text
+  {3} free text
+  {4} free text
+  {5} free text
+  {6} free text
+
+=== PAGE /grammar-points/b1-b2/neednt-dont-need-to-didnt-need-to-neednt-have/ | Needn’t, don’t need to, didn’t need to, needn’t have | level b1-b2
+--- QUIZ 845
+CONTEXT:
+Exercise 1
+ Choose the correct or more likely verb forms to complete the sentences below.
+Q 7203 [gaps] You {1} wine. It wasn't necessary. But, since it's here, we'll drink it.
+  {1} options: don't need to bring | didn't need bring | needn't have brought
+Q 7204 [gaps] Pensioners {1} to use public transport. It's free.
+  {1} options: don't need to pay | needn't have paid | needn't pay
+Q 7205 [gaps] We {1} up the pizza; we had it delivered at home.
+  {1} options: needn't pick | needn't have picked | didn't need to pick
+Q 7206 [gaps] You {1} the dishes. I'll do them later.
+  {1} options: needn't have done | needn't to do | don't need to do
+Q 7207 [gaps] Sixth form students {1} a uniform.
+  {1} options: don't need to wear | needn't have worn | needn't wear
+Q 7208 [gaps] You {1} me anything. That was kind of you.
+  {1} options: needn't buy | needn't have bought | don't need to buy
+Q 7209 [gaps] I {1} a taxi because Sam gave us a lift.
+  {1} options: don't need to take | didn't need to take | needn't have taken
+Q 7210 [gaps] You {1} to the shop. I've got everything I need.
+  {1} options: don't need go | needn't to go | needn't go
+Q 7211 [gaps] I {1} an umbrella, as it didn't rain.
+  {1} options: don't need to bring | needn't bring | needn't have brought
+Q 7212 [gaps] I {1} petrol as I had enough in the tank.
+  {1} options: didn't need to get | needn't have got | don't need to get
+
+=== PAGE /grammar-points/b1-b2/neednt-dont-need-to-didnt-need-to-neednt-have/ | Needn’t, don’t need to, didn’t need to, needn’t have | level b1-b2
+--- QUIZ 846
+CONTEXT:
+Exercise 2
+ Say which option is correct or more likely, A or B. When the two verb forms in A and B are equaly likely, choose option C.
+Q 7213 [radio] You _____ the rubbish outside. Just put it in a bag and leave it by the door.
+ 12601) A. needn't take
+ 12602) B. don't need to take
+ 12603) C. A and B are equally likely
+Q 7214 [radio] Students in possession of a doctor's certificate _____ part in the race.
+ 12604) A. don't need to take
+ 12605) B. needn't take
+ 12606) C. A and B are equally likely
+Q 7222 [radio] You _____ the dishes. I was going to do that tomorrow.
+ 12628) A. didn't need to wash
+ 12629) B. needn't have washed
+ 12630) C. A and B are equally likely
+Q 7215 [radio] The children _____ if they don't want to. They might get bored.
+ 12607) A. don't need to come
+ 12608) B. needn't come
+ 12609) C. A and B are equally likely
+Q 7218 [radio] We _____ a taxi. Graham gave us a lift.
+ 12616) A. needn't have taken
+ 12617) B. didn't need to take
+ 12618) C. A and B are equally likely
+Q 7216 [radio] I stayed in bed all day yesterday because I _____ to work.
+ 12610) A. needn't have gone
+ 12611) B. didn't need to go
+ 12612) C. A and B are equally likely
+Q 7217 [radio] You _____ me any breakfast. I'll get something on the way to work.
+ 12613) A. needn't make
+ 12614) B. don't need to make
+ 12615) C. A and B are equally likely
+Q 7221 [radio] I know you were worried, but you _____. I sent you a text saying I was OK.
+ 12625) A. didn't have to worry
+ 12626) B. needn't have worried
+ 12627) C. A and B are equally likely
+Q 7219 [radio] In most schools, students _____ wear uniforms.
+ 12619) A. needn't
+ 12620) B. don't need to
+ 12621) C. A and B are equally likely
+Q 7220 [radio] I _____ the appointment in the end, as I managed to reschedule it.
+ 12622) A. needn't have cancelled
+ 12623) B. didn't have to cancel
+ 12624) C. A and B are equally likely
+
+=== PAGE /grammar-points/b1-b2/neednt-dont-need-to-didnt-need-to-neednt-have/ | Needn’t, don’t need to, didn’t need to, needn’t have | level b1-b2
+--- QUIZ 847
+CONTEXT:
+Exercise 3
+ Complete the sentences using the verb in brackets with a suitable form of ‘need’.
+ EXAMPLE: We didn’t need to call the vet because the dog recovered. (call)
+Q 7229 [gaps] We {1} . We've got plenty of time. (hurry)
+  {1} free text
+Q 7230 [gaps] We {1} a table. The restaurant was completely empty. (book)
+  {1} free text
+Q 7231 [gaps] We {1} a babysitter because my sister offered to stay with the kids. (call)
+  {1} free text
+Q 7232 [gaps] You {1} my suitcase for me. It's not that heavy. (carry)
+  {1} free text
+Q 7233 [gaps] You {1} me dinner. I would have been fine with a sandwich. (cook)
+  {1} free text
+Q 7234 [gaps] I {1} for anything while I was there. All our meals were provided. (pay)
+  {1} free text
+Q 7235 [gaps] Children over the age of 4 {1} a car seat. (use)
+  {1} free text
+Q 7236 [gaps] You {1} any dinner for me. I had a huge lunch. (make)
+  {1} free text
+Q 7237 [gaps] We {1} the plumber because Gary managed to fix the tap himself. (call)
+  {1} free text
+Q 7238 [gaps] You {1} a new pen. You can borrow one of mine. (buy)
+  {1} free text
+
+=== PAGE /reading/b2/crypto-addicts-b2-reading-test/ | Crypto addicts – B2 English Reading Test | level b2
+--- QUIZ 844
+CONTEXT:
+B2 English Reading Test
+ Read an article about people who are addicted to trading cryptocurrency, and for questions 1 to 6, choose the correct answer.
+ Crypto addicts
+ Cryptocurrency trading has become very popular. By buying and selling different currencies, traders can make huge profits. However, trading addiction is becoming increasingly common. Here, addict Josh Johnson talks about his experience.
+ ‘I heard about cryptocurrencies years ago when Bitcoin first came out, but I can’t say I was intrigued from the start. Even when cryptocurrencies were mentioned more and more in the news and on social media, I didn’t pay much attention. It wasn’t until my friends started trading that I got into it. Seeing them earning loads of money overnight by doing practically nothing made me want to get in on it too. I’d been trading for a while by the time the pandemic started, but that was when the trouble started.
+ ‘It was crazy to begin with. My first investment quadrupled within a couple of weeks. I couldn’t believe it. It gave me a feeling of power, and I felt as if I could achieve anything. I poured more money in, and the same thing kept happening. Of course, it was all chance. I happened to put my money in before the currencies hit an all-time high. Then they plummeted. I was convinced they’d recover, so I kept pumping more money in. But what had worked before no longer did. I lost everything.
+ ‘Since getting help, I’ve thought about how I got addicted. There was a point when I had over three hundred thousand pounds. If I’d quit then, I could have bought the house that I had my heart set on. But rather than the money itself, it was the drama that hooked me. And winning didn’t give me as big a thrill as losing. You would think I’d feel devastated when money disappeared, but instead, I’d feel a new sense of purpose and drive to prove myself once again.
+ ‘Lots of people enjoy these highs and lows of trading without becoming addicts, so it’s hard to know when you’ve gone too far. Like with many addictions, crypto addicts become isolated and withdrawn and neglect their work. But I was off work and living by myself, so if those signs were there, they weren’t noticeable. For me, I missed the high when money ran out and I couldn’t trade, so I found it through drugs, and my sister found out. I’d been addicted to them in the past, and it got to the point of me lying and stealing from others. She didn’t want that to happen again, and she stepped in.
+ ‘There’s a worrying, rising trend in cryptocurrency trading addiction. It’s not surprising really, given the irresponsible advertising techniques which companies have used. I’m glad authorities are cracking down on those. But it concerns me that the apps send you notifications when you make money, inviting you to share your good news with others. But when you lose, you get nothing. It gives you a false sense that you are doing well. I think there should be rules that don’t allow that.
+ ‘Compared to traditional gambling, cryptocurrency trading is seen as socially acceptable. It’s something that smart but adventurous people do. And whereas a lot of gamblers play alone or against other people, trading is social. But this leads to a herd mentality, where people stop thinking things through for themselves. The companies make lots of information available to educate people about the risks of trading. It’s far easier, though, to act on a friend’s tip-off or hunch. All this means that people don’t realise that they are on a slippery slope until it’s gone too far.
+ Questions
+Q 7197 [radio] Josh started trading in cryptocurrencies...
+ 12577) A. when Bitcoin first came out.
+ 12578) B. after seeing it in the media.
+ 12579) C. influenced by his peers' success
+ 12580) D. while working from home during the pandemic.
+Q 7198 [radio] What was Josh’s experience while trading?
+ 12581) A. He immediately lost all the money he invested.
+ 12582) B. He made many small wins and slightly larger losses.
+ 12583) C. He made lots of money, lost it all and couldn’t regain it.
+ 12584) D. He recovered from big losses at first but later could not.
+Q 7199 [radio] Josh says that he kept gambling because...
+ 12585) A. he wanted enough money to buy a house.
+ 12586) B. he enjoyed the excitement of winning money.
+ 12587) C. he didn’t want to confess that he’d lost money.
+ 12588) D. he enjoyed the feeling he got when he lost money.
+Q 7200 [radio] For Josh, crypto currency trading became a problem when...
+ 12589) A. he stopped working and spending time with other people.
+ 12590) B. he started to sell drugs in order to fund his trading habit.
+ 12591) C. he returned to a different, former addiction.
+ 12592) D. he started telling lies and taking things from family remembers.
+Q 7201 [radio] Josh would like to see a change in the way that...
+ 12593) A. cryptocurrencies are advertised.
+ 12594) B. trading apps communicate with traders.
+ 12595) C. trading apps encourage sharing among friends.
+ 12596) D. cryptocurrency companies are regulated.
+Q 7202 [radio] Josh says that when people trade cryptocurrencies together in groups, ...
+ 12597) A. they tend not to consider their decisions thoroughly.
+ 12598) B. they learn and share more information and make better choices.
+ 12599) C. they are given special tips by the trading companies.
+ 12600) D. they become more socially accepted by their peers.
+
+=== PAGE /writing/b1-b2/how-to-write-an-apology-email-saying-sorry-to-your-friend/ | How to write an apology email – Saying sorry to your friend | level b1-b2
+--- QUIZ 839
+CONTEXT:
+Exercise 1
+ Complete the email with the correct words.
+Q 7163 [gaps] New Message  /  📩 To: Emily /  📌 Subject: I owe you an apology /  Dear Emily, /  Thanks for your letter and for your understanding. I also want to apologize 1 {1} so angry with you when you said you didn’t want to come to London. It was an 2 {2} thing to do. You have every right to decline invitations that don’t work for you. /  3 {3} be told, I have been so stressed with personal problems that I didn’t have time to think about plans for my birthday until the last minute. I assumed that, because you are self-employed, you 4 {4} able to alter your plans to fit around mine, but now I understand how 5 {5} for you when people expect you to do that. /  Also, I’ve always thought that you 6 {6} musicals. If I 7 {7} in advance that you had put the weekend aside for me, I 8 {8} you that I wasn’t available, and we could have made other plans. /  Next time, I’ll make plans for my birthday sooner. Sure, I’m happy to 9 {9} under this. 10 {10} we meet sometime in September? Let me know which dates are free for you. /  Lots of love, /  Sarah  /  Send
+  {1} options: for getting | that I would get | to get
+  {2} options: upset | annoyed | unreasonable
+  {3} options: Fair | Honest | Truth
+  {4} options: are | had been | would be
+  {5} options: annoying it is | annoying is it | annoyed is it
+  {6} options: had liked | would like | liked
+  {7} options: would have known | would know | had known
+  {8} options: would have told | had told | would tell
+  {9} options: draw a line | make amends | make up
+  {10} options: Must | Why don’t | When do
+
+=== PAGE /writing/b1-b2/how-to-write-an-apology-email-saying-sorry-to-your-friend/ | How to write an apology email – Saying sorry to your friend | level b1-b2
+--- QUIZ 840
+CONTEXT:
+Exercise 2
+ Choose the correct options to make useful expressions for apology emails.
+Q 7164 [gaps] I understand {1} I lost your phone.
+  {1} options: would have come | up to you | a line under this incident | wouldn’t want to come | be told | how angry you are that | fact is | found your reaction
+Q 7165 [gaps] I’d like to make it {1} .
+  {1} options: up to you | how angry you are that | wouldn’t want to come | a line under this incident | found your reaction | fact is | be told | would have come
+Q 7166 [gaps] Can we draw {1} ?
+  {1} options: up to you | fact is | wouldn’t want to come | would have come | be told | found your reaction | a line under this incident | how angry you are that
+Q 7167 [gaps] If I hadn’t been so busy, I {1} .
+  {1} options: wouldn’t want to come | fact is | up to you | how angry you are that | would have come | found your reaction | a line under this incident | be told
+Q 7168 [gaps] I assumed that you {1} to the jazz festival.
+  {1} options: be told | up to you | would have come | fact is | how angry you are that | a line under this incident | found your reaction | wouldn’t want to come
+Q 7169 [gaps] I {1} completely unacceptable.
+  {1} options: fact is | would have come | wouldn’t want to come | a line under this incident | how angry you are that | up to you | be told | found your reaction
+Q 7170 [gaps] The {1} I am really busy these days.
+  {1} options: wouldn’t want to come | up to you | fact is | how angry you are that | would have come | a line under this incident | be told | found your reaction
+Q 7171 [gaps] Truth {1} , I’m not really into classical music.
+  {1} options: how angry you are that | wouldn’t want to come | found your reaction | up to you | would have come | a line under this incident | be told | fact is
+
+=== PAGE /writing/b1-b2/how-to-write-an-apology-email-saying-sorry-to-your-friend/ | How to write an apology email – Saying sorry to your friend | level b1-b2
+--- QUIZ 841
+CONTEXT:
+Exercise 3
+ Complete the sentences with the correct form of the verb.
+Q 7172 [radio] You always tell me you are so busy, so when I wrote the invitation, I assumed that you _____ too busy to come.
+ 12556) A. would be
+ 12557) B. had been
+ 12558) C. are
+Q 7173 [radio] If you had told me that you were only available on one date, I _____ my schedule.
+ 12559) A. would have rearranged
+ 12560) B. rearrange
+ 12561) C. had rearranged
+Q 7174 [radio] If I _____ you a lift home, it would have taken me 45 more minutes to get home.
+ 12562) A. gave
+ 12563) B. would give
+ 12564) C. ’d given
+Q 7175 [radio] I didn’t tell you because I thought you _____ angry with me.
+ 12565) A. would have got
+ 12566) B. had got
+ 12567) C. would get
+Q 7176 [radio] I didn’t tell you about the event because I assumed that John _____ you an email about it.
+ 12568) A. was sent
+ 12569) B. would have sent
+ 12570) C. had sent
+Q 7177 [radio] I'm sorry I didn't help you, but I think helping you _____ a mistake.
+ 12571) A. was
+ 12572) B. would have been
+ 12573) C. had been
+
+=== PAGE /writing/b1-b2/how-to-write-an-apology-email-saying-sorry-to-your-friend/ | How to write an apology email – Saying sorry to your friend | level b1-b2
+--- QUIZ 842
+CONTEXT:
+Exercise 4
+ Choose the correct adjective.
+Q 7179 [gaps] I realise that you feel {1} .
+  {1} options: hurtful | hurt
+Q 7180 [gaps] I know that you feel {1} about what happened.
+  {1} options: embarrassing | embarrassed
+Q 7181 [gaps] I’m sure that missing the festival was really {1} .
+  {1} options: disappointed | disappointing
+Q 7182 [gaps] Truth be told, I’m finding work really {1} these days.
+  {1} options: stressed | stressful
+Q 7183 [gaps] I expect that you are really {1} with me.
+  {1} options: annoying | annoyed
+Q 7184 [gaps] I know that this is really {1} for you.
+  {1} options: upset | upsetting
+Q 7185 [gaps] What you said was really {1} .
+  {1} options: hurt | hurtful
+Q 7186 [gaps] I understand how {1} you are that you couldn’t go to the show.
+  {1} options: frustrated | frustrating
+
+=== PAGE /writing/b1-b2/how-to-write-an-apology-email-saying-sorry-to-your-friend/ | How to write an apology email – Saying sorry to your friend | level b1-b2
+--- QUIZ 843
+CONTEXT:
+Exercise 5
+ Write one correct word in each space to complete the expressions.
+Q 7187 [gaps] I’d like to {1} amends.
+  {1} free text
+Q 7188 [gaps] I {1} travelling really stressful these days.
+  {1} free text
+Q 7189 [gaps] I’ll {1} you to a meal at a nice restaurant.
+  {1} free text
+Q 7190 [gaps] Truth be {1} , I don’t really enjoy watching sports games.
+  {1} free text
+Q 7191 [gaps] The {1} is I already have an invitation for Friday night.
+  {1} free text
+Q 7192 [gaps] How can I make it {1} to you?
+  {1} free text
+Q 7193 [gaps] To be {1} , I didn't think you wanted me there.
+  {1} free text
+Q 7194 [gaps] Let's {1} this matter behind us.
+  {1} free text
+Q 7195 [gaps] I understand {1} annoyed you are that I didn't come.
+  {1} free text
+Q 7196 [gaps] {1} don't we have lunch together someday soon?
+  {1} free text
+
+=== PAGE /use-of-english/b2/b2-english-test-7-text-with-multiple-choice-gaps/ | B2 English test 7 – text with multiple-choice gaps | level b2
+--- QUIZ 836
+CONTEXT:
+Use of English Test – B2
+ Read the text and choose the correct answer for each gap.
+ The Potential for Electric Vehicles
+Q 7160 [gaps] There is increasing concern over the impact of road transport on climate change. Never in human history 1 {1} so high. 2 {2} that over 36 billion tons of carbon were released into the atmosphere, and 14% of these 3 {3} to come from vehicles. That's the main reason why 4 {4} to be a great deal of interest in finding alternative fuels, and electric vehicles could offer a solution. 5 {5} energy stored in a battery allows electric cars to produce zero emissions during operation. /  However, there are some drawbacks. The emissions produced during the manufacture of a typical electric car are around 68% higher than a conventional gasoline-powered vehicle. Moreover, the battery must be charged 6 {6} it to run. Thus, the car’s total emissions depend on 7 {7} locally. In 8 {8} countries where electric cars are widely in use today, electricity is generated in a relatively clean way. 9 {9} , the total carbon emissions from an electric vehicle remain lower than those of a conventional one, 10 {10} if we factor in the energy required for battery charging. However, this is not the case worldwide. In China, for example, many power stations are fuelled by coal. Therefore, in China electric cars could only be considered a cleaner source of fuel if the methods of generating power 11 {11} change. /  Another problem is the lithium required to manufacture the batteries, 12 {12} there are fears that lithium mining operations are damaging local environment by lowering water tables and polluting water supplies. Again, all is not lost, as engineers are working on ways to produce lithium from groundwater using zero carbon technologies.  /  13 {13} , electric vehicles do have the potential to reduce carbon emissions. However, they don’t offer a complete solution 14 {14} the damaging impacts of electricity generation and mining. 15 {15} is a coordinated approach by all these industries to work together in protecting our environment.
+  {1} options: have carbon levels been | carbon levels have been | are carbon levels | carbon levels are
+  {2} options: it is reporting | it has reported | It is reported | it reports
+  {3} options: say | say that | to say | are said
+  {4} options: there | It seems | there seems | It is
+  {5} options: Utilised | Utilising | Utilise | To utilise
+  {6} options: such as | in order to | so that | in order for
+  {7} options: how is generated electricity | how do people generate electricity | how is electricity generated | how electricity is generated
+  {8} options: most of | the most of the | most of the | the most of
+  {9} options: Additionally | In fact | However | Consequently
+  {10} options: actually | especially | except | even
+  {11} options: was going to | were to | would | was bound to
+  {12} options: as | but | although | so
+  {13} options: Incidentally | All in all | In fact | Anyway
+  {14} options: because | despite | in case of | due to
+  {15} options: It is needed | What needs | There needs | What is needed
+
+=== PAGE /grammar-points/a2/stative-vs-dynamic-verbs-or-non-action-vs-action-verbs/ | Stative vs dynamic verbs (or non-action vs action verbs) | level a2
+--- QUIZ 833
+CONTEXT:
+Exercise 1
+ Choose the correct verb forms to complete the sentences below.
+Q 7130 [gaps] The car {1} to Mark.
+  {1} options: belongs | are belonging | is belonging
+Q 7131 [gaps] The boys {1} lunch right now.
+  {1} options: are having | has | have
+Q 7132 [gaps] I {1} what the answer is.
+  {1} options: am not know | am not knowing | don’t know
+Q 7133 [gaps] The children {1} at the horses.
+  {1} options: are looking | look | is looking
+Q 7134 [gaps] {1} another cup of tea?
+  {1} options: Are you wanting | Do you want | Are you want
+Q 7135 [gaps] It {1} like there is someone at the door.
+  {1} options: is sounding | sound | sounds
+Q 7136 [gaps] Mum {1} pasta for dinner tonight.
+  {1} options: make | is making | makes
+Q 7137 [gaps] The chef {1} the sauce to see if it needs more salt.
+  {1} options: tastes | is tasting | are tasting
+Q 7138 [gaps] Nicky {1} very silly today.
+  {1} options: are | is | is being
+Q 7139 [gaps] Daniel {1} brown hair and blue eyes.
+  {1} options: are having | is having | has
+
+=== PAGE /grammar-points/a2/stative-vs-dynamic-verbs-or-non-action-vs-action-verbs/ | Stative vs dynamic verbs (or non-action vs action verbs) | level a2
+--- QUIZ 834
+CONTEXT:
+Exercise 2
+ Choose the correct verb forms for the gaps below.
+Q 7140 [radio] They _____ a party at the pool right now.
+ 12518) A. has
+ 12519) B. are having
+ 12520) C. have
+Q 7151 [radio] I _____ it is going to rain.
+ 12521) A. think
+ 12522) B. thinks
+ 12523) C. am thinking
+Q 7152 [radio] _____ my new dress?
+ 12524) A. Do you like
+ 12525) B. Are you like
+ 12526) C. Are you liking
+Q 7153 [radio] Kim _____ dinner at the moment.
+ 12527) A. eats
+ 12528) B. does eat
+ 12529) C. is eating
+Q 7154 [radio] The girls _____ very helpful today.
+ 12530) A. is being
+ 12531) B. are being
+ 12532) C. are
+Q 7155 [radio] Lemons _____ sour.
+ 12533) A. taste
+ 12534) B. is tasting
+ 12535) C. are tasting
+Q 7156 [radio] What _____ at?
+ 12536) A. do you look
+ 12537) B. is you looking
+ 12538) C. are you looking
+Q 7157 [radio] The children _____ in Father Christmas.
+ 12539) A. believe
+ 12540) B. believes
+ 12541) C. are believing
+Q 7158 [radio] Sam _____ a yellow T-shirt today.
+ 12542) A. wears
+ 12543) B. is wearing
+ 12544) C. is wear
+Q 7159 [radio] We _____ visiting our grandparents.
+ 12545) A. love
+ 12546) B. loves
+ 12547) C. are loving
+
+=== PAGE /grammar-points/a2/stative-vs-dynamic-verbs-or-non-action-vs-action-verbs/ | Stative vs dynamic verbs (or non-action vs action verbs) | level a2
+--- QUIZ 835
+CONTEXT:
+Exercise 3
+ Fill in the gaps with the verb in brackets in the present simple or continuous form. Use the simple form with stative verbs and the continuous form with dynamic verbs.
+ EXAMPLE: Joe believes (believe) in ghosts.
+Q 7141 [gaps] John {1} (think) about his future.
+  {1} free text
+Q 7142 [gaps] Ali {1} (have) three sisters.
+  {1} free text
+Q 7143 [gaps] It {1} (smell) like something is burning.
+  {1} free text
+Q 7144 [gaps] The boys {1} (play) with their new toys.
+  {1} free text
+Q 7145 [gaps] Sara {1} (look) like she's been crying.
+  {1} free text
+Q 7146 [gaps] I {1} (want) another coffee.
+  {1} free text
+Q 7147 [gaps] We {1} (have) a really good time.
+  {1} free text
+Q 7148 [gaps] Alice and Peter {1} (need) to go to the shop.
+  {1} free text
+Q 7149 [gaps] The shop {1} (be) usually very busy.
+  {1} free text
+Q 7150 [gaps] The baby {1} (sleep) on the sofa.
+  {1} free text
+
+=== PAGE /reading/b1-b2/deadly-tiktok-challenges-reading-test/ | Deadly TikTok challenges – B1+ English Reading Test | level b1-b2
+--- QUIZ 832
+CONTEXT:
+B1+ English Reading Test
+ Read the text about the popular app TikTok, and for questions 1 to 6, complete the text with the correct sentences. There is ONE EXTRA SENTENCE that you don’t need to use.
+ Deadly TikTok challenges
+ TikTok, the popular app that allows users to create and share short videos, is now the most downloaded app in the world. One of the most popular ways users engage with the app is to carry out challenges. 1 ___. A successful challenge will go viral, with hundreds of thousands of people around the world taking part.
+ Copying another person’s video is hardly original or creative. Even so, it’s easy to see the appeal, especially among young audiences. Anyone with a Smartphone can get involved. 2 ___. Users can just ride the trend to gain popularity. As a result, challenges are ideal for people who have a little spare time, enjoy performing and like getting attention. Unsurprisingly, most of those who take part are children, teenagers and young adults.
+ The problem is that these are the very people who are most at risk from performing challenges. This is because the part of the brain that handles rational thought is not fully developed in humans until we are in our mid-20s. Until then, we are less able to make long-term plans and analyse risk. It’s no secret that the young brain values things that provide a sense of inclusion and popularity. 3 ___.
+ The Tik Tok challenge trend has had severe consequences. In 2020, the ‘skull-breaker’ challenge, which involves two people kicking a third person’s legs to make them fall over, caused teenagers in both the UK and the US to be badly injured. In response, TikTok stated that it did not allow content that encourages dangerous challenges that might lead to injury. 4 ___. Any such content on its platform would be removed. Users searching for the skull-breaker challenge would only see a warning about its dangers.
+ This reaction was clearly not thorough enough because, in 2021, several fatal incidents occurred resulting from another viral challenge on Tiktok, the ‘blackout’ challenge, which encouraged people to choke themselves until they passed out. Three youngsters died from attempting this challenge in January 2021. This was followed later in the year by a number of deaths in the USA and UK. Two of those who died were young girls under the age of ten. 5 ___.
+ The challenge did not actually originate on TikTok, nor is it the only platform where videos of it have spread. According to a TIME report in 2018, millions of videos of the ‘Pass Out Challenge’ were currently on YouTube. However, where and when the viral trend originated is not known. 6 ___. They say that the videos were intentionally and repeatedly pushed onto their children’s feeds, encouraging them to participate. They claim that the company has prioritised corporate profits over the health and safety of its users.
+ Questions
+Q 7124 [radio] Gap 1
+ 12476) A. The bereaved families are suing TikTok for spreading the challenge among impressionable youngsters.
+ 12477) B. They allow users not only to express their creativity through editing and special effects but also to participate and engage with a worldwide community.
+ 12478) C. These encourage people to video themselves doing some kind of activity, such as singing, dancing or acting.
+ 12479) D. The more attention a young person’s stunt might get, the less likely he or she is to consider its potential risks.
+ 12480) E. It added that doing so was not funny and certainly wouldn’t make users famous.
+ 12481) F. No talent is required beyond a little extroversion and commitment.
+ 12482) G. Even so, the parents of the deceased youngsters claim that TikTok’s ‘dangerous’ algorithms are responsible for their children’s deaths
+Q 7125 [radio] Gap 2
+ 12483) A. The bereaved families are suing TikTok for spreading the challenge among impressionable youngsters.
+ 12484) B. They allow users not only to express their creativity through editing and special effects but also to participate and engage with a worldwide community.
+ 12485) C. These encourage people to video themselves doing some kind of activity, such as singing, dancing or acting.
+ 12486) D. The more attention a young person’s stunt might get, the less likely he or she is to consider its potential risks.
+ 12487) E. It added that doing so was not funny and certainly wouldn’t make users famous.
+ 12488) F. No talent is required beyond a little extroversion and commitment.
+ 12489) G. Even so, the parents of the deceased youngsters claim that TikTok’s ‘dangerous’ algorithms are responsible for their children’s deaths
+Q 7126 [radio] Gap 3
+ 12490) A. The bereaved families are suing TikTok for spreading the challenge among impressionable youngsters.
+ 12491) B. They allow users not only to express their creativity through editing and special effects but also to participate and engage with a worldwide community.
+ 12492) C. These encourage people to video themselves doing some kind of activity, such as singing, dancing or acting.
+ 12493) D. The more attention a young person’s stunt might get, the less likely he or she is to consider its potential risks.
+ 12494) E. It added that doing so was not funny and certainly wouldn’t make users famous.
+ 12495) F. No talent is required beyond a little extroversion and commitment.
+ 12496) G. Even so, the parents of the deceased youngsters claim that TikTok’s ‘dangerous’ algorithms are responsible for their children’s deaths
+Q 7127 [radio] Gap 4
+ 12497) A. The bereaved families are suing TikTok for spreading the challenge among impressionable youngsters.
+ 12498) B. They allow users not only to express their creativity through editing and special effects but also to participate and engage with a worldwide community.
+ 12499) C. These encourage people to video themselves doing some kind of activity, such as singing, dancing or acting.
+ 12500) D. The more attention a young person’s stunt might get, the less likely he or she is to consider its potential risks.
+ 12501) E. It added that doing so was not funny and certainly wouldn’t make users famous.
+ 12502) F. No talent is required beyond a little extroversion and commitment.
+ 12503) G. Even so, the parents of the deceased youngsters claim that TikTok’s ‘dangerous’ algorithms are responsible for their children’s deaths
+Q 7128 [radio] Gap 5
+ 12504) A. The bereaved families are suing TikTok for spreading the challenge among impressionable youngsters.
+ 12505) B. They allow users not only to express their creativity through editing and special effects but also to participate and engage with a worldwide community.
+ 12506) C. These encourage people to video themselves doing some kind of activity, such as singing, dancing or acting.
+ 12507) D. The more attention a young person’s stunt might get, the less likely he or she is to consider its potential risks.
+ 12508) E. It added that doing so was not funny and certainly wouldn’t make users famous.
+ 12509) F. No talent is required beyond a little extroversion and commitment.
+ 12510) G. Even so, the parents of the deceased youngsters claim that TikTok’s ‘dangerous’ algorithms are responsible for their children’s deaths
+Q 7129 [radio] Gap 6
+ 12511) A. The bereaved families are suing TikTok for spreading the challenge among impressionable youngsters.
+ 12512) B. They allow users not only to express their creativity through editing and special effects but also to participate and engage with a worldwide community.
+ 12513) C. These encourage people to video themselves doing some kind of activity, such as singing, dancing or acting.
+ 12514) D. The more attention a young person’s stunt might get, the less likely he or she is to consider its potential risks.
+ 12515) E. It added that doing so was not funny and certainly wouldn’t make users famous.
+ 12516) F. No talent is required beyond a little extroversion and commitment.
+ 12517) G. Even so, the parents of the deceased youngsters claim that TikTok’s ‘dangerous’ algorithms are responsible for their children’s deaths
+
+=== PAGE /writing/b1/how-to-write-a-past-story-from-a-given-sentence/ | How to write a past story from a given sentence | level b1
+--- QUIZ 831
+CONTEXT:
+Exercise 1
+ Choose the correct options to fill in the gaps.
+Q 7123 [gaps] It all started when I accidentally picked up the wrong suitcase at the airport. My suitcase is green with pink spots and few people have suitcases like that, 1 {1} when I saw the suitcase on the belt, I assumed it was mine. I didn't notice that I 2 {2} the wrong bag until I was on the train. I 3 {3} bored, so I opened the suitcase to get out my book. When I saw all the women's clothes, I 4 {4} my mistake 5 {5} , I got off the train at the next station and returned to the airport. /  When I got to the luggage desk, a woman 6 {6} to the assistant and describing a suitcase – a green one with pink spots – and I realised that she was the owner of the suitcase. When I told her what I 7 {7} , she was very angry. Apparently, she 8 {8} a coach because she hadn't found her bag, and now she 9 {9} travel until the next day. I apologized and said that I would pay for her dinner and hotel bill. She accepted my offer and 10 {10} that we eat together. We had a surprisingly good time, and that woman is now my wife!
+  {1} options: because | and | so | but
+  {2} options: was picking up | would pick up | had picked up
+  {3} options: would feel | had felt | was feeling
+  {4} options: had realised | realised | was realising
+  {5} options: Amused | Curious | Annoyed
+  {6} options: had talked | talked | was talking
+  {7} options: had done | would do | was going
+  {8} options: would miss | was missing | had missed
+  {9} options: wasn't being able to | hadn't been able to | wouldn't be able to
+  {10} options: suggested | was suggesting | would suggest
+
+=== PAGE /writing/b1/how-to-write-a-past-story-from-a-given-sentence/ | How to write a past story from a given sentence | level b1
+--- QUIZ 827
+CONTEXT:
+Exercise 2
+ Choose the correct options to complete these sentences.
+Q 7099 [gaps] Then we had a brilliant idea. We {1} through the bedroom window!
+  {1} options: had climbed | was climbing | would climb
+Q 7100 [gaps] I loved seeing the elephants. I {1} them in the wild before.
+  {1} options: wasn’t seeing | didn’t see | hadn’t seen
+Q 7101 [gaps] I opened the door of the wardrobe and {1} inside.
+  {1} options: would step | stepped | was stepping
+Q 7102 [gaps] When we finally reached the hotel, it {1} heavily.
+  {1} options: was raining | had rained | would rain
+Q 7104 [gaps] We {1} a hole in the garden and put the box inside.
+  {1} options: were digging | had dug | dug
+Q 7105 [gaps] I was sure that John {1} me, but he didn't.
+  {1} options: had helped | helped | would help
+
+=== PAGE /writing/b1/how-to-write-a-past-story-from-a-given-sentence/ | How to write a past story from a given sentence | level b1
+--- QUIZ 828
+CONTEXT:
+Exercise 3
+ Read the sentences, then choose the correct explanation.
+Q 7106 [radio] While James was talking on the phone, I went quietly into the basement.
+ 12461) A. James talked on the phone. Then I went into the basement.
+ 12462) B. I went into the basement. Then James talked on the phone.
+ 12463) C. I went into the basement, and James talked on the phone at the same time.
+Q 7107 [radio] When I got home, Jack had cooked dinner.
+ 12464) A. Jack cooked dinner. Then I got home.
+ 12465) B. I got home. Then Jack cooked dinner.
+ 12466) C. I got home, and Jack cooked dinner at the same time.
+Q 7108 [radio] Tom and Kerry were leaving when I arrived.
+ 12467) A. Tom and Kerry left. Then I arrived.
+ 12468) B. I arrived. Then Tom and Kerry left.
+ 12469) C. I arrived and Tom and Kerry left at the same time.
+Q 7109 [radio] Paul put away the shopping and phoned his mother.
+ 12470) A. Paul put away the shopping. Then he phoned his mother.
+ 12471) B. Paul phoned his mother. Then he put away the shopping.
+ 12472) C. Paul put away the shopping and phoned his mother at the same time.
+Q 7110 [radio] While we were hiking, it started to rain.
+ 12473) A. It started to rain. Then we went hiking.
+ 12474) B. We went hiking and returned. Then it started to rain.
+ 12475) C. We went hiking and it started to rain at the same time.
+
+=== PAGE /writing/b1/how-to-write-a-past-story-from-a-given-sentence/ | How to write a past story from a given sentence | level b1
+--- QUIZ 829
+CONTEXT:
+Exercise 4
+ Choose the correct options to complete these sentences.
+Q 7111 [gaps] I wanted to see the manager, {1} she wasn’t there.
+  {1} options: when | but | and
+Q 7112 [gaps] I was relieved to see Amy {1} I thought she had been badly hurt.
+  {1} options: because | so | but
+Q 7113 [gaps] I needed some clean trousers {1} {2} I got to the mall, I went into a cheap clothes shop.
+  {1} options: but | because | so
+  {2} options: because | when | while
+Q 7114 [gaps] I don't think he believed me {1} he looked at me strangely {2} I was telling my story.
+  {1} options: and | so | because
+  {2} options: so | while | and
+Q 7115 [gaps] {1} the teacher was writing on the board, I wrote a message {2} passed it to Lucy.
+  {1} options: So | Because | While
+  {2} options: and | so | when
+Q 7116 [gaps] {1} we went into the hotel, we hid behind a wall {2} changed our clothes.
+  {1} options: Because | While | Before
+  {2} options: and | but | while
+
+=== PAGE /writing/b1/how-to-write-a-past-story-from-a-given-sentence/ | How to write a past story from a given sentence | level b1
+--- QUIZ 830
+CONTEXT:
+Exercise 5
+ Choose the correct options to complete this email.
+Q 7117 [gaps] Alice told me that her party was cancelled. {1} , I went online to look for something else to do.
+  {1} options: Disappointed | Fascinated | Amused
+Q 7118 [gaps] I tried to move the piece of metal, but I couldn’t. {1} , I kicked it.
+  {1} options: Curious | Frustrated | Relieved
+Q 7119 [gaps] Paul sent me a funny video. {1} , I forwarded it to several of my friends.
+  {1} options: Annoyed | Amused | Embarrassed
+Q 7120 [gaps] Jane told me that my dad had been in an accident. {1} , I got on my bike and sped to the hospital.
+  {1} options: Worried | Relieved | Intrigued
+Q 7121 [gaps] I found an old box in the attic. {1} , I opened it.
+  {1} options: Curious | Astonished | Shocked
+Q 7122 [gaps] I noticed that there was a big wet patch on the front of my trousers. {1} , I ran out of the room.
+  {1} options: Frustrated | Embarrassed | Amused
+
+=== PAGE /grammar-points/a2/do-vs-make-difference/ | Do vs Make: What’s the difference? | level a2
+--- QUIZ 823
+CONTEXT:
+Exercise 1
+ Choose ‘do’ or ‘make’ to complete these sentences.
+Q 7068 [gaps] He has a good job and {1} a lot of money.
+  {1} options: makes | does
+Q 7069 [gaps] Alice {1} very well in her maths test.
+  {1} options: did | made
+Q 7070 [gaps] Do you want me to {1} you a coffee?
+  {1} options: do | make
+Q 7071 [gaps] Joe {1} his homework yet.
+  {1} options: hasn’t made | hasn’t done
+Q 7072 [gaps] The children are {1} a lot of noise right now.
+  {1} options: doing | making
+Q 7073 [gaps] Have you {1} any plans for the weekend yet?
+  {1} options: done | made
+Q 7074 [gaps] Cara {1} the dishes every evening.
+  {1} options: does | makes
+Q 7075 [gaps] If you want to get fit, you should {1} more exercise.
+  {1} options: make | do
+Q 7076 [gaps] Luis always {1} dinner as soon as he gets home.
+  {1} options: makes | does
+Q 7077 [gaps] John went into the kitchen to {1} a phone call.
+  {1} options: do | make
+
+=== PAGE /grammar-points/a2/do-vs-make-difference/ | Do vs Make: What’s the difference? | level a2
+--- QUIZ 824
+CONTEXT:
+Exercise 2
+ Choose ‘do’ or ‘make’ for the gaps below.
+Q 7078 [radio] Ali _____ karate three times a week.
+ 12441) A. makes
+ 12442) B. does
+Q 7079 [radio] I haven’t _____ dinner yet because I’m not very hungry.
+ 12443) A. made
+ 12444) B. done
+Q 7080 [radio] Have you _____ your homework yet?
+ 12445) A. made
+ 12446) B. done
+Q 7081 [radio] I always _____ a list before I go shopping.
+ 12447) A. make
+ 12448) B. do
+Q 7082 [radio] Peter _____ very well in all his exams last month.
+ 12449) A. made
+ 12450) B. did
+Q 7083 [radio] Nick is healthy because he _____ a lot of exercise.
+ 12451) A. does
+ 12452) B. makes
+Q 7084 [radio] Paul _____ a lot of money when he worked in a bar last summer.
+ 12453) A. did
+ 12454) B. made
+Q 7085 [radio] I don’t _____ any housework during the week.
+ 12455) A. do
+ 12456) B. make
+Q 7086 [radio] The teacher told us to be quiet because we were _____ too much noise.
+ 12457) A. making
+ 12458) B. doing
+Q 7087 [radio] Are you going to _____ the shopping or shall I?
+ 12459) A. make
+ 12460) B. do
+
+=== PAGE /grammar-points/a2/do-vs-make-difference/ | Do vs Make: What’s the difference? | level a2
+--- QUIZ 825
+CONTEXT:
+Exercise 3
+ Fill in the gaps with ‘make’ or ‘do’ in the present simple, present continuous, past simple, or present perfect form. Use the subject or word in brackets where needed.
+ EXAMPLE: The children are doing their homework right now.
+Q 7088 [gaps] What {1} (you) for dinner last night?
+  {1} free text
+Q 7089 [gaps] Pat usually {1} her homework in the kitchen.
+  {1} free text
+Q 7090 [gaps] We {1} (not) any plans for the summer holidays yet.
+  {1} free text
+Q 7091 [gaps] We {1} (not) anything exciting last weekend
+  {1} free text
+Q 7092 [gaps] I {1} yoga at the gym three times a week.
+  {1} free text
+Q 7093 [gaps] Tim {1} a promise to his girlfriend last night.
+  {1} free text
+Q 7094 [gaps] Sally {1} a lot of mistakes in her history exam yesterday.
+  {1} free text
+Q 7095 [gaps] I {1} my hair every morning.
+  {1} free text
+Q 7096 [gaps] I {1} the laundry right now.
+  {1} free text
+Q 7097 [gaps] Jess {1} a lot of friends while she was travelling.
+  {1} free text
+
+=== PAGE /use-of-english/b1-b2/b1-english-test-7-text-with-multiple-choice-gaps/ | B1+ English test 7 – Text with multiple-choice gaps | level b1-b2
+--- QUIZ 826
+CONTEXT:
+Use of English Test – B1+
+ Read the text and choose the correct answer for each gap.
+ The Giant Sequoias of Yosemite
+Q 7098 [gaps] In 1852, Augustus Dowd 1 {1} a bear for a while when he came across 2 {2} tree. The measurement around its trunk was over fifty feet, and it was 3 {3} tall that he 4 {4} see the top. Dowd was the first white colonist 5 {5} the huge giant sequoias in Yosemite national park, and news of the huge trees soon spread. However, 6 {6} being impressed by the huge trees, those poor colonists, who were trying to survive off the land, did not respect the trees’ age and heritage. 7 {7} nature’s grandeur should 8 {8} enough for them, but they wanted to use it as a trophy. Consequently, many trees were cut down and sold or displayed for cash.  /  A group of tourists are known 9 {9} in California in 1855 to see the trees for the first time. However, using the trees as a tourist attraction guaranteed 10 {10} their protection nor their future preservation. One of the sequoias was smoothed to create a dance floor on which 32 people could dance. The stump of another was cut lengthways and made into a bowling alley. However, gradually, the trees began 11 {11} as a symbol of America’s greatness and heritage. Soon after 12 {12} to power, President Roosevelt read a book by the conservationist John Muir about his passion for protecting the wilderness in the west of the country. Roosevelt contacted Muir, and they 13 {13} to go on a camping trip in Yosemite 14 {14} discuss its future. As a result, Roosevelt turned the whole of Yosemite valley into a national park. As the trees gained protection, they also gained status. Several of them 15 {15} names, but their names do not reflect anything about the trees themselves, such as their location, size or shape. Instead, they have political names, such as The Senate, General Sherman and Lincoln.
+  {1} options: was tracking | tracked | had been tracking | has tracked
+  {2} options: an amazing massive old | a massive amazing old | an old amazing massive | an old massive amazing
+  {3} options: such | such a | such as | so
+  {4} options: hardly could | hardly didn’t | did hardly | could hardly
+  {5} options: saw | to see | seeing | see
+  {6} options: in spite | despite | due to | although
+  {7} options: Admiring | To admire | Admire | Admired
+  {8} options: be | being | to be | have been
+  {9} options: to arrive | arrive | to have arrived | arrived
+  {10} options: both | neither | either | none
+  {11} options: to see | seeing | to be seen | to have seen
+  {12} options: coming | had come | come | came
+  {13} options: admitted | agreed | suggested | insisted
+  {14} options: so that | in order to | as to | for
+  {15} options: were given | were giving | had given | gave
+
+=== PAGE /reading/a2/three-popular-inventions-from-the-1920s-reading-test/ | Three popular inventions from the 1920s – A2 English Reading Test | level a2
+--- QUIZ 750
+CONTEXT:
+A2 English Reading Test
+ Read the text about three famous inventions, and for questions 1 to 10, choose true or false.
+ Three popular inventions from the 1920s
+ The 1920s was an exciting time for inventions. Some of the things invented around that time changed the lives of millions of people, and some of those inventions are still widely used today.
+ The television
+ The invention with the biggest impact was probably the television. It was invented by a Scottish man, John Logie Baird. The first televised pictures were sent over a short distance in 1924, and his invention was formally demonstrated at the Royal Institute two years later. The pictures on the screen were not clear, but the viewers could see that they were human faces, and they could see their eyes opening and closing. In 1928, images were sent from Britain to America, and later, to a ship 1,500 miles out to sea. In the same year, the first colour images were sent. The first ‘seeing-in sets’ were sold that same year. For £25 (£1000 in today’s money), people in their homes could watch moving images that were sent from a broadcasting station.
+ The fridge
+ Another invention that became popular in the 1920s was the home refrigerator. People used different ways to keep food cool and fresh long before the 1900s, but home fridges weren’t invented until 1913 in the USA. Home fridges became very popular in the USA in the 1920s. Sales of the popular ‘Frigidaire’ model increased from 5,000 in 1921 to 750,000 in 1926. British people were less interested in fridges than Americans. They thought that they were unnecessary because the weather in Britain was cooler. But fridges were heavily advertised, and their advantages were described in detail. Soon, more fridges were sold, and the price decreased. 
+ The polygraph
+ Another interesting invention of the 1920s was the polygraph, or lie detector. It was invented in 1921 by a Californian policeman, John Larson. He used the ideas of other psychologists to make a machine that measured people’s heart rate, breathing and blood pressure while they were asked questions. The experts believed that sudden changes in these measurements showed that someone was lying. Although this invention is well-known, it can’t really detect lies. Marston tried to use measurements from his polygraph in a court case in 1923, but they weren’t accepted as evidence and never have been since then. However, polygraphs are still used by some police forces and the FBI because many people believe they work, so they tell the truth to avoid the machine. 
+ Questions
+Q 6581 [radio] When television images were first transmitted, viewers didn’t know exactly what the image was.
+ 11532) A. True
+ 11533) B. False
+Q 6582 [radio] The television was demonstrated at the Royal Institute in 1926.
+ 11534) A. True
+ 11535) B. False
+Q 6583 [radio] Colour images were not possible until after the 1920s.
+ 11536) A. True
+ 11537) B. False
+Q 6584 [radio] Television images were first sent across the Atlantic Ocean in 1928.
+ 11538) A. True
+ 11539) B. False
+Q 6585 [radio] People could buy television sets in the 1920s.
+ 11540) A. True
+ 11541) B. False
+Q 6586 [radio] Home refrigerators were invented in the 1920s.
+ 11542) A. True
+ 11543) B. False
+Q 6587 [radio] Fridges became popular in the USA before they were popular in the UK.
+ 11544) A. True
+ 11545) B. False
+Q 6588 [radio] Some psychologists helped John Larson to build his invention.
+ 11546) A. True
+ 11547) B. False
+Q 6589 [radio] On some occasions, lie detectors have been used as evidence in court.
+ 11548) A. True
+ 11549) B. False
+Q 6590 [radio] Today, lie detectors are never used by the police.
+ 11550) A. True
+ 11551) B. False
+
+=== PAGE /writing/a2/writing-and-responding-to-an-informal-email-invitation/ | Writing and responding to an informal email invitation – A2 writing | level a2
+--- QUIZ 820
+CONTEXT:
+Writing and responding to an informal email invitation
+ Exercise 1
+ Choose the correct option to complete each sentence.
+Q 7047 [radio] Would you like _____ us?
+ 12411) A. joining
+ 12412) B. join
+ 12413) C. to join
+Q 7048 [radio] We might _____ to the island.
+ 12414) A. swim
+ 12415) B. to swim
+ 12416) C. swimming
+Q 7049 [radio] I’ll _____ you know tomorrow.
+ 12417) A. let
+ 12418) B. to let
+ 12419) C. letting
+Q 7050 [radio] Emma and I are _____ around India this summer.
+ 12420) A. travel
+ 12421) B. to travel
+ 12422) C. travelling
+Q 7051 [radio] I’m _____ forward to the party!
+ 12423) A. going
+ 12424) B. looking
+ 12425) C. might
+Q 7052 [radio] In Paris, we _____ to hire bikes.
+ 12426) A. go
+ 12427) B. are going
+ 12428) C. will
+Q 7053 [radio] I’m going _____ my parents that weekend.
+ 12429) A. visit
+ 12430) B. to visit
+ 12431) C. visiting
+Q 7054 [radio] I _____ to come to the festival with you.
+ 12432) A. 'm loving
+ 12433) B. 'd love
+ 12434) C. love
+Q 7055 [radio] That _____ great!
+ 12435) A. be
+ 12436) B. is being
+ 12437) C. 'd be
+Q 7056 [radio] Why _____ go to a restaurant this evening?
+ 12438) A. don’t we
+ 12439) B. would you
+ 12440) C. we might
+
+=== PAGE /writing/a2/writing-and-responding-to-an-informal-email-invitation/ | Writing and responding to an informal email invitation – A2 writing | level a2
+--- QUIZ 821
+CONTEXT:
+Writing and responding to an informal email invitation
+ Exercise 2
+ Complete the sentences with ONE word or two contracted words.
+Q 7057 [gaps] Would you {1} to join us?
+  {1} free text
+Q 7058 [gaps] I'm looking {1} to it!
+  {1} free text
+Q 7059 [gaps] Thanks {1} the invitation!
+  {1} free text
+Q 7060 [gaps] Why {1} we take our mountain bikes?
+  {1} free text
+Q 7061 [gaps] Hope you {1} come!
+  {1} free text
+Q 7062 [gaps] {1} you like to come to the festival with us?
+  {1} free text
+Q 7063 [gaps] I just wanted to {1} you know that I’ll be late.
+  {1} free text
+Q 7064 [gaps] Do you {1} to join us?
+  {1} free text
+Q 7065 [gaps] I {1} off work that week.
+  {1} free text
+Q 7066 [gaps] We’re going {1} go hiking next weekend.
+  {1} free text
+
+=== PAGE /writing/a2/writing-and-responding-to-an-informal-email-invitation/ | Writing and responding to an informal email invitation – A2 writing | level a2
+--- QUIZ 822
+CONTEXT:
+Writing and responding to an informal email invitation
+ Exercise 3
+ Fill in the gaps with the words in the box.
+ I’d love – hope – might – thanks – to invite – to join – to let – to ride – want – why don’t
+Q 7067 [gaps] New Message  /  📩 From: Tina /  📌 Subject: Bike ride and BBQ? /  Hey George, /  I just wanted 1 {1} you know that Erin and I are planning a bike ride on Sunday 5th May. We’re going 2 {2} from my house to Redstone Lake and back again. We 3 {3} have lunch in the café beside the lake. It’s about 30 miles, and it’s flat all the way. Would you like 4 {4} us? If so, do you 5 {5} to come to my house afterwards? We might have a barbecue in the evening. /  Best wishes /  Tina  /  Send  /  New Message  /  📩 From: George /  📌 Subject: Re: Bike ride and BBQ? /  Hi Tina! /  6 {6} for the invitation! Yes, I’m free that day so 7 {7} to come. 8 {8} we meet at the crossroads in Barford at about 11 o’clock? It’s on the way and it’s more convenient for me. I’d like 9 {9} Jack too, if that’s OK. I can’t stay for the barbecue, I’m afraid. There’s a concert at our village hall that evening, and I’m helping to serve drinks. 10 {10} you have a great time! /  See you soon! /  George  /  Send
+  {1} free text
+  {2} free text
+  {3} free text
+  {4} free text
+  {5} free text
+  {6} free text
+  {7} free text
+  {8} free text
+  {9} free text
+  {10} free text
+
+=== PAGE /use-of-english/b1/b1-english-test-9-text-with-multiple-choice-gaps/ | B1 English test 9 – Text with multiple-choice gaps | level b1
+--- QUIZ 804
+CONTEXT:
+Use of English Test – B1
+ Read the text and choose the correct answer for each gap.
+Q 6914 [gaps] Gillian and Lily are twins 1 {1} are being raised separately by two sets of parents in Canada. /  Mike and Lynette Shaw and Allyson and Kirk MacLeod 2 {2} their daughters from China in 2000, via an agency. Before 3 {3} the girls, the two couples had met and exchanged email addresses at a meeting that 4 {4} by the agency. When the couples were assigned babies, they sent photographs of the children to 5 {5} . They were immediately shocked. The girls were identical! /  The two families contacted the adoption agency. They were worried that someone had made a mistake, and one baby had been promised to two different families. If, in fact, they were two different babies, 6 {6} they be twins? /  The Chinese orphanage soon confirmed that the photos showed two different babies. They insisted that the girls 7 {7} twins. They said that the girls 8 {8} brought to the orphanage from different locations on separate days. They said that if the couples 9 {9} adopt the girls, the agency would give them to 10 {10} parents. So both couples decided to continue with the adoption.  /  However, when the parents went to China 11 {11} their new children, it was clear that the babies were twin sisters. A DNA test later confirmed this. Before they left China, the couples agreed to raise the girls as sisters, 12 {12} they lived 400 miles apart, so they kept in touch /  Today, the families meet up on special occasions. The girls are very similar, 13 {13} their different upbringings. They look alike, have the same habits, and according to their parents, both were aggressive as children. They talk to each other almost every day and have a very special connection, although they can't see each other as often as they'd like. /  In 2012, Lily said of her situation: “I don’t love it, I don’t hate it 14 {14} . But if we 15 {15} closer, we could have sleepovers.”
+  {1} options: which | who | they
+  {2} options: have adopted | adopted | were adopted
+  {3} options: to adopt | adopting | adopt
+  {4} options: had been organised | had organised | organised
+  {5} options: another | each other | themselves
+  {6} options: would | should | could
+  {7} options: wouldn’t be | weren’t | aren’t
+  {8} options: have been | would be | had been
+  {9} options: wouldn't | won’t | didn't
+  {10} options: another | other | others
+  {11} options: for collect | for collecting | to collect
+  {12} options: despite | however | even though
+  {13} options: however | although | despite
+  {14} options: either | too | neither
+  {15} options: lived | live | would live
+
+=== PAGE /grammar-points/b1/b1-phrasal-verbs-3-exercises-and-explanation/ | B1 Phrasal verbs 3: Exercises and explanation | level b1
+--- QUIZ 812
+CONTEXT:
+B1 Phrasal verbs (Part 3)
+ Do these exercises to learn common B1 phrasal verbs (intermediate level). This is the third grammar lesson in a series of 3. In these grammar lessons, you will find all the phrasal verbs you need to know for the Cambridge Preliminary English Test (PET). You can find all these phrasal verbs in the B1 Preliminary vocabulary list.
+ Exercise 1 (Phrasal verbs 61-70)
+ Choose the correct phrasal verbs to complete these sentences.
+Q 7005 [gaps] At 16, he {1} his own company.
+  {1} options: set up | put up | showed up
+Q 7000 [gaps] When I called, he told me that he would {1} later.
+  {1} options: show me up | ring me up | ring me back
+Q 7001 [gaps] I {1} three times, but they didn't answer my calls.
+  {1} options: showed up | rang up | set out
+Q 6999 [gaps] The famous supermarket chain {1} the price of its bags from 20p to 30p.
+  {1} options: put up | set up | rang up
+Q 6986 [gaps] Fire crews managed to {1} the fire in half an hour.
+  {1} options: put through | set off | put out
+Q 7002 [gaps] The small plane {1} of gas and crashed in a forest in Kentucky.
+  {1} options: put up | ran out | set out
+Q 7003 [gaps] They {1} last month and plan to make the entire 2,000-mile journey this summer.
+  {1} options: set up | set off | put through
+Q 7006 [gaps] He is very strict with players who {1} late for training sessions.
+  {1} options: ran out | show up | put out
+Q 6998 [gaps] When Jane calls, {1} to me, please.
+  {1} options: put her out | ring her back | put her through
+Q 7004 [gaps] In 2021, he {1} to break his own Guinness World record.
+  {1} options: set out | put out | rang up
+
+=== PAGE /grammar-points/b1/b1-phrasal-verbs-3-exercises-and-explanation/ | B1 Phrasal verbs 3: Exercises and explanation | level b1
+--- QUIZ 813
+CONTEXT:
+B1 Phrasal verbs (Part 3)
+ Do these exercises to learn common B1 phrasal verbs (intermediate level). This is the third grammar lesson in a series of 3. In these grammar lessons, you will find all the phrasal verbs you need to know for the Cambridge Preliminary English Test (PET). You can find all these phrasal verbs in the B1 Preliminary vocabulary list.
+ Exercise 2 (Phrasal verbs 71-80)
+ Choose the correct phrasal verbs to complete these sentences.
+Q 11622 [radio] I asked her to _____ and tell me what had happened.
+ 22056) A. split up
+ 22057) B. sit down
+ 22058) C. try on
+ 22059) D. take off
+Q 11623 [radio] You should _____ this jacket. It's very old and ugly.
+ 22060) A. tidy up
+ 22061) B. stay behind
+ 22062) C. throw away
+ 22063) D. turn down
+Q 11624 [radio] They decided to _____ after ten years of marriage.
+ 22064) A. split up
+ 22065) B. sit down
+ 22066) C. take up
+ 22067) D. turn down
+Q 11625 [radio] I was too tired to go out, so I _____ to help clean the classroom.
+ 22068) A. tried on
+ 22069) B. stayed behind
+ 22070) C. turned down
+ 22071) D. threw away
+Q 11626 [radio] Don’t forget to _____ your shoes before going into the temple.
+ 22072) A. tidy up
+ 22073) B. take off
+ 22074) C. split up
+ 22075) D. turn down
+Q 11627 [radio] What time does the plane _____ tomorrow morning?
+ 22076) A. sit down
+ 22077) B. tidy up
+ 22078) C. take off
+ 22079) D. stay behind
+Q 11628 [radio] He wants to _____ photography now that he has more free time.
+ 22080) A. turn down
+ 22081) B. take up
+ 22082) C. split up
+ 22083) D. try on
+Q 11629 [radio] Could you _____ the music a bit? I’m trying to study.
+ 22084) A. take off
+ 22085) B. throw away
+ 22086) C. turn down
+ 22087) D. tidy up
+Q 11630 [radio] She spent the afternoon helping her son _____ his toys.
+ 22088) A. tidy up
+ 22089) B. turn down
+ 22090) C. split up
+ 22091) D. stay behind
+Q 11631 [radio] I want to _____ this dress before I buy it.
+ 22092) A. try on
+ 22093) B. throw away
+ 22094) C. stay behind
+ 22095) D. take off
+
+=== PAGE /grammar-points/b1/b1-phrasal-verbs-3-exercises-and-explanation/ | B1 Phrasal verbs 3: Exercises and explanation | level b1
+--- QUIZ 814
+CONTEXT:
+B1 Phrasal verbs (Part 3)
+ Do these exercises to learn common B1 phrasal verbs (intermediate level). This is the third grammar lesson in a series of 3. In these grammar lessons, you will find all the phrasal verbs you need to know for the Cambridge Preliminary English Test (PET). You can find all these phrasal verbs in the B1 Preliminary vocabulary list.
+ Exercise 3 (Phrasal verbs 81-90)
+ Fill in each gap with one of the words or phrasal verbs in the box below.
+ into – off – on – up – wake up – wash up – wear out – work out – wrap up – write down
+Q 11612 [gaps] Don't forget to turn {1} the lights when you go to bed.
+  {1} free text
+Q 11613 [gaps] How often do you {1} at the gym?
+  {1} free text
+Q 11614 [gaps] I didn't {1} the address and couldn't remember where it was.
+  {1} free text
+Q 11615 [gaps] Can you turn the TV {1} ? I want to watch it.
+  {1} free text
+Q 11616 [gaps] Sometimes when I {1} , I feel that I haven't had enough sleep.
+  {1} free text
+Q 11617 [gaps] The tyres of F1 cars {1} very fast.
+  {1} free text
+Q 11618 [gaps] Children should always {1} before dinner. It's basic hygiene.
+  {1} free text
+Q 11619 [gaps] At the end of the film, they die and turn {1} zombies.
+  {1} free text
+Q 11620 [gaps] We need to {1} all these presents.
+  {1} free text
+Q 11621 [gaps] Can you turn {1} the volume? I can't hear anything.
+  {1} free text
+
+=== PAGE /vocabulary/b1-b2/types-of-crime-and-offenders-b1-english-vocabulary/ | Types of crime and offenders – B1+ English Vocabulary | level b1-b2
+--- QUIZ 984
+CONTEXT:
+Types of crime and offenders
+ In this upper-intermediate vocabulary lesson about Types of Crime and Offenders, you will learn terms used to describe various types of crimes and the individuals involved. Check the explanation to familiarize yourself with the expressions before doing the exercises.
+ Exercise 1
+ Match each sentence with a type of crime.
+Q 8379 [radio] Two men attacked a jogger and stole his wallet and his watch.
+ 14694) arson
+ 14695) burglary
+ 14696) cybercrime
+ 14697) fraud
+ 14698) kidnapping
+ 14699) mugging
+ 14700) murder
+ 14701) robbery
+ 14702) smuggling
+ 14703) shoplifting
+Q 8380 [radio] A dentist killed his wife using poison.
+ 14704) arson
+ 14705) burglary
+ 14706) cybercrime
+ 14707) fraud
+ 14708) kidnapping
+ 14709) mugging
+ 14710) murder
+ 14711) robbery
+ 14712) smuggling
+ 14713) shoplifting
+Q 8381 [radio] Two men were caught trying to bring illegal diamonds into the country.
+ 14714) arson
+ 14715) burglary
+ 14716) cybercrime
+ 14717) fraud
+ 14718) kidnapping
+ 14719) mugging
+ 14720) murder
+ 14721) robbery
+ 14722) smuggling
+ 14723) shoplifting
+Q 8382 [radio] A woman was caught trying to buy a car with someone else’s credit card.
+ 14724) arson
+ 14725) burglary
+ 14726) cybercrime
+ 14727) fraud
+ 14728) kidnapping
+ 14729) mugging
+ 14730) murder
+ 14731) robbery
+ 14732) smuggling
+ 14733) shoplifting
+Q 8383 [radio] A student set fire to his school after failing his exams.
+ 14734) arson
+ 14735) burglary
+ 14736) cybercrime
+ 14737) fraud
+ 14738) kidnapping
+ 14739) mugging
+ 14740) murder
+ 14741) robbery
+ 14742) smuggling
+ 14743) shoplifting
+Q 8384 [radio] Sam broke into an apartment and stole a television and a laptop.
+ 14744) arson
+ 14745) burglary
+ 14746) cybercrime
+ 14747) fraud
+ 14748) kidnapping
+ 14749) mugging
+ 14750) murder
+ 14751) robbery
+ 14752) smuggling
+ 14753) shoplifting
+Q 8385 [radio] A young girl was caught stealing a chocolate bar from a shop.
+ 14754) arson
+ 14755) burglary
+ 14756) cybercrime
+ 14757) fraud
+ 14758) kidnapping
+ 14759) mugging
+ 14760) murder
+ 14761) robbery
+ 14762) smuggling
+ 14763) shoplifting
+Q 8386 [radio] Two teenage bullies were sending threatening messages to a classmate on social media.
+ 14764) arson
+ 14765) burglary
+ 14766) cybercrime
+ 14767) fraud
+ 14768) kidnapping
+ 14769) mugging
+ 14770) murder
+ 14771) robbery
+ 14772) smuggling
+ 14773) shoplifting
+Q 8387 [radio] Two men forced the president’s son into a car and then demanded $1 million for his safe return.
+ 14774) arson
+ 14775) burglary
+ 14776) cybercrime
+ 14777) fraud
+ 14778) kidnapping
+ 14779) mugging
+ 14780) murder
+ 14781) robbery
+ 14782) smuggling
+ 14783) shoplifting
+Q 8388 [radio] A man held a gun to a bank teller’s head and told him to give him all the money in the safe.
+ 14784) arson
+ 14785) burglary
+ 14786) cybercrime
+ 14787) fraud
+ 14788) kidnapping
+ 14789) mugging
+ 14790) murder
+ 14791) robbery
+ 14792) smuggling
+ 14793) shoplifting
+
+=== PAGE /vocabulary/b1-b2/types-of-crime-and-offenders-b1-english-vocabulary/ | Types of crime and offenders – B1+ English Vocabulary | level b1-b2
+--- QUIZ 985
+CONTEXT:
+Types of crime and offenders
+ Exercise 2
+ Complete each sentence with a type of offender.
+Q 8389 [gaps] The {1} created realistic banknotes at home and tried to use them to buy jewellery.
+  {1} options: vandal | terrorist | forger | hacker | drug trafficker | embezzler | harasser | manslaughterer | assailant | extortionist
+Q 8390 [gaps] A {1} smashed all the windows of a parked car.
+  {1} options: embezzler | vandal | terrorist | hacker | extortionist | harasser | drug trafficker | forger | assailant | manslaughterer
+Q 8391 [gaps] The {1} attacked a man as he was leaving a pub, leaving him with six broken ribs.
+  {1} options: extortionist | terrorist | manslaughterer | vandal | embezzler | forger | assailant | harasser | drug trafficker | hacker
+Q 8392 [gaps] A {1} was charged with importing marijuana and selling it in his local area.
+  {1} options: hacker | extortionist | embezzler | vandal | forger | harasser | manslaughterer | terrorist | assailant | drug trafficker
+Q 8393 [gaps] The {1} broke into a bank's computer system to access its clients' private information.
+  {1} options: manslaughterer | terrorist | embezzler | vandal | assailant | drug trafficker | hacker | forger | harasser | extortionist
+Q 8394 [gaps] The {1} threatened the shop owners with violence unless they paid him.
+  {1} options: terrorist | manslaughterer | hacker | forger | harasser | vandal | extortionist | embezzler | assailant | drug trafficker
+Q 8395 [gaps] The {1} was driving home after drinking and killed a pedestrian.
+  {1} options: hacker | harasser | terrorist | assailant | embezzler | manslaughterer | vandal | drug trafficker | extortionist | forger
+Q 8396 [gaps] The {1} kept calling up a colleague and verbally abusing her, causing her mental distress.
+  {1} options: hacker | manslaughterer | terrorist | extortionist | harasser | assailant | forger | vandal | embezzler | drug trafficker
+Q 8397 [gaps] The {1} illegally diverted money from the company's accounts for years.
+  {1} options: terrorist | extortionist | drug trafficker | harasser | hacker | forger | assailant | embezzler | vandal | manslaughterer
+Q 8398 [gaps] The {1} carried out a series of bombings in the city, instilling fear in the hearts of its residents.
+  {1} options: harasser | extortionist | manslaughterer | terrorist | embezzler | forger | vandal | drug trafficker | hacker | assailant
+
+=== PAGE /vocabulary/b1-b2/types-of-crime-and-offenders-b1-english-vocabulary/ | Types of crime and offenders – B1+ English Vocabulary | level b1-b2
+--- QUIZ 986
+CONTEXT:
+Types of crime and offenders
+ Exercise 3
+ Complete each sentence with a type of crime or a type of offender.
+ EXAMPLE: A forger is a person who commits forgery.
+Q 8399 [gaps] A hacker is a person who specialises in {1} .
+  {1} free text
+Q 8400 [gaps] A {1} is a person who commits vandalism.
+  {1} free text
+Q 8401 [gaps] A smuggler is a person who is involved in {1} .
+  {1} free text
+Q 8402 [gaps] A {1} is an individual who specialises in burglary.
+  {1} free text
+Q 8403 [gaps] A kidnapper is a criminal who is guilty of {1} .
+  {1} free text
+Q 8404 [gaps] The {1} was charged with arson.
+  {1} free text
+Q 8405 [gaps] A mugger is someone who engages in {1} .
+  {1} free text
+Q 8406 [gaps] An {1} is a person who commits assault.
+  {1} free text
+Q 8407 [gaps] An embezzler is a person who commits {1} .
+  {1} free text
+Q 8408 [gaps] An {1} is guilty of extortion.
+  {1} free text
+
+=== PAGE /reading/a2/a-really-popular-summer-festival-in-the-uk-a2-english-reading-test/ | A really popular summer festival in the UK – A2 English Reading Test | level a2
+--- QUIZ 773
+CONTEXT:
+A2 English Reading Test
+ Read a text about The Edinburgh festival, and for questions 1 to 10, fill in each gap with ONE word.
+ A really popular summer festival in the UK
+ One of the most popular summer festivals in the UK is the Edinburgh Festival. It isn’t actually one festival; eight festivals are held in the city simultaneously, including the Art Festival, the Book Festival, the International Festival, the Fringe and the Royal Edinburgh Military Tattoo.
+ The Edinburgh Festival has happened in August every year since 1947, except for 2020. The idea for a festival came from Rudolf Bing, an Austrian who loved and sponsored the arts. Bing was the general manager of the famous Opera House at Glyndebourne in the South of England. He wanted to organise an international festival of music and opera to help fund the Opera House. Different cities were considered, including Oxford, but finally, Edinburgh, which already had a long history of festivals, was chosen. 
+ Two important events took place during the first International Festival. Firstly, a week-long film festival was organised by the Edinburgh Film Guild. Secondly, eight theatre groups arrived uninvited. They were not allowed to perform in the International Festival, so they set up their shows in other venues in the city. That became the ‘Edinburgh Festival Fringe’. 
+ The Fringe Festival is now the largest of the festivals. In 2018, it featured more than 55,000 performances of 3,548 different shows in 317 venues. There are circus, music, dance, comedy, theatre performances and much more. Comedy is the most common performance: over a third of the shows are comedy. 
+ A popular event of the Military Festival is the Tattoo. It takes place at the castle each night. Military musicians from across the world perform, and there is a great light and fireworks display. Another popular event is its grand finale: a classical music concert in Princes Street Gardens, when fireworks shoot into the sky, in time to the music. 
+ Attending the festival is a great experience, but planning ahead is a good idea. Hundreds of thousands of people attend each year, so you’ll need to book accommodation and tickets for popular shows in advance. But don’t plan too much! You’ll find out about great, little-known shows and performers while you are there, and you’ll be disappointed if you are too busy to attend. 
+ Questions
+Q 6599 [gaps] The Edinburgh Festival is not a single festival; there are in fact {1} festivals.
+  {1} free text
+Q 6600 [gaps] The first Edinburgh {1} Festival was organised by Rudolf Bing.
+  {1} free text
+Q 6601 [gaps] Edinburgh was probably chosen because of its {1} {2} of festivals.
+  {1} free text
+  {2} free text
+Q 6602 [gaps] The {1} festival was organised to take place at the same time as Bing's first festival.
+  {1} free text
+Q 6603 [gaps] The Edinburgh Festival {1} started in 1947 but was unplanned.
+  {1} free text
+Q 6604 [gaps] The largest festival in August is the {1} Festival.
+  {1} free text
+Q 6605 [gaps] There are more {1} performances at the Fringe than other performances.
+  {1} free text
+Q 6606 [gaps] The {1} is a famous event of the Military Festival.
+  {1} free text
+Q 6607 [gaps] The last performance at the festival is a {1} {2} {3} with fireworks.
+  {1} free text
+  {2} free text
+  {3} free text
+Q 6608 [gaps] The writer advises visitors to buy tickets for {1} {2} before the festival.
+  {1} free text
+  {2} free text
+
+=== PAGE /writing/b2/a-formal-letter-of-complaint-tips-examples-exercises/ | Writing formal letter of complaint – Tips, examples and exercises | level b2
+--- QUIZ 799
+CONTEXT:
+Writing a formal letter of Complaint
+ Exercise 1
+ Choose the correct words to complete the sentences.
+Q 6887 [gaps] {1} the brochure stated that all meals were included, we did not receive lunch on two occasions.
+  {1} options: Although | Firstly | However
+Q 6888 [gaps] I wish to complain {1} the service I received at your hotel.
+  {1} options: for | about | by
+Q 6889 [gaps] When we complained, we {1} that the staff were too busy to help us.
+  {1} options: told | were told | would be told
+Q 6890 [gaps] The advert said that the cupboard is easy to assemble. {1} , it was very difficult.
+  {1} options: Although | However | Additionally
+Q 6891 [gaps] I was extremely disappointed {1} the quality of the entertainment.
+  {1} options: with | at | from
+Q 6892 [gaps] I was told {1} a member of staff that no more tickets were available.
+  {1} options: to | by | from
+Q 6893 [gaps] I demand {1} for my terrible experience.
+  {1} options: compensation | compensate | compensating
+Q 6894 [gaps] We {1} enough time to see all the sights.
+  {1} options: were not given | did not give | would not give
+Q 6895 [gaps] We were {1} by the entertainment which was provided.
+  {1} options: worried | shocked | anxious
+Q 6896 [gaps] I must {1} on a full refund.
+  {1} options: expect | demand | insist
+
+=== PAGE /writing/b2/a-formal-letter-of-complaint-tips-examples-exercises/ | Writing formal letter of complaint – Tips, examples and exercises | level b2
+--- QUIZ 800
+CONTEXT:
+Writing a formal letter of Complaint
+ Exercise 2
+ Read the information in adverts and brochures. Then complete the sentence in the letter of complaint. Write one or two words in each gap.
+Q 6897 [gaps] ADVERT: “The machine is easy to operate”. ‣ LETTER: The advert said that the machine {1} easy to operate.
+  {1} free text
+Q 6898 [gaps] ADVERT: “The boots will last a long time.” ‣ LETTER: The advert said that the boots {1} a long time.
+  {1} free text
+Q 6899 [gaps] BROCHURE: “You will see monkeys in the rainforest.” ‣ LETTER: The brochure stated that we {1} monkeys in the rainforest.
+  {1} free text
+Q 6904 [gaps] ADVERT: “The head torch comes with batteries.” ‣ LETTER: The advert stated that the head torch {1} with batteries.
+  {1} free text
+Q 6900 [gaps] BROCHURE: “Your guide will be fluent in English.” ‣ LETTER: The brochure stated that our guide {1} fluent in English.
+  {1} free text
+Q 6903 [gaps] ADVERT: “All hotel rooms have air conditioning.” ‣ LETTER: Your advert said that all hotel rooms {1} air conditioning.
+  {1} free text
+Q 6901 [gaps] BROCHURE: “We will provide welcome drinks.” ‣ LETTER: The brochure said that you {1} welcome drinks.
+  {1} free text
+Q 6902 [gaps] BROCHURE: “The hotel is close to the beach.” ‣ LETTER: The brochure said that the hotel {1} close to the beach.
+  {1} free text
+
+=== PAGE /writing/b2/a-formal-letter-of-complaint-tips-examples-exercises/ | Writing formal letter of complaint – Tips, examples and exercises | level b2
+--- QUIZ 801
+CONTEXT:
+Writing a formal letter of Complaint
+ Exercise 3
+ Turn these active sentences into passive.
+ EXAMPLE: He ignored me the whole time. ‣ I was ignored the whole time.
+Q 6905 [gaps] They told me that there were no seats available. ‣ {1} that there were no seats available.
+  {1} free text
+Q 6906 [gaps] They assured us that we could have a refund. ‣ {1} that we could have a refund.
+  {1} free text
+Q 6911 [gaps] We realised that they had charged us for the minibar. ‣ We realised that {1} for the minibar.
+  {1} free text
+Q 6908 [gaps] They assured me that there would be no problems. ‣ {1} that there would be no problems.
+  {1} free text
+Q 6910 [gaps] They had told me that the parking was free. ‣ {1} that the parking was free.
+  {1} free text
+Q 6907 [gaps] They charged me twice for the same trip. ‣ {1} twice for the same trip.
+  {1} free text
+Q 6909 [gaps] The brochure said that they would give us a room with a balcony. ‣ The brochure said that {1} a room with a balcony.
+  {1} free text
+Q 6912 [gaps] They told us that the flight had been cancelled. ‣ {1} that the flight had been cancelled.
+  {1} free text
+
+=== PAGE /writing/b2/a-formal-letter-of-complaint-tips-examples-exercises/ | Writing formal letter of complaint – Tips, examples and exercises | level b2
+--- QUIZ 802
+CONTEXT:
+Writing a formal letter of Complaint
+ Exercise 4
+ Fill in the gaps with the words in the box.
+ although – demand – disappointed – extremely – faithfully – firstly – however – secondly – were – wish – would
+Q 6913 [gaps] Dear Sir / Madam, /  I 1 {1} to complain about my experience at your restaurant. I visited there with my family on Friday 9 March at 7 pm and I was very 2 {2} with the service we received. /  3 {3} , we had to wait twenty minutes for someone to take our order. When the waitress finally took our order, we 4 {4} told that the food would take fifteen minutes to arrive. 5 {5} , it took forty-five minutes. When we complained to the waitress, she did not offer any kind of compensation. /  Secondly, 6 {6} we had a voucher which stated that we 7 {7} get £10 off the price of our meal if we spent over £50, the waitress said that we could not use it because the offer had expired. I was 8 {8} surprised and annoyed about this because there was not a date on the voucher. /  I 9 {9} some compensation for this disappointing experience. /  Yours 10 {10} , /  Tom Evans
+  {1} free text
+  {2} free text
+  {3} free text
+  {4} free text
+  {5} free text
+  {6} free text
+  {7} free text
+  {8} free text
+  {9} free text
+  {10} free text
+
+=== PAGE /vocabulary/b2/war-and-peace-b2-english-vocabulary/ | War and peace – B2 English Vocabulary | level b2
+--- QUIZ 981
+CONTEXT:
+War and peace
+ In this pre-advanced vocabulary lesson about War and Peace, you will learn an array of words and phrases used to talk about conflict, peacekeeping, and diplomacy. Check the explanation to familiarize yourself with the expressions before doing the exercises.
+ Exercise 1
+ Choose the correct option for each gap.
+Q 8349 [radio] We were all afraid when we heard that war had ______ in the region.
+ 14654) A. broken up
+ 14655) B. carried out
+ 14656) C. broken out
+ 14657) D. overthrown
+Q 8350 [radio] The Duke of Wellington _____ Napoleon at the Battle of Waterloo.
+ 14658) A. released
+ 14659) B. defeated
+ 14660) C. escalated
+ 14661) D. stood down
+Q 8351 [radio] Terrorists tried to _____ the train by planting a bomb under a seat.
+ 14662) A. blow up
+ 14663) B. carry out
+ 14664) C. put down
+ 14665) D. retreat
+Q 8352 [radio] Both parties agreed to a two-day _____, to evacuate civilians from the city.
+ 14666) A. disarmament
+ 14667) B. ceasefire
+ 14668) C. peace treaty
+ 14669) D. insurgency
+Q 8353 [radio] The hostage was _____ after three years’ incarceration.
+ 14670) A. defeated
+ 14671) B. pulled out
+ 14672) C. overthrown
+ 14673) D. released
+Q 8354 [radio] The _____ in the country aimed to overthrow the government and establish a new leadership.
+ 14674) A. ceasefire
+ 14675) B. insurgency
+ 14676) C. peace negotiations
+ 14677) D. refugees
+Q 8355 [radio] The United Nations sent troops on a _____ to the war-torn region.
+ 14678) A. peace treaty
+ 14679) B. sanction
+ 14680) C. peacemaker
+ 14681) D. peacekeeping mission
+Q 8356 [radio] We hope that the leaders will come to an agreement during this week’s _____.
+ 14682) A. peace negotiations
+ 14683) B. peace treaty
+ 14684) C. peacemaker
+ 14685) D. disarmament
+Q 8357 [radio] Several leaders refused to agree to the _____ of their missiles.
+ 14686) A. disarmament
+ 14687) B. ceasefire
+ 14688) C. humanitarian aid
+ 14689) D. insurgency
+Q 8358 [radio] Many attempts have been made to _____ the oppressive dictator.
+ 14690) A. release
+ 14691) B. put out
+ 14692) C. overthrow
+ 14693) D. retreat
+
+=== PAGE /vocabulary/b2/war-and-peace-b2-english-vocabulary/ | War and peace – B2 English Vocabulary | level b2
+--- QUIZ 982
+CONTEXT:
+War and peace
+ Exercise 2
+ Choose the most suitable option to complete each sentence. You can use each option ONLY ONCE.
+Q 8359 [gaps] Police failed to break up {1}
+  {1} options: had broken out in the region. | the protest outside the town hall. | three buses in the middle of the rush hour. | the ceasefire as promised. | the soldiers put down their weapons. | the dictator have been unsuccessful. | the rebellion. | the territory. | to avoid losing more lives. | of the war.
+Q 8360 [gaps] Two countries have already pulled out {1}
+  {1} options: the soldiers put down their weapons. | three buses in the middle of the rush hour. | of the war. | the ceasefire as promised. | the protest outside the town hall. | the rebellion. | had broken out in the region. | the territory. | the dictator have been unsuccessful. | to avoid losing more lives.
+Q 8361 [gaps] They decided to surrender {1}
+  {1} options: the ceasefire as promised. | the territory. | the soldiers put down their weapons. | the protest outside the town hall. | had broken out in the region. | of the war. | three buses in the middle of the rush hour. | the dictator have been unsuccessful. | to avoid losing more lives. | the rebellion.
+Q 8362 [gaps] Military action was taken to put down {1}
+  {1} options: to avoid losing more lives. | three buses in the middle of the rush hour. | the rebellion. | the dictator have been unsuccessful. | the territory. | the protest outside the town hall. | the ceasefire as promised. | of the war. | the soldiers put down their weapons. | had broken out in the region.
+Q 8363 [gaps] The leader intends to take over {1}
+  {1} options: the protest outside the town hall. | to avoid losing more lives. | of the war. | the soldiers put down their weapons. | the rebellion. | had broken out in the region. | three buses in the middle of the rush hour. | the ceasefire as promised. | the dictator have been unsuccessful. | the territory.
+Q 8364 [gaps] Terrorists tried to blow up {1}
+  {1} options: three buses in the middle of the rush hour. | the dictator have been unsuccessful. | the soldiers put down their weapons. | to avoid losing more lives. | had broken out in the region. | the protest outside the town hall. | of the war. | the rebellion. | the territory. | the ceasefire as promised.
+Q 8365 [gaps] I was not surprised to hear that war {1}
+  {1} options: the rebellion. | of the war. | the dictator have been unsuccessful. | had broken out in the region. | three buses in the middle of the rush hour. | the ceasefire as promised. | the soldiers put down their weapons. | the territory. | the protest outside the town hall. | to avoid losing more lives.
+Q 8366 [gaps] After receiving instructions to stand down, {1}
+  {1} options: three buses in the middle of the rush hour. | the ceasefire as promised. | the soldiers put down their weapons. | the rebellion. | to avoid losing more lives. | had broken out in the region. | of the war. | the dictator have been unsuccessful. | the protest outside the town hall. | the territory.
+Q 8367 [gaps] We hope that both parties will carry out {1}
+  {1} options: the protest outside the town hall. | three buses in the middle of the rush hour. | the soldiers put down their weapons. | the rebellion. | to avoid losing more lives. | of the war. | the territory. | had broken out in the region. | the ceasefire as promised. | the dictator have been unsuccessful.
+Q 8368 [gaps] Attempts to overthrow {1}
+  {1} options: the protest outside the town hall. | the ceasefire as promised. | the rebellion. | three buses in the middle of the rush hour. | the soldiers put down their weapons. | the dictator have been unsuccessful. | to avoid losing more lives. | of the war. | the territory. | had broken out in the region.
+
+=== PAGE /vocabulary/b2/war-and-peace-b2-english-vocabulary/ | War and peace – B2 English Vocabulary | level b2
+--- QUIZ 983
+CONTEXT:
+War and peace
+ Exercise 3
+ Complete the text using words from the box.
+ civil war – civilian casualties – defeated – humanitarian crisis – overthrow – peace treaty – refugees – resistance – sanctions – war crimes
+Q 8369 [gaps] The {1} fought bravely against the oppressive regime.
+  {1} free text
+Q 8370 [gaps] The leader was accused of torture, genocide, and other atrocious {1} .
+  {1} free text
+Q 8371 [gaps] The United Nations imposed {1} on the country to pressure its government to change its behavior.
+  {1} free text
+Q 8372 [gaps] The {1} live in fear of being sent back to their country.
+  {1} free text
+Q 8373 [gaps] The {1} lasted well over ten years.
+  {1} free text
+Q 8374 [gaps] The conflict has caused a massive {1} , and intervention is badly needed.
+  {1} free text
+Q 8375 [gaps] Over 100,000 {1} have been recorded since the conflict began.
+  {1} free text
+Q 8376 [gaps] Attempts to {1} the government have resulted in increased military protection.
+  {1} free text
+Q 8377 [gaps] Their soldiers were weak and underarmed, so were easily {1} .
+  {1} free text
+Q 8378 [gaps] The signing of the {1} brought a welcome end to the war.
+  {1} free text
+
+=== PAGE /vocabulary/b2/the-news-and-media-b2-english-vocabulary/ | News and media – B2 English Vocabulary | level b2
+--- QUIZ 972
+CONTEXT:
+News and media
+ In this pre-advanced vocabulary lesson about News and Media, you will learn words and phrases related to the world of news and media, from television and radio to newspapers and publishing. Check the explanation to familiarize yourself with the expressions before doing the exercises.
+ Exercise 1
+ Choose the correct option for each gap.
+Q 8258 [radio] I read a fascinating four-page _____ on cloning in a scientific magazine last week.
+ 14534) A. forecast
+ 14535) B. headline
+ 14536) C. feature
+ 14537) D. editor
+Q 8259 [radio] OK News has several _____, including two television channels and radio stations, and a website.
+ 14538) A. media outlets
+ 14539) B. articles
+ 14540) C. anchors
+ 14541) D. broadcasts
+Q 8260 [radio] My uncle is a _____; he writes for the New Town Mirror.
+ 14542) A. editor
+ 14543) B. journalist
+ 14544) C. feature
+ 14545) D. biased
+Q 8261 [radio] The shocking scandal involving the famous actor made the _____ in every major news outlet.
+ 14546) A. broadcasts
+ 14547) B. headlines
+ 14548) C. commercials
+ 14549) D. viewers
+Q 8262 [radio] I turned to the radio to listen to the _____ on this morning’s earthquake.
+ 14550) A. breaking news
+ 14551) B. column
+ 14552) C. article
+ 14553) D. media outlets
+Q 8263 [radio] After his latest movie release, the actor appeared on a popular _____ to discuss his career and upcoming projects.
+ 14554) A. tabloid
+ 14555) B. editor
+ 14556) C. talk show
+ 14557) D. column
+Q 8264 [radio] The political article was heavily _____, clearly favoring one side of the argument and lacking objectivity.
+ 14558) A. sensationalist
+ 14559) B. biased
+ 14560) C. censorship
+ 14561) D. tabloid
+Q 8265 [radio] The show was first _____ on television in 1986.
+ 14562) A. forecast
+ 14563) B. live coverage
+ 14564) C. broadcast
+ 14565) D. biased
+Q 8266 [radio] There were a lot of _____ during the programme, many of which were advertising beer.
+ 14566) A. commercials
+ 14567) B. features
+ 14568) C. viewers
+ 14569) D. press releases
+Q 8267 [radio] I read an interesting _____ on AI in a technology magazine.
+ 14570) A. editor
+ 14571) B. broadcast
+ 14572) C. article
+ 14573) D. tabloid
+
+=== PAGE /vocabulary/b2/the-news-and-media-b2-english-vocabulary/ | News and media – B2 English Vocabulary | level b2
+--- QUIZ 973
+CONTEXT:
+News and media
+ Exercise 2
+ Choose the most suitable option to complete each sentence. You can use each option ONLY ONCE.
+Q 8268 [gaps] The {1} who is on the 6 p.m. news has a very clear accent.
+  {1} options: correspondent | live coverage | tabloids | small ads | censorship | anchor | press release | ratings | column | current affairs programme
+Q 8269 [gaps] Many people buy {1} because of their sensationalist headlines.
+  {1} options: small ads | live coverage | current affairs programme | correspondent | tabloids | ratings | anchor | censorship | column | press release
+Q 8270 [gaps] I read her {1} on gardening in the Sunday Times each week.
+  {1} options: ratings | censorship | live coverage | current affairs programme | small ads | anchor | correspondent | column | press release | tabloids
+Q 8271 [gaps] The {1} of the championship game allowed fans all around the world to witness the thrilling match in real-time.
+  {1} options: ratings | column | current affairs programme | live coverage | tabloids | anchor | correspondent | press release | small ads | censorship
+Q 8272 [gaps] I checked the {1} to see if there was any used furniture for sale.
+  {1} options: press release | ratings | censorship | small ads | current affairs programme | tabloids | correspondent | anchor | live coverage | column
+Q 8273 [gaps] Before watching a programme, I usually check the viewer {1} .
+  {1} options: small ads | censorship | correspondent | tabloids | ratings | anchor | live coverage | current affairs programme | column | press release
+Q 8274 [gaps] Much of the article had been omitted due to {1} issues.
+  {1} options: ratings | current affairs programme | correspondent | column | anchor | tabloids | small ads | censorship | live coverage | press release
+Q 8275 [gaps] The war {1} was speaking live from Afghanistan.
+  {1} options: press release | censorship | column | small ads | correspondent | current affairs programme | tabloids | ratings | live coverage | anchor
+Q 8276 [gaps] I watched an interesting {1} on Climate Change.
+  {1} options: ratings | small ads | correspondent | live coverage | column | current affairs programme | press release | anchor | censorship | tabloids
+Q 8277 [gaps] In his {1} last night, the President announced that he was stepping down.
+  {1} options: correspondent | small ads | censorship | column | current affairs programme | live coverage | anchor | ratings | press release | tabloids
+
+=== PAGE /vocabulary/b2/the-news-and-media-b2-english-vocabulary/ | News and media – B2 English Vocabulary | level b2
+--- QUIZ 974
+CONTEXT:
+News and media
+ Exercise 3
+ Complete the text using words from the box. You can use each word ONLY ONCE.
+ correspondent – editor – feature – forecast – front page – press release – ratings – tabloids – unbiased – viewers
+Q 8278 [gaps] According to the weather {1} , it’s supposed to be sunny all day tomorrow.
+  {1} free text
+Q 8279 [gaps] The {1} made a few changes to the article before submitting it for publication.
+  {1} free text
+Q 8280 [gaps] The programme has more {1} than any other show on the channel.
+  {1} free text
+Q 8281 [gaps] The article was written in a neutral, {1} tone.
+  {1} free text
+Q 8282 [gaps] There was a four-page weather {1} on organic farming in the Sunday Magazine this week.
+  {1} free text
+Q 8283 [gaps] The sad news of the King’s death was announced in a {1} this morning.
+  {1} free text
+Q 8284 [gaps] His remarkable rescue story made the {1} of the local newspaper.
+  {1} free text
+Q 8285 [gaps] You shouldn’t believe everything you read in the {1} ; a lot of it isn’t true.
+  {1} free text
+Q 8286 [gaps] After seeing the poor {1} , I decided not to watch the programme after all.
+  {1} free text
+Q 8287 [gaps] As the {1} was speaking, I could hear gunfire in the background.
+  {1} free text
+
+=== PAGE /vocabulary/b2/feelings-and-emotions-b2-english-vocabulary/ | Feelings and emotions – B2 English Vocabulary | level b2
+--- QUIZ 969
+CONTEXT:
+Feelings and emotions
+ In this pre-advanced vocabulary lesson about Feelings and Emotions, you will learn various adjectives used to discuss how we feel. Check the explanation to familiarize yourself with the expressions before doing the exercises.
+ Exercise 1
+ Choose the correct option for each gap.
+Q 8228 [radio] Tara was too _____ to speak when she heard the shocking news.
+ 14494) A. ecstatic
+ 14495) B. calm
+ 14496) C. proud
+ 14497) D. stunned
+Q 8229 [radio] Although the rest of the family had strong opinions about the matter, Maud felt quite _____.
+ 14498) A. calm
+ 14499) B. indifferent
+ 14500) C. hysterical
+ 14501) D. relieved
+Q 8230 [radio] Everything had gone exactly as planned, and I felt very _____.
+ 14502) A. satisfied
+ 14503) B. overwhelmed
+ 14504) C. bewildered
+ 14505) D. terrified
+Q 8231 [radio] Maria was _____ by her husband’s insensitive comments about her weight.
+ 14506) A. relaxed
+ 14507) B. exhilarated
+ 14508) C. anxious
+ 14509) D. offended
+Q 8232 [radio] I opened my wife’s diary because I was _____ to find out what she’d written about me.
+ 14510) A. calm
+ 14511) B. furious
+ 14512) C. curious
+ 14513) D. proud
+Q 8233 [radio] Agnes was _____ to hear how her husband’s surgery had gone.
+ 14514) A. tired
+ 14515) B. exhilarated
+ 14516) C. anxious
+ 14517) D. calm
+Q 8234 [radio] We felt very _____ when we were told our first grandchild had been born.
+ 14518) A. nervous
+ 14519) B. joyful
+ 14520) C. upset
+ 14521) D. bored
+Q 8235 [radio] Frances was very _____, so I lent her my handkerchief to dry her eyes.
+ 14522) A. upset
+ 14523) B. exhilarated
+ 14524) C. bewildered
+ 14525) D. proud
+Q 8236 [radio] Ken was _____ that he’d done well in the exam because he’d known every single answer.
+ 14526) A. calm
+ 14527) B. nervous
+ 14528) C. confident
+ 14529) D. devastated
+Q 8237 [radio] Tony’s unsuccessful attempts to fix the WiFi connection had left him quite _____.
+ 14530) A. stunned
+ 14531) B. frustrated
+ 14532) C. nervous
+ 14533) D. content
+
+=== PAGE /vocabulary/b2/feelings-and-emotions-b2-english-vocabulary/ | Feelings and emotions – B2 English Vocabulary | level b2
+--- QUIZ 970
+CONTEXT:
+Feelings and emotions
+ Exercise 2
+ Choose the most suitable option to complete each sentence. You can use each option ONLY ONCE.
+Q 8238 [gaps] Sally was {1} after being robbed, and nobody could calm her down.
+  {1} options: relaxed | hysterical | reserved | proud | relieved | puzzled | disappointed | furious | guilty | tired
+Q 8239 [gaps] After working a 14-hour shift, Bob was very {1} .
+  {1} options: puzzled | hysterical | relaxed | proud | disappointed | relieved | reserved | furious | guilty | tired
+Q 8240 [gaps] I felt {1} when I made it to the station just in time to catch my train.
+  {1} options: hysterical | puzzled | furious | reserved | tired | relieved | guilty | disappointed | proud | relaxed
+Q 8241 [gaps] Luke was {1} by the math problem. He couldn't understand why he could not get it right.
+  {1} options: relaxed | proud | tired | furious | puzzled | reserved | guilty | relieved | hysterical | disappointed
+Q 8242 [gaps] Everyone else was nervous about the exam, but Tom was very {1} .
+  {1} options: relaxed | tired | hysterical | reserved | relieved | disappointed | furious | puzzled | proud | guilty
+Q 8243 [gaps] Ann was {1} when she found out her son had been skipping school all term. She wouldn't stop yelling at him.
+  {1} options: guilty | relaxed | relieved | furious | proud | hysterical | puzzled | reserved | disappointed | tired
+Q 8244 [gaps] Sara is quite {1} , so it’s hard to know how she’s feeling.
+  {1} options: puzzled | furious | reserved | tired | disappointed | relieved | guilty | proud | hysterical | relaxed
+Q 8245 [gaps] Nick was very {1} of his son for doing so well in his exams.
+  {1} options: reserved | proud | relieved | hysterical | relaxed | furious | puzzled | disappointed | guilty | tired
+Q 8246 [gaps] Frida felt {1} after eating all her young son's chocolates.
+  {1} options: proud | furious | tired | puzzled | reserved | disappointed | guilty | hysterical | relaxed | relieved
+Q 8247 [gaps] We were a bit {1} with our meal. We’d expected it to be better.
+  {1} options: reserved | tired | relieved | puzzled | disappointed | relaxed | hysterical | furious | guilty | proud
+
+=== PAGE /vocabulary/b2/feelings-and-emotions-b2-english-vocabulary/ | Feelings and emotions – B2 English Vocabulary | level b2
+--- QUIZ 971
+CONTEXT:
+Feelings and emotions
+ Exercise 3
+ Complete the sentences using words from the box. You can use each word ONLY ONCE.
+ bewildered – bored – calm – depressed – devastated – ecstatic – excited – hopeful – neutral – terrified
+Q 8248 [gaps] Sandra was absolutely {1} when her fiancé got down on his knees and proposed to her.
+  {1} free text
+Q 8249 [gaps] We were all {1} when our beloved dog, Richard, passed away.
+  {1} free text
+Q 8250 [gaps] Cara was {1} when she woke from her coma, as she had no idea where she was.
+  {1} free text
+Q 8251 [gaps] Though they wanted us to take sides in their argument, we remained {1} .
+  {1} free text
+Q 8252 [gaps] Months of unsuccessful job hunting had left Gary quite {1} .
+  {1} free text
+Q 8253 [gaps] Although the rest of the family was frantic with worry, Edith remained {1} .
+  {1} free text
+Q 8254 [gaps] I was absolutely {1} when I saw the shark swimming towards me.
+  {1} free text
+Q 8255 [gaps] The children were really {1} when they found out we were taking them to the zoo.
+  {1} free text
+Q 8256 [gaps] We were all so {1} during the lesson that some of us even fell asleep.
+  {1} free text
+Q 8257 [gaps] Even though John is very ill, we are {1} that he’ll make a full recovery.
+  {1} free text
+
+=== PAGE /vocabulary/b2/relationships-b2-english-vocabulary/ | Relationships – B2 English Vocabulary | level b2
+--- QUIZ 966
+CONTEXT:
+Relationships
+ In this pre-advanced vocabulary lesson about Relationships, you will learn an array of phrasal verbs, verb phrases, and idioms used to talk about relationships. Check the explanation to familiarize yourself with the expressions before doing the exercises.
+ Exercise 1
+ Choose the correct option for each gap.
+Q 8198 [radio] He’s obviously _____ her. He talks about her all the time.
+ 14454) A. flirting
+ 14455) B. fallen for
+ 14456) C. dumped
+ 14457) D. making up with
+Q 8199 [radio] Alice was really upset after her boyfriend _____ her.
+ 14458) A. flirted
+ 14459) B. fancied
+ 14460) C. fell for
+ 14461) D. dumped
+Q 8200 [radio] Len has _____ his big brother ever since he was a small boy.
+ 14462) A. drift apart
+ 14463) B. chatted up
+ 14464) C. split up
+ 14465) D. looked up to
+Q 8201 [radio] Anton was _____ with Liz all night at the bar. I hope his girlfriend doesn’t find out.
+ 14466) A. flirting
+ 14467) B. getting along
+ 14468) C. fancying
+ 14469) D. dumping
+Q 8202 [radio] I know he’s a nice guy, but I just don’t _____ him.
+ 14470) A. make up with
+ 14471) B. drift apart
+ 14472) C. fancy
+ 14473) D. split up with
+Q 8203 [radio] Although we used to agree on everything, nowadays we _____.
+ 14474) A. split up
+ 14475) B. don’t see eye to eye
+ 14476) C. hit it off
+ 14477) D. have it in
+Q 8204 [radio] The children _____ immediately and have been inseparable ever since.
+ 14478) A. looked up to
+ 14479) B. worshipped
+ 14480) C. fell head over heels
+ 14481) D. hit it off
+Q 8205 [radio] After 20 years of marriage, we began to _____.
+ 14482) A. make up
+ 14483) B. drift apart
+ 14484) C. fancy
+ 14485) D. hit it off
+Q 8206 [radio] Tom was feeling miserable because he’d just _____ with his girlfriend.
+ 14486) A. split up
+ 14487) B. dumped
+ 14488) C. worshipped
+ 14489) D. fancied
+Q 8207 [radio] When I was a teenager, I _________ a handsome pop star. I had posters of him all over my walls.
+ 14490) A. hit it off with
+ 14491) B. split up
+ 14492) C. had it in for
+ 14493) D. idolised

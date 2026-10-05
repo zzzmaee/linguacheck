@@ -1,0 +1,1717 @@
+
+=== PAGE /grammar-points/shorts/until-vs-by-grammar-shorts/
+Q 12209 [radio] Please return the library books _____ next Friday.
+ 23655) A. until
+ 23656) B. by
+  SITE FEEDBACK: ‣ Next Friday is the deadline ⇒ by.
+Q 12211 [radio] You need to buy the train ticket _____ 5 p.m. today.
+ 23659) A. until
+ 23660) B. by
+  SITE FEEDBACK: ‣ 5 p.m. is the deadline to buy the ticket ⇒ by.
+
+=== PAGE /writing/c1/describing-visual-data-c1-english-writing/
+Q 12663 [radio] In 2020, renewables accounted for a _____ of electricity generation than in 2000.
+ 24312) A. significant drop
+ 24313) B. slight dip
+ 24314) C. much larger share
+  SITE FEEDBACK: ‣ Renewables increased from 3% in 2000 to 13% in 2020. This is a clear rise, so we choose 'much larger share'. The other options describe decreases, which do not match the data.
+Q 12664 [radio] Nuclear power experienced _____ of global electricity generation in 2020 compared with 2000.
+ 24315) A. the sharpest drop
+ 24316) B. a period of stability
+ 24317) C. a significant increase
+  SITE FEEDBACK: ‣ Nuclear fell from 17% in 2000 to 9% in 2020. This is the largest fall among all four categories, so we choose 'the sharpest drop'. The other options describe either no change or an increase, which are not supported by the data.
+Q 12666 [radio] Fossil fuels experienced a _____ between 2000 and 2020.
+ 24321) A. slight decrease
+ 24322) B. marginal rise
+ 24323) C. significant fall
+  SITE FEEDBACK: ‣ Fossil fuels fell only slightly from 63% in 2000 to 62% in 2020, so the correct option is 'slight decrease'. The other options describe changes that are either in the wrong direction or too large.
+Q 12672 [radio] The charts show that renewables underwent the _____ change of all four categories.
+ 24339) A. slightest
+ 24340) B. most substantial
+ 24341) C. most predictable
+  SITE FEEDBACK: ‣ Renewables increased by 10 percentage points, the largest change among the categories, so 'most substantial' is correct.
+
+=== PAGE /reading/c1/a-walk-gone-wrong-c1-english-reading-test/
+Q 12635 [radio] What's the main idea in paragraph 1?
+ 24261) A. The author walked for too long.
+ 24262) B. He might be lost.
+ 24263) C. It's too late for him to be there.
+  SITE FEEDBACK: ‣ The paragraph builds toward the narrator realising he may no longer be on the correct path: the fading light and changing shadows create uncertainty, and he becomes unsure whether he is still on the same track. The other options describe details in the paragraph, but they are not its main idea.
+Q 12636 [radio] What can we infer is the reason the author feels stupid in paragraph 2?
+ 24264) A. He forgot to bring a power bank.
+ 24265) B. That slope was not the right way.
+ 24266) C. He almost fell.
+  SITE FEEDBACK: ‣ In paragraph 2, the narrator mutters at his own stupidity immediately after slipping on the loose stones and nearly falling, which clearly suggests that this moment is what makes him feel stupid; the other options refer to things that happen later or are not stated in the text.
+Q 12637 [radio] Why does the narrator decide to follow the stream?
+ 24267) A. He knows streams usually lead to open ground.
+ 24268) B. He thinks it will allow him to retrace his steps.
+ 24269) C. It's the only direction he can follow in such darkness.
+  SITE FEEDBACK: ‣ The narrator chooses the stream because he believes that following it downhill will eventually lead him out of the forest to the road, which is more open ground, whereas the idea of retracing his steps or choosing it only because of the darkness is not supported by the text.
+Q 12638 [radio] What is the effect of the squirrels' noises on the author?
+ 24270) A. They make him react more strongly than the situation deserves.
+ 24271) B. They reassure him that he is not completely alone in the forest.
+ 24272) C. They distract him from the fear he feels in the darkness.
+  SITE FEEDBACK: ‣ The narrator says each time a squirrel scampered up a tree, his heart performed 'an unnecessary acrobatic display,' which shows he was overreacting to harmless noises; the other options are not supported by the text.
+Q 12639 [radio] What parallel does he draw between his experience and that of his ancestors?
+ 24273) A. He thinks he is beginning to understand the forest like they once did.
+ 24274) B. He feels his movements have become more careful and controlled.
+ 24275) C. He senses he has slipped into a survival state similar to theirs.
+  SITE FEEDBACK: ‣ The narrator realises that his reactions resemble those of early humans, who walked not 'to get their steps in, but to stay alive', showing that he feels he has slipped into a kind of survival mode; the other options mention abilities or changes that are not supported by the text.
+Q 12640 [radio] How did he react when he heard footsteps?
+ 24276) A. He started walking more slowly.
+ 24277) B. He tried to make sense of the noise.
+ 24278) C. He summoned the courage to confront his fear.
+  SITE FEEDBACK: ‣ When he hears the footsteps, he freezes in fear and then forces himself to turn around, which shows he summons the courage to face whatever is behind him; the other options are not supported by the text.
+Q 12641 [radio] Why does he say, 'I think I've just rediscovered the evolutionary benefits of walking.'
+ 24279) A. He is sharing his thoughts on how he felt during the experience.
+ 24280) B. He is making a light joke about how the walk suddenly felt like a survival lesson.
+ 24281) C. He is expressing admiration for the importance of walking in human evolution.
+  SITE FEEDBACK: ‣ The narrator says this ironically, making a light joke that his frightening, instinct-driven walk felt like a sudden survival lesson, rather than a serious reflection on evolution; the other options interpret his comment too literally.
+
+=== PAGE /grammar-points/c1/advanced-past-simple-past-continuous-past-perfect/
+Q 12642 [radio] I _____ if you might help me with this. (tentativeness, politeness)
+ 24282) A. wondered
+ 24283) B. was wondering
+ 24284) C. had wondered
+  SITE FEEDBACK: ‣ We can use the past continuous to soften requests, questions or suggestions, often sounding even more tentative than the present continuous.
+Q 12643 [radio] He _____ his keys at work. (irritation)
+ 24285) A. always left
+ 24286) B. was always leaving
+ 24287) C. had always left
+  SITE FEEDBACK: ‣ As with the present continuous, we can use the past continuous with adverbs such as always, constantly or forever to describe repeated behaviour that annoyed us in the past.
+Q 12644 [radio] You're 60? You look as if you _____ 40! (unreal present meaning)
+ 24288) A. were
+ 24289) B. were being
+ 24290) C. had been
+  SITE FEEDBACK: ‣ We use past forms, especially the past simple and past perfect, with certain expressions to talk about situations that are imaginary, unlikely or not true. We use the past simple for present unreal situations and the past perfect for unreal situations in the past.
+Q 12645 [radio] I wish I _____ the answer earlier. (unreal past regret)
+ 24291) A. knew
+ 24292) B. had known
+ 24293) C. have known
+  SITE FEEDBACK: ‣ We use the past perfect for unreal situations in the past after expressions such as I wish.
+Q 12646 [radio] She _____ the presentation when I arrived. (previous action; sequence not clear)
+ 24294) A. finished
+ 24295) B. had finished
+ 24296) C. was finishing
+  SITE FEEDBACK: ‣ We use the past perfect to show that one action happened earlier than another action in the past, especially when the time order is not clear from context.
+Q 12647 [radio] They _____ the results to be much better. (regret / unmet expectations)
+ 24297) A. were expecting
+ 24298) B. had expected
+ 24299) C. expected
+  SITE FEEDBACK: ‣ We use the past perfect to express disappointment, regret or expectations that were not fulfilled.
+Q 12648 [radio] She was exhausted; she _____ all night. (cause of a later past state)
+ 24300) A. worked
+ 24301) B. was working
+ 24302) C. had been working
+  SITE FEEDBACK: ‣ We often use the past perfect continuous to explain the reason for a physical or emotional state in the past.
+Q 12649 [radio] Their clothes were muddy — they _____ through the fields. (deduction)
+ 24303) A. had been walking
+ 24304) B. were walking
+ 24305) C. walked
+  SITE FEEDBACK: ‣ The past perfect and past perfect continuous can show that we are making a logical guess about what happened before a past moment.
+Q 12650 [radio] I _____ to talk to you about the new contract. (politeness / softening)
+ 24306) A. want
+ 24307) B. was wanting
+ 24308) C. wanted
+  SITE FEEDBACK: ‣ The past simple can make a statement sound less direct or confrontational, and it is common in professional or sensitive situations. We can also use the past continuous to soften requests, questions or suggestions, but in this case the verb want is a stative verb and cannot be used in a continuous form.
+Q 12651 [radio] During exam week, I _____ late every night. (temporary repeated action)
+ 24309) A. studied
+ 24310) B. was studying
+ 24311) C. had studied
+  SITE FEEDBACK: ‣ The past continuous can be used for repeated past actions without any negative meaning when these actions happened over a temporary, limited time period.
+
+=== PAGE /vocabulary/c1/ways-of-walking-c1-english-vocabulary/
+Q 12547 [radio] My new shoes had given me blisters, so I _____ home in pain.
+ 24098) A. sprinted
+ 24099) B. hobbled
+ 24100) C. lunged
+ 24101) D. strutted
+  SITE FEEDBACK: ‣ To hobble means to walk awkwardly and slowly, usually due to pain or an injury.
+Q 12548 [radio] After the children went to bed, I quietly _____ out of the room so as not to wake them.
+ 24102) A. scampered
+ 24103) B. marched
+ 24104) C. tiptoed
+ 24105) D. plodded
+  SITE FEEDBACK: ‣ To tiptoe means to walk quietly on your toes so as not to make any noise.
+Q 12549 [radio] Tom _____ over a tree root while walking in the woods.
+ 24106) A. stumbled
+ 24107) B. strutted
+ 24108) C. paddled
+ 24109) D. dashed
+  SITE FEEDBACK: ‣ To stumble means to trip over something and almost fall.
+Q 12550 [radio] After drinking 10 pints of beer, Ken _____ across the living room before collapsing on the sofa.
+ 24110) A. hopped
+ 24111) B. staggered
+ 24112) C. dashed
+ 24113) D. tiptoed
+  SITE FEEDBACK: ‣ To stagger means to walk unsteadily, as if you are about to fall.
+Q 12551 [radio] We _____ down the country lane, admiring the spring foliage.
+ 24114) A. strolled
+ 24115) B. paddled
+ 24116) C. limped
+ 24117) D. crawled
+  SITE FEEDBACK: ‣ To stroll means to walk at a slow, relaxed pace for pleasure.
+Q 12552 [radio] I _____ along the winding path at a leisurely pace until I came to the lake.
+ 24118) A. meandered
+ 24119) B. stumbled
+ 24120) C. scampered
+ 24121) D. lunged
+  SITE FEEDBACK: ‣ To meander means to walk slowly without a fixed route, often following a winding path.
+Q 12553 [radio] The nervous waiter _____ quickly between the tables, trying not to spill the drinks.
+ 24122) A. scampered
+ 24123) B. tiptoed
+ 24124) C. scuttled
+ 24125) D. waddled
+  SITE FEEDBACK: ‣ To scuttle means to move quickly with short, light steps, often used for small animals or people moving quickly and nervously.
+Q 12554 [radio] The spectators gasped as the cat suddenly _____ at the bird sitting on the fence.
+ 24126) A. lunged
+ 24127) B. hopped
+ 24128) C. ambled
+ 24129) D. dashed
+  SITE FEEDBACK: ‣ To lunge means to make a sudden forward movement with your body, often to attack, catch, or reach something.
+Q 12555 [radio] The old man _____ slowly down the hallway, barely lifting his slippers off the floor.
+ 24130) A. paddled
+ 24131) B. strolled
+ 24132) C. skipped
+ 24133) D. shuffled
+  SITE FEEDBACK: ‣ To shuffle means to walk slowly, barely lifting your feet off the ground.
+Q 12556 [radio] We _____ down the country lane, taking in the stunning views.
+ 24134) A. lunged
+ 24135) B. ambled
+ 24136) C. paddled
+ 24137) D. scampered
+  SITE FEEDBACK: ‣ To amble means to walk slowly in a relaxed way, without hurry.
+
+=== PAGE /writing/b2/a-film-review-b2-english-writing/
+Q 11998 [radio] The story _____ in 19th-century Paris during a time of revolution.
+ 23284) A. is set
+ 23285) B. is based
+ 23286) C. explores
+  SITE FEEDBACK: ‣ You can use 'the story is set' to say where or when something takes place.
+Q 11999 [radio] The film _____ two of the most popular actors in Hollywood.
+ 23287) A. follows
+ 23288) B. stars
+ 23289) C. plays
+  SITE FEEDBACK: ‣ 'The film stars' means it features certain actors in leading roles.
+Q 12000 [radio] It _____ the life of a young boy growing up in a war zone.
+ 23290) A. follows
+ 23291) B. stars
+ 23292) C. develops
+  SITE FEEDBACK: ‣ We say 'follows the life of' to describe a plot that focuses on someone's experiences over time.
+Q 12001 [radio] There were several _____ that completely changed the story.
+ 23293) A. special effects
+ 23294) B. sudden turns
+ 23295) C. unexpected twists
+  SITE FEEDBACK: ‣ 'Unexpected twists' refers to surprising changes in the storyline.
+Q 12002 [radio] The plot _____ slowly at first but becomes more intense later.
+ 23296) A. is based
+ 23297) B. plays
+ 23298) C. develops
+  SITE FEEDBACK: ‣ 'The plot develops' describes how a story unfolds and progresses.
+Q 12003 [radio] It's a powerful film, and I think it's _____ for older teenagers and adults.
+ 23299) A. suitable
+ 23300) B. worth
+ 23301) C. believable
+  SITE FEEDBACK: ‣ We use 'suitable for' to say something is appropriate or safe for a certain audience.
+Q 12004 [radio] The acting and the trailer gave me _____, but I was disappointed.
+ 23302) A. high expectations
+ 23303) B. stunning visuals
+ 23304) C. impressive camera work
+  SITE FEEDBACK: ‣ 'High expectations' means you expected something to be really good.
+Q 12005 [radio] Despite some slow scenes, I still think it's _____.
+ 23305) A. believable
+ 23306) B. worth watching
+ 23307) C. flat
+  SITE FEEDBACK: ‣ 'Worth watching' means that it's still valuable or enjoyable to watch.
+Q 12006 [radio] The final scene was really _____ and stayed with me for days.
+ 23308) A. shallow
+ 23309) B. thought-provoking
+ 23310) C. disappointing
+  SITE FEEDBACK: ‣ 'Thought-provoking' describes something that makes you think deeply or reflect.
+Q 12007 [radio] I found the characters boring and the story _____, with nothing exciting happening.
+ 23311) A. dull
+ 23312) B. realistic
+ 23313) C. emotional
+  SITE FEEDBACK: ‣ 'Dull' is used to describe something that is not interesting or exciting.
+
+=== PAGE /vocabulary/c1/feelings-and-reactions-c1-english-vocabulary/
+Q 12603 [radio] I completely _____ when my old school photos appeared on the screen in front of everyone.
+ 24204) A. was flustered
+ 24205) B. cringed
+ 24206) C. cracked up
+ 24207) D. laughed my head off
+  SITE FEEDBACK: ‣ If you cringe at something, it makes you feel embarrassed or uncomfortable.
+Q 12604 [radio] She _____ when she realised she'd missed her best friend's wedding.
+ 24208) A. was thrilled to bits
+ 24209) B. was taken aback
+ 24210) C. felt gutted
+ 24211) D. was on edge
+  SITE FEEDBACK: ‣ If you feel gutted, you feel extremely disappointed or upset.
+Q 12605 [radio] On our first date I kind of _____ and couldn't say much. I was too nervous.
+ 24212) A. clammed up
+ 24213) B. was taken aback
+ 24214) C. lost my temper
+ 24215) D. burst out laughing
+  SITE FEEDBACK: ‣ If you clam up, you suddenly stop talking because you are nervous or shy.
+Q 12606 [radio] She _____ when she found out she had got the promotion she wanted.
+ 24216) A. was thrilled to bits
+ 24217) B. was flustered
+ 24218) C. felt gutted
+ 24219) D. lost her temper
+  SITE FEEDBACK: ‣ If you are thrilled to bits, you feel very pleased and excited.
+Q 12607 [radio] I accidentally called my teacher 'Mum' in class — I completely _____.
+ 24220) A. made a fool of myself
+ 24221) B. was chuffed
+ 24222) C. burst out laughing
+ 24223) D. freaked out
+  SITE FEEDBACK: ‣ If you make a fool of yourself, you do something silly or embarrassing in front of others.
+Q 12608 [radio] She _____ when her father picked her up from school with the music at full blast. She wanted to disappear.
+ 24224) A. was moved
+ 24225) B. was mortified
+ 24226) C. went red
+ 24227) D. freaked out
+  SITE FEEDBACK: ‣ If you are mortified, you feel extremely embarrassed or ashamed.
+Q 12609 [radio] He _____ when he saw a spider crawl across his pillow.
+ 24228) A. lost his temper
+ 24229) B. freaked out
+ 24230) C. was flustered
+ 24231) D. was taken aback
+  SITE FEEDBACK: ‣ If you freak out, you react with extreme anger, fear, or surprise.
+Q 12610 [radio] When she couldn't find her notes just before the presentation, she _____.
+ 24232) A. was flustered
+ 24233) B. was on edge
+ 24234) C. was moved
+ 24235) D. was over the moon
+  SITE FEEDBACK: ‣ If you are flustered, you feel nervous and confused, especially when under pressure.
+
+=== PAGE /reading/a2/the-girl-who-saved-100-lives-a2-english-reading-test/
+Q 11691 [radio] Tilly and her family moved from the UK to Thailand in 2004.
+ 22312) A. True
+ 22313) B. False
+  SITE FEEDBACK: ‣ The text says they were 'on holiday in Thailand,' not that they moved there.
+Q 11692 [radio] The bad weather made Tilly remember a video about a tsunami.
+ 22314) A. True
+ 22315) B. False
+  SITE FEEDBACK: ‣ The text says, 'The weather was sunny, but the sea looked strange.' So it wasn’t bad weather that made Tilly remember the video—it was the strange sea.
+Q 11694 [radio] Tilly told her family to leave the beach because she was afraid.
+ 22318) A. True
+ 22319) B. False
+  SITE FEEDBACK: ‣ She was scared and said, 'Please Mum… It’s dangerous here!'
+Q 11695 [radio] The people who worked at the hotel helped everyone go inside the building.
+ 22320) A. True
+ 22321) B. False
+  SITE FEEDBACK: ‣ The text says 'hotel staff... quickly moved people away from the beach.'
+Q 11696 [radio] The water arrived at the beach before Tilly and her family went inside the hotel.
+ 22322) A. True
+ 22323) B. False
+  SITE FEEDBACK: ‣ They went to the second floor, and 'just then, a huge wave hit the beach.' So they were inside before.
+Q 11697 [radio] The tsunami hit many countries after it started with an earthquake near Indonesia.
+ 22324) A. True
+ 22325) B. False
+  SITE FEEDBACK: ‣ It says, 'The tsunami... began after a big earthquake close to Indonesia. Big waves hit 14 countries.'
+Q 11698 [radio] That day, nobody died on the beach where Tilly was.
+ 22326) A. True
+ 22327) B. False
+  SITE FEEDBACK: ‣ The text says, 'everyone was safe at Mai Khao beach that day.'
+Q 11699 [radio] Tilly became famous when she met the US president.
+ 22328) A. True
+ 22329) B. False
+  SITE FEEDBACK: ‣ She met the president after she became famous. She became famous because she saved lives.
+Q 11700 [radio] In 2004, there were warning systems for tsunamis, but they weren’t very good.
+ 22330) A. True
+ 22331) B. False
+  SITE FEEDBACK: ‣ The text says, 'In 2004, they didn’t [have warning systems].' This means there were no systems at all—good or bad.
+
+=== PAGE /grammar-points/c1/advanced-present-simple-and-present-continuous/
+Q 12567 [radio] Which sentence sounds more polite?
+ 24138) A. I hope you can send the file soon.
+ 24139) B. I'm hoping you can send the file soon.
+  SITE FEEDBACK: ‣ We use the present continuous to make requests or comments sound softer and more polite.
+Q 12568 [radio] Which sentence shows annoyance?
+ 24140) A. He always forgets to lock the door.
+ 24141) B. He's always forgetting to lock the door.
+  SITE FEEDBACK: ‣ The present continuous with adverbs like always often expresses irritation or criticism about repeated behaviour.
+Q 12569 [radio] Which sentence would be typical in a live sports commentary?
+ 24142) A. And Taylor now passes the ball to Watkins. Watkins controls it and shoots!
+ 24143) B. And Taylor is now passing the ball to Watkins. Watkins is controlling it and shoots!
+  SITE FEEDBACK: ‣ The present simple is used in live commentaries and demonstrations to describe actions as they happen and to sound more immediate.
+Q 12570 [radio] Which sentence describes a temporary behaviour?
+ 24144) A. You're very patient with them.
+ 24145) B. You're being very patient with them today.
+  SITE FEEDBACK: ‣ We sometimes use the present continuous with verbs that usually describe states, such as be, like, look, love, or sound, to emphasise that the state is temporary or changing.
+Q 12571 [radio] Which sentence would you expect to hear in an informal story or anecdote?
+ 24146) A. So I walk into the office, minding my own business, and everyone looks at me.
+ 24147) B. So I walked into the office, minding my own business, and everyone looks at me.
+  SITE FEEDBACK: ‣ The present simple and continuous are used in informal storytelling to make the events sound vivid and immediate. This is called the narrative present.
+Q 12572 [radio] Which sentence expresses that the speaker has just started to realise something?
+ 24148) A. I realise how difficult this job is.
+ 24149) B. I'm realising how difficult this job is.
+  SITE FEEDBACK: ‣ The present continuous can be used with some mental-state verbs like realise to show that a thought or feeling is developing or changing.
+Q 12573 [radio] Which sentence implies a temporary situation?
+ 24150) A. I love having the kids around.
+ 24151) B. I'm loving having the kids around.
+  SITE FEEDBACK: ‣ The present continuous with verbs like love expresses a feeling that is temporary or happening right now, while the present simple expresses a general feeling.
+Q 12574 [radio] Which is the correct option?
+ 24152) A. I believe you now.
+ 24153) B. I'm believing you now.
+ 24154) C. Both A and B can be used.
+  SITE FEEDBACK: ‣ Believe is a stative verb and is never used in the present continuous.
+Q 12575 [radio] Which sentence would you normally find in a news headline?
+ 24155) A. Prime minister resigns after scandal allegations.
+ 24156) B. Prime minister is resigning after scandal allegations.
+  SITE FEEDBACK: ‣ The present simple is used in news headlines to make events sound immediate and factual.
+Q 12576 [radio] Which sentence shows habitual behaviour that annoys the speaker?
+ 24157) A. You're constantly interrupting me when I'm speaking!
+ 24158) B. You constantly interrupt me when I'm speaking!
+  SITE FEEDBACK: ‣ The present continuous with adverbs like constantly or always often expresses annoyance or criticism about repeated behaviour.
+
+=== PAGE /reading/c1/what-makes-us-laugh-c1-english-reading-test/
+Q 12596 [radio] What is the author trying to explain with the frog metaphor?
+ 24182) A. How difficult it is to recreate laughter.
+ 24183) B. That it's hard to explain why we laugh.
+ 24184) C. That some jokes make no sense.
+  SITE FEEDBACK: ‣ The author uses the metaphor of a frog in biology class to illustrate that analysing humour destroys it — once you dissect a joke, it stops being funny. This highlights how hard it is to explain why we laugh.
+Q 12597 [radio] What would be a punchline, according to the author?
+ 24185) A. An unexpected turn of events.
+ 24186) B. An expected surprise.
+ 24187) C. A moment of confusion.
+  SITE FEEDBACK: ‣ The author explains that a punchline works because it surprises us — it's an unexpected twist that our brain suddenly understands, triggering laughter.
+Q 12598 [radio] What does the author imply in paragraph 3?
+ 24188) A. You often don't find comedy funny while alone.
+ 24189) B. Laughing is a bonding experience.
+ 24190) C. We laugh 30 times as much when we aren't alone.
+  SITE FEEDBACK: ‣ The author says we are 'thirty times more likely' to laugh with others, but not 'thirty times as much', so option C is inaccurate. The first refers to probability (how likely it is to happen), while the second refers to quantity (how many times it happens). Option A isn't true either, because the author doesn't say we don't find things funny when we're alone — only that we're less likely to laugh out loud. The main idea is that laughter helps people bond socially by showing connection and shared understanding — it's a way of saying 'we get each other'.
+Q 12599 [radio] Which of these lines wouldn't sound like typical British humour according to the text?
+ 24191) A. Well, cannibalism is a bit frowned upon in this area.
+ 24192) B. I chose to do comedy because everybody said I'm a joke.
+ 24193) C. He was so fat that he fell off the bed on both sides at the same time.
+  SITE FEEDBACK: ‣ The text explains that British humour often includes irony, understatement, and self-deprecation. Option A is a clear example of understatement, because it treats something shocking as if it were only mildly disapproved of. Option B shows self-deprecating humour, as the speaker makes fun of themselves. Option C uses exaggeration, which the text says is more typical of American humour.
+Q 12600 [radio] Which of these lines would the author prefer?
+ 24194) A. Well, cannibalism is a bit frowned upon in this area.
+ 24195) B. I chose to do comedy because everybody said I'm a joke.
+ 24196) C. He was so fat that he fell off the bed on both sides at the same time.
+  SITE FEEDBACK: ‣ The author says that the most admirable kind of humour is laughing at ourselves — self-deprecating jokes. That's why B, which is an example of self-deprecation, is the correct answer. A is understatement, and C is exaggeration.
+Q 12601 [radio] What does the author mean by the 'darker corners' of humour in paragraph 6?
+ 24197) A. Humour is fragile and can easily fail if delivered badly.
+ 24198) B. Timing is the most important part of performing comedy.
+ 24199) C. People should be careful where they tell certain jokes.
+  SITE FEEDBACK: ‣ The expression 'dark corners of humour' refers to the fact that humour can sometimes go wrong — some jokes cross a line, offend people, or fail because of poor delivery. The author means that humour is delicate and can easily fail if it's not handled well.
+
+=== PAGE /vocabulary/b2/technology-b2-english-vocabulary/
+Q 11539 [radio] If your computer's starting to _____, I suggest you turn it off.
+ 21908) A. troubleshoot
+ 21909) B. upgrade
+ 21910) C. reboot
+ 21911) D. overheat
+  SITE FEEDBACK: ‣ When a device overheats, it gets too hot and may stop working properly.
+Q 11541 [radio] The app _____, and I couldn't tap anything on the screen..
+ 21916) A. froze
+ 21917) B. disabled
+ 21918) C. troubleshot
+ 21919) D. rebooted
+  SITE FEEDBACK: ‣ When a device or program freezes, it stops responding and cannot be used until it is restarted or fixed.
+Q 11543 [radio] If you don't _____, you could lose all your important files.
+ 21924) A. overheat
+ 21925) B. back up your files
+ 21926) C. upgrade
+ 21927) D. disable notifications
+  SITE FEEDBACK: ‣ When you back up data, you save copies of your files to prevent loss.
+
+=== PAGE /grammar-points/shorts/maybe-vs-may-be-grammar-shorts/
+Q 12193 [radio] He _____ the new teacher in our class.
+ 23623) A. maybe
+ 23624) B. may be
+  SITE FEEDBACK: ‣ After the subject 'He' we need a verb. May be is the verb phrase (may + be) that means 'it is possible that he is'. Maybe is not a verb.
+Q 12198 [radio] He _____ forgot your number.
+ 23633) A. maybe
+ 23634) B. may be
+  SITE FEEDBACK: ‣ Maybe is usually at the beginning of a sentence, but it can also come before a verb. Here it comes before 'forgot' and means 'perhaps'. /  ‣ May be is a verb phrase, and it cannot go before the verb 'forgot'.
+
+=== PAGE /reading/a1/my-life-abroad-a1-english-reading-test/
+Q 10864 [radio] Learning English is difficult for Teresa.
+ 20401) A. True
+ 20402) B. False
+  SITE FEEDBACK: ‣ Teresa says that learning English is easy for her.
+Q 10865 [radio] Teresa watches football when she is not studying.
+ 20403) A. True
+ 20404) B. False
+  SITE FEEDBACK: ‣ Teresa doesn't watch football in her free time; she plays it.
+Q 10866 [radio] Ahmed moved to Germany for work.
+ 20405) A. True
+ 20406) B. False
+  SITE FEEDBACK: ‣ Ahmed moved to Germany for his job.
+Q 10867 [radio] Ahmed doesn’t stay at home at the weekend.
+ 20407) A. True
+ 20408) B. False
+  SITE FEEDBACK: ‣ Ahmed goes hiking with his friends on Saturday and Sunday.
+Q 10868 [radio] Ling doesn’t like people from Australia.
+ 20409) A. True
+ 20410) B. False
+  SITE FEEDBACK: ‣ Ling says Australian people are great and relaxed.
+Q 10869 [radio] Ling spends her free time by the sea.
+ 20411) A. True
+ 20412) B. False
+  SITE FEEDBACK: ‣ Ling goes to the beach and learns how to surf in her free time.
+Q 10870 [radio] Carlos moved to Japan to study Japanese.
+ 20413) A. True
+ 20414) B. False
+  SITE FEEDBACK: ‣ Carlos moved to Japan for work, not to study Japanese.
+Q 10871 [radio] Carlos likes Japanese food.
+ 20415) A. True
+ 20416) B. False
+  SITE FEEDBACK: ‣ Carlos says his favorite food is sushi.
+
+=== PAGE /writing/b1-b2/a-book-review-b1-english-writing/
+Q 11960 [radio] Gap 1
+ 23153) A. Not only the main ones, but all the characters make you think about deeper ideas.
+ 23154) B. Coelho writes in a poetic way, with lots of quotes and messages, which is a style that might not be for everyone.
+ 23155) C. Santiago leaves his home and travels through the desert, facing challenges and finding himself.
+  SITE FEEDBACK: ‣ This sentence is about the plot. The previous sentence introduces the main character and the story, so the best follow-up is a continuation of the story events. Option C summarises the journey Santiago takes, making it the most logical and cohesive choice.
+Q 11961 [radio] Gap 2
+ 23156) A. They all teach him something, but I didn’t feel very emotionally connected to them.
+ 23157) B. The book is full of deep messages about regret, choice, and self-discovery.
+ 23158) C. The story is set in Spain and the deserts of Egypt.
+  SITE FEEDBACK: ‣ This sentence is about the characters. The first sentence mentions that some characters feel more like symbols, so Option A follows naturally by adding a personal opinion about those characters — they are meaningful, but not emotionally engaging.
+Q 11962 [radio] Gap 3
+ 23159) A. The main events develop in a clear and interesting way.
+ 23160) B. The book talks about destiny, fear, and personal purpose.
+ 23161) C. The author uses simple language, making it easy to read.
+  SITE FEEDBACK: ‣ This gap appears in the section about themes and ideas. Option B clearly introduces the key topics explored in the book — destiny, fear, and personal purpose — which is what this paragraph is focused on.
+Q 11963 [radio] Gap 4
+ 23162) A. the language is easy to understand
+ 23163) B. the character grows with each chapter
+ 23164) C. the message is not always clear
+  SITE FEEDBACK: ‣ The other options don't focus on language.
+Q 11964 [radio] Gap 5
+ 23165) A. It is the ideal book for fans of fantasy books
+ 23166) B. The message is sometimes sad.
+ 23167) C. It encourages you to believe in yourself
+  SITE FEEDBACK: ‣ This sentence is about the emotional impact. Option C fits perfectly with the sentence before it, which says the story is positive and motivating. ‘It encourages you to believe in yourself’ clearly continues that idea.
+Q 11965 [radio] Gap 6
+ 23168) A. who enjoy slow-paced and descriptive storytelling.
+ 23169) B. who prefer fast-moving stories and exciting events.
+ 23170) C. who expect every book to have a dramatic ending.
+  SITE FEEDBACK: ‣ This sentence discusses the structure and pacing of the book. The paragraph mentions that not much happens in some chapters, so Option B logically completes it — readers who prefer fast-moving stories may find those parts boring.
+Q 11966 [radio] Gap 7
+ 23171) A. it describes the feelings of the readers
+ 23172) B. the writer talks about his own fears
+ 23173) C. I would have liked deeper characters
+  SITE FEEDBACK: ‣ This is the reviewer’s overall opinion and recommendation. The paragraph starts with a positive comment, and Option C adds a balanced personal criticism — that the reviewer would have liked more complex characters — before making a final recommendation.
+Q 11969 [radio] It's the kind of story that stays with you after you finish it.
+ 23182) plot
+ 23183) characters
+ 23184) themes/ideas
+ 23185) writing style
+ 23186) emotional impact
+ 23187) structure
+ 23188) overall opinion
+ 23189) recommendation
+  SITE FEEDBACK: ‣ This describes how the book made the reader feel, showing the emotional effect it had.
+Q 11970 [radio] The novel follows the life of Eleanor Oliphant who works in an office, eats the same meals every day, and spends weekends alone.
+ 23190) plot
+ 23191) characters
+ 23192) themes/ideas
+ 23193) writing style
+ 23194) emotional impact
+ 23195) structure
+ 23196) overall opinion
+ 23197) recommendation
+  SITE FEEDBACK: ‣ This gives basic information about what happens in the story — the main events and character's routine.
+Q 11971 [radio] The language is clear, sharp, and often funny, even when dealing with serious subjects.
+ 23198) plot
+ 23199) characters
+ 23200) themes/ideas
+ 23201) writing style
+ 23202) emotional impact
+ 23203) structure
+ 23204) overall opinion
+ 23205) recommendation
+  SITE FEEDBACK: ‣ This describes how the book is written — the tone, clarity, and language.
+Q 11972 [radio] It follows Eleanor's personal transformation that begins when she helps an elderly man who collapses in the street.
+ 23206) plot
+ 23207) characters
+ 23208) themes/ideas
+ 23209) writing style
+ 23210) emotional impact
+ 23211) structure
+ 23212) overall opinion
+ 23213) recommendation
+  SITE FEEDBACK: ‣ This continues the story summary by mentioning a key turning point in the narrative.
+Q 11976 [radio] It's a pleasant book to read, and even though it's not action-packed, it's full of meaning.
+ 23238) plot
+ 23239) characters
+ 23240) themes/ideas
+ 23241) writing style
+ 23242) emotional impact
+ 23243) structure
+ 23244) overall opinion
+ 23245) recommendation
+  SITE FEEDBACK: ‣ This is a general comment about how the reader felt about the book as a whole — a personal summary.
+Q 11977 [radio] The beginning is a little slow, but by the middle, it's hard to put the book down.
+ 23246) plot
+ 23247) characters
+ 23248) themes/ideas
+ 23249) writing style
+ 23250) emotional impact
+ 23251) structure
+ 23252) overall opinion
+ 23253) recommendation
+  SITE FEEDBACK: ‣ This focuses on how the story is organised and how the pacing changes as the book continues.
+
+=== PAGE /vocabulary/b1-b2/social-media-actions-b1-english-vocabulary/
+Q 11730 [radio] After breaking up with Tom, Cindy _____ to ‘single’.
+ 22486) A. pinned a post
+ 22487) B. unfollowed
+ 22488) C. tagged him
+ 22489) D. changed her status
+  SITE FEEDBACK: ‣ If you change your status, you update your profile with a new message or information.
+Q 11732 [radio] I saw that someone had _____ because of the offensive language.
+ 22494) A. flagged his post
+ 22495) B. tagged him
+ 22496) C. changed his status
+ 22497) D. pinned his post
+  SITE FEEDBACK: ‣ If you flag a post or comment, you report it as inappropriate or against community rules.
+Q 11733 [radio] I was surprised when an ex-classmate _____ last week.
+ 22498) A. muted me
+ 22499) B. checked his feed
+ 22500) C. sent me a friend request
+ 22501) D. pinned a post
+  SITE FEEDBACK: ‣ If someone sends you a friend request, they are asking to connect with you on social media.
+Q 11734 [radio] When I checked my feed, I saw that Anna had _____ about the incident online.
+ 22502) A. tagged him
+ 22503) B. posted a story
+ 22504) C. changed his status
+ 22505) D. swiped left
+  SITE FEEDBACK: ‣ If you post a story, you upload a short photo or video that disappears after a certain time.
+Q 11735 [radio] I saw that Ali had _____ in a photo of our night out.
+ 22506) A. tagged me
+ 22507) B. posted a story
+ 22508) C. changed my status
+ 22509) D. swiped left
+  SITE FEEDBACK: ‣ If you tag someone, you mention or link to them in a post or photo.
+Q 11736 [radio] I wasn’t interested in dating the guy, so I _____.
+ 22510) A. went live
+ 22511) B. went viral
+ 22512) C. swiped left
+ 22513) D. muted him
+  SITE FEEDBACK: ‣ If you swipe left on someone's profile, it means you’re not interested in them on a dating app.
+Q 11737 [radio] It didn’t take long for the video to _____.
+ 22514) A. send him a friend request
+ 22515) B. go viral
+ 22516) C. swipe right
+ 22517) D. flag a post
+  SITE FEEDBACK: ‣ If something goes viral, it becomes extremely popular and spreads quickly online.
+Q 11738 [radio] I _____ to tell her how sorry I was to hear her sad news.
+ 22518) A. sent her a DM
+ 22519) B. sent her a friend request
+ 22520) C. swiped right
+ 22521) D. muted her
+  SITE FEEDBACK: ‣ If you send someone a DM, you send them a private message (DM = direct message).
+Q 11739 [radio] You really should have _____ if you didn’t want him to see your post.
+ 22522) A. sent him a friend request
+ 22523) B. muted him
+ 22524) C. swiped left
+ 22525) D. tagged him
+  SITE FEEDBACK: ‣ If you mute someone, you stop seeing their posts or stories without unfollowing them.
+
+=== PAGE /grammar-points/shorts/wish-vs-hope-vs-expect-grammar-shorts/
+Q 11893 [radio] Sara is _____ me to give her an answer today. She'll call me later to ask.
+ 23002) A. wishing
+ 23003) B. hoping
+ 23004) C. expecting
+  SITE FEEDBACK: ‣ We use expect + object + to-infinitive to talk about something we think will probably happen or something we require from someone.
+
+=== PAGE /reading/b2/coolcationing-a-new-travel-trend-b2-english-reading-test/
+Q 11714 [radio] In the first paragraph, how is climate change affecting the tourism industry?
+ 22412) A. Holiday makers are less inclined to travel abroad due to worries about extreme weather.
+ 22413) B. Increasing temperatures are pushing tourists towards countries where the weather is mild.
+ 22414) C. Eco-friendly visitors tend to reduce their impact on the environment by staying local.
+ 22415) D. Trips to Alaska have increased by 30%.
+  SITE FEEDBACK: ‣ The text says ‘Travellers seek cooler destinations… to avoid extreme heat.’ This shows rising temperatures are causing people to choose milder climates. /  ‣ Regarding Alaska, the text says there was a '10% jump in domestic flights' overall and 'a 30% rise in travellers from Dallas.' The 30% increase does not refer to all trips.
+Q 11715 [radio] In the second paragraph, what does the research predict?
+ 22416) A. The majority of tourists will choose holiday destinations outside Europe in the near future.
+ 22417) B. Countries in central and northern Europe will attract more visitors than those in the south.
+ 22418) C. Some European countries need international support to deal with extreme weather events.
+ 22419) D. It is unlikely that European countries will experience such high temperatures again soon.
+  SITE FEEDBACK: ‣ A study ‘forecast the growth of tourism demand in northern and central Europe and its decline in the south by 2100.’
+Q 11716 [radio] Which consequence to coolcation does the writer mention in paragraph three?
+ 22420) A. Holidays during typically high-season months will become less expensive.
+ 22421) B. In some countries, hotels will bring down their prices to attract more tourists.
+ 22422) C. Hotels and other establishments in the south of Europe will always be open.
+ 22423) D. Some countries will offer spring and autumn promotions for holiday makers.
+  SITE FEEDBACK: ‣ The paragraph says: ‘Travellers braving the hottest months might, in fact, benefit from lower rates.’ This means July–August prices may go down.
+Q 11717 [radio] In the fourth paragraph, the writer talks about the situation in Kenya to...
+ 22424) A. highlight what negative impact coolcation has on local tourism.
+ 22425) B. explain why some safari camps had to close down without notice.
+ 22426) C. indicate how unexpected weather changes are affecting business.
+ 22427) D. warn about the dangers of unpredictable weather during a safari.
+  SITE FEEDBACK: ‣ The paragraph discusses how ‘the rains now arrive unpredictably… leading to unforeseen or unnecessary closures.’ This shows how changing weather impacts business operations. /  ‣ Option B is not true because the text talks about a current situation, not past closures. It also doesn’t say camps closed without notice, only that unpredictable rain patterns make it harder to plan the season.
+Q 11718 [radio] What point is the writer trying to make in paragraph five?
+ 22428) A. Northern countries fear that coolcation won’t last long enough to affect their economy.
+ 22429) B. German tourists have specific holiday preferences that won’t be affected by coolcation.
+ 22430) C. Southern Europe's popularity isn’t expected to last as tourists’ holiday interests change.
+ 22431) D. Scandinavian tourism organisations can’t identify one single cause for the region’s popularity increase.
+  SITE FEEDBACK: ‣ The paragraph mentions that Visit Sweden’s website gives no clear indication about rising demand and that Visit Norway’s website suggests marketing and exchange rates, and not just weather, are the cause. This shows Scandinavian popularity might not be caused by one factor.
+Q 11719 [radio] In the last paragraph, researchers
+ 22432) A. Suspect that coolcation might be a strategy to improve tourism during quieter months.
+ 22433) B. Confirm that Northern Europe had more visitors than Southern Europe in 2023.
+ 22434) C. Predict that the popularity of cooler destinations will have a sudden increase.
+ 22435) D. Doubt that future holiday makers will travel to Europe during quieter months.
+  SITE FEEDBACK: ‣ The paragraph says: ‘Some researchers say that such a trend doesn’t exist, but it’s an idea… to attract more visitors during less popular months.’
+
+=== PAGE /vocabulary/b1/more-daily-routines-b1-english-vocabulary/
+Q 12051 [radio] I had to ______ last night because Mum was working late.
+ 23394) A. hit the snooze button
+ 23395) B. have a shave
+ 23396) C. commute to school
+ 23397) D. make my own dinner
+  SITE FEEDBACK: ‣ When you make your own breakfast/lunch/dinner, you prepare the meal yourself instead of buying it or having someone else make it.
+Q 12052 [radio] I ______ for 6:30 the next morning because I needed to get to school early.
+ 23398) A. had a shave
+ 23399) B. run errands
+ 23400) C. set my alarm
+ 23401) D. made my own lunch
+  SITE FEEDBACK: ‣ When you set an alarm, you choose a time for your alarm clock to ring.
+Q 12054 [radio] Last night I ______ and watched a film with my girlfriend.
+ 23406) A. chilled on the sofa
+ 23407) B. walked the dog
+ 23408) C. commuted to work
+ 23409) D. checked my messages
+  SITE FEEDBACK: ‣ When you chill on the sofa or couch (in AmE), you relax and do something easy like watching TV or using your phone.
+Q 12056 [radio] The baby ______ between 2 and 3 p.m. each afternoon.
+ 23414) A. has a nap
+ 23415) B. checks its phone
+ 23416) C. commutes to work
+ 23417) D. stays up late
+  SITE FEEDBACK: ‣ When you have/take a nap, you sleep for a short time during the day.
+Q 12057 [radio] Tom ______ by bike most days because he doesn't like taking the bus.
+ 23418) A. checks his messages
+ 23419) B. feeds the cat
+ 23420) C. makes his own breakfast
+ 23421) D. commutes to work
+  SITE FEEDBACK: ‣ When you commute to work/school, you travel from your home to your workplace or school.
+Q 12058 [radio] I ______ until 10 a.m. because I didn't have to get up for work.
+ 23422) A. made my own lunch
+ 23423) B. had a shave
+ 23424) C. slept in
+ 23425) D. fed the dog
+  SITE FEEDBACK: ‣ If you sleep in, you stay in bed later than usual in the morning.
+Q 12063 [gaps] I didn't {1} to sleep until after midnight last night as I had to finish an essay.
+  {1} options: revise | check | take | feed | hit | stay | get | run | sleep | stay up
+  SITE FEEDBACK: Correct answer: get to sleep /  ‣ When you get to sleep / fall asleep, you start sleeping.
+Q 12064 [gaps] You need to {1} for your test tomorrow.
+  {1} options: take | get | revise | stay | feed | hit | check | sleep | stay up | run
+  SITE FEEDBACK: Correct answer: revising for a test /  ‣ When you revise for a test, you study something again to prepare for an exam.
+Q 12067 [gaps] We often {1} the snooze button when his alarm goes off in the morning.
+  {1} options: check | revise | feed | sleep | stay | take | run | stay up | get | hit
+  SITE FEEDBACK: Correct answer: hits the snooze button /  ‣ If you hit the snooze button, you press a button on your alarm clock to sleep for a few more minutes.
+Q 12070 [gaps] I sometimes {1} late on Friday night watching films.
+  {1} options: sleep | feed | hit | stay | run | stay up | revise | take | get | check
+  SITE FEEDBACK: Correct answer: stayed up late /  ‣ If you stay up late, you go to bed much later than usual.
+
+=== PAGE /grammar-points/b2/reduced-infinitives-omitting-the-infinitive-phrase-after-to/
+Q 12128 [radio] I'd like to join you, but I can't afford ___ right now.
+ 23502) A. to
+ 23503) B. –
+ 23504) C. both A and B are OK
+  SITE FEEDBACK: ‣ We use afford to to mean 'afford to join'. Verbs like afford always require to, so we cannot drop it.
+Q 12117 [checkbox] He is not as hardworking as he claims _____. Choose TWO correct answers
+ 23499) A. to
+ 23500) B. to be
+ 23501) C. -
+  SITE FEEDBACK: ‣ The correct answers are to be and –. With the verb be, we usually keep the full infinitive (to be). But we can also omit the whole infinitive, including to, when the meaning is clear and the verb, adjective, or noun — in this case, the verb claims — makes sense alone without a complement.
+Q 12130 [radio] I wanted to hire a lawyer but they told me not ___.
+ 23508) A. to
+ 23509) B. –
+ 23510) C. both A and B are OK
+  SITE FEEDBACK: ‣ With negative infinitives (not to), we always keep to. We cannot say just not.
+Q 12132 [radio] She asked me to come, but I refused ___ .
+ 23514) A. to
+ 23515) B. –
+ 23516) C. both A and B are OK
+  SITE FEEDBACK: ‣ We use refused to to mean 'refused to come'. We usually keep to, but when the meaning is clear, refuse can make sense alone, and in informal English to is often dropped.
+Q 12133 [radio] You can leave early if you want ___ .
+ 23517) A. to
+ 23518) B. –
+ 23519) C. both A and B are OK
+  SITE FEEDBACK: ‣ We use want to to mean 'want to leave'. Normally, verbs like want need a complement, so we keep to. But after conjunctions like if, when, what, or as, want can make sense alone, so in informal English to is often dropped.
+Q 12134 [radio] They asked me to stay, but I chose not ___ .
+ 23520) A. to
+ 23521) B. –
+ 23522) C. both A and B are OK
+  SITE FEEDBACK: ‣ We use chose not to to mean 'chose not to stay'. With negative infinitives (not to), we always keep to. It cannot be dropped.
+Q 12129 [radio] I'd love to join the team, but I'm not sure I'll be able ___ .
+ 23505) A. to
+ 23506) B. –
+ 23507) C. both A and B are OK
+  SITE FEEDBACK: ‣ We use be able to to mean 'be able to join'. Expressions like be able require to, so we cannot omit it.
+Q 12135 [radio] I didn't expect to win, but I managed ___ in the end.
+ 23523) A. to
+ 23524) B. –
+ 23525) C. both A and B are OK
+  SITE FEEDBACK: ‣ We use managed to to mean 'managed to win'. We usually keep to, but because manage can make sense alone, to is often dropped in informal English.
+Q 12136 [radio] She promised to call, but she forgot ___ .
+ 23526) A. to
+ 23527) B. –
+ 23528) C. both A and B are OK
+  SITE FEEDBACK: ‣ We use forgot to to mean 'forgot to call'. We usually keep to, but because forget can make sense alone, to is often dropped in informal English.
+Q 12131 [radio] She plans to study medicine, and I plan ___ as well.
+ 23511) A. to
+ 23512) B. –
+ 23513) C. both A and B are OK
+  SITE FEEDBACK: ‣ We use plan to to mean 'plan to study medicine'. Verbs like plan need a complement (a noun or a to-infinitive) to make sense. They don't work on their own, so we cannot drop to here.
+
+=== PAGE /reading/b1/why-your-coworkers-hate-you-b1-english-reading-test/
+Q 11701 [radio] Gap 1
+ 22332) A. Unfortunately, you can’t control how others feel—but you can stay kind and professional.
+ 22333) B. Another way to show the people you work with that you care depends on how you speak to them.
+ 22334) C. It can be unpleasant for others if your desk is always full of papers, dirty coffee cups, or old food.
+ 22335) D. We spend most of our time in them, especially at work.
+ 22336) E. In the same way, keeping yourself clean is important.
+ 22337) F. Strong smells, like food warmed in the microwave, can also bother people.
+ 22338) G. In a similar way, try to stay away from other people’s physical space.
+ 22339) H. This is because being “the smartest person in the room” can make others feel bad.
+  SITE FEEDBACK: ‣ The previous sentence lists examples of groups: 'family, friends, a football team…' Then the next sentence is 'That’s why having good relationships…' The phrase 'we spend most of our time in them' clearly refers back to those groups, especially the workplace.
+Q 11702 [radio] Gap 2
+ 22340) A. Unfortunately, you can’t control how others feel—but you can stay kind and professional.
+ 22341) B. Another way to show the people you work with that you care depends on how you speak to them.
+ 22342) C. It can be unpleasant for others if your desk is always full of papers, dirty coffee cups, or old food.
+ 22343) D. We spend most of our time in them, especially at work.
+ 22344) E. In the same way, keeping yourself clean is important.
+ 22345) F. Strong smells, like food warmed in the microwave, can also bother people.
+ 22346) G. In a similar way, try to stay away from other people’s physical space.
+ 22347) H. This is because being “the smartest person in the room” can make others feel bad.
+  SITE FEEDBACK: ‣ Before the gap, the text says: 'Outside work, don’t send messages late at night or expect instant replies.' This is about respecting people’s time. The next sentence is about 'not standing too close or looking at their screen.' So this sentence links the two ideas: respecting time and respecting space.
+Q 11703 [radio] Gap 3
+ 22348) A. Unfortunately, you can’t control how others feel—but you can stay kind and professional.
+ 22349) B. Another way to show the people you work with that you care depends on how you speak to them.
+ 22350) C. It can be unpleasant for others if your desk is always full of papers, dirty coffee cups, or old food.
+ 22351) D. We spend most of our time in them, especially at work.
+ 22352) E. In the same way, keeping yourself clean is important.
+ 22353) F. Strong smells, like food warmed in the microwave, can also bother people.
+ 22354) G. In a similar way, try to stay away from other people’s physical space.
+ 22355) H. This is because being “the smartest person in the room” can make others feel bad.
+  SITE FEEDBACK: ‣ This gap introduces a new point—how we speak to people. The next sentence asks: 'Do you sometimes tell people what to do instead of asking them?' So this sentence fits perfectly as a transition into the idea of communication style.
+Q 11704 [radio] Gap 4
+ 22356) A. Unfortunately, you can’t control how others feel—but you can stay kind and professional.
+ 22357) B. Another way to show the people you work with that you care depends on how you speak to them.
+ 22358) C. It can be unpleasant for others if your desk is always full of papers, dirty coffee cups, or old food.
+ 22359) D. We spend most of our time in them, especially at work.
+ 22360) E. In the same way, keeping yourself clean is important.
+ 22361) F. Strong smells, like food warmed in the microwave, can also bother people.
+ 22362) G. In a similar way, try to stay away from other people’s physical space.
+ 22363) H. This is because being “the smartest person in the room” can make others feel bad.
+  SITE FEEDBACK: ‣ The sentence before the gap says: 'Try not to act like you always know more than everyone else.' This gap explains why that behaviour is a problem. The phrase 'being “the smartest person in the room”…' matches the idea exactly.
+Q 11705 [radio] Gap 5
+ 22364) A. Unfortunately, you can’t control how others feel—but you can stay kind and professional.
+ 22365) B. Another way to show the people you work with that you care depends on how you speak to them.
+ 22366) C. It can be unpleasant for others if your desk is always full of papers, dirty coffee cups, or old food.
+ 22367) D. We spend most of our time in them, especially at work.
+ 22368) E. In the same way, keeping yourself clean is important.
+ 22369) F. Strong smells, like food warmed in the microwave, can also bother people.
+ 22370) G. In a similar way, try to stay away from other people’s physical space.
+ 22371) H. This is because being “the smartest person in the room” can make others feel bad.
+  SITE FEEDBACK: ‣ The previous sentence says: 'Nobody likes to work with someone messy.' This sentence gives specific examples of messy habits that can make others uncomfortable.
+Q 11706 [radio] Gap 6
+ 22372) A. Unfortunately, you can’t control how others feel—but you can stay kind and professional.
+ 22373) B. Another way to show the people you work with that you care depends on how you speak to them.
+ 22374) C. It can be unpleasant for others if your desk is always full of papers, dirty coffee cups, or old food.
+ 22375) D. We spend most of our time in them, especially at work.
+ 22376) E. In the same way, keeping yourself clean is important.
+ 22377) F. Strong smells, like food warmed in the microwave, can also bother people.
+ 22378) G. In a similar way, try to stay away from other people’s physical space.
+ 22379) H. This is because being “the smartest person in the room” can make others feel bad.
+  SITE FEEDBACK: ‣ The text just talked about cleaning shared spaces. The next sentence says: 'You don’t need to be perfect, but…' So this sentence works as a link between tidy spaces and personal hygiene.
+Q 11707 [radio] Gap 7
+ 22380) A. Unfortunately, you can’t control how others feel—but you can stay kind and professional.
+ 22381) B. Another way to show the people you work with that you care depends on how you speak to them.
+ 22382) C. It can be unpleasant for others if your desk is always full of papers, dirty coffee cups, or old food.
+ 22383) D. We spend most of our time in them, especially at work.
+ 22384) E. In the same way, keeping yourself clean is important.
+ 22385) F. Strong smells, like food warmed in the microwave, can also bother people.
+ 22386) G. In a similar way, try to stay away from other people’s physical space.
+ 22387) H. This is because being “the smartest person in the room” can make others feel bad.
+  SITE FEEDBACK: ‣ Before the gap, it says: 'Some coworkers dislike people who are popular or successful…' This sentence gives advice on how to deal with that. 'You can’t control how others feel' responds directly to the idea of unfair dislike.
+
+=== PAGE /vocabulary/a2/technology-a2-english-vocabulary/
+Q 11334 [radio] After completing the report, I _____ it with my colleagues.
+ 21347) A. shared
+ 21348) B. scrolled up
+ 21349) C. unplugged
+ 21350) D. switched
+  SITE FEEDBACK: ‣ When you share a file, you make it available for other people to use.
+Q 11335 [radio] You have too many _____ open in your browser.
+ 21351) A. screens
+ 21352) B. tabs
+ 21353) C. attachments
+ 21354) D. speakers
+  SITE FEEDBACK: ‣ A tab is a section at the top of a browser that opens another page.
+Q 11342 [radio] I sent the email with two _____: a photo and a document.
+ 21379) A. attachments
+ 21380) B. touchpads
+ 21381) C. websites
+ 21382) D. tabs
+  SITE FEEDBACK: ‣ An attachment is a file, photo, or document sent with an email.
+Q 11343 [radio] I _____ the charger from the wall and put it back in my bag.
+ 21383) A. plugged in
+ 21384) B. charged
+ 21385) C. unplugged
+ 21386) D. switched off
+  SITE FEEDBACK: ‣ When you unplug a device, you disconnect it from electricity by removing a wire.
+
+=== PAGE /grammar-points/b1-b2/double-negatives-in-english/
+Q 12086 [radio] What does this sentence mean? 'I can't not tell her the truth.'
+ 23466) A. I must tell her the truth.
+ 23467) B. I don’t have to tell her the truth.
+ 23468) C. I will probably lie to her.
+  SITE FEEDBACK: ‣ The double negative can't not means the speaker feels it is impossible not to do something, so they must do it.
+Q 12099 [radio] What does this sentence mean? 'It’s not uncommon for students to make this mistake.'
+ 23472) A. Students never make this mistake.
+ 23473) B. Students rarely make this mistake.
+ 23474) C. Students often make this mistake.
+  SITE FEEDBACK: ‣ We can use not with a negative adjective like uncommon to make the meaning positive or softer. /  ‣ The phrase not uncommon means 'quite common'.
+Q 12103 [checkbox] Which of these sentences is correct in standard English? Choose TWO correct answers
+ 23484) A. We didn't invite any of our neighbours.
+ 23485) B. We invited none of our neighbours.
+ 23486) C. We didn't invite none of our neighbours.
+  SITE FEEDBACK: ‣ We cannot use none after not, because that creates a double negative. We must use any instead. /  ‣ We invited none is also correct.
+Q 12098 [radio] What does this sentence mean? 'I didn't not like the film, but it was too long.'
+ 23469) A. I didn’t like the film at all.
+ 23470) B. I liked the film, but not completely.
+ 23471) C. I loved the film.
+  SITE FEEDBACK: ‣ The double negative here adds nuance. It shows a partial or mixed opinion, not a total negative.
+Q 12101 [radio] What does this sentence mean? 'I don't not enjoy her visits, but they can be a bit tiring.'
+ 23478) A. I never enjoy her visits.
+ 23479) B. I enjoy her visits a little, but not completely.
+ 23480) C. I love her visits, but she comes too often.
+  SITE FEEDBACK: ‣ We can use not with another negative word like not enjoy to make the meaning softer or more polite. /  ‣ I don't not enjoy her visits means 'I enjoy them a little, but not completely'.
+Q 12104 [checkbox] Which of these sentences is correct in standard English? Choose TWO correct answers
+ 23487) A. She hasn't got any friends at school.
+ 23488) B. She hasn't got no friends at school.
+ 23489) C. She has no friends at school.
+  SITE FEEDBACK: ‣ We cannot use no after hasn't. We must use any. /  ‣ She has no friends is also correct.
+Q 12102 [radio] What does this sentence mean? ''The results are not insignificant.'
+ 23481) A. The results are important.
+ 23482) B. The results mean nothing.
+ 23483) C. The results are unimportant.
+  SITE FEEDBACK: ‣ We can use not with a negative adjective like insignificant to make the meaning positive or softer. /  ‣ Not insignificant means 'significant' or 'important'.
+Q 12106 [checkbox] Which of these sentences is correct in standard English? Choose TWO correct answers
+ 23493) A. He doesn't know nobody in this town.
+ 23494) B. He doesn't know anybody in this town.
+ 23495) C. He knows nobody in this town.
+  SITE FEEDBACK: ‣ We cannot use nobody after doesn't. We must use anybody. /  ‣ He knows nobody is also correct.
+
+=== PAGE /vocabulary/b1/age-and-life-stages-b1-english-vocabulary/
+Q 12030 [radio] Sam is a spoilt ______ who cries when he doesn't get his way.
+ 23354) A. old person
+ 23355) B. child
+ 23356) C. pensioner
+ 23357) D. childhood
+  SITE FEEDBACK: ‣ A child is a young person, usually between the ages of 3 and 12.
+Q 12032 [radio] Most of the ______ at my high school plan on going to university after they graduate.
+ 23362) A. old people
+ 23363) B. pensioners
+ 23364) C. babies
+ 23365) D. teens
+  SITE FEEDBACK: ‣ A teenager or teen is someone between the ages of 13 and 19.
+Q 12033 [radio] Alice is in her ______, so she'll be able to retire in less than ten years.
+ 23366) A. late fifties
+ 23367) B. childhood
+ 23368) C. early twenties
+ 23369) D. old age
+  SITE FEEDBACK: ‣ When you are in your 50s, you are aged between 50 and 59.
+Q 12034 [radio] I'm looking forward to my ______ when I shall have more time to travel.
+ 23370) A. senior citizen
+ 23371) B. childhood
+ 23372) C. retirement
+ 23373) D. adulthood
+  SITE FEEDBACK: ‣ A retired person no longer works, usually because of age.
+Q 12037 [radio] The club is for ______; you have to be over 65 to join.
+ 23382) A. babies
+ 23383) B. teens
+ 23384) C. pre-teens
+ 23385) D. senior citizens
+  SITE FEEDBACK: ‣ A senior citizen is a polite way to talk about an older person, often used in public services.
+Q 12039 [radio] Although Jill is in her ______, she still looks like she's 35.
+ 23390) A. adulthood
+ 23391) B. early forties
+ 23392) C. childhood
+ 23393) D. early twenties
+  SITE FEEDBACK: ‣ If you are in your early 40s, you are about 40 to 43 years old.
+
+=== PAGE /grammar-points/shorts/clean-vs-wash-grammar-shorts/
+Q 11869 [radio] You can't go out to play until you've _____ your room.
+ 22940) A. cleaned
+ 22941) B. washed
+  SITE FEEDBACK: ‣ We use clean as a verb to describe the process of tidying something that is messy or disorganised.
+Q 11870 [radio] Sara's hair was wet because she had just _____ it.
+ 22942) A. cleaned
+ 22943) B. washed
+  SITE FEEDBACK: ‣ We use wash as a verb when we use water (and usually soap) to remove dirt.
+Q 11874 [radio] Tom was on his driveway, giving his car a _____.
+ 22950) A. clean
+ 22951) B. wash
+  SITE FEEDBACK: ‣ We use wash as a noun to describe the action of making things clean using water and soap.
+Q 11877 [radio] The child was crying because he didn't want to have his hair _____.
+ 22956) A. cleaned
+ 22957) B. washed
+  SITE FEEDBACK: ‣ We use wash as a verb when we use water (and usually soap) to remove dirt.
+
+=== PAGE /vocabulary/a1/time-words-a1-english-vocabulary/
+Q 11642 [radio] My mother met my father _____ 1998.
+ 22126) A. on
+ 22127) B. next
+ 22128) C. in
+ 22129) D. last
+  SITE FEEDBACK: ‣ Use in before a year, decade or century to talk about the past.
+Q 11644 [radio] I often drink milk _____ night, before I go to bed.
+ 22134) A. in
+ 22135) B. at
+ 22136) C. on
+ 22137) D. tomorrow
+  SITE FEEDBACK: ‣ Use at night to refer to the late part of the day, when it’s dark.
+Q 11647 [radio] I usually watch television _____ the evening after dinner.
+ 22146) A. in
+ 22147) B. on
+ 22148) C. at
+ 22149) D. ago
+  SITE FEEDBACK: ‣ Use in the evening to refer to the time after the afternoon.
+Q 11649 [radio] I bought my phone a year _____ from the phone shop in town.
+ 22154) A. next
+ 22155) B. ago
+ 22156) C. last
+ 22157) D. recently
+  SITE FEEDBACK: ‣ Use ago to talk about a time in the past before now.
+Q 11651 [radio] I drink coffee _____ the morning before I go to work.
+ 22162) A. in
+ 22163) B. on
+ 22164) C. at
+ 22165) D. yesterday
+  SITE FEEDBACK: ‣ Use in the morning to talk about the early part of the day, before 12 pm.
+
+=== PAGE /grammar-points/shorts/like-vs-as-grammar-shorts/
+Q 11503 [radio] He works ___ an engineer at a multinational company.
+ 21828) A. like
+ 21829) B. as
+  SITE FEEDBACK: ‣ Use as to describe a person's job or function.
+Q 11505 [radio] Please do it ___ we agreed. (Choose the best option for formal written English.)
+ 21832) A. like
+ 21833) B. as
+  SITE FEEDBACK: ‣ In American English, both like and as are commonly used before a subject and verb. /  ‣ In British English, as is the preferred choice in formal writing before a subject and verb.
+Q 11506 [radio] They use their garage ___ a gym.
+ 21834) A. like
+ 21835) B. as
+  SITE FEEDBACK: ‣ Use as to describe the function of something (their garage is used in the role of a gym).
+Q 11508 [radio] Can you cook it ___ you used to when I was a kid? (Choose the most common option in informal English.)
+ 21838) A. like
+ 21839) B. as
+  SITE FEEDBACK: ‣ Like is commonly used in spoken English before a clause ('you used to do it'). In formal writing, as would be the correct choice.
+Q 11510 [radio] In some countries, people eat dinner late, ___ in Spain. (Choose the correct form in formal writing.)
+ 21842) A. like
+ 21843) B. as
+  SITE FEEDBACK: ‣ Use as before a prepositional phrase: as in/on/etc. Like is often used before a prepositional phrase in informal speech, but this is not considered correct in formal English.
+Q 11512 [radio] Tropical fruits, ___ mangoes and pineapples, are rich in vitamins.
+ 21846) A. like
+ 21847) B. as
+  SITE FEEDBACK: ‣ Use like to introduce examples in a sentence, similar to 'such as.'
+
+=== PAGE /reading/b2/using-ai-to-talk-to-the-deceased-b2-english-reading-test/
+Q 10913 [radio] Gap 1
+ 20598) A. This can make this experience seem less important and more like a product to buy and sell.
+ 20599) B. Some services may allow users to customise this service with specific memories or information about their departed to improve the experience.
+ 20600) C. This technology aims to offer comfort to their family and friends by allowing them to "communicate" with digital versions of those they have lost.
+ 20601) D. Grief is about accepting the situation as it is and that it cannot be changed while experiencing a range of emotions.
+ 20602) E. As this technology continues to evolve and be tested, it is unlikely that the deceased explicitly agreed to the use of their personal data in this manner.
+ 20603) F. This data is analysed and processed to build a digital version of the deceased that mimics their speech patterns, style, and personality traits.
+ 20604) G. Another significant concern is the risk of users becoming emotionally dependent on what they perceive as real conversations with the deceased through AI.
+  SITE FEEDBACK: ‣ This sentence is a suitable introduction to the topic, explaining the purpose of AI for communicating with the deceased, which is described in the following sentence as potentially "groundbreaking" but ethically complex.
+Q 10914 [radio] Gap 2
+ 20605) A. This can make this experience seem less important and more like a product to buy and sell.
+ 20606) B. Some services may allow users to customise this service with specific memories or information about their departed to improve the experience.
+ 20607) C. This technology aims to offer comfort to their family and friends by allowing them to "communicate" with digital versions of those they have lost.
+ 20608) D. Grief is about accepting the situation as it is and that it cannot be changed while experiencing a range of emotions.
+ 20609) E. As this technology continues to evolve and be tested, it is unlikely that the deceased explicitly agreed to the use of their personal data in this manner.
+ 20610) F. This data is analysed and processed to build a digital version of the deceased that mimics their speech patterns, style, and personality traits.
+ 20611) G. Another significant concern is the risk of users becoming emotionally dependent on what they perceive as real conversations with the deceased through AI.
+  SITE FEEDBACK: ‣ This sentence fits because it explains how AI processes the deceased’s digital information to create a "very real" experience, which flows logically into the idea of engaging in interactive, realistic conversations.
+Q 10915 [radio] Gap 3
+ 20612) A. This can make this experience seem less important and more like a product to buy and sell.
+ 20613) B. Some services may allow users to customise this service with specific memories or information about their departed to improve the experience.
+ 20614) C. This technology aims to offer comfort to their family and friends by allowing them to "communicate" with digital versions of those they have lost.
+ 20615) D. Grief is about accepting the situation as it is and that it cannot be changed while experiencing a range of emotions.
+ 20616) E. As this technology continues to evolve and be tested, it is unlikely that the deceased explicitly agreed to the use of their personal data in this manner.
+ 20617) F. This data is analysed and processed to build a digital version of the deceased that mimics their speech patterns, style, and personality traits.
+ 20618) G. Another significant concern is the risk of users becoming emotionally dependent on what they perceive as real conversations with the deceased through AI.
+  SITE FEEDBACK: ‣ This sentence reinforces the concern about the commercialization of grief. It emphasizes the risk of turning a deeply emotional experience into something impersonal or profit-driven, supporting the previous sentence's warning about the potential exploitation of vulnerable users.
+Q 10916 [radio] Gap 4
+ 20619) A. This can make this experience seem less important and more like a product to buy and sell.
+ 20620) B. Some services may allow users to customise this service with specific memories or information about their departed to improve the experience.
+ 20621) C. This technology aims to offer comfort to their family and friends by allowing them to "communicate" with digital versions of those they have lost.
+ 20622) D. Grief is about accepting the situation as it is and that it cannot be changed while experiencing a range of emotions.
+ 20623) E. As this technology continues to evolve and be tested, it is unlikely that the deceased explicitly agreed to the use of their personal data in this manner.
+ 20624) F. This data is analysed and processed to build a digital version of the deceased that mimics their speech patterns, style, and personality traits.
+ 20625) G. Another significant concern is the risk of users becoming emotionally dependent on what they perceive as real conversations with the deceased through AI.
+  SITE FEEDBACK: ‣ This sentence follows logically as it introduces a new concern about dependency on AI interactions, which could interfere with the grieving process. This aligns with the next sentence, which discusses how realistic interactions might delay healing.
+Q 10917 [radio] Gap 5
+ 20626) A. This can make this experience seem less important and more like a product to buy and sell.
+ 20627) B. Some services may allow users to customise this service with specific memories or information about their departed to improve the experience.
+ 20628) C. This technology aims to offer comfort to their family and friends by allowing them to "communicate" with digital versions of those they have lost.
+ 20629) D. Grief is about accepting the situation as it is and that it cannot be changed while experiencing a range of emotions.
+ 20630) E. As this technology continues to evolve and be tested, it is unlikely that the deceased explicitly agreed to the use of their personal data in this manner.
+ 20631) F. This data is analysed and processed to build a digital version of the deceased that mimics their speech patterns, style, and personality traits.
+ 20632) G. Another significant concern is the risk of users becoming emotionally dependent on what they perceive as real conversations with the deceased through AI.
+  SITE FEEDBACK: ‣ This sentence fits as it directly addresses the ethical issue of privacy for the deceased, leading into the following sentence about potential privacy rights violations without explicit consent.
+Q 10918 [radio] Gap 6
+ 20633) A. This can make this experience seem less important and more like a product to buy and sell.
+ 20634) B. Some services may allow users to customise this service with specific memories or information about their departed to improve the experience.
+ 20635) C. This technology aims to offer comfort to their family and friends by allowing them to "communicate" with digital versions of those they have lost.
+ 20636) D. Grief is about accepting the situation as it is and that it cannot be changed while experiencing a range of emotions.
+ 20637) E. As this technology continues to evolve and be tested, it is unlikely that the deceased explicitly agreed to the use of their personal data in this manner.
+ 20638) F. This data is analysed and processed to build a digital version of the deceased that mimics their speech patterns, style, and personality traits.
+ 20639) G. Another significant concern is the risk of users becoming emotionally dependent on what they perceive as real conversations with the deceased through AI.
+  SITE FEEDBACK: ‣ This sentence reflects the natural grieving process and contrasts with relying on AI to simulate conversations, which may prevent acceptance. It reinforces the idea that maintaining a digital connection could delay moving forward.
+
+=== PAGE /grammar-points/shorts/amount-of-vs-number-of-vs-quantity-of/
+Q 11632 [radio] A _____ the eggs were rotten so we threw them away.
+ 22096) A. amount of
+ 22097) B. number of
+ 22098) C. quantity of
+  SITE FEEDBACK: ‣ We use number of before countable nouns in plural form. When we use number of without a size adjective, it means 'many'. We can also use quantity of with countable nouns, but it sounds more formal or scientific; a number of is the more natural choice in everyday English.
+Q 11633 [radio] A large _____ my work can be done from home.
+ 22099) A. amount of
+ 22100) B. number of
+ 22101) C. quantity of
+  SITE FEEDBACK: ‣ We use amount of before uncountable nouns, like work. Quantity of could also be used, but it sounds more formal or technical. Amount of is the most natural choice in everyday English.
+Q 11634 [radio] Vast _____ oil are exported to the USA each month.
+ 22102) A. quantity of
+ 22103) B. numbers of
+ 22104) C. quantities of
+  SITE FEEDBACK: ‣ We need a plural subject in this sentence, and we can use the plural form quantities of to talk about more than one amount of something, especially in formal or academic contexts. We don't use numbers of before uncountable nouns.
+Q 11635 [radio] We only managed to save a small _____ the bananas from the flies.
+ 22105) A. amount of
+ 22106) B. number of
+ 22107) C. quantity of
+  SITE FEEDBACK: ‣ According to the lesson, we use number of with countable plural nouns, like bananas. Quantity of is grammatically correct, but sounds more formal. Number of is the best choice in everyday English.
+Q 11637 [radio] A significant _____ of buildings were destroyed during the devastating earthquake.
+ 22111) A. amount
+ 22112) B. number
+ 22113) C. quantity
+  SITE FEEDBACK: ‣ Buildings are countable plural nouns, so we can use number of. Quantity of is possible, but it sounds too formal here.
+Q 11638 [radio] They measured the exact _____ of toxic gas in the sample.
+ 22114) A. amounts
+ 22115) B. number
+ 22116) C. quantity
+  SITE FEEDBACK: ‣ We use quantity of in more technical or scientific contexts. Gas is uncountable, so number of is incorrect. Amount of could be possible, but it would sound less precise in this kind of context.
+Q 11640 [radio] A _____ of the children in the class come from multi-lingual households.
+ 22120) A. amount
+ 22121) B. number
+ 22122) C. quantity
+  SITE FEEDBACK: ‣ Children are countable plural nouns, so we should use number of. Quantity of sounds too formal or technical in this context and is not commonly used when referring to people.
+
+=== PAGE /vocabulary/b1-b2/everyday-problems-b1-english-vocabulary/
+Q 11768 [radio] Bob spilt some of his wine and accidentally ______ the carpet.
+ 22589) A. stained
+ 22590) B. grazed
+ 22591) C. locked
+ 22592) D. tore
+  SITE FEEDBACK: ‣ A stain is a dirty mark on something, like a carpet or tablecloth, that is difficult to remove.
+Q 11769 [radio] Bill fell and ______ his knee when he was running in the playground.
+ 22593) A. blocked
+ 22594) B. chipped
+ 22595) C. grazed
+ 22596) D. tripped
+  SITE FEEDBACK: ‣ To graze your knee means to scrape the skin, usually by falling or hitting the ground.
+Q 11770 [radio] I ______ over the dog who was sleeping in the middle of the floor.
+ 22597) A. chipped
+ 22598) B. tripped
+ 22599) C. bruised
+ 22600) D. locked
+  SITE FEEDBACK: ‣ To trip over means to stumble or fall because you hit something with your foot.
+Q 11771 [radio] Mary’s car ______ while she was driving to work.
+ 22601) A. locked out
+ 22602) B. broke down
+ 22603) C. tripped over
+ 22604) D. ran out of
+  SITE FEEDBACK: ‣ When a machine or appliance stops working, it has broken down.
+Q 11773 [radio] Martin ______ a muscle while he was working out at the gym.
+ 22609) A. jammed
+ 22610) B. stained
+ 22611) C. chipped
+ 22612) D. pulled
+  SITE FEEDBACK: ‣ To pull a muscle means to strain or overstretch a muscle.
+Q 11775 [radio] Tom ______ himself out of his car and had to break a window to get inside.
+ 22617) A. locked
+ 22618) B. tripped
+ 22619) C. blocked
+ 22620) D. bruised
+  SITE FEEDBACK: ‣ To lock oneself out means to accidentally lock the door with yourself outside.
+
+=== PAGE /writing/b1-b2/describing-a-photo-b1-english-writing/
+Q 11108 [radio] In the _____, a man with a wide-brimmed hat is playing an acoustic guitar while sitting on a wooden stool.
+ 21030) A. foreground
+ 21031) B. background
+ 21032) C. bottom
+ 21033) D. right
+  SITE FEEDBACK: ‣ The correct answer is foreground because the man is in the front part of the photo. Background is incorrect because he is not farthest away. Bottom and right are not possible because they are not used with in.
+Q 11109 [radio] The musician _____ using a speaker because a cable is connected to the guitar.
+ 21034) A. can't be
+ 21035) B. might
+ 21036) C. must be
+ 21037) D. must
+  SITE FEEDBACK: ‣ The correct answer is must be because it expresses a strong certainty about the present. Can't be is incorrect as it suggests impossibility, which is not supported here. Might and must are not possible without be because a modal verb cannot be followed by an -ing verb.
+Q 11111 [radio] _____ the middle of the photo, _____ the left, there are two elderly people sitting on chairs, watching the street musician.
+ 21042) A. In ... in
+ 21043) B. In ... on
+ 21044) C. At ... on
+ 21045) D. On ... to
+  SITE FEEDBACK: ‣ We say in the middle/centre, at the top/bottom, and on the right/left of the photo.
+Q 11112 [radio] The man _____ to be completely absorbed in his music.
+ 21046) A. looks
+ 21047) B. appears
+ 21048) C. looks as if
+ 21049) D. seems like
+  SITE FEEDBACK: ‣ The correct answer is appears because it is a verb of the senses, often used to make observations that can be followed by an infinitive. Looks, looks as if and seems like cannot be followed by an infinitive.
+Q 11113 [radio] It _____ if the man is performing in a public square to make some extra income.
+ 21050) A. looks as
+ 21051) B. appears
+ 21052) C. seems like
+ 21053) D. looks like
+  SITE FEEDBACK: ‣ You can use look, smell, taste, sound, and feel + as if/as though + clause (subject + verb) to make observations that are not definitive (you aren't sure).
+Q 11114 [radio] At the _____ of the picture, you can see the musician's open guitar case on the ground.
+ 21054) A. foreground
+ 21055) B. bottom
+ 21056) C. top
+ 21057) D. front
+  SITE FEEDBACK: ‣ The correct answer is bottom because we say at the bottom to describe the lowest part of a photo. Foreground is incorrect because it is used with in, not at. Top is incorrect because it refers to the highest part, not the lowest. Front is not correct because it is not commonly used to describe parts of a photo.
+Q 11115 [radio] He might _____ the guitar case on the floor, open, to collect tips.
+ 21058) A. place
+ 21059) B. placed
+ 21060) C. be placed
+ 21061) D. have placed
+  SITE FEEDBACK: ‣ The correct answer is have placed because modal verbs like might must be followed by have + past participle when referring to past actions. Place is incorrect because it suggests the present, not the past. Placed is incorrect because it cannot directly follow a modal verb. Be placed is incorrect because it indicates a passive structure, which is not suitable in this context.
+Q 11116 [radio] Two elderly people are sitting _____ on chairs behind him.
+ 21062) A. quiet
+ 21063) B. relaxing
+ 21064) C. quietly
+ 21065) D. relaxed
+  SITE FEEDBACK: ‣ The correct answer is quietly because it is an adverb of manner, which describes how the action (sitting) is performed. We use adverbs of manner before or after the main verb.
+Q 11117 [radio] In the background, clouds seem to move slowly _____ the sky.
+ 21066) A. across
+ 21067) B. along
+ 21068) C. over
+ 21069) D. at
+  SITE FEEDBACK: ‣ Prepositions like along, across and over describe the direction of movement. The correct answer is across because it indicates movement from one side of the sky to the other. Along is incorrect because it suggests movement parallel to a specific line or path, which does not apply here. Over is incorrect because it implies movement above something, not across a broad area like the sky. At is incorrect because it is not used to describe motion in this context.
+
+=== PAGE /reading/a2/what-rainbows-mean-around-the-world-a2-english-reading-test/
+Q 11671 [radio] In which paragraph do gods use the rainbow to send a message to people?
+ 22236) A. Ireland
+ 22237) B. Hawaii
+ 22238) C. Africa
+ 22239) D. Australia
+ 22240) E. Scandinavia
+  SITE FEEDBACK: ‣ The paragraph says, 'In Native Hawaiian culture, rainbows are signs that people receive from the gods.' This means the gods use rainbows to send messages.
+Q 11672 [radio] In which paragraph do people hope to become rich with the help of the rainbow?
+ 22241) A. Ireland
+ 22242) B. Hawaii
+ 22243) C. Africa
+ 22244) D. Australia
+ 22245) E. Scandinavia
+  SITE FEEDBACK: ‣ The Irish paragraph says, 'a leprechaun... hides his pot full of gold at the end of the rainbow.' People try to find the gold, so they hope to get rich.
+
+=== PAGE /vocabulary/b2/talking-about-movies-b2-english-vocabulary/
+Q 11420 [radio] They're planning to _____ some of the scenes in our local shopping mall.
+ 21552) A. dub
+ 21553) B. remake
+ 21554) C. shoot
+ 21555) D. portray
+  SITE FEEDBACK: ‣ When a scene is shot, it is filmed to be included in the movie.
+
+=== PAGE /grammar-points/shorts/how-to-avoid-double-subjects-in-english-grammar-shorts/
+Q 11578 [radio] _____ ran across the street.
+ 21948) A. The dog it
+ 21949) B. The dog
+  SITE FEEDBACK: ‣ You can use the dog or it as the subject — but not both.
+Q 11579 [radio] _____ speaks four languages.
+ 21950) A. My friend from Turkey
+ 21951) B. My friend from Turkey she
+  SITE FEEDBACK: ‣ You can say my friend from Turkey or she, but not both in the same sentence.
+Q 11580 [radio] _____ is the best medicine.
+ 21952) A. It
+ 21953) B. Doing exercise it
+  SITE FEEDBACK: ‣ If you start with doing exercise, don’t add it. Only one subject is needed.
+Q 11581 [radio] _____ finished the test early.
+ 21954) A. Most students in my class they
+ 21955) B. They
+  SITE FEEDBACK: ‣ Don’t repeat the subject. Use most students in my class or they — not both.
+Q 11583 [radio] _____ helps me relax.
+ 21958) A. It
+ 21959) B. Walking in nature it
+  SITE FEEDBACK: ‣ Use walking in nature or it — not both as the subject.
+Q 11584 [radio] _____ are visiting next week.
+ 21960) A. My parents they
+ 21961) B. My parents
+  SITE FEEDBACK: ‣ My parents is the subject — they makes it a double subject.
+Q 11585 [radio] _____ takes time.
+ 21962) A. Learning English it
+ 21963) B. Learning English
+  SITE FEEDBACK: ‣ Learning English is already the subject. It is not needed.
+Q 11586 [radio] _____ getting colder.
+ 21964) A. It's
+ 21965) B. The weather it's
+  SITE FEEDBACK: ‣ You only need one subject — the weather or it, not both.
+Q 11587 [radio] _____ was wearing a red hat.
+ 21966) A. The man he
+ 21967) B. He
+  SITE FEEDBACK: ‣ The man and he are both subjects — use only one.
+
+=== PAGE /vocabulary/a1/movement-verbs-a1-english-vocabulary/
+Q 11524 [radio] Susan likes to ______ around the park every morning.
+ 21848) A. swim
+ 21849) B. sit
+ 21850) C. stand
+ 21851) D. jog
+  SITE FEEDBACK: ‣ When you jog, you run slowly for exercise.
+Q 11527 [radio] I ______ the heavy door open.
+ 21860) A. danced
+ 21861) B. stood
+ 21862) C. sat
+ 21863) D. pulled
+  SITE FEEDBACK: ‣ When you pull something, you move it towards you.
+Q 11528 [radio] The horse ______ over the fence.
+ 21864) A. danced
+ 21865) B. jogged
+ 21866) C. jumped
+ 21867) D. ran
+  SITE FEEDBACK: ‣ When you jump, you move up and down with your feet.
+Q 11529 [radio] Tim ______ off his bicycle and hurt his arm.
+ 21868) A. swam
+ 21869) B. ran
+ 21870) C. danced
+ 21871) D. fell
+  SITE FEEDBACK: ‣ When you fall, you go down to the ground.
+Q 11531 [radio] Sara is ______ on the sofa.
+ 21876) A. standing
+ 21877) B. sitting
+ 21878) C. pushing
+ 21879) D. passing
+  SITE FEEDBACK: ‣ When you sit, you put your body on a chair.
+Q 11532 [radio] I ______ the button and waited for the elevator to arrive.
+ 21880) A. pressed
+ 21881) B. pulled
+ 21882) C. sat
+ 21883) D. swam
+  SITE FEEDBACK: ‣ When you press something (a button), you push lightly.
+
+=== PAGE /writing/b1-b2/informal-email-responding-to-news-b1-english-writing/
+Q 11118 [radio] You _____ George about the accident.
+ 21070) A. had better tell
+ 21071) B. have better telling
+ 21072) C. had better to tell
+  SITE FEEDBACK: ‣ Had better is used to express strong advice. The word had is a past verb form (NOT have better or has better), and an infinitive always follows it.
+Q 11119 [radio] _____ you are in the area, why don't you come and visit?
+ 21073) A. Seeing as
+ 21074) B. What with
+ 21075) C. See that
+  SITE FEEDBACK: ‣ Seeing as is used to introduce a reason for another statement. It is followed by a clause. What with introduces reasons with a noun or verb-ing, and See that is not a correct form here.
+Q 11121 [radio] Will you _____ to visit us this year?
+ 21079) A. able
+ 21080) B. be able
+ 21081) C. can
+  SITE FEEDBACK: ‣ After modal verbs like will, the infinitive form (be able) is used instead of can.
+Q 11122 [radio] Have you _____ go back to the hospital since your operation?
+ 21082) A. must
+ 21083) B. had better
+ 21084) C. had to
+  SITE FEEDBACK: ‣ Had to is the past tense of have to, used to express necessity in the past. Must has no past tense, and had better is incorrect here.
+Q 11126 [radio] It must _____ hard for you when you heard the news.
+ 21094) A. be
+ 21095) B. been
+ 21096) C. have been
+  SITE FEEDBACK: ‣ Must have + past participle is used to make a deduction about something that happened in the past.
+Q 11127 [radio] I'd better go now, _____ I'll miss my appointment.
+ 21097) A. otherwise
+ 21098) B. so
+ 21099) C. else
+  SITE FEEDBACK: ‣You can use or else or otherwise to introduce a negative consequence if something is not done. So and else are incorrect here.
+
+=== PAGE /reading/b1-b2/profiting-from-true-crime-stories-b1-english-reading/
+Q 11588 [radio] What should media companies think about when working on a true crime show?
+ 21968) A. How the story might affect the viewers and the listeners.
+ 21969) B. What type of show would attract a larger audience.
+ 21970) C. How to tell the story with respect for the people involved.
+ 21971) D. What details make this topic more interesting than others.
+  SITE FEEDBACK: ‣ The text highlights several ethical concerns media companies should consider when creating true crime content, especially the emotional impact on victims and their families. It emphasizes the importance of treating their stories with respect and sensitivity, as shown in the example of Anna Kendrick donating profits and in the mention of companies not informing families or including upsetting details.
+Q 11589 [radio] What does the writer imply about the director Anna Kendrick?
+ 21972) A. She was unhappy about the reviews from the critics.
+ 21973) B. She felt uncomfortable making money from a tragic event.
+ 21974) C. She was worried about upsetting the families of the victims.
+ 21975) D. She felt disappointed by the lack of support from the viewers.
+  SITE FEEDBACK: ‣ The text explains that Anna Kendrick donated the profits from her film to charity because she didn't think it was right to benefit from the tragic events. This shows she felt uncomfortable making money from a real tragedy.
+Q 11590 [radio] What are media companies often criticised for?
+ 21976) A. Telling stories that are often too sad and upsetting for the public.
+ 21977) B. Producing shows about real people without their permission.
+ 21978) C. Including personal details about the victims and their families.
+ 21979) D. Reporting a story that is different from the real events.
+  SITE FEEDBACK: ‣ The text clearly states that many media companies don’t inform the victims and their families before making shows about them, which can cause emotional harm. This matches option B best.
+Q 11591 [radio] What does the writer suggest about the way in which true crime stories are told?
+ 21980) A. It might transform a film into a documentary.
+ 21981) B. It limits the number of viewers interested in it.
+ 21982) C. It relies on special effects to be more appealing.
+ 21983) D. It can change how the audience sees the crime.
+  SITE FEEDBACK: ‣ The text explains that dramatic effects, exciting music, or attractive criminals can make crimes seem like entertainment, which changes how the audience perceives them.
+Q 11592 [radio] Women are interested in true crime stories because they learn how to
+ 21984) A. react and defend themselves from an attack.
+ 21985) B. recognise early signs of dangerous behaviour.
+ 21986) C. solve crimes by thinking like a true detective.
+ 21987) D. understand the personalities of different people.
+  SITE FEEDBACK: ‣ The text mentions that one reason women are drawn to true crime stories is to learn how to protect themselves, which includes ways to stay safe — making option A the most accurate.
+Q 11593 [radio] How does the writer see the connection between victims and viewers?
+ 21988) A. Female viewers admire female victims for dealing with difficult situations.
+ 21989) B. Female viewers feel distant from female victims because the stories are too emotional.
+ 21990) C. Female viewers view female victims as fictional characters rather than real people.
+ 21991) D. Female viewers and female victims often share similar fears and life events.
+  SITE FEEDBACK: ‣ The text explains that many women feel a deep connection with the victims, who are often also female, and that they may have experienced similar challenges themselves.
+
+=== PAGE /writing/b1/how-to-write-an-email-cover-letter/
+Q 11475 [radio] I am writing _____ to your advertisement for the Marketing Assistant position.
+ 21677) A. in response
+ 21678) B. to apply
+ 21679) C. about
+  SITE FEEDBACK: ‣ Start your email stating which job you are applying for with expressions such as 'I'm writing in response to...', 'I am writing to express my interest in...', or 'I would like to apply for...'
+Q 11476 [radio] I would like to apply _____ the Sales Coordinator role advertised on your website.
+ 21680) A. for
+ 21681) B. to
+ 21682) C. in
+  SITE FEEDBACK: ‣ Use apply for when referring to a job position. Use apply to when referring to a company or organisation.
+Q 11480 [radio] Working in this role, I improved my skills _____ project management and teamwork.
+ 21692) A. in
+ 21693) B. at
+ 21694) C. on
+  SITE FEEDBACK: ‣ Use skills in... when talking about specific areas of expertise. For example, 'skills in leadership, communication, or problem-solving.'
+Q 11481 [radio] I am _____ about this opportunity because I have always admired the company's innovative approach to marketing.
+ 21695) A. happy
+ 21696) B. excited
+ 21697) C. dreaming
+  SITE FEEDBACK: ‣ Excited about is the most natural way to express enthusiasm in a professional setting. Happy about is too casual, and dreaming about is too informal for a cover letter.
+Q 11483 [radio] Thank you for considering my application. I _____ my CV for your review.
+ 21701) A. 've included
+ 21702) B. am attaching
+ 21703) C. have attached
+  SITE FEEDBACK: ‣ Have attached is the most appropriate choice for a formal email, as it clearly indicates that the CV is included. In formal writing, contractions like 'm attaching and 've included are generally avoided to maintain a professional tone.
+Q 11484 [radio] I look forward _____ my experience in an interview.
+ 21704) A. to discuss
+ 21705) B. to discussing
+ 21706) C. about discussing
+  SITE FEEDBACK: ‣ The phrase look forward to is always followed by a gerund (verb + -ing). The correct structure is 'look forward to discussing.'
+Q 11486 [radio] I am writing in response to...
+ 21707) A. attached for your reference.
+ 21708) B. discussing my application in an interview.
+ 21709) C. strong communication and problem-solving skills.
+ 21710) D. customer service and a strong interest in client relations.
+ 21711) E. work at a company with excellent customer service reviews.
+ 21712) F. managing customer inquiries and resolving complaints.
+ 21713) G. my skills and experience, and it aligns with my career goals.
+ 21714) H. reduce response times and improve customer satisfaction.
+ 21715) I. your advertisement for a Customer Support Agent position.
+ 21716) J. the company’s commitment to innovation and customer service.
+  SITE FEEDBACK: ‣ We use this sentence to introduce the reason for writing the email. 'I am writing in response to…' is a formal way to mention a job advertisement.
+Q 11487 [radio] I have three years of experience in...
+ 21717) A. attached for your reference.
+ 21718) B. discussing my application in an interview.
+ 21719) C. strong communication and problem-solving skills.
+ 21720) D. customer service and a strong interest in client relations.
+ 21721) E. work at a company with excellent customer service reviews.
+ 21722) F. managing customer inquiries and resolving complaints.
+ 21723) G. my skills and experience, and it aligns with my career goals.
+ 21724) H. reduce response times and improve customer satisfaction.
+ 21725) I. your advertisement for a Customer Support Agent position.
+ 21726) J. the company’s commitment to innovation and customer service.
+  SITE FEEDBACK: ‣ 'I have [X] years of experience in…' is a common way to describe work experience in a CV or cover letter.
+Q 11488 [radio] In my previous role, I was responsible for...
+ 21727) A. attached for your reference.
+ 21728) B. discussing my application in an interview.
+ 21729) C. strong communication and problem-solving skills.
+ 21730) D. customer service and a strong interest in client relations.
+ 21731) E. work at a company with excellent customer service reviews.
+ 21732) F. managing customer inquiries and resolving complaints.
+ 21733) G. my skills and experience, and it aligns with my career goals.
+ 21734) H. reduce response times and improve customer satisfaction.
+ 21735) I. your advertisement for a Customer Support Agent position.
+ 21736) J. the company’s commitment to innovation and customer service.
+  SITE FEEDBACK: ‣ 'In my previous role, I was responsible for...' is a professional way to introduce past job duties. It is followed by a noun or a gerund (-ing form).
+Q 11489 [radio] This experience helped me develop...
+ 21737) A. attached for your reference.
+ 21738) B. discussing my application in an interview.
+ 21739) C. strong communication and problem-solving skills.
+ 21740) D. customer service and a strong interest in client relations.
+ 21741) E. work at a company with excellent customer service reviews.
+ 21742) F. managing customer inquiries and resolving complaints.
+ 21743) G. my skills and experience, and it aligns with my career goals.
+ 21744) H. reduce response times and improve customer satisfaction.
+ 21745) I. your advertisement for a Customer Support Agent position.
+ 21746) J. the company’s commitment to innovation and customer service.
+  SITE FEEDBACK: ‣ We use 'This experience helped me develop…' to show what skills we gained from previous jobs.
+Q 11490 [radio] I am excited about this opportunity because I admire...
+ 21747) A. attached for your reference.
+ 21748) B. discussing my application in an interview.
+ 21749) C. strong communication and problem-solving skills.
+ 21750) D. customer service and a strong interest in client relations.
+ 21751) E. work at a company with excellent customer service reviews.
+ 21752) F. managing customer inquiries and resolving complaints.
+ 21753) G. my skills and experience, and it aligns with my career goals.
+ 21754) H. reduce response times and improve customer satisfaction.
+ 21755) I. your advertisement for a Customer Support Agent position.
+ 21756) J. the company’s commitment to innovation and customer service.
+  SITE FEEDBACK: ‣ 'I am excited about this opportunity because…' is used to express enthusiasm and explain why you are interested in the job.
+Q 11491 [radio] I believe this role is a great match for...
+ 21757) A. attached for your reference.
+ 21758) B. discussing my application in an interview.
+ 21759) C. strong communication and problem-solving skills.
+ 21760) D. customer service and a strong interest in client relations.
+ 21761) E. work at a company with excellent customer service reviews.
+ 21762) F. managing customer inquiries and resolving complaints.
+ 21763) G. my skills and experience, and it aligns with my career goals.
+ 21764) H. reduce response times and improve customer satisfaction.
+ 21765) I. your advertisement for a Customer Support Agent position.
+ 21766) J. the company’s commitment to innovation and customer service.
+  SITE FEEDBACK: ‣ 'I believe this role is a great match for…' is used to explain why you think your skills and experience fit the job well.
+Q 11492 [radio] I would love the opportunity to...
+ 21767) A. attached for your reference.
+ 21768) B. discussing my application in an interview.
+ 21769) C. strong communication and problem-solving skills.
+ 21770) D. customer service and a strong interest in client relations.
+ 21771) E. work at a company with excellent customer service reviews.
+ 21772) F. managing customer inquiries and resolving complaints.
+ 21773) G. my skills and experience, and it aligns with my career goals.
+ 21774) H. reduce response times and improve customer satisfaction.
+ 21775) I. your advertisement for a Customer Support Agent position.
+ 21776) J. the company’s commitment to innovation and customer service.
+  SITE FEEDBACK: ‣ 'I would love the opportunity to…' is a polite way to express interest in working for a company.
+Q 11493 [radio] My contributions helped...
+ 21777) A. attached for your reference.
+ 21778) B. discussing my application in an interview.
+ 21779) C. strong communication and problem-solving skills.
+ 21780) D. customer service and a strong interest in client relations.
+ 21781) E. work at a company with excellent customer service reviews.
+ 21782) F. managing customer inquiries and resolving complaints.
+ 21783) G. my skills and experience, and it aligns with my career goals.
+ 21784) H. reduce response times and improve customer satisfaction.
+ 21785) I. your advertisement for a Customer Support Agent position.
+ 21786) J. the company’s commitment to innovation and customer service.
+  SITE FEEDBACK: ‣ 'My contributions helped…' is used to highlight achievements and how your work had a positive impact.
+Q 11494 [radio] Please find my CV...
+ 21787) A. attached for your reference.
+ 21788) B. discussing my application in an interview.
+ 21789) C. strong communication and problem-solving skills.
+ 21790) D. customer service and a strong interest in client relations.
+ 21791) E. work at a company with excellent customer service reviews.
+ 21792) F. managing customer inquiries and resolving complaints.
+ 21793) G. my skills and experience, and it aligns with my career goals.
+ 21794) H. reduce response times and improve customer satisfaction.
+ 21795) I. your advertisement for a Customer Support Agent position.
+ 21796) J. the company’s commitment to innovation and customer service.
+  SITE FEEDBACK: ‣ 'Please find my CV attached…' is a formal phrase used to indicate that you have included your CV with the email.
+Q 11495 [radio] I look forward to...
+ 21797) A. attached for your reference.
+ 21798) B. discussing my application in an interview.
+ 21799) C. strong communication and problem-solving skills.
+ 21800) D. customer service and a strong interest in client relations.
+ 21801) E. work at a company with excellent customer service reviews.
+ 21802) F. managing customer inquiries and resolving complaints.
+ 21803) G. my skills and experience, and it aligns with my career goals.
+ 21804) H. reduce response times and improve customer satisfaction.
+ 21805) I. your advertisement for a Customer Support Agent position.
+ 21806) J. the company’s commitment to innovation and customer service.
+  SITE FEEDBACK: ‣ 'I look forward to…' is always followed by a noun or a gerund (-ing form). 'I look forward to discussing…' is a formal way to end a cover letter positively.
+
+=== PAGE /reading/b1-b2/what-type-of-accommodation-best-suits-you-b1-english-reading-test/
+Q 10893 [radio] The luxury and prime location of a _____ come at a very high cost.
+ 20476) A. detached house
+ 20477) B. terraced house
+ 20478) C. cottage or cabin
+ 20479) D. bedsit
+ 20480) E. flat or apartment
+ 20481) F. penthouse
+  SITE FEEDBACK: ‣ Penthouses are luxurious and located in prime areas, but they are very costly.
+Q 10894 [radio] A _____ is a budget-friendly option for short-term tenants who live on their own.
+ 20482) A. detached house
+ 20483) B. terraced house
+ 20484) C. cottage or cabin
+ 20485) D. bedsit
+ 20486) E. flat or apartment
+ 20487) F. penthouse
+  SITE FEEDBACK: ‣ Bedsits are small, affordable, and ideal for people living alone on a short-term basis.
+Q 10895 [radio] Families who want more space and a quieter living environment usually choose to live in a _____.
+ 20488) A. detached house
+ 20489) B. terraced house
+ 20490) C. cottage or cabin
+ 20491) D. bedsit
+ 20492) E. flat or apartment
+ 20493) F. penthouse
+  SITE FEEDBACK: ‣ Detached houses offer more space and privacy, making them a great choice for families who prefer a quiet setting.
+Q 10896 [radio] A _____ is perfect for people who love nature and prefer a quiet, simple lifestyle.
+ 20494) A. detached house
+ 20495) B. terraced house
+ 20496) C. cottage or cabin
+ 20497) D. bedsit
+ 20498) E. flat or apartment
+ 20499) F. penthouse
+  SITE FEEDBACK: ‣ Cottages and cabins are often found in natural, rural areas and are perfect for those who enjoy a simple, nature-oriented lifestyle.
+Q 10897 [radio] Because of their convenient location, the cost of a large _____ can be as high as that of a house.
+ 20500) A. detached house
+ 20501) B. terraced house
+ 20502) C. cottage or cabin
+ 20503) D. bedsit
+ 20504) E. flat or apartment
+ 20505) F. penthouse
+  SITE FEEDBACK: ‣ Large flats or apartments in convenient city locations can be as expensive as a house due to their location and size.
+Q 10899 [radio] Those who live in a _____ can usually share a garden with their neighbours.
+ 20512) A. detached house
+ 20513) B. terraced house
+ 20514) C. cottage or cabin
+ 20515) D. bedsit
+ 20516) E. flat or apartment
+ 20517) F. penthouse
+  SITE FEEDBACK: ‣ Flats or apartments may have shared outdoor spaces like a communal garden, especially in large apartment blocks.
+
+=== PAGE /vocabulary/b2/socializing-and-social-events-b2-english-vocabulary/
+Q 11400 [radio] As the party didn't start until 7 p.m., we ______ at Pete's place beforehand.
+ 21516) A. went Dutch
+ 21517) B. pregamed
+ 21518) C. hit the town
+ 21519) D. went clubbing
+  SITE FEEDBACK: ‣ When you pregame, you have a few drinks at home before going out or to a party.
+Q 11403 [radio] Alice was furious when James ______ and left her waiting.
+ 21528) A. let her hair down
+ 21529) B. stood her up
+ 21530) C. turned her down
+ 21531) D. went Dutch
+  SITE FEEDBACK: ‣ When you stand someone up, you fail to turn up for a date or meeting with someone without telling them.
+
+=== PAGE /grammar-points/shorts/above-vs-over-grammar-shorts/
+Q 11454 [radio] The helicopter hovered _____ the city for an hour before landing.
+ 21629) A. above
+ 21630) B. over
+  SITE FEEDBACK: ‣ We generally prefer above when something is at a higher position but not directly over something else.
+Q 11457 [radio] The bridge extends _____ the river, connecting both sides of the town.
+ 21635) A. above
+ 21636) B. over
+  SITE FEEDBACK: ‣ We use over instead of above to describe movement from one side to the other of something.
+Q 11458 [radio] The stars were shining brightly _____ us in the night sky.
+ 21637) A. above
+ 21638) B. over
+  SITE FEEDBACK: ‣ We generally prefer above when something is at a higher position but not directly over something else.
+Q 11461 [radio] The bird flew _____ the house and disappeared into the trees.
+ 21643) A. above
+ 21644) B. over
+  SITE FEEDBACK: ‣ We use over instead of above to describe movement from one side to the other of something.
+
+=== PAGE /reading/a1/tips-for-visiting-london-with-young-children-a1-english-reading-test/
+Q 10858 [radio] Title 1
+ 20365) A. Visit the city when children sleep
+ 20366) B. Learn and play at the museum
+ 20367) C. Get your children ready for the visit
+ 20368) D. Plan what to see and when
+ 20369) E. Decide spending money
+ 20370) F. Move around on public transport
+  SITE FEEDBACK: ‣ This is correct because the text talks about deciding where to go and what days are best.
+Q 10859 [radio] Title 2
+ 20371) A. Visit the city when children sleep
+ 20372) B. Learn and play at the museum
+ 20373) C. Get your children ready for the visit
+ 20374) D. Plan what to see and when
+ 20375) E. Decide spending money
+ 20376) F. Move around on public transport
+  SITE FEEDBACK: ‣ This is correct because it talks about showing pictures to children to get them excited.
+Q 10860 [radio] Title 3
+ 20377) A. Visit the city when children sleep
+ 20378) B. Learn and play at the museum
+ 20379) C. Get your children ready for the visit
+ 20380) D. Plan what to see and when
+ 20381) E. Decide spending money
+ 20382) F. Move around on public transport
+  SITE FEEDBACK: ‣ This is right because it talks about using the tube and buses to travel.
+Q 10861 [radio] Title 4
+ 20383) A. Visit the city when children sleep
+ 20384) B. Learn and play at the museum
+ 20385) C. Get your children ready for the visit
+ 20386) D. Plan what to see and when
+ 20387) E. Decide spending money
+ 20388) F. Move around on public transport
+  SITE FEEDBACK: ‣ This fits because it talks about how much money children can spend in the toy shop.
+Q 10862 [radio] Title 5
+ 20389) A. Visit the city when children sleep
+ 20390) B. Learn and play at the museum
+ 20391) C. Get your children ready for the visit
+ 20392) D. Plan what to see and when
+ 20393) E. Decide spending money
+ 20394) F. Move around on public transport
+  SITE FEEDBACK: ‣ This works because it talks about museums that are fun for children to learn and play.
+Q 10863 [radio] Title 6
+ 20395) A. Visit the city when children sleep
+ 20396) B. Learn and play at the museum
+ 20397) C. Get your children ready for the visit
+ 20398) D. Plan what to see and when
+ 20399) E. Decide spending money
+ 20400) F. Move around on public transport
+  SITE FEEDBACK: ‣ This is good because it talks about things adults can do when children are sleeping.
+
+=== PAGE /writing/b1/email-making-plans-for-visit-b1-writing/
+Q 11464 [radio] _____ to have dinner at a restaurant; I don't really enjoy cooking.
+ 21650) A. I'd rather
+ 21651) B. I think
+ 21652) C. I'd prefer
+  SITE FEEDBACK: ‣ Use I'd prefer + to-infinitive or I'd rather + infinitive without to to express preference.
+Q 11466 [radio] _____ your idea of visiting the old town, I think it would be great!
+ 21656) A. As
+ 21657) B. By the way
+ 21658) C. Regarding
+  SITE FEEDBACK: ‣ Use About, As for, or Regarding to introduce a response to a suggestion.
+Q 11467 [radio] _____ having a boat tour instead of going to the aquarium?
+ 21659) A. How about
+ 21660) B. Should we
+ 21661) C. Why don't we
+  SITE FEEDBACK: ‣ Use How about + -ing verb, Maybe we could + infinitive, or Why don't we + infinitive to suggest an activity.
+Q 11469 [radio] I don't really like hiking, so I _____ take a bike tour instead.
+ 21665) A. 'd rather
+ 21666) B. 'd prefer
+ 21667) C. 'd say
+  SITE FEEDBACK: ‣ Use I'd rather + infinitive without to or I'd prefer + to-infinitive to express preference.
+Q 11470 [radio] For the day trip, _____ I bring comfortable shoes?
+ 21668) A. will
+ 21669) B. do
+ 21670) C. should
+  SITE FEEDBACK: ‣ Use should I or do I need to when asking if something is necessary or recommended for a specific situation.
+Q 11471 [radio] I'm so excited for the trip! _____ to catch up with you.
+ 21671) A. I must
+ 21672) B. Looking forward
+ 21673) C. I can’t wait
+  SITE FEEDBACK: ‣ Use (I) can't wait to express excitement about something in the future. Looking forward is not possible because it should be followed by -ing verb.
+
+=== PAGE /vocabulary/b1-b2/travel-b1-english-vocabulary/
+Q 11390 [radio] I didn't enjoy our ______ across the ocean because the water was very rough.
+ 21479) A. city break
+ 21480) B. voyage
+ 21481) C. flight
+ 21482) D. journey
+  SITE FEEDBACK: ‣ A voyage is a journey that you take in a boat or on a ship.
+Q 11391 [radio] It took us four hours to reach our ______.
+ 21483) A. travel
+ 21484) B. pleasure trip
+ 21485) C. journey
+ 21486) D. destination
+  SITE FEEDBACK: ‣ Your destination is the place you intend to reach at the end of a journey or voyage.
+Q 11396 [radio] The guide explained the history of each building during our ______ of the city.
+ 21503) A. staycation
+ 21504) B. trip
+ 21505) C. route
+ 21506) D. tour
+  SITE FEEDBACK: ‣ A tour is a trip where you visit different places in a specific area.
+
+=== PAGE /grammar-points/shorts/raise-vs-rise-grammar-shorts/
+Q 11216 [radio] Fred ______ his glass to his mouth and tasted the wine.
+ 21227) A. rise
+ 21228) B. rose
+ 21229) C. raise
+ 21230) D. raised
+  SITE FEEDBACK: ‣ Raise means to put something up and is always followed by an object, which in this case is the glass. /  ‣ The past simple form of raise is raised.

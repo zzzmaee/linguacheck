@@ -1,0 +1,22 @@
+# site-01 (inferred from site feedback, double-check)
+12434 (site says "met", not an option -> moved)  12925 12803 11710
+# site-04
+10102-10111 9855-9864 9679 8925 8934 9513 7718 8619 (rule applied, not quoted)
+# site-12
+2480 (site says "striped", not an option -> cotton)  2455 441 444 700 702 322 324 2411 2412 2416
+# site-02
+10916 10917
+# site-08
+4024 4111
+# site-06
+6046 (site says "wrongly", not an option)  5396 (site says "wasn't", not an option)  6646 6647
+# site-05
+7660 7661 7662 7664 7663 7678 (by elimination from listed alternatives) 7677 7221 7222 7219 7200 7158
+# site-10
+2111 2125 1628 1793 1596
+# site-09
+2947 2948 2951 2954 2916 3077 1925 2958 2961 2965 2967
+# site-11
+962 921 883 884 805 847 648
+# site-07
+4884 (gaps 11,14 site answer not among options - left unkeyed) 4947 4835 4937 4644

@@ -1,0 +1,1474 @@
+
+=== PAGE /grammar-points/a2/second-conditional/
+Q 3383 [radio] I'm sure if you _____ the manager, you'd take better decisions.
+ 5569) A. were
+ 5570) B. 'd be
+ 5571) C. are
+  SITE FEEDBACK: ‣ This is a second conditional sentence. We use past in the if clause and would + infinitive in the main clause .
+Q 3384 [radio] You _____ rich if every person in this country gave you one dollar.
+ 5572) A. were
+ 5573) B. 'll be
+ 5574) C. 'd be
+  SITE FEEDBACK: ‣ This is a second conditional sentence. We use would + infinitive in the main clause and past in the if clause.
+Q 3385 [radio] If there is any news, I _____ you immediately.
+ 5575) A. 'd inform
+ 5576) B. 'll inform
+ 5577) C. informed
+  SITE FEEDBACK: ‣ This is NOT a second conditional sentence; it’s a first conditional sentence. We use present in the if clause and future in the main clause.
+
+=== PAGE /grammar-points/a2/subject-pronouns-object-pronouns-possessive-pronouns-possessive-adjectives/
+Q 3355 [radio] "Do you like pop music?" "No, I don't really like _____."
+ 5521) A. its
+ 5522) B. it
+ 5523) C. her
+  SITE FEEDBACK: ‣ We use object pronouns as the object of the verb (after the verb). /  ‣ We use it for things in singular (them in plural).
+Q 3356 [radio] I hate peaches. _____ taste horrible!
+ 5518) A. They
+ 5519) B. Them
+ 5520) C. It
+  SITE FEEDBACK: ‣ We use subject pronouns a subject of the verb (before the verb). /  ‣ We use it for things in singular and they for people or things in plural. They= peaches.
+Q 3357 [radio] Look, Sally is there. I want to ask _____ if she wants to go out tonight.
+ 5524) A. she
+ 5525) B. hers
+ 5526) C. her
+  SITE FEEDBACK: ‣ We use object pronouns as the object of the verb (after the verb).
+Q 3358 [radio] I never eat sweets. I don't like _____.
+ 5527) A. it
+ 5528) B. their
+ 5529) C. them
+  SITE FEEDBACK: ‣ We use object pronouns as the object of the verb (after the verb). /  ‣ We use it for things in singular and them for people and things in plural. Them= sweets.
+Q 3359 [radio] Ted is a good person. Stop criticising _____!
+ 5530) A. him
+ 5531) B. he
+ 5532) C. his
+  SITE FEEDBACK: ‣ We use object pronouns as the object of the verb (after the verb).
+Q 3360 [radio] This is not your shoe. It's _____.
+ 5533) A. she
+ 5534) B. her
+ 5535) C. hers
+  SITE FEEDBACK: ‣ A possessive pronoun is NOT followed by a noun; it is used replacing a noun. Hers= her shoe.
+Q 3361 [radio] "Whose medicines are these?" "They are not _____. Ask Sally, maybe they are _____"
+ 5536) A. me/hers
+ 5537) B. mine/hers
+ 5538) C. my/hers
+  SITE FEEDBACK: ‣ A possessive pronoun is NOT followed by a noun; it is used replacing a noun. Mine= my medicines; hers= her medicines, Sally's medicines.
+Q 3362 [radio] Go away! I hate _____!
+ 5539) A. you
+ 5540) B. yours
+ 5541) C. your
+  SITE FEEDBACK: ‣ We use object pronouns as the object of the verb (after the verb).
+Q 3363 [radio] You can ask Fred for money. _____ is very generous.
+ 5542) A. He
+ 5543) B. Him
+ 5544) C. His
+  SITE FEEDBACK: ‣ We use subject pronouns a subject of the verb (before the verb).
+Q 3364 [radio] I can't use _____ mobile phone. I think _____ is broken.
+ 5545) A. mine/it
+ 5546) B. my/its
+ 5547) C. my/it
+  SITE FEEDBACK: ‣ We use possessive adjectives before a noun, they modify a noun (my phone). /  ‣ And we use subject pronouns a subject of the verb (before the verb); we use it for things in singular (it=my phone).
+
+=== PAGE /grammar-points/a2/first-conditional-future-time-clauses/
+Q 3329 [radio] How will you celebrate if you _____ the exams?
+ 5500) A. might pass
+ 5501) B. will pass
+ 5502) C. pass
+  SITE FEEDBACK: ‣ This is a first conditional clause. We use present in the if clause, and we use future in the main clause.
+Q 3326 [checkbox, pick 2] When you see Tom, you ____ surprised to see how much he has changed. Choose TWO correct options
+ 5491) A. are
+ 5492) B. will be
+ 5493) C. might be
+  SITE FEEDBACK: ‣ This is a future time clause. We use present after when, and we use future in the other part of the sentence. /  ‣ In the main clause, we can also we a might instead of future.
+Q 3325 [radio] We won't find peace until we ____ who did this.
+ 5488) A. find
+ 5489) B. will find
+ 5490) C. should find
+  SITE FEEDBACK: ‣ This is a future time clause. We use present after until, and we use future in the other part of the sentence.
+Q 3327 [radio] You will know what true love is as soon as you _____ it.
+ 5494) A. find
+ 5495) B. will find
+ 5496) C. may find
+  SITE FEEDBACK: ‣ This is a future time clause. We use present after as soon as, and we use future in the main clause (the other part of the sentence).
+Q 3330 [checkbox, pick 2] If you don't believe me, _____ John. Choose TWO correct options
+ 5503) A. ask
+ 5504) B. you ask
+ 5505) C. you should ask
+  SITE FEEDBACK: ‣ This is a first conditional sentence. In the main clause, we normally use future (will), but we can also use may, might, can, must, should or an imperative instead of will.
+Q 3331 [radio] If I _____ a job soon, I won't have enough money for the rent.
+ 5506) A. won't find
+ 5507) B. don't find
+ 5508) C. should find
+  SITE FEEDBACK: ‣ This is a first conditional clause. We use present in the if clause, and we use future in the main clause.
+Q 3328 [radio] I _____ it until I see it.
+ 5497) A. won't believe
+ 5498) B. don't believe
+ 5499) C. am not believing
+  SITE FEEDBACK: ‣ This is a future time clause. We use present after until and we use future in the other part of the sentence.
+Q 3332 [radio] If you open those files attached to your email, your computer ____ infected.
+ 5509) A. get
+ 5510) B. gets
+ 5511) C. might get
+  SITE FEEDBACK: ‣ This is a first conditional sentence. We use present in the if clause and might in the main clause. Remember that in the main clause we normally use future, but we can also use may, might, can, must, should or an imperative instead of will.
+Q 3333 [radio] When I _____ older, I'll buy a Ferrari.
+ 5512) A. am
+ 5513) B. might be
+ 5514) C. will be
+  SITE FEEDBACK: ‣ This is a future time clause. We use present after when, and we use future in the other part of the sentence.
+Q 3334 [checkbox, pick 2] If he studies more, he _____ the exam. Choose TWO correct options
+ 5515) A. pass
+ 5516) B. 'll pass
+ 5517) C. might pass
+  SITE FEEDBACK: ‣ This is a future time clause. We use present after when, and we use future in the other part of the sentence. In the main clause, we can also we a modal verb like might instead of future.
+
+=== PAGE /grammar-points/a2/should-shouldnt/
+Q 3295 [radio] What _____ tell Peter?
+ 5458) A. should I
+ 5459) B. should I to
+ 5460) C. do I should
+  SITE FEEDBACK: ‣ To make questions, we use should + subject + infinitive. We don’t use do.
+Q 3296 [radio] They _____ to go to the police.
+ 5461) A. should
+ 5462) B. ought
+ 5463) C. shouldn't
+  SITE FEEDBACK: ‣ In this sentence, should and shouldn't are incorrect because after should we need an infinitive without to. /  ‣ Ought to + infinitive= should + infinitive.
+Q 3297 [radio] I _____ take that course. It's a waste of time.
+ 5464) A. think you shouldn't
+ 5465) B. think you should not
+ 5466) C. don't think you should
+  SITE FEEDBACK: ‣ In negative sentences, we often say I don’t think … should … (NOT I think … shouldn’t …)
+Q 3299 [radio] What _____ do if he doesn't get a promotion?
+ 5470) A. does Brian should
+ 5471) B. should Brian
+ 5472) C. should Brian to
+  SITE FEEDBACK: ‣ To make questions, we use should + subject + infinitive. We don’t use do.
+Q 3300 [radio] You _____ swim immediately after a meal.
+ 5473) A. should not
+ 5474) B. ought not
+ 5475) C. shouldn't to
+  SITE FEEDBACK: ‣ The negative form of should is should not or shouldn’t followed by infinitive without to. /  ‣ Ought not is not correct if it's not followed by to + infinitive.
+Q 3301 [radio] We _____ take the money. You'll never be able to pay it back.
+ 5476) A. think you should not
+ 5477) B. think you ought not to
+ 5478) C. don't think you should
+  SITE FEEDBACK: ‣ In negative sentences, we often say I don’t think … should … (NOT I think … shouldn’t …)
+Q 3302 [radio] Politicians _____ to be completely honest and transparent.
+ 5479) A. ought
+ 5480) B. shouldn't
+ 5481) C. should
+  SITE FEEDBACK: ‣ In this sentence, should and shouldn’t are incorrect because after should we need an infinitive without to. /  ‣ Ought to + infinitive= should + infinitive.
+Q 3303 [radio] She _____ work so hard. She's under too much stress.
+ 5482) A. shouldn't
+ 5483) B. shouldn't to
+ 5484) C. ought not
+  SITE FEEDBACK: ‣ We can't use to after should/shouldn't and we must use to after ought/ought not. /  ‣ In the sentence above we could say 'She shouldn't work so hard' or 'She ought not to work hard.'
+Q 3304 [radio] Why _____ listen to you?
+ 5485) A. do I should
+ 5486) B. should I
+ 5487) C. should I to
+  SITE FEEDBACK: ‣ To make questions, we use should + subject + infinitive. We don’t use do.
+
+=== PAGE /grammar-points/a2/have-to-dont-have-to-must-mustnt/
+Q 3275 [radio] I _____ leave early because I wasn't feeling well.
+ 5428) A. had to
+ 5429) B. must
+ 5430) C. have to
+  SITE FEEDBACK: ‣ We need to use had to because the sentence is past.  /  ‣ Remember that must does not have a past form.
+Q 3276 [radio] You _____ do something to solve this problem.
+ 5431) A. have to
+ 5432) B. 've to
+ 5433) C. must
+  SITE FEEDBACK: ‣ We use must and not have to because the obligation comes from the opinion of the speaker; it's not an external obligation. /  ‣ Remember that the verb have in have to cannot be contracted to ‘ve.
+Q 3277 [radio] I don't like these clothes, but I _____ wear them at work.
+ 5434) A. must
+ 5435) B. 've to
+ 5436) C. have to
+  SITE FEEDBACK: ‣ We use have to and not must because the obligation is external, it does not come from the opinion of the speaker. /  ‣ Remember that the verb have in have to cannot be contracted to ‘ve.
+Q 3278 [radio] Teacher: 'You _____ arrive on time for class.'
+ 5437) A. must
+ 5438) B. mustn't
+ 5439) C. have to
+  SITE FEEDBACK: ‣ We use must and not have to because the obligation comes from the speaker; it’s not an external obligation.
+Q 3279 [radio] We didn't have money, so we _____ find a cash dispenser.
+ 5440) A. must
+ 5441) B. had to
+ 5442) C. have to
+  SITE FEEDBACK: ‣ We need to use had to because the sentence is past. Remember that must does not have a past form.
+Q 3281 [radio] You ____ tell anyone; it's a secret.
+ 5446) A. don't have to
+ 5447) B. haven't to
+ 5448) C. mustn't
+  SITE FEEDBACK: ‣ The present negative form of have to is don't have to (NOT haven't to); but in the sentence above we need to use mustn't because it's a prohibition, you cannot say anything.
+Q 3282 [radio] We ______ leave now; it's 10 and the conference doesn't start until 12.
+ 5449) A. don't have to
+ 5450) B. haven't to
+ 5451) C. mustn't
+  SITE FEEDBACK: ‣ We use don't have to (NOT mustn't) because we can leave, but it is not necessary. /  ‣ And remember that the negative form of have to is don’t have to (NOT haven’t to).
+Q 3283 [radio] We had an accident, but it was OK, we _____ go to the hospital.
+ 5452) A. didn't have to
+ 5453) B. hadn't to
+ 5454) C. didn't must
+  SITE FEEDBACK: ‣ The form didn't must is not correct; the verb must does not have a past form. /  ‣ We need do/don’t does/doesn’t, did/didn’t to make questions and negative sentences with the verb have to; the form hadn't to is not correct.
+Q 3284 [radio] The doctor has put me on a strict diet. I _____ eat more fruit and vegetables and do more exercise.
+ 5455) A. must
+ 5456) B. have to
+ 5457) C. 've to
+  SITE FEEDBACK: ‣ We use have to and not must because the obligation is external; it comes from the doctor, not from the speaker. /  ‣ And remember that the verb have in have to cannot be contracted to ‘ve.
+
+=== PAGE /grammar-points/a2/infinitives-and-gerunds/
+Q 3244 [radio] I would like _____ my grandmother next year.
+ 5398) A. visit
+ 5399) B. to visit
+ 5400) C. visiting
+  SITE FEEDBACK: ‣ We normally use -ing after like, love, hate, prefer, but we use to + infinitive after would like, would love, would hate, would prefer.
+Q 3245 [radio] I might _____ late today. I have a lot of work.
+ 5401) A. be
+ 5402) B. to be
+ 5403) C. being
+  SITE FEEDBACK: ‣ We use infinitive without to after modal verbs (will, can, must, should, might, may, etc.)
+Q 3246 [radio] We are planning _____ to Switzerland next year.
+ 5404) A. go
+ 5405) B. to go
+ 5406) C. going
+  SITE FEEDBACK: ‣ We say plan + to + infinitive.
+Q 3247 [radio] Keep quiet, I need _____ on my homework.
+ 5407) A. concentrate
+ 5408) B. to concentrate
+ 5409) C. concentrating
+  SITE FEEDBACK: ‣ We say need + to + infinitive.
+Q 3248 [radio] My brother is trying _____ smoking.
+ 5410) A. quit
+ 5411) B. to quit
+ 5412) C. quitting
+  SITE FEEDBACK: ‣ We say try + to + infinitive.
+Q 3249 [radio] Tennis is okay, but I prefer _____ padel.
+ 5413) A. play
+ 5414) B. to play
+ 5415) C. playing
+  SITE FEEDBACK: ‣ We normally use -ing after like, love, hate, prefer.
+Q 3250 [radio] I enjoy _____ stories to my children.
+ 5416) A. read
+ 5417) B. to read
+ 5418) C. reading
+  SITE FEEDBACK: ‣ We say enjoy + -ing.
+Q 3251 [radio] You must never _____ him the truth.
+ 5419) A. tell
+ 5420) B. to tell
+ 5421) C. telling
+  SITE FEEDBACK: ‣ We use infinitive without to after modal verbs (will, can, must, should, might, may, etc.)
+Q 3252 [radio] I hope _____ a job soon.
+ 5422) A. find
+ 5423) B. to find
+ 5424) C. finding
+  SITE FEEDBACK: ‣ We say hope + to + infinitive.
+Q 3253 [radio] What do you want _____ tonight?
+ 5425) A. do
+ 5426) B. to do
+ 5427) C. doing
+  SITE FEEDBACK: ‣ We say want and need + to + infinitive.
+
+=== PAGE /grammar-points/a2/much-many-little-few-some-any/
+Q 3194 [radio] We haven't got _____ petrol. We need to stop and get some.
+ 5368) A. much
+ 5369) B. many
+ 5370) C. little
+  SITE FEEDBACK: ‣ We use much with uncountable nouns and petrol is an uncountable noun. We don't normally use little in negative sentences; we could use it if the sentence was affirmative: We have little petrol.
+Q 3195 [radio] We had ________ rain last autumn.
+ 5371) A. a lot of
+ 5372) B. much
+ 5373) C. many
+  SITE FEEDBACK: ‣ We use a lot of because it's an affirmative sentence, and we don't normally use much or many in affirmative sentences.
+Q 3196 [radio] There was ________ food in the fridge. It was nearly empty.
+ 5374) A. little
+ 5375) B. a little
+ 5376) C. few
+  SITE FEEDBACK: ‣ We use little (without a) because the meaning is negative –the fridge is almost empty. If we say 'a little food' it means that there isn't much food, but there is enough.
+Q 3197 [radio] You travel a lot. Have you been to _____ countries?
+ 5377) A. much
+ 5378) B. many
+ 5379) C. few
+  SITE FEEDBACK: ‣ We use many because countries is a plural noun (countable). We can't use few because we are talking about a large quantity, and not a small quantity; if someone travels a lot, that means that they have been to many countries, not few.
+Q 3198 [radio] It costs _____ money to give your children a good education.
+ 5380) A. much
+ 5381) B. many
+ 5382) C. a lot of
+  SITE FEEDBACK: ‣ We use a lot of because it’s an affirmative sentence, and we don’t normally use much or many in affirmative sentences.
+Q 3200 [radio] "Have you got any coins for the vending machine?" "Yes, I have ________."
+ 5386) A. a little
+ 5387) B. a few
+ 5388) C. few
+  SITE FEEDBACK: ‣ We say a few and not few (without a) because the meaning is positive –we say 'yes'. /  ‣ The difference between a few/a little (WITH a) and few/little (WITHOUT a) is that a few/a little are positive in meaning, and few/little are negative.
+Q 3202 [radio] We need to go to the greengrocer's. There are _____ potatoes left.
+ 5392) A. few
+ 5393) B. a few
+ 5394) C. a little
+  SITE FEEDBACK: ‣ We use few (without a) because the meaning is negative, the amount of potatoes we have is not enough and we need to go to the shop. /  ‣ The difference between a few/a little (WITH a) and few/little (WITHOUT a) is that a few/a little are positive in meaning, and few/little are negative.
+Q 3203 [radio] There was _____ traffic so we arrived very early.
+ 5395) A. a little
+ 5396) B. a few
+ 5397) C. little
+  SITE FEEDBACK: ‣ We use little (without a) because the meaning is negative, the amount of traffic was not enough to make us arrive late. And we can't use few because traffic is an uncountable noun.
+
+=== PAGE /grammar-points/a2/too-too-much-too-many-enough/
+Q 3164 [radio] You work _____; you need a holiday.
+ 5338) A. too much
+ 5339) B. too many
+ 5340) C. too
+  SITE FEEDBACK: ‣ We can use too much after a verb to mean ‘more than we need’ or ‘more than is necessary’.
+Q 3165 [radio] My parents got angry because my marks weren't _____.
+ 5341) A. enough good
+ 5342) B. good enough
+ 5343) C. too much good
+  SITE FEEDBACK: ‣ Good is an adjective and we can use adjective/adverb + enough to mean ‘sufficiently’. /  ‣ We cannot use too much, because too much is normally followed by a noun (NOT an adjective).
+Q 3167 [radio] I can't help you. I have _____ problems right now.
+ 5347) A. too much
+ 5348) B. too
+ 5349) C. too many
+  SITE FEEDBACK: ‣ Problems is a plural noun, and we use too many before plural nouns to mean ‘more than we need’ or ‘more than is necessary’.
+Q 3166 [radio] He didn't accept my project because he said it wasn't _____.
+ 5344) A. too much good
+ 5345) B. enough good
+ 5346) C. good enough
+  SITE FEEDBACK: ‣ Good is an adjective and we can use adjective/adverb + enough to mean ‘sufficiently’. /  ‣ We cannot use too much, because too much is normally followed by a noun (NOT an adjective).
+Q 3168 [radio] This house is _____ small; we need a bigger one.
+ 5350) A. too
+ 5351) B. too much
+ 5352) C. enough
+  SITE FEEDBACK: ‣ We use too (NOT too much) before an adjective or an adverb to mean ‘more than we need’ or ‘more than is necessary’.
+Q 3169 [radio] You don't need to buy anything. I think we have _____ for the journey.
+ 5353) A. enough food
+ 5354) B. food enough
+ 5355) C. too many food
+  SITE FEEDBACK: ‣ We use enough + noun to say that something is the correct number or amount. /  ‣ Food is an uncountable noun, so we can't use too many before it.
+Q 3171 [radio] This hospital is a total chaos. There are _____ patients and not _____ doctors.
+ 5359) A. to much / too many
+ 5360) B. too / enough
+ 5361) C. too many / enough
+  SITE FEEDBACK: ‣ Patients is a plural noun, and we use too many before plural nouns to mean ‘more than we need’ or ‘more than is necessary’. /  ‣ In negative sentences we use (not) enough + noun to say that something is less than we want or we need.
+Q 3172 [radio] People spend _____ time on their mobile phones.
+ 5362) A. too
+ 5363) B. too many
+ 5364) C. too much
+  SITE FEEDBACK: ‣ Time is an uncountable noun and we use too much before uncountable nouns to mean ‘more than we need’ or ‘more than is necessary’.
+
+=== PAGE /grammar-points/a2/comparative-superlative-adjectives-adverbs/
+Q 3124 [radio] The south is _____ the north.
+ 5308) A. hotter than
+ 5309) B. more hotter than
+ 5310) C. more hot than
+  SITE FEEDBACK: ‣ One-syllable adjectives ending in consonant + vowel + consonant double the consonant and take -er/-est in the comparative and superlative forms.
+Q 3125 [radio] We work _____ now with the new manager.
+ 5311) A. most happily
+ 5312) B. more happily
+ 5313) C. happilier
+  SITE FEEDBACK: ‣ Happily is an adverb that is formed by adding -ly to the adjective happy. Adverbs that are formed by adding -ly to the adjective (adverbs of manner), take more to form the comparative, and the most to form the superlative. /  ‣ We need a comparative and not superlative because we are comparing two things (how we work now and how we worked before).
+Q 3126 [radio] He is ______ England.
+ 5314) A. the most famous painter in
+ 5315) B. the famousest painter in
+ 5316) C. the most famous painter of
+  SITE FEEDBACK: ‣ Famous takes most in the superlative because it's a two-syllable adjective. /  ‣ And after superlatives we use in before names of places.
+Q 3127 [radio] Tuesdays are _____ than Mondays.
+ 5317) A. much more busy
+ 5318) B. much more busier
+ 5319) C. a lot busier
+  SITE FEEDBACK: ‣ Busy is an adjective of two syllables, and one-syllable or two-syllable adjectives ending in -y turn the -y into -i and then take -er and -est in the comparative and superlative.
+Q 3128 [radio] It's the worst experience _____.
+ 5320) A. I've never had
+ 5321) B. I ever had
+ 5322) C. I've ever had
+  SITE FEEDBACK: ‣ We often use a superlative adjective with the present perfect tense of a verb and the word ever.
+Q 3129 [radio] She eats better _____.
+ 5323) A. than my
+ 5324) B. than me
+ 5325) C. that I do
+  SITE FEEDBACK: ‣ We use than and not *that after comparative adjectives. /  ‣ After than or as … as, we can use an object pronoun (me, you, him, etc.), or we can also use a subject pronoun (I, you, he, etc.) + verb.
+Q 3130 [radio] He doesn't run _____ his brother.
+ 5326) A. as faster as
+ 5327) B. as fast as
+ 5328) C. fast as
+  SITE FEEDBACK: ‣ To compare two things, we can use more + adjective + than, e.g. faster than, or we can also use the form (not) as + adjective + as, e.g. as fast as.
+Q 3131 [radio] The bus is a bit _____ the train.
+ 5329) A. comfortabler than
+ 5330) B. more comfortable as
+ 5331) C. more comfortable than
+  SITE FEEDBACK: ‣ We use more + adjective + than with adjectives of two or more syllables.
+Q 3132 [radio] This year we are having _____ summer since 1976.
+ 5332) A. the most hot
+ 5333) B. the hottest
+ 5334) C. the hotter
+  SITE FEEDBACK: ‣ Hot is one syllable and one syllable adjectives ending in consonant + vowel + consonant double the consonant and take -er/-est in the comparative and superlative. /  ‣ We need superlative and not comparative because we are comparing more than two things.
+Q 3133 [radio] We finished _____ we expected.
+ 5335) A. more quickly than
+ 5336) B. quicklier than
+ 5337) C. more quick than
+  SITE FEEDBACK: ‣ Quickly is an adverb that is formed by adding -ly to the adjecive quick. The adverbs that are formed by adding -ly to the adjective (adverbs of manner) take more to form the comparative, and the most to form the superlative.
+
+=== PAGE /grammar-points/a2/something-anything-nothing-etc/
+Q 3088 [gaps] ‘Did you see {1} interesting at the party?’ ‘ {2} . Only boring people.’
+  {1} options: somebody | nobody | anybody
+  {2} options: Anybody | Nobody | Everybody
+  SITE FEEDBACK: Correct answer: anybody/Nobody /  ‣ In the first gap, we need to use anybody because it's a question, and we use any- in questions and negatives. /  ‣ In the second gap, we use nobody because we mean 'no interesting people' and there isn't a negative verb. /  ‣ We could say '(I saw) nobody' or 'I didn't see anybody.'
+Q 3091 [gaps] ‘Have you eaten {1} ?’ ‘ {2} . I’m very hungry.’
+  {1} options: nothing | anything | something
+  {2} options: Everything | Nothing | Anything
+  SITE FEEDBACK: Correct answer: anything/Nothing /  ‣ In the first gap, we use anything because it's a question and we use any- words in questions and negative sentences. /  ‣ In the second gap, we use nothing which is short for (I have eaten) nothing. /  ‣ We could also say 'I haven't eaten anything.'
+Q 3093 [gaps] I think {1} bad has happened, because there are police officers {2} .
+  {1} options: something | anything | everything
+  {2} options: nowhere | anywhere | everywhere
+  SITE FEEDBACK: Correct answers: something/everywhere /  ‣ In the first gap, we use something because the meaning is positive. We can't use anything in an affirmative sentence, and everything has no sense in this sentence. /  ‣ In the second gap, only the word everywhere makes sense. It means that there are a lot of police officers.
+Q 3098 [radio] He lost his house and now he has _____ to live.
+ 5290) A. nowhere
+ 5291) B. anywhere
+ 5292) C. everywhere
+  SITE FEEDBACK: ‣ We use nowhere because the verb is affirmative and we want to express a negative meaning. It means 'he has no place to live'. /  ‣ We could also say 'He doesn't have anywhere to live.'
+Q 3100 [radio] She doesn't have _____ in her life. She's very lonely.
+ 5293) A. somebody
+ 5294) B. nobody
+ 5295) C. anybody
+  SITE FEEDBACK: ‣ We say anybody because the sentence is negative. We use anything, anybody/anyone, anywhere in negative sentences and questions. /  ‣ We could also say 'She has nobody.'
+Q 3099 [gaps] We have looked for Mike {1} but we can't find him {2} . Do you know where he is?
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: everywhere/anywhere /  ‣ We use everybody/everyone, everything, everywhere when we mean ‘all the people’, ‘all the things’ or ‘(in) all the places’. /  ‣ We use anywhere because the verb is negative: can’t find. We use anything, anybody/anyone, anywhere in negative sentences and questions. /  ‣ We could also say 'We can find him nowhere.'
+
+=== PAGE /grammar-points/a2/present-perfect-or-past-simple/
+Q 3070 [gaps] A: 3 {1} this film before? /  B: Yes, actually I 4 {2} it last night.
+  {1} options: Have you seen | Did you see
+  {2} options: have seen | saw
+  SITE FEEDBACK: Feedback /  3 Correct answer: Have you seen /  ‣ We often use the present perfect with before to talk about people's experiences. We don't mention when. /  4 Correct answer: saw /  ‣ We use the past simple for past events when we mention when something happened.
+Q 3071 [gaps] A: What 5 {1} last weekend? /  B: I 6 {2} at home all weekend.
+  {1} options: have you done | did you do
+  {2} options: stayed | have stayed
+  SITE FEEDBACK: Feedback /  5 Correct answer: did you do /  ‣ We use the past simple for past events when we mention when something happened. /  6 Correct answer: stayed /  ‣ We use the past simple for past events when we mention when something happened: last weekend
+Q 3072 [gaps] A: So, Tom is your best friend. 7 {1} Tom when you were in school? /  B: Yes, we 8 {2} for over 30 years.
+  {1} options: Did you meet | Have you met
+  {2} options: 've been friends | were friends
+  SITE FEEDBACK: Feedback /  7 Correct answer: Did you meet /  ‣ We use the past simple for past events when we mention when something happened: when you were in school. /  8 Correct answer: 've been friends /  ‣ We use the present perfect tense with how long, for, and since to talk about situations that started in the past and are still true now.
+Q 3073 [gaps] A: 9 {1} a marathon? /  B: Yes, last year I 10 {2} the Boston marathon.
+  {1} options: Have you ever run | Did you ever run
+  {2} options: have run | ran
+  SITE FEEDBACK: Feedback /  9 Correct answer: Have you ever run /  ‣ We often use the present perfect with ever to ask about people’s experiences. /  10 Correct answer: ran /  ‣ We use the past simple for past events when we mention when something happened: last year.
+Q 3074 [radio] _____ John yet?
+ 5248) A. Have you called
+ 5249) B. Did you call
+ 5250) C. Do you call
+  SITE FEEDBACK: ‣ We normally use the present perfect (NOT past simple) with already, just, and yet.
+Q 3075 [radio] Emily's not here. She _____ to the shops.
+ 5251) A. 's gone
+ 5252) B. 's been
+ 5253) C. 's went
+  SITE FEEDBACK: ‣ Compare the present perfect of be and go: /  Jane has gone to England. (=She is in England now) /  Jane has been to England. (=She went to England and came back. She's here now)
+Q 3078 [radio] A: Where's Tom? B: He _____ .
+ 5260) A. went just out
+ 5261) B. 's just gone out
+ 5262) C. did just go out
+  SITE FEEDBACK: ‣ We often use the present perfect with just to talk about actions that have happened very recently (like minutes ago).
+Q 3076 [radio] He _____ in London for three years and now he lives in Dublin.
+ 5254) A. 's lived
+ 5255) B. lives
+ 5256) C. lived
+  SITE FEEDBACK: ‣ He lived in London in the past, but he doesn't live there any more. We use the past simple with how long, for, since to talk about actions or situations that started and finished in the past.
+Q 3077 [radio] _____ the door when you left?
+ 5257) A. Did you lock
+ 5258) B. Did you locked
+ 5259) C. Have you locked
+  SITE FEEDBACK: ‣ We use the past simple when we mention when a past event happened: when you left.
+Q 3079 [radio] A: 'Where's Tom?' B: 'He _____ ten minutes ago.'
+ 5263) A. 's gone out
+ 5264) B. 's been out
+ 5265) C. went out
+  SITE FEEDBACK: ‣ We use the past simple because we are talking about a completed past action and we say when it happened: ten minutes ago
+Q 3081 [radio] A: '_____ breakfast yet?' B: Yes, I _____ breakfast at 7:30.'
+ 5266) A. Have you had / had
+ 5267) B. Have you had / 've had
+ 5268) C. Did you have / 've had
+  SITE FEEDBACK: ‣ We normally use the present perfect for recent actions with words like yet, just, and already.  /  ‣ In the second gap, we use the past simple because it's a completed action in the past and we say when that action happened: at 7:30.
+Q 3082 [radio] A: '_____ their homework yet?' B: 'Yes, they _____ it when they arrived from school.'
+ 5269) A. Have the kids done / did
+ 5270) B. Did the kids do / did
+ 5271) C. Did the kids do / 've done
+  SITE FEEDBACK: ‣ In the first gap we use the present perfect because we are asking about a recent action, and the time when it happened is not mentioned because it is not important. We want to know if the homework is done now. /  ‣ In the second gap we use the past simple because it's a past completed action and we say when it happened: when they arrived from school.
+Q 3083 [radio] I _____ with Jake last Tuesday and he says you _____ him for months.
+ 5272) A. 've talked / haven't visited
+ 5273) B. talked / haven't visited
+ 5274) C. 've talked / didn't visit
+  SITE FEEDBACK: ‣ In the first gap, we use the past simple because we are talking about a completed past action and we say when it happened: last Tuesday. /  ‣ In the second gap, we use the present perfect because we use this verb tense with how long, for, since to talk about actions or situations that started in the past and still continue now.
+Q 3084 [radio] A: 'We _____ yesterday, and you?' B: 'We _____ here since last week.'
+ 5275) A. arrived / 've been
+ 5276) B. have arrived / were
+ 5277) C. 've arrived / ''ve been
+  SITE FEEDBACK: ‣ In the first gap, we use the past simple because it’s a completed action in the past and we say when that action happened: yesterday. /  ‣ In the second gap, we use the present perfect tense because we use this tense with how long, for, and since to talk about situations that started in the past and are still true now.
+
+=== PAGE /grammar-points/a2/present-perfect/
+Q 3036 [radio] _____ to Rome?
+ 5218) A. Have ever you been
+ 5219) B. Have you ever been
+ 5220) C. Have you been ever
+  SITE FEEDBACK: ‣ In questions, we use ever after have and before the subject.
+Q 3037 [radio] Have you had lunch _____?
+ 5221) A. yet
+ 5222) B. just
+ 5223) C. already
+  SITE FEEDBACK: ‣ We use yet in (-) and (?) sentences. We put it at the end of the sentence.
+Q 3038 [radio] I _____ the keys that I lost yet.
+ 5224) A. haven't find
+ 5225) B. haven't finded
+ 5226) C. haven't found
+  SITE FEEDBACK: ‣ Find is an irregular verb: find, found, found. We make the present perfect tense with the verb have and the past participle of the verb. The past participle is the same as the past simple (-ed) for regular verbs. For irregular verbs, it’s the form in the 3rd column.
+Q 3039 [radio] I _____ Peter since I was 5 years old.
+ 5227) A. know
+ 5228) B. 've known
+ 5229) C. 've knew
+  SITE FEEDBACK: ‣ We use present perfect, and not present simple for actions or situations that started in the past and are still true now.
+Q 3040 [radio] I _____ my pen. Can I use yours?
+ 5230) A. 've losed
+ 5231) B. lose
+ 5232) C. have lost
+  SITE FEEDBACK: ‣ We make the present perfect tense with the verb have and the past participle of the verb. Lose is an irregular verb, and the past participle is lost.
+Q 3041 [radio] A: 'Where's Celine?' B: 'She ______.'
+ 5233) A. 's just left
+ 5234) B. just has left
+ 5235) C. has left just
+  SITE FEEDBACK: ‣ The words just and already go after the verb have and before the main verb.
+Q 3042 [radio] I've been here _____.
+ 5236) A. since a week ago
+ 5237) B. since a week
+ 5238) C. for a week
+  SITE FEEDBACK: ‣ We use for + a period of time, e.g. for two weeks, for ten years, for ten days, for a few hours, etc. And we don’t use the word ago with the present perfect.
+Q 3043 [radio] We _____ insects before.
+ 5239) A. never have ate
+ 5240) B. 've never eaten
+ 5241) C. never have eaten
+  SITE FEEDBACK: ‣ Eat is an irregular verb, and eaten is the past participle. To make the present perfect, we need the verb have + the past participle eaten. And the word never goes after the verb have and before the main verb.
+Q 3044 [radio] We've known each other since we _____ children.
+ 5242) A. were
+ 5243) B. have been
+ 5244) C. are
+  SITE FEEDBACK: ‣ We use since + a moment in the past (the beginning of a period of time), e.g. since I was born, since 10 o’clock, since last Wednesday, etc. That means that if we use a clause after since, the verb is usually in past tense.
+Q 3045 [radio] _____ raining yet?
+ 5245) A. Has it stop
+ 5246) B. Does it stopped
+ 5247) C. Has it stopped
+  SITE FEEDBACK: ‣ We often use the present perfect with yet. And for questions the present perfect is: have + subject + past participle of the main verb.
+
+=== PAGE /grammar-points/a2/defining-relative-clauses-who-which-that-where/
+Q 2979 [radio] What's the name of the man ____ lives next door?
+ 5123) A. that he
+ 5124) B. where
+ 5125) C. who
+  SITE FEEDBACK: ‣ We use who for people. /  ‣ We could also use that, but we can’t use an expression like *that he/she etc. in this type of relative clauses.
+Q 2980 [radio] This is the computer ____ I bought from my friend.
+ 5126) A. which
+ 5127) B. what
+ 5128) C. who
+  SITE FEEDBACK: ‣ We use which for things or animals. /  ‣ We could also use that, but we can’t use an expression like *what or *that he/she etc. in this type of relative clauses.
+Q 2982 [radio] Who is the man _____ is dancing with your sister?
+ 5132) A. that he
+ 5133) B. which
+ 5134) C. that
+  SITE FEEDBACK: ‣ We can use that instead of who or which. /  ‣ We could also use who, but we can’t use an expression like *that he/she etc. in this type of relative clauses.
+Q 2984 [radio] The two men _____ robbed the bank were wearing masks.
+ 5138) A. that they
+ 5139) B. which
+ 5140) C. who
+  SITE FEEDBACK: ‣ We use who for people. /  ‣ We could also use that, but we can’t use an expression like *that he/she etc. in this type of relative clauses.
+Q 2985 [radio] Working is the only thing _____ makes him happy.
+ 5141) A. which
+ 5142) B. who
+ 5143) C. what
+  SITE FEEDBACK: ‣ We use which for things or animals. /  ‣ We could also use that, but we can’t use an expression like *what or *that he/she etc. in this type of relative clauses.
+
+=== PAGE /grammar-points/a2/present-continuous-future-arrangements/
+Q 4501 [gaps] Dialogue 2 /  ROY: What time 5 {1} tomorrow? /  VALERIA: Very early. I 6 {2} the 6.50 train. /  ROY: Do you have the ticket? /  VALERIA: Not yet, because I 7 {3} it online when I arrive home.
+  {1} options: are you going to leave | will you leave | are you leaving
+  {2} options: will take | 'm going to take | 'm taking
+  {3} options: 'm buying | 'm going to buy | 'll buy
+  SITE FEEDBACK: Feedback /  5 Correct answer: are you leaving /  6 Correct answer: 'm taking /  ‣ We use the present continuous to talk about future arrangements, i.e. plans when we have decided a time and a place. /  ‣ The present continuous for future arrangements is very common with verbs of travelling, and when we are meeting people. /  ‣ We could also use be going to. /  7 Correct answer: 'm going to buy /  ‣ We use be going to to talk about future intentions. Buying the ticket online is a plan or intention, but not an arrangement.
+Q 4502 [gaps] Dialogue 3 /  RUTH: I 8 {1} for a drink with Jessica this evening. Would you like to come? /  SANDRA: No, 9 I {2} the book I am reading. I need to finish it before tomorrow. /  RUTH: Why do you need to finish it for tomorrow? /  SANDRA: Because I 10 {3} my friends from the reading club tomorrow afternoon.
+  {1} options: 'm going to go | 'm going | will go
+  {2} options: will finish | 'm finishing | 'm going to finish
+  {3} options: will meet | 'm going to meet | 'm meeting
+  SITE FEEDBACK: Feedback /  8 Correct answer: 'm going /  ‣ We use the present continuous to talk about future arrangements, i.e. plans when we have decided a time and a place with other people. /  ‣ We could also use be going to. /  9 Correct answer: 'm going to finish /  ‣ We use be going to to talk about future intentions. Finishing the book is a plan or intention, not an arrangement. /  10 Correct answer: 'm meeting /  ‣ We use the present continuous to talk about future arrangements, i.e. plans when we have decided a time and a place with other people. /  ‣ We could also use be going to.
+Q 2958 [radio] I _____ tennis with my friends next Friday.
+ 5093) A. will play
+ 5094) B. 'm playing
+ 5095) C. 'm going to play
+  SITE FEEDBACK: ‣ We use the present continuous to talk about future arrangements, i.e. plans when we have decided a time and a place with other people. /  ‣ We could also use be going to.
+Q 2959 [radio] Can you pass me the remote? I _____ some TV.
+ 5096) A. will watch
+ 5097) B. am going to watch
+ 5098) C. am watching
+  SITE FEEDBACK: ‣ We use be going to to talk about future intentions. Watching TV is a plan or intention, not an arrangement.
+Q 2960 [radio] What _____ with the lottery money?
+ 5099) A. will do
+ 5100) B. are you doing
+ 5101) C. are you going to do
+  SITE FEEDBACK: ‣ We use be going to to ask about future intentions.
+Q 2961 [radio] We _____ married in June.
+ 5102) A. will get
+ 5103) B. are going to get
+ 5104) C. are getting
+  SITE FEEDBACK: ‣ We use the present continuous to talk about future arrangements, i.e. plans when we have decided a time and a place with other people. /  ‣ We could also use be going to.
+Q 2962 [radio] A: 'Did you remember to make the reservation?' B: 'Oh no, I forgot. I _____ the hotel right now.'
+ 5105) A. 'll call
+ 5106) B. 'm calling
+ 5107) C. 'm going to call
+  SITE FEEDBACK: ‣ This is an instant decision. We use will for decisions that you take at the moment of speaking.
+Q 2963 [radio] A: 'Why did you buy a guitar if you can't play?' B. 'No, but I _____.'
+ 5108) A. will learn
+ 5109) B. 'm learning
+ 5110) C. 'm going to learn
+  SITE FEEDBACK: ‣ We use be going to to talk about future intentions. /  ‣ We can't use the present continuous, because when we use the present continuous for future arrangements, we normally use a future time expression, e.g. tomorrow, next week, at 7, etc.
+Q 2964 [radio] A: 'I can't see without my glasses.' B: 'Don't worry. I _____ the letter for you.'
+ 5111) A. 'll read
+ 5112) B. 'm reading
+ 5113) C. 'm going to read
+  SITE FEEDBACK: ‣ This is an instant decision. We use will for decisions that you take at the moment of speaking.
+Q 2965 [radio] Laura ______ next Tuesday. I can't wait to see her.
+ 5114) A. will come back
+ 5115) B. is coming back
+ 5116) C. is going to come back
+  SITE FEEDBACK: ‣ The present continuous for future arrangements is very common with verbs of travelling, and when we are meeting people. /  ‣ We could also use be going to.
+Q 2966 [radio] I have stopped eating sugar. I _____ sugar again.
+ 5117) A. don't eat
+ 5118) B. 'm not eating
+ 5119) C. am not going to eat
+  SITE FEEDBACK: ‣ We use be going to to talk about future intentions. Not eating sugar is a plan or intention, not an arrangement.
+Q 2967 [radio] We _____ some friends after work.
+ 5120) A. will meet
+ 5121) B. are meeting
+ 5122) C. are going to meet
+  SITE FEEDBACK: ‣ We use the present continuous to talk about future arrangements, i.e. plans when we have decided a time and a place with other people. /  ‣ We could also use be going to.
+
+=== PAGE /grammar-points/a2/subject-questions-questions-preposition/
+Q 2947 [radio] I dreamt about our old house in Cornwall. ⇒ What _____?
+ 5063) A. dreamt you
+ 5064) B. dreamt you about
+ 5065) C. did you dream about
+  SITE FEEDBACK: ‣ When we ask about an element of the sentence that comes after a preposition, we put the preposition at the end, i.e. after the verb or the verb + object if there is an object.
+Q 2948 [radio] I always listen to Jack's advice. ⇒ What _____?
+ 5066) A. you do always listen to
+ 5067) B. do you always listen to
+ 5068) C. do you always listen
+  SITE FEEDBACK: ‣ When we ask about an element of the sentence that comes after a preposition, we put the preposition at the end, i.e. after the verb or the verb + object if there is an object.
+Q 2949 [radio] Jason kissed Virginia at the playground. ⇒ _____ at the playground?
+ 5069) A. Who kissed Virginia
+ 5070) B. Who did kiss Virginia
+ 5071) C. Who did Virginia kiss
+  SITE FEEDBACK: ‣ This is a subject question because we are asking about the subject of the sentence. /  ‣ In a subject question, we do not use an auxiliary verb after the question word. The order is: Question word + Subject.
+Q 2950 [radio] Jason kissed Virginia at the playground. ⇒ _____ at the playground?
+ 5072) A. Who Jason kissed
+ 5073) B. Who did Jason kiss
+ 5074) C. Who kissed Jason
+  SITE FEEDBACK: ‣ This is an object question, not a subject question, because we are asking about the object of the sentence. /  ‣ The normal order of a question in English is QWASM: Question word + Auxiliary verb + Subject + Main verb.
+Q 2951 [radio] Lewis asked his boss for a promotion. ⇒ What _____?
+ 5075) A. Lewis did ask his boss for
+ 5076) B. Lewis asked his boss for
+ 5077) C. did Lewis ask his boss for
+  SITE FEEDBACK: ‣ When we ask about an element of the sentence that comes after a preposition, we put the preposition at the end, i.e. after the verb or the verb + object if there is an object.
+Q 2952 [radio] Lewis asked his boss for a promotion. ⇒ _____ for a promotion?
+ 5078) A. Who asked his boss
+ 5079) B. Who did he ask his boss
+ 5080) C. Who did ask his boss
+  SITE FEEDBACK: ‣ This is a subject question because we are asking about the subject of the sentence. /  ‣ In a subject question, we do not use an auxiliary verb after the question word. The order is: Question word + Subject.
+Q 2953 [radio] Lewis asked his boss for a promotion. ⇒ _____ for a promotion?
+ 5081) A. Who did Lewis ask
+ 5082) B. Who asked Lewis
+ 5083) C. Who did ask Lewis
+  SITE FEEDBACK: ‣ This is an object question, not a subject question, because we are asking about the object of the sentence. /  ‣ The normal order of a question in English is QWASM: Question word + Auxiliary verb + Subject + Main verb.
+Q 2954 [radio] I'm happy about the results. ⇒ What _____?
+ 5084) A. are you happy
+ 5085) B. are you happy about
+ 5086) C. you're happy about
+  SITE FEEDBACK: ‣ When we ask about an element of the sentence that comes after a preposition, we put the preposition at the end, i.e. after the verb or the verb + object if there is an object.
+Q 2955 [radio] Alexander Graham Bell invented the telephone. ⇒ What _____?
+ 5087) A. did Alexander Graham Bell invent
+ 5088) B. invented Alexander Graham Bell
+ 5089) C. did invent Alexander Graham Bell
+  SITE FEEDBACK: ‣ This is an object question, not a subject question, because we are asking about the object of the sentence. /  ‣ The normal order of a question in English is QWASM: Question word + Auxiliary verb + Subject + Main verb.
+Q 2956 [radio] Alexander Fleming discovered penicillin. ⇒ Who _____?
+ 5090) A. did Alexander Fleming discover
+ 5091) B. did discover penicillin
+ 5092) C. discovered penicillin
+  SITE FEEDBACK: ‣ This is a subject question because we are asking about the subject of the sentence. /  ‣ In a subject question, we do not use an auxiliary verb after the question word. The order is: Question word + Subject.
+
+=== PAGE /use-of-english/b2/b2-english-test-2-multiple-choice-questions/
+Q 2910 [radio] I'm very happy _____ in India. I really miss being there.
+ 5003) A. to live
+ 5004) B. to have lived
+ 5005) C. to be lived
+ 5006) D. to be living
+  SITE FEEDBACK: ‣ We use the perfect infinitive or the perfect gerund of a verb to talk about a past action or event. In this sentence, we mean that I lived in India in the past, but not anymore. /  ‣ We normally use to + infinitive after adjectives. /  ‣ To review the verb have, you can go to B2 » Grammar points » Have – auxiliary or main verb /  ‣ To review complex gerunds and infinitives, you can go to B2 » Grammar points » Gerunds and infinitives – complex forms
+Q 2912 [radio] They didn't reach an agreement ______ their differences.
+ 5011) A. on account of
+ 5012) B. due
+ 5013) C. because
+ 5014) D. owing
+  SITE FEEDBACK: ‣ We can use because of, due to, owing to, or on account of + noun to express reason. /  ‣ To review clauses of reason, go to B2» Grammar points » Clauses of contrast, purpose, reason and result
+Q 2913 [radio] I wish I _____ those words. But now it's too late.
+ 5015) A. not having said
+ 5016) B. have never said
+ 5017) C. never said
+ 5018) D. had never said
+  SITE FEEDBACK: ‣ We can use wish + past perfect to talk about things that happened in the past and that we regret (we would have wanted them to be different). /  ‣ To review structures after wish, go to B2» Grammar points » Wish, rather, if only, it’s time – unreal uses of past tenses
+Q 2911 [radio] The woman, who has been missing for 10 days, is believed _____.
+ 5007) A. to be abducted
+ 5008) B. to be abducting
+ 5009) C. to have been abducted
+ 5010) D. to have been abducting
+  SITE FEEDBACK: ‣ After the passive form of a reporting verb, we use the perfect infinitive when the reported action is previous to the reporting (earlier in the past). /  ‣ To review the passive with reporting verbs, go to B2» Grammar points » Distancing – expressions and passive of reporting verbs
+Q 2914 [radio] She was working on her computer with her baby next to _____.
+ 5019) A. herself
+ 5020) B. her
+ 5021) C. her own
+ 5022) D. hers
+  SITE FEEDBACK: ‣ We can use reflexive pronouns after most prepositions, but we don’t use reflexive pronouns after prepositions of place; we use object pronouns instead. /  ‣ To review reflexive pronouns, go to B2» Grammar points » Reflexive and reciprocal pronouns
+Q 2915 [radio] _____ to offend anyone, she said both cakes were equally good.
+ 5023) A. Not wanting
+ 5024) B. As not wanting
+ 5025) C. She didn't want
+ 5026) D. Because not wanting
+  SITE FEEDBACK: ‣ We can use –ing participle clauses to refer to the present or the past. /  ‣ To review participle clauses, go to B2» Grammar points » Participle clauses
+Q 2916 [radio] _____ in trying to solve this problem. It's clearly unsolvable.
+ 5027) A. There's no point
+ 5028) B. It's no point
+ 5029) C. There isn't point
+ 5030) D. It's no need
+  SITE FEEDBACK: ‣ We often use there with use, point and need. /  ‣ To review the use of there and it, go to B2» Grammar points » There and it – preparatory subjects
+Q 2917 [radio] Last year, when I last met her, she told me she _____ a letter every day for the last two months.
+ 5031) A. had written
+ 5032) B. has written
+ 5033) C. had been writing
+ 5034) D. wrote
+  SITE FEEDBACK: ‣ We use the past perfect continuous with dynamic verbs to talk about repeated actions from earlier in the past. /  ‣ To review past perfect continuous, go to B2» Grammar points » Narrative tenses, used to, would
+Q 2918 [radio] He _____ robbed as he was walking out of the bank.
+ 5035) A. had
+ 5036) B. did
+ 5037) C. got
+ 5038) D. were
+  SITE FEEDBACK: ‣ In informal English, we can use get in passive voice sentences instead of be. /  ‣ To review the different uses of get, go to B2» Grammar points » Get – different meanings
+Q 2919 [radio] _____ forced to do anything. He acted of his own free will.
+ 5039) A. In no way was he
+ 5040) B. No way he was
+ 5041) C. In any way he was
+ 5042) D. In any way was he
+  SITE FEEDBACK: ‣ In formal English we can place a negative or restrictive adverb at the beginning of a sentence to make the sentence more emphatic or dramatic. When we do this, the adverb is then followed by auxiliary verb + subject. When there is no auxiliary verb, we use do/does (present) or did (past) as auxiliary. /  ‣ To review inversion after negative adverbs, go to B2» Grammar points » Inversion with negative adverbials – adding emphasis
+Q 2920 [radio] It _____ the best idea to pay for those tickets by credit card. It was too risky.
+ 5043) A. may not have been
+ 5044) B. may not be
+ 5045) C. might not be
+ 5046) D. must not have been
+  SITE FEEDBACK: ‣ We use might/may have + past participle or might/may have been + -ing to say that it’s possible that something was true or happened in the past. /  ‣ To review modal verbs of speculation and deduction, go to B2 Grammar » Speculation and deduction – modal verbs and expressions
+Q 2921 [radio] They _____ in the basement for three months.
+ 5047) A. were made sleeping
+ 5048) B. were made sleep
+ 5049) C. were made to sleep
+ 5050) D. made to sleep
+  SITE FEEDBACK: ‣ We can use the verbs let, make, and help followed by object + infinitive without to. However, when we use the verb make in the passive voice, we say be made + to infinitive. /  ‣ To review gerunds and infinitives after verb + object, go to B2» Grammar points » Verb + object + infinitive / gerund – verb patterns
+Q 2922 [radio] We'll never know what might have happened _____ the email earlier.
+ 5051) A. if he sent
+ 5052) B. had he sent
+ 5053) C. if he has sent
+ 5054) D. did he sent
+  SITE FEEDBACK: ‣ This is a third conditional sentence. In third conditional sentences, we can invert the auxiliary verb had and leave if out. Had we arrived = If we had arrived. /  ‣ To review inversion in conditional sentences, go to B2» Grammar points » All conditionals – mixed conditionals, alternatives to if, inversion
+Q 2923 [radio] If success _____, we need to prepare ourselves for every possible scenario.
+ 5055) A. is to be achieved
+ 5056) B. is achieved
+ 5057) C. will be achieved
+ 5058) D. is due to achieve
+  SITE FEEDBACK: ‣ We often use be to + infinitive in a if-clause. In these cases, we say what should be done (main clause) to achieve the desired result (if-clause). /  ‣ To review alternative future forms, go to B2 Grammar » Other ways to express future
+Q 2924 [radio] ______ gifts to the judges.
+ 5059) A. It's not allowed offering
+ 5060) B. It's not permitted to offer
+ 5061) C. It's not permitted offering
+ 5062) D. It's not allowed to offer
+  SITE FEEDBACK: ‣ We can use it + be (not) permitted to +infinitive to express permission or prohibition in formal or official situations, to say what the rules or laws are. We do NOT use it + be able to/be allowed to. /  ‣ To review this grammar point, go to B2 Grammar » Modal verbs – permission, obligation, prohibition, necessity
+
+=== PAGE /grammar-points/a2/will-vs-be-going-to/
+Q 2874 [radio] A: I don't think he _____ come tonight. B: But he says he _____ come.
+ 4943) A. will / will
+ 4944) B. is going to / will
+ 4945) C. will / is going to
+  SITE FEEDBACK: ‣ In the first sentence, we should use will because we use will to talk about something we think will happen (it's a prediction). /  ‣ In the second sentence, we should use be going to because we use be going to to talk about intentions or plans (the decision was made before speaking).
+Q 2890 [radio] A: I've bought this paint because I _____ the kitchen. B: I'm sure it _____ fantastic.
+ 4976) A. 'm going to paint / will look
+ 4977) B. will paint / 's looking
+ 4978) C. will paint / will look
+  SITE FEEDBACK: ‣ In the first sentence, we use be going to because we use be going to to talk about intentions or plans (the decision was made before speaking). /  ‣ In the second sentence, we use will because we use will for predictions when we talk about something we think will happen.
+Q 2891 [radio] A: What _____ after you graduate? B: I _____ around the world.
+ 4979) A. will you do / 'm going to travel
+ 4980) B. are you going to do / 'm going to travel
+ 4981) C. are you going to do / will travel
+  SITE FEEDBACK: ‣ In the first sentence, we use be going to because we are asking about intentions or plans. /  ‣ In the second sentence, we use be going to because we use be going to to talk about intentions or plans (the decision was made before speaking).
+Q 2892 [radio] A: _____ for a walk later? B: No. I _____ home.
+ 4982) A. Are you going to go / 'm going to stay
+ 4983) B. Will you go / 'm going to stay
+ 4984) C. Will you go / will stay
+  SITE FEEDBACK: ‣ In the first sentence, we use be going to because we are asking about intentions or plans. /  ‣ In the second sentence, we use be going to because we use be going to to talk about intentions or plans (the decision was made before speaking).
+Q 2893 [radio] A: I need the camera because I _____ some picures. But I don't know how it works. B: Don't worry. I _____ you.
+ 4985) A. 'll take / 'll show
+ 4986) B. 'm going to take / 'll show
+ 4987) C. 'll take / 'm going to show
+  SITE FEEDBACK: ‣ In the first sentence, we use be going to because we use be going to to talk about intentions or plans (the decision was made before speaking). /  ‣ In the second sentence, we use will because we use will for instant decisions. In this sentence, speaker B made his decision during the conversation.
+Q 2894 [radio] A: ______ to work today? B: Yes, but the traffic is awful, so I _____ late.
+ 4988) A. Will you drive / will be
+ 4989) B. Will you drive / 'm going to be
+ 4990) C. Are you going to drive / 'm going to be
+  SITE FEEDBACK: ‣ In the first sentence, we use be going to because we are asking about intentions or plans. /  ‣ In the second sentence, we use be going to because we use be going to to talk about something that you see is going to happen (predictions based on present evidence).
+Q 2895 [radio] A: Hurry up! The bus is leaving. You _____ it. B: No, I _____ the train. It's faster.
+ 4991) A. are going to miss / 'm going to take
+ 4992) B. will miss / will take
+ 4993) C. are going to miss / will take
+  SITE FEEDBACK: ‣ In the first sentence, we use be going to because we use be going to to talk about something that you see is going to happen (predictions based on present evidence). /  ‣ In the second sentence, we use be going to because we use be going to to talk about intentions or plans (the decision was made before speaking).
+Q 2896 [radio] A: According to the voting intention numbers, I _____ the election. B: What _____ when you are the president?
+ 4994) A. will win / are you going to do
+ 4995) B. 'm going to win / are you going to do
+ 4996) C. will win / will do
+  SITE FEEDBACK: ‣ In the first sentence, we use be going to because we use be going to to talk about something that you see is going to happen (predictions based on present evidence). /  ‣ In the second sentence, we use be going to because we are asking about intentions or plans.
+Q 2897 [radio] A: They are winning 2-1 and there are only 2 minutes left. They _____ this match. B: No, I think maybe Manchester United _____ a goal in the last minute.
+ 4997) A. are going to win / will score
+ 4998) B. will win / will score
+ 4999) C. are going to win / are going to score
+  SITE FEEDBACK: ‣ In the first sentence, we use be going to because we use be going to to talk about something that you see is going to happen (predictions based on present evidence). /  ‣ In the second sentence, we use will because we use will for predictions when we talk about something we think will happen.
+Q 2898 [radio] A: Don't make so much noise. You _____ dad. B: OK. I _____ now.
+ 5000) A. will wake up / will stop
+ 5001) B. will wake up / 'm going to stop
+ 5002) C. are going to wake up / will stop
+  SITE FEEDBACK: ‣ In the first sentence, we use be going to because we use be going to to talk about something that you see is going to happen (predictions based on present evidence). /  ‣ In the second sentence, we use will because we use will for instant decisions. In this sentence, speaker B made his decision during the conversation.
+
+=== PAGE /grammar-points/a2/however-although-time-connectors/
+Q 2859 [radio] ______ he is very rich and famous, he lives a very normal life.
+ 4916) A. Although
+ 4917) B. However
+ 4918) C. Because
+  SITE FEEDBACK: ‣ We need to express contrast in this sentence. /  ‣ We do NOT use a comma after although; we use although + subject + verb. We use however before a comma (,).
+Q 2862 [radio] He didn't have his car, _____ he had to take a taxi.
+ 4925) A. because
+ 4926) B. so
+ 4927) C. however
+  SITE FEEDBACK: ‣ We use so to introduce consequence, and in this sentence, taking a taxi was the consequence of not having his car.
+Q 2863 [radio] _____ he was almost deaf, he was a fantastic musician.
+ 4928) A. Although
+ 4929) B. However
+ 4930) C. Because
+  SITE FEEDBACK: ‣ We need to express contrast in this sentence. /  ‣ We do NOT use a comma after although; we use although + subject + verb. We use however before a comma (,).
+Q 2866 [radio] The first thing I do when I get up is have breakfast. ______, I have a shower and go to work.
+ 4937) A. After
+ 4938) B. Before
+ 4939) C. After that
+  SITE FEEDBACK: ‣ When we are talking about consecutive events, we can use then of after that, but we cannot use *after. /  ‣ We use can use after + noun / -ing verb, or we can use after + subject + verb, but we cannot use after + comma (,).
+
+=== PAGE /grammar-points/a2/past-continuous-past-simple/
+Q 2837 [gaps] I {1} while I {2} down the stairs.
+  {1} options: was falling down | fell down
+  {2} options: went | was going
+  SITE FEEDBACK: Correct answer: fell down/was going /  ‣ A shorter action in past simple (fell down) interrupted a longer action in past continuous that was in progress when the shorter action happened (was going down the stairs).
+Q 2838 [gaps] He {1} very fast when he {2} the accident.
+  {1} options: was driving | drove
+  {2} options: was having | had
+  SITE FEEDBACK: Correct answer: was driving/had /  ‣ A shorter action in past simple (had the accident) interrupted a longer action in past continuous that was in progress when the shorter action happened (was driving very fast)
+Q 2839 [gaps] It {1} when we {2} home.
+  {1} options: snowed | was snowing
+  {2} options: left | were leaving
+  SITE FEEDBACK: Correct answer: was snowing/left /  ‣ When we left home (shorter action) there was a longer action that was in progress (it was snowing).
+Q 2840 [gaps] I {1} your call because I {2} .
+  {1} options: wasn't answering | didn't answer
+  {2} options: worked | was working
+  SITE FEEDBACK: Correct answer: didn't answer/was working /  ‣ There is a longer action (was working) which was in progress at the time when a shorter action (answer your call) did not happen.
+Q 2841 [gaps] This morning I {1} and I {2} breakfast for everybody.
+  {1} options: got up | was getting up
+  {2} options: made | was making
+  SITE FEEDBACK: Correct answer: got up/made /  ‣ We use past simple for past completed actions that happened one after another, in chronological order. First I got up and then I made breakfast.
+Q 2842 [gaps] When I {1} her, she {2} a really nice purple dress.
+  {1} options: saw | was seeing
+  {2} options: was wearing | wore
+  SITE FEEDBACK: Correct answer: saw/as wearing /  ‣ There is a longer action (was wearing a dress) which was in progress when the shorter action (saw her) happened.
+Q 2843 [gaps] Last Saturday we {1} late and we {2} the train.
+  {1} options: were getting up | got up
+  {2} options: were missing | missed
+  SITE FEEDBACK: Correct answer: got up/missed /  ‣ We use the past simple for completed actions that happen in chronological order, one after the other. First we got up and later we missed the train.
+Q 2844 [gaps] I {1} hello because you {2} very fast.
+  {1} options: didn't say | wasn't saying
+  {2} options: walked | were walking
+  SITE FEEDBACK: Correct answer: didn't say/were walking /  ‣ There was a longer action (you were walking very fast) that was in progress when a shorter action didn't happen (I didn't say hello).
+Q 2845 [gaps] I {1} happily when a loud noise {2} .
+  {1} options: slept | was sleeping
+  {2} options: was waking me up | woke me up
+  SITE FEEDBACK: Correct answer: was sleeping/woke me up /  ‣ A shorter action in past simple (a noise woke me up) interrupted a longer action in past continuous (I was sleeping) which was in progress.
+Q 2846 [gaps] {1} attention when you {2} your car?
+  {1} options: Were you paying | Did you pay
+  {2} options: crashed | were crashing
+  SITE FEEDBACK: Correct answer: were you paying/crashed /  ‣ The past simple (crashed the car) describes a short action that happened during a longer action in progress (was paying attention).
+Q 2880 [radio] After the conference, I _____ that a man _____ the walls of the building.
+ 4946) A. was seeing / was painting
+ 4947) B. saw / was painting
+ 4948) C. was seeing / painted
+  SITE FEEDBACK: ‣ I saw a man is a shorter action that happened while a longer action was in progress: a man was painting. /  ‣ Also, the verb see is a stative verb and we cannot use stative verbs in continuous verb forms, i.e. present continuous, past continuous, etc.
+Q 2881 [radio] He was so angry that he _____ and _____.
+ 4949) A. was getting up / left
+ 4950) B. got up / was leaving
+ 4951) C. got up / left
+  SITE FEEDBACK: ‣ We use past simple for past completed actions that happened one after another, in chronological order. First he got up and then he left.
+Q 2882 [radio] I _____ the vase while I _____ the bookshelf.
+ 4952) A. broke / was cleaning
+ 4953) B. broke / cleaned
+ 4954) C. was breaking / was cleaning
+  SITE FEEDBACK: ‣ I broke the vase describes a shorter action that interrupted a longer action that was in progress: I was cleaning.
+Q 2883 [radio] As soon as we walked into the room, we _____ a noise. Someone ______ my computer.
+ 4955) A. heard / used
+ 4956) B. were hearing / used
+ 4957) C. heard / was using
+  SITE FEEDBACK: ‣ We heard a noise describes a shorter action that happened while a longer action was in progress: someone was using my computer.
+Q 2884 [radio] The bus in which the football team ______ had an accident, but nobody ______.
+ 4958) A. were travelling / died
+ 4959) B. travelled / died
+ 4960) C. were travelling / were dying
+  SITE FEEDBACK: ‣ Were travelling describes a longer action in progress that was interrupted by the accident. /  ‣ Nobody died describes a short past action.
+Q 2885 [radio] I _____ the party, but Sonia _____ to leave.
+ 4961) A. was enjoying / was wanting
+ 4962) B. enjoyed / was wanting
+ 4963) C. was enjoying / wanted
+  SITE FEEDBACK: ‣ The verb want is a stative verb and we cannot use stative verbs in continuous verb forms, i.e. present continuous, past continuous, etc.
+Q 2886 [radio] The police _____ him while he ______ to escape.
+ 4964) A. caught / tried
+ 4965) B. caught / was trying
+ 4966) C. were catching / was trying
+  SITE FEEDBACK: ‣ The police caught him describes a short action that interrupted a longer action that was in progress: he was trying.
+Q 2887 [radio] We _____ what to do, so we just called the police and ______.
+ 4967) A. didn't know / waited
+ 4968) B. weren't knowing / waited
+ 4969) C. didn't know / were waiting
+  SITE FEEDBACK: ‣ The verb know is a stative verb and we cannot use stative verbs in continuous verb forms, i.e. present continuous, past continuous, etc. /  ‣ We called the police and waited describes two completed actions that happen in chronological order, one after the other. First we called the police and then we waited.
+Q 2888 [radio] When I last _____ her she ______ high-heeled shoes.
+ 4970) A. saw / wore
+ 4971) B. was seeing / was wearing
+ 4972) C. saw / was wearing
+  SITE FEEDBACK: ‣ I saw her is a shorter action that happened while a longer action was in progress: she was wearing.
+Q 2889 [radio] The sun _______, so we _____ our clothes and got into the water.
+ 4973) A. was shining / took off
+ 4974) B. shone / took off
+ 4975) C. shone / were taking off
+  SITE FEEDBACK: ‣ We use the past continuous to describe a scene: the sun was shining. /  ‣ We use the past simple for completed actions that happen in chronological order, one after the other. First we took off our clothes and then we got into the water.
+
+=== PAGE /grammar-points/a2/past-simple-form-use/
+Q 2813 [radio] He always _____ on the same chair.
+ 4844) A. sat
+ 4845) B. sit
+ 4846) C. sitted
+  SITE FEEDBACK: ‣ Sit is an irregular verb. The past form is sat.
+Q 2814 [radio] Where _____ the keys?
+ 4847) A. you found
+ 4848) B. did you found
+ 4849) C. did you find
+  SITE FEEDBACK: ‣ We use did to ask questions in past simple. /  ‣ The order of the words is: Auxiliary verb (did) + Subject (you) + Infinitive (find)
+Q 2815 [radio] He _____ the cable with a cutting knife.
+ 4850) A. did cut
+ 4851) B. cut
+ 4852) C. cutted
+  SITE FEEDBACK: ‣ Cut is an irregular verb. The past form is cut. /  ‣ The past simple is only one word, we only use the verb did in questions and negatives.
+Q 2816 [radio] I _____ where to go.
+ 4853) A. knew not
+ 4854) B. didn't knew
+ 4855) C. didn't know
+  SITE FEEDBACK: ‣ We use didn’t + infinitive to make negatives in past simple.
+Q 2817 [radio] They _____ very friendly to us.
+ 4856) A. weren't
+ 4857) B. didn't be
+ 4858) C. wasn't
+  SITE FEEDBACK: ‣ Be is an irregular verb. The past form is I/he/she/it was and you/we/they were. /  ‣ Be is also an auxiliary verb, and this means that it has a negative and interrogative form (without did).
+Q 2818 [radio] She _____ her son upstairs to bed.
+ 4859) A. carryed
+ 4860) B. carried
+ 4861) C. was carry
+  SITE FEEDBACK: ‣ To make the past form of regular verbs ending in consonant + y, transform -y into -i and add -ed.
+Q 2820 [radio] _____ that noise?
+ 4865) A. Did you hear
+ 4866) B. You heard
+ 4867) C. Did you heard
+  SITE FEEDBACK: ‣ We use did to ask questions in past simple. /  ‣ The order of the words is: Auxiliary verb (did) + Subject (you) + Infinitive (hear)
+Q 2821 [radio] I _____ that glass. It _____ Daisy.
+ 4868) A. didn't break / was
+ 4869) B. didn't break / were
+ 4870) C. wasn't break / was
+  SITE FEEDBACK: ‣ We use didn’t + infinitive to make negatives in past simple. /  ‣ Be is an irregular verb. The past form is I/he/she/it was and you/we/they were.
+Q 2822 [radio] He _____ me some chocolates, but I ______ them.
+ 4871) A. bringed / didn't accept
+ 4872) B. brought / didn't accept
+ 4873) C. brought / wasn't accept
+  SITE FEEDBACK: ‣ Bring is an irregular verb. The past form is brought. /  ‣ We use didn’t + infinitive to make negatives in past simple.
+
+=== PAGE /grammar-points/a2/asking-questions-in-english/
+Q 2773 [radio] How long _____ in Paris?
+ 4814) A. did you stay
+ 4815) B. were you stay
+ 4816) C. you stayed
+  SITE FEEDBACK: ‣ The order in an English question in English is QWASM: Question word [How long], Auxiliary [did], Subject [you], Main verb [stay].
+Q 2774 [radio] How _____ to Barcelona?
+ 4817) A. did you travel
+ 4818) B. you travelled
+ 4819) C. were you travel
+  SITE FEEDBACK: ‣ The order in an English question in English is QWASM: Question word [How], Auxiliary [did], Subject [you], Main verb [travel].
+Q 2775 [radio] Which _____ ?
+ 4820) A. your favourite colour is
+ 4821) B. does your favourite colour be
+ 4822) C. is your favourite colour
+  SITE FEEDBACK: ‣ Be is an auxiliary verb. We do not use do in questions and negatives with be. /  ‣ When be is the main verb, it is used as the auxiliary verb in the question, and then we don’t have a verb after the subject. Then the order is QWAS: Question word [Which], Auxiliary [is], Subject [your favourite colour].
+Q 2776 [radio] What instrument _____ when you were a child?
+ 4823) A. could play you
+ 4824) B. could you play
+ 4825) C. you could play
+  SITE FEEDBACK: ‣ Could is a modal verb, and all modal verbs are auxiliary verbs. /  ‣ The order in an English question in English is QWASM: Question word [What instrument], Auxiliary [could], Subject [you], Main verb [play].
+Q 2777 [radio] Why _____ there?
+ 4826) A. that man's standing
+ 4827) B. does that man is standing
+ 4828) C. is that man standing
+  SITE FEEDBACK: ‣ Be is an auxiliary verb. We do not use do in questions and negatives with be. /  ‣ The order in an English question in English is QWASM: Question word [Why], Auxiliary [is], Subject [that man], Main verb [standing].
+Q 2778 [radio] How much _____?
+ 4829) A. she has lost
+ 4830) B. does she have lost
+ 4831) C. has she lost
+  SITE FEEDBACK: ‣ Have is an auxiliary verb in the form have got and in the present perfect. /  ‣ The order in an English question in English is QWASM: Question word [How much], Auxiliary [has], Subject [she], Main verb [lost].
+Q 2779 [radio] What time _____ to arrive?
+ 4832) A. is she going
+ 4833) B. she's going
+ 4834) C. is going
+  SITE FEEDBACK: ‣ Be is an auxiliary verb. /  ‣ The order in an English question in English is QWASM: Question word [What time], Auxiliary [is], Subject [she], Main verb [going to arrive].
+Q 2780 [radio] Where _____ last summer?
+ 4835) A. went he
+ 4836) B. did he go
+ 4837) C. he went
+  SITE FEEDBACK: ‣ The order in an English question in English is QWASM: Question word [Where], Auxiliary [did], Subject [he], Main verb [go].
+Q 2781 [radio] What time _____ to bed?
+ 4838) A. children should
+ 4839) B. should children go
+ 4840) C. do children should go
+  SITE FEEDBACK: ‣ Should is a modal verb, and all modal verbs are auxiliary verbs. /  ‣ The order in an English question in English is QWASM: Question word [What time], Auxiliary [should], Subject [children], Main verb [go].
+Q 2782 [radio] When _____ me?
+ 4841) A. can you see
+ 4842) B. can see
+ 4843) C. you can see
+  SITE FEEDBACK: ‣ Can is a modal verb, and all modal verbs are auxiliary verbs. /  ‣ The order in an English question in English is QWASM: Question word [When], Auxiliary [can], Subject [you], Main verb [see].
+
+=== PAGE /grammar-points/a2/present-simple-continuous/
+Q 4497 [gaps] Dialogue 2 /  PETER: What 6 {1} ? /  REBECCA: He 7 {2} an architect but he 8 {3} at the moment. He 9 {4} for a job desperately, because he 10 {5} money for the house.
+  {1} options: does Jonatan | is Jonatan doing | does Jonatan do
+  {2} options: is | does | is being
+  {3} options: is not working | not works | does not work
+  {4} options: is looking | is look | looks
+  {5} options: is needing | needs | is need
+  SITE FEEDBACK: Feedback /  6 Correct answer: does Jonathan do /  ‣ We use present simple for actions that we do (o we don’t do) regularly. /  ‣ The question what do you do? means 'what is your job?'. /  7 Correct answer: is /  ‣ Be is a stative verb and non–action or stative verbs cannot be used in present continuous. You can see a list of these verbs in the 'Explanation' tab. /  8 Correct answer: is not working /  ‣ We use the present continuous to talk about things that are happening now or around now (at the moment). /  9 Correct answer: is looking /  ‣ We use the present continuous to talk about things that are happening now or around now (at the moment). /  10 Correct answer: needs /  ‣ Need is a stative verb and non–action or stative verbs cannot be used in present continuous. You can see a list of these verbs in the 'Explanation' tab.
+Q 4498 [gaps] Dialogue 3 /  SANDRA: Can I have that magazine or 11 {1} it? /  TIM: No, I 12 {2} it. I 13 {3} that magazine. I 14 {4} sports magazines. /  SANDRA: I 15 {5} sports magazines.
+  {1} options: do you read | are you reading | you reading
+  {2} options: 'm not reading | not reading | don't read
+  {3} options: am never reading | am never read | never read
+  {4} options: prefer | 'm preferring | am prefer
+  {5} options: hate | hating | 'm hating
+  SITE FEEDBACK: Feedback /  11 Correct answer: are you reading /  ‣ We use the present continuous to talk about things that are happening now. /  12 Correct answer: 'm not reading /  ‣ We use the present continuous to talk about things that are happening now. /  13 Correct answer: never read /  ‣ We use present simple for actions that we do (o we don’t do) regularly, often with adverbs or expressions of frequency (often). /  14 Correct answer: prefer /  ‣ Prefer is a stative verb and non–action or stative verbs cannot be used in present continuous. You can see a list of these verbs in the 'Explanation' tab. /  15 Correct answer: hate /  ‣ Hate is a stative verb and non–action or stative verbs cannot be used in present continuous. You can see a list of these verbs in the 'Explanation' tab.
+Q 2679 [radio] A: "Excuse me, __________ English?" B: "No, sorry."
+ 4553) A. do you speak
+ 4554) B. are you speaking
+ 4555) C. you speak
+  SITE FEEDBACK: ‣ We use present simple to talk about permanent situations or things that are usually or often true, and knowing a language is a permanent situation.
+Q 2680 [radio] I ________ .
+ 4556) A. aren't very often doing sport
+ 4557) B. don't very often do sport
+ 4558) C. don't do sport very often
+  SITE FEEDBACK: ‣ We use present simple for actions that we do (o we don’t do) regularly, often with adverbs or expressions of frequency (very often). /  ‣ Adverbs of frequency go in mid position (before the main verb or after be). Adverbs of frequency are one word, except for hardly ever. /  ‣ Expressions of frequency are two or more words (very often), and they go at the end (after verb + object).
+Q 2681 [radio] I am hungry. I ______ to eat something.
+ 4559) A. want
+ 4560) B. 'm wanting
+ 4561) C. am want
+  SITE FEEDBACK: ‣ Want is a stative verb and non–action or stative verbs cannot be used in present continuous. You can see a list of these verbs in the ‘Explanation’ tab.
+Q 2682 [radio] What time ____________ work on Fridays?
+ 4562) A. she starts
+ 4563) B. does she start
+ 4564) C. is she starting
+  SITE FEEDBACK: ‣ We use present simple for actions that we do (o we don’t do) regularly, often with adverbs or expressions of frequency (on Fridays).
+Q 2683 [radio] I usually _________ to work, but this week I_________.
+ 4565) A. drive / walk
+ 4566) B. drive / walking
+ 4567) C. drive / 'm walking
+  SITE FEEDBACK: ‣ We use present simple for actions that we do (o we don’t do) regularly, often with adverbs or expressions of frequency (usually). /  ‣ We use present continuous for temporary actions. In this sentence walking to work is a temporary action that will only happen this week.
+Q 2684 [radio] I __________ coffee. I prefer tea.
+ 4568) A. don't like
+ 4569) B. not like
+ 4570) C. am not liking
+  SITE FEEDBACK: ‣ Like is a stative verb and non–action or stative verbs cannot be used in present continuous. You can see a list of these verbs in the ‘Explanation’ tab.
+Q 2685 [radio] You can turn off the TV. I _____________ it.
+ 4571) A. don't watch
+ 4572) B. 'm not watch
+ 4573) C. 'm not watching
+  SITE FEEDBACK: ‣ We use the present continuous to talk about things that are happening now.
+Q 2686 [radio] There isn't any milk left in the fridge. We _________ to buy some.
+ 4574) A. needs
+ 4575) B. need
+ 4576) C. are needing
+  SITE FEEDBACK: ‣ Need is a stative verb and non–action or stative verbs cannot be used in present continuous. You can see a list of these verbs in the ‘Explanation’ tab.
+Q 2687 [radio] Can I sit here? Somebody ___________ in my seat.
+ 4577) A. sits
+ 4578) B. sit
+ 4579) C. is sitting
+  SITE FEEDBACK: ‣ We use the present continuous to talk about things that are happening now.
+
+=== PAGE /use-of-english/b1-b2/b1-test-2-multiple-choice-questions/
+Q 2600 [radio] I'm wondering which country _____ this year.
+ 4262) A. they have travelled
+ 4263) B. have they travelled to
+ 4264) C. they have travelled to
+ 4265) D. have they travelled
+  SITE FEEDBACK: ‣ In indirect questions the order is subject + verb: Do you know where I can find a bank? (NOT where can I find) /  ‣ If the verb is followed by a preposition, we must put the preposition after the subject or after subject + object (if there is an object). We shouldn’t use the preposition at the beginning: What are you talking about? (NOT About what are you talking?) /  ‣ To review different types of questions go to: Grammar points » B1+ Grammar » Questions – different types
+Q 2601 [radio] Lisa likes opera, which is lucky for me, because _____ too.
+ 4266) A. I do
+ 4267) B. I like
+ 4268) C. do I
+ 4269) D. I am
+  SITE FEEDBACK: ‣ We use auxiliary verbs to avoid repeating the same verb or verb phrase in a sentence (I do too= I like opera too). /  ‣ If the first sentence or clause contains an auxiliary verb, we use the same verb in the second part. If not, we use do or did in the second part. /  ‣ To review the different uses of auxiliary verbs, go to Grammar points » B1+ Grammar » Auxiliary verbs – different uses
+Q 2603 [radio] _____ Peter? I _____ for him all morning.
+ 4274) A. Have you been seeing / have looked
+ 4275) B. Have you seen / 've been looking
+ 4276) C. Have you been seen / have been looking
+ 4277) D. Have you seeing / 've looked
+  SITE FEEDBACK: ‣ In the first gap, we say 'have you seen' in present perfect simple because see is stative verb, and because we are talking about a finished past action. /  ‣ In the second gap, we say 'have been looking' because we normally use the present perfect continuous with dynamic verbs for situations that started in the past and still continue specially when we want to emphasise how long the situation has lasted. /  ‣ To review the difference between present perfect simple and continuous, go to Grammar points » B1+ Grammar » Present perfect simple or continuous
+Q 2604 [radio] Some actions that are habits for _____, may look weird to people from other nationalities.
+ 4278) A. the Japanese
+ 4279) B. the Japanese people
+ 4280) C. the Japaneses
+ 4281) D. Japaneses
+  SITE FEEDBACK: ‣ We can use the + nationality adjective ending in -ch, -sh, -ese, -ss to refer to all people of that nationality. /  ‣ We could say the Japanese or Japanese people. /  ‣ To review the use of adjectives without noun, go to Grammar points » B1+ Grammar » Adjectives without noun
+Q 2610 [radio] I don't understand why you always have to say _____ stupid things.
+ 4302) A. so
+ 4303) B. such
+ 4304) C. such a
+ 4305) D. so much
+  SITE FEEDBACK: ‣ We use such + (adjective) + uncountable noun or plural noun + (that …) /  ‣ To review the use of so, such, so much, so many, go to Grammar points » B1+ Grammar » So, such (a), so much, so many
+Q 2611 [radio] If I continue reading 50 pages every day, I _____ 8,000 pages by the end of the month.
+ 4306) A. will read
+ 4307) B. am going to read
+ 4308) C. will be reading
+ 4309) D. will have read
+  SITE FEEDBACK: ‣ We use the future perfect for actions that will be finished before certain time in the future. /  ‣ To review the use of future perfect, go to Grammar points » B1+ Grammar » Future continuous and future perfect
+Q 2612 [radio] She wouldn't be helping you if she _____ your sister
+ 4310) A. wouldn't be
+ 4311) B. wouldn't have been
+ 4312) C. isn't
+ 4313) D. weren't
+  SITE FEEDBACK: ‣ We use the second conditional to talk about hypothetical or imaginary situations in the present or the future. We can use past simple or past continuous in the if-clause and we can use would, could or might + simple infinitive (do) or continuous infinitive (be doing) in the main clause. /  ‣ When we use the verb be in the if-clause, we can use either was or were after I, he, she or it. But when we are giving advice, we always use if I were you (NOT was). /  ‣ To review the second conditional, go to Grammar points » B1+ Grammar » Second and third conditionals – unreal conditionals
+Q 2615 [radio] My parents were very _____. I expected they would buy me a better present.
+ 4322) A. disappointing
+ 4323) B. disappointed
+ 4324) C. disappoint
+ 4325) D. disappointingly
+  SITE FEEDBACK: ‣ My parents disappointed me, so I was disappointed and they were disappointing. /  ‣ To review participles as adjectives, go to Grammar points » B1+ Grammar » Participles as adjectives (-ed / -ing adjectives)
+Q 2616 [radio] She regretted _____
+ 4326) A. get married
+ 4327) B. to get married
+ 4328) C. having got married
+ 4329) D. to have got married
+  SITE FEEDBACK: ‣ After regret, we can use the -ing form of a verb. We could say 'she regretted getting married', or 'she regretted having got married'. If we use the perfect -ing form, we emphasise that the action was completed in the past. /  ‣ To review gerunds and infinitives, go to Grammar points » B1+ Grammar » Gerunds and infinitives
+Q 2618 [radio] The weather was very hot the whole time. We _____ a month later when it's cooler.
+ 4334) A. shouldn't have gone
+ 4335) B. should have gone
+ 4336) C. must have gone
+ 4337) D. can’t have gone
+  SITE FEEDBACK: ‣ We use should have/ought to have + past participle to talk about a situation expected to happen in the past. This form is normally used for criticism. /  ‣ To review past modal verbs, go to Grammar points » B1+ Grammar » Past modal verbs of deduction
+Q 2619 [radio] I’d rather _____ for me at the station.
+ 4338) A. you waited
+ 4339) B. you wait
+ 4340) C. you to wait
+ 4341) D. you waiting
+  SITE FEEDBACK: ‣ When we use would rather or would sooner + subject + verb, we use past simple to refer to the present or future. /  ‣ To review would rather go to Grammar points » B1+ Grammar » Would rather, would prefer
+Q 2620 [radio] The robbers _____ have escaped.
+ 4342) A. are thought that they
+ 4343) B. it’s thought that they
+ 4344) C. are thought to
+ 4345) D. are thought that
+  SITE FEEDBACK: ‣ We can use subject + passive reporting verb + to have + past participle when we are talking about a reported action is previous to the reporting (earlier in the past). /  ‣ To review the passive with reporting verbs, go to Grammar points » B1+ Grammar » The passive with reporting verbs
+Q 2621 [radio] I must go to the doctor and _____ before I go on holiday.
+ 4346) A. test my blood pressure
+ 4347) B. have my blood pressure tested
+ 4348) C. have tested my blood pressure
+ 4349) D. get to test my blood pressure
+  SITE FEEDBACK: ‣ We can use the structure have/get + object + past participle when we get somebody else to do something for us. /  ‣ To review the structure have something done, go to Grammar points » B1+ Grammar » Have something done
+
+=== PAGE /reading/b1/child-marriage-nepal/
+Q 2594 [radio] The age of marriage in Nepal depends on the money the families have.
+ 4250) A. True
+ 4251) B. False
+  SITE FEEDBACK: Feedback /  Girls from the wealthiest families marry 2 years later than those from the poorest, who are seen as an economic burden, and who drop out of school and earn little money.
+Q 2595 [radio] Families want to marry their daughters soon to earn money.
+ 4252) A. True
+ 4253) B. False
+  SITE FEEDBACK: Feedback /  According to the text, parents want to marry their daughters as soon as possible, because when they marry them, they have to pay money to the groom's family, and this money is less if they marry them younger. So they don't earn money from marrying their daughters, just that they have to spend less: "Parents marry their daughters as soon as possible because the money they have to pay to the groom’s family is higher if their daughter is older."
+Q 2597 [radio] Parents who marry their children before the allowed age normally pay a fine.
+ 4256) A. True
+ 4257) B. False
+  SITE FEEDBACK: Feedback /  They don't normally pay a fine, because although the law says that parents who marry their children before the legal age must pay a fine or even go to prison, this law is rarely applied, which means that people don't normally have to pay fines: "The law states that punishment for child marriage is imprisonment for up to three years and a fine of up to 10,000 rupees (£102). But reports suggest that this law is rarely applied."
+Q 2599 [radio] The recent earthquake was negative for the eradication of child marriage.
+ 4260) A. True
+ 4261) B. False
+  SITE FEEDBACK: Feedback /  According to the text, the crisis after the earthquake has slowed down progress: "However, the post-earthquake and post-fuel crisis environment has meant progress is slow and the national strategy has been delayed."
+
+=== PAGE /reading/b1/welcome-home-future/
+Q 2552 [radio] According to the article, The British Homes Awards challenged architects to design a house …
+ 3972) A. for disabled people
+ 3973) B. for ageing inhabitants
+ 3974) C. that could adapt to all ages
+ 3975) D. for young families with children
+  SITE FEEDBACK: Feedback /  The homes had to be easily adaptable to less mobile inhabitants (but they were not build only for them), and also to create communities in which ageing occupants could continue to enjoy shared amenities. So summarising, the homes had to take into account the needs of ageing people and disabled people, but they were designed not only for them.
+Q 2555 [radio] According to the article, in the SunnySideUp house the ground floor ...
+ 3984) A. can be rented
+ 3985) B. can be sold separately
+ 3986) C. is only used to store cars
+ 3987) D. has a room for grandparents
+  SITE FEEDBACK: Feedback /  "The lower-floor bedrooms have separate outdoor access so they can be easily let." (=rented)
+Q 2556 [radio] We learn from the article that …
+ 3988) A. children can play safely outside the house
+ 3989) B. the houses overlook a street crammed with cars
+ 3990) C. the back garden is the main talking point for the inhabitants
+  SITE FEEDBACK: Feedback /  "In a SunnySideUp development no one has to look out onto a street full of cars, or worry about their kids being run over, because the terrace zone at the first floor level link all the homes and is a car-free zone. Vehicles are tucked away on the lower floor, leaving safe and pleasant spaces outside the houses for people to meet, and kids to play."
+Q 2557 [radio] According to the article, the house has been designed …
+ 3991) A. to be rented
+ 3992) B. to be shared if necessary
+ 3993) C. for families with a small income
+  SITE FEEDBACK: Feedback /  According to the text, the ground-floor bedrooms can be rented or can be used for grandparents or even for adult children who still live with their parents. So the space can be shared if necessary. /  "But it’s the fact that the space is designed to adapt to the changing needs, including the fluctuating income of its owners, that makes it a thought-provoking, as well as a winning, design. The lower-floor bedrooms have separate outdoor access so they can be easily let. The idea is that owners can get some extra money to pay for their mortgages during the first years. And later in the future, those bedrooms can be used as a granny flat, or an office, and can easily be converted into a separate one-bed flat if your kids won’t leave home.
+Q 2558 [radio] According to the article, the SunnySideUp development …
+ 3994) A. is being built
+ 3995) B. will never be built
+ 3996) C. will hopefully be built
+ 3997) D. has been recently built
+  SITE FEEDBACK: Feedback /  According to the text, the building is not build yet, and it is taking some time because of the difficult economy, but they hope it will be built. /  'At the moment the SunnySideUp house is still just a set of drawings. But Warren Rosing says, "We are hoping to have it built." The organisers are in talks with builders, but due to the economic climate it may take longer than we would like."Weʼre sure it will be worth the wait" they say.'
+
+=== PAGE /grammar-points/b1/defining-and-non-defining-relative-clauses/
+Q 2089 [radio] That's the man ______ daughter has won the lottery.
+ 2869) A. which
+ 2870) B. who
+ 2871) C. whose
+  SITE FEEDBACK: ‣ We use whose as the possessive form of who (whose daughter= 'the daughter of whom'). /  ‣ Whose can be used for people and things.
+Q 2090 [checkbox, pick 2] Do you know the musician ______ is playing the guitar. Choose TWO correct options
+ 2872) A. who
+ 2873) B. -
+ 2874) C. that
+  SITE FEEDBACK: ‣ We can use who and that for people in defining relative clauses (without commas). /  ‣ We can't leave out the relative pronoun (who, that, which) when it is followed by a verb, we can only omit it when it is followed by subject + verb in defining relative clauses.
+Q 2091 [radio] The painting, ______ was finished in 1850, is one of the most representative works of that time.
+ 2875) A. which
+ 2876) B. -
+ 2877) C. that
+  SITE FEEDBACK: ‣ That can only be used in defining relative clauses (without commas). /  ‣ We can only omit the relative pronoun (who, which, that) in defining relative clauses (without commas).
+Q 2092 [checkbox, pick 2] This is the person ______ I introduced you to a few weeks ago. Choose TWO correct options
+ 2878) A. which
+ 2879) B. that
+ 2880) C. -
+  SITE FEEDBACK: ‣ We can use who and that for people in defining relative clauses (without commas). /  ‣ We can omit the relative pronoun (who, which, that) in defining relative clauses (without commas) when it's followed by subject + verb.
+Q 2094 [radio] What's the book ______ we must read this term?
+ 2884) A. where
+ 2885) B. who
+ 2886) C. –
+  SITE FEEDBACK: ‣ We can omit the relative pronoun (who, which, that) in defining relative clauses (without commas) when it’s followed by subject + verb. /  ‣ In this sentence we could also use the pronouns which and that.
+Q 2095 [radio] This is the girl ______ parents are getting divorced.
+ 2887) A. who
+ 2888) B. whose
+ 2889) C. whom
+  SITE FEEDBACK: ‣ We use whose as the possessive form of who (whose daughter= ‘the daughter of whom’). /  ‣ Whose can be used for people and things.
+Q 2096 [radio] The final decision, ______ not everybody is going to like, will be announced at the next meeting.
+ 2890) A. which
+ 2891) B. that
+ 2892) C. –
+  SITE FEEDBACK: ‣ We can only use which or who (not that) in non-defining relative clauses (between commas). /  ‣ We can only omit the relative pronoun (who, which, that) in defining relative clauses (without commas).
+Q 2097 [checkbox, pick 2] This phone is much better than the first phone ______ you showed me. Choose TWO correct options
+ 2893) A. whose
+ 2894) B. that
+ 2895) C. –
+  SITE FEEDBACK: ‣ We can use which or that for things in defining relative clauses (without commas). /  ‣ We can omit the relative pronoun (who, which, that) in defining relative clauses (without commas) when it’s followed by subject + verb.
+
+=== PAGE /grammar-points/b1/so-such-such-a-so-much-so-many/
+Q 2157 [radio] We stayed on the top floor suite. There was ______ lovely view from the terrace.
+ 3085) A. such
+ 3086) B. such a
+ 3087) C. so
+  SITE FEEDBACK: ‣ We use such a + singular countable noun to mean ‘really’: They have such a nice house (=a really nice house).
+Q 2158 [radio] It was ______ late ______ we decided to leave.
+ 3088) A. so / that
+ 3089) B. such / than
+ 3090) C. so much / that
+  SITE FEEDBACK: ‣ We can use so + adjective/adverb to mean 'really': It was so late (=really late). /  ‣ We can say so + adjective/adverb + (that) + subject + verb: I got so angry I left the room.
+Q 2159 [checkbox, pick 2] We had ______ fun we stayed for an extra night. Choose TWO correct options
+ 3091) A. so many
+ 3092) B. such
+ 3093) C. so much
+  SITE FEEDBACK: ‣ We can use so much + uncountable noun + (that) + subject + verb. /  ‣ We say such + (adjective) + plural noun or singular uncountable noun. /  ‣ Fun is uncountable.
+Q 2161 [radio] John! I'm ______ happy to see you!
+ 3097) A. such
+ 3098) B. so much
+ 3099) C. so
+  SITE FEEDBACK: ‣ We use so + adjective / adverb.
+Q 2163 [radio] In California we don't usually have so ______.
+ 3103) A. good weather
+ 3104) B. rain
+ 3105) C. much rain
+  SITE FEEDBACK: ‣ We can use so much + uncountable noun + (that) + subject + verb to mean ‘a lot' or 'too much’. /  ‣ We normally use so + adjective (not + adjective + noun).
+Q 2164 [radio] In California we don't normally have such ______.
+ 3106) A. horrible weather
+ 3107) B. much weather
+ 3108) C. a horrible weather
+  SITE FEEDBACK: ‣ We say such + (adjective) + plural noun or singular uncountable noun: They are such nice people. /  ‣ The word weather is uncountable (we can't say *a weather).
+Q 2165 [checkbox, pick 2] I love Angela. She is ______. Choose TWO correct options
+ 3109) A. so nice
+ 3110) B. so nice person
+ 3111) C. such a nice person
+  SITE FEEDBACK: ‣ We can use so + adjective/adverb to mean ‘really’: She is so nice (=really nice). /  ‣ We use such a + singular countable noun to mean ‘really’: She is such a nice person (=a really nice person).
+Q 2166 [radio] You should be proud to have ______ clever daughters.
+ 3112) A. so
+ 3113) B. such a
+ 3114) C. such
+  SITE FEEDBACK: ‣ We say such + (adjective) + plural noun or singular uncountable noun.
+
+=== PAGE /grammar-points/b1/second-conditional-unreal-situations/
+Q 1917 [radio] If I ______ you, I wouldn't trust him.
+ 2689) A. was
+ 2690) B. were
+ 2691) C. did
+  SITE FEEDBACK: ‣ If/unless + past (,) would/could/might + infinitive /  ‣ In the second conditional we can normally use either if I/he/she/it was or if I/he/she/it were. But when we are giving advice, we should always use if I were.
+Q 1918 [checkbox, pick 2] If we didn't take precautions, we ______ hurt. Choose TWO correct options
+ 2686) A. can get
+ 2687) B. might get
+ 2688) C. would get
+  SITE FEEDBACK: ‣ If/unless + past (,) would/could/might + infinitive
+Q 1923 [radio] You ______ healthier if you ______ a bit of weight.
+ 2704) A. felt / would lose
+ 2705) B. would feel / would lose
+ 2706) C. would feel / lost
+  SITE FEEDBACK: ‣ If/unless + past (,) would/could/might + infinitive /  ‣ We don’t use a comma when the main clause comes first and the if clause comes second
+Q 1919 [radio] If we sold the house, we ______ much right now.
+ 2692) A. didn't get
+ 2693) B. wouldn't get
+ 2694) C. won't get
+  SITE FEEDBACK: ‣ If/unless + past (,) would/could/might + infinitive
+Q 1920 [radio] Would you mind if I ______ the window?
+ 2695) A. open
+ 2696) B. would open
+ 2697) C. opened
+  SITE FEEDBACK: ‣ If/unless + past (,) would/could/might + infinitive /  ‣ We don’t use a comma when the main clause comes first and the if clause comes second
+Q 1924 [radio] I ______ him if he _______ me to help him.
+ 2707) A. helped / 'd allow
+ 2708) B. 'd help / allowed
+ 2709) C. 'd help / allow
+  SITE FEEDBACK: ‣ If/unless + past (,) would/could/might + infinitive /  ‣ We don’t use a comma when the main clause comes first and the if clause comes second
+Q 1921 [radio] If you painted the walls white, the living room ______ bigger.
+ 2698) A. would look
+ 2699) B. looked
+ 2700) C. had looked
+  SITE FEEDBACK: ‣ If/unless + past (,) would/could/might + infinitive
+Q 1922 [checkbox, pick 2] If I was healthier, we ______ more often. Choose TWO correct options
+ 2701) A. could travel
+ 2702) B. travelled
+ 2703) C. might travel
+  SITE FEEDBACK: ‣ If/unless + past (,) would/could/might + infinitive
+Q 1925 [radio] What kind of job ______ to have if you ______ a teacher?
+ 2710) A. would you like / weren't
+ 2711) B. would you like / wasn't
+ 2712) C. did you like / wouldn't be
+  SITE FEEDBACK: ‣ If/unless + past (,) would/could/might + infinitive /  ‣ We don’t use a comma when the main clause comes first and the if clause comes second
+Q 1926 [radio] If drugs ______ legal, the world ______ safer.
+ 2713) A. 'd be / were
+ 2714) B. 'd be / would be
+ 2715) C. were / would be
+  SITE FEEDBACK: ‣ If/unless + past (,) would/could/might + infinitive
+
+=== PAGE /grammar-points/b1/clauses-contrast-purpose-reason/
+Q 2296 [radio] Tomas can be very annoying sometimes. ______ , he is very loyal to his friends.
+ 3358) A. However
+ 3359) B. Although
+ 3360) C. In spite of
+  SITE FEEDBACK: ‣ However connects two different sentences and we put it in the second sentence. It goes after a full stop (.) or a semicolon (;), and it’s always followed by a comma (,) /  ‣ We use although at the beginning or in the middle of a sentence. It connects two clauses in the same sentence and it’s never followed by a comma. We use although + subject + verb. /  ‣ Despite or in spite of are normally followed by a noun or a –ing verb.
+Q 2305 [checkbox, pick 2] ______ I was tired, I decided to stay home. Choose TWO correct options
+ 3391) A. As
+ 3392) B. Due to
+ 3393) C. Since
+  SITE FEEDBACK: ‣ We use as/since/because + clause (subject + verb) to express the reason why something happens or why we do something. /  ‣ We use because of/due to + noun to express the reason why something happens or why we do something.
+Q 2297 [radio] He survived ______ being shot three times in the chest.
+ 3361) A. although
+ 3362) B. however
+ 3363) C. despite
+  SITE FEEDBACK: ‣ Despite or in spite of are normally followed by a noun or a –ing verb. /  ‣ Although is followed by a clause (subject + verb) /  ‣ However is followed by a comma (,) + subject + verb.
+Q 2298 [radio] We went to the beach ______ it was rather cold.
+ 3364) A. however
+ 3365) B. despite
+ 3366) C. although
+  SITE FEEDBACK: ‣ We use although at the beginning or in the middle of a sentence. It connects two clauses in the same sentence and it’s never followed by a comma. We use although + subject + verb. /  ‣ However connects two different sentences and we put it in the second sentence. It goes after a full stop (.) or a semicolon (;), and it’s always followed by a comma (,) /  ‣ Despite or in spite of are normally followed by a noun or a –ing verb.
+Q 2306 [checkbox, pick 2] The flight had to be cancelled ______ the storm. Choose TWO correct options
+ 3395) A. due to
+ 3396) B. since
+ 3397) C. because of
+  SITE FEEDBACK: ‣ We use as/since/because + clause (subject + verb) to express the reason why something happens or why we do something. /  ‣ We use because of/due to + noun to express the reason why something happens or why we do something.
+Q 2307 [radio] He made it to the final ______ his knee injury.
+ 3399) A. despite
+ 3400) B. in spite
+ 3401) C. although
+  SITE FEEDBACK: ‣ Despite or in spite of are normally followed by a noun or a –ing verb. /  ‣ We use although at the beginning or in the middle of a sentence. It connects two clauses in the same sentence and it’s never followed by a comma. We use although + subject + verb.
+Q 2308 [radio] They went out ______ a romantic evening.
+ 3402) A. so as to
+ 3403) B. for
+ 3404) C. in order to
+  SITE FEEDBACK: ‣ We use to/so as to/in order to + infinitive to express purpose. /  ‣ We use for + noun to express purpose.
+Q 2309 [radio] ______ he is old, he is quite strong.
+ 3405) A. Although
+ 3406) B. However
+ 3407) C. Despite
+  SITE FEEDBACK: ‣ We use although at the beginning or in the middle of a sentence. It connects two clauses in the same sentence and it’s never followed by a comma. We use although + subject + verb. /  ‣ However connects two different sentences and we put it in the second sentence. It goes after a full stop (.) or a semicolon (;), and it’s always followed by a comma (,) /  ‣ Despite or in spite of are normally followed by a noun or a –ing verb.
+
+=== PAGE /grammar-points/b1/another-other-others-the-other-the-others/
+Q 2264 [radio] I need ______ pen; this one doesn't work.
+ 3325) A. another
+ 3326) B. other
+ 3327) C. others
+  SITE FEEDBACK: ‣ We use another + singular noun, and other + plural noun. /  ‣ Others is never followed by a noun.
+Q 2265 [checkbox, pick 2] I like this bed; ______ is cheap but uncomfortable. Choose TWO correct options
+ 3328) A. other
+ 3329) B. the other bed
+ 3330) C. the other one
+  SITE FEEDBACK: ‣ We can use the other + singular noun to mean ‘the second of two things or people’. /  ‣ We can also use the other one (singular) or the other ones (plural) to avoid repeating a word. /  ‣ We can't use other if it's not followed by a noun.
+Q 2266 [radio] Thanks, these are some of the books I lent you, but where are ______ ones?
+ 3331) A. the other
+ 3332) B. the others
+ 3333) C. another
+  SITE FEEDBACK: ‣ We could say the other books, the other ones, or the others (NOT the others books)
+Q 2270 [radio] I don't like this jacket. Let me see ______.
+ 3343) A. other
+ 3344) B. the other
+ 3345) C. anothers
+  SITE FEEDBACK: ‣ We use the other as a pronoun (not followed by a noun) to refer to the second of a set of two things or people. /  ‣ We use other + plural noun. /  ‣ We can say another (but NOT anothers)
+Q 2267 [radio] I can't help you now; I'll have to do it ______ time.
+ 3334) A. other
+ 3335) B. others
+ 3336) C. another
+  SITE FEEDBACK: ‣ We use another + singular noun, and other + plural noun. /  ‣ Others is never followed by a noun.
+Q 2268 [radio] There are ______ techniques that you could try.
+ 3337) A. another
+ 3338) B. other
+ 3339) C. others
+  SITE FEEDBACK: ‣ We use another + singular noun, and other + plural noun. /  ‣ Others is never followed by a noun.
+Q 2269 [radio] Can I ask you for ______ favour? I promise this will be the last one.
+ 3340) A. other
+ 3341) B. another
+ 3342) C. others
+  SITE FEEDBACK: ‣ We use another + singular noun, and other + plural noun. /  ‣ Others is never followed by a noun.
+Q 2271 [radio] The police caught two of the four prisoners who escaped and they are looking for ______.
+ 3346) A. other
+ 3347) B. others
+ 3348) C. the others
+  SITE FEEDBACK: ‣ We use the others and not others because we mean ‘the remaining prisoners of the group who escaped; the prisoners who have not been caught yet’. /  ‣ We use other + plural noun. We could say the other prisoners.
+Q 2272 [radio] We had a beer, and then decided to go to ______ bar.
+ 3349) A. another
+ 3350) B. other
+ 3351) C. others
+  SITE FEEDBACK: ‣ We use another + singular noun, and other + plural noun. /  ‣ Others is never followed by a noun.
+Q 2273 [radio] Some rooms are excellent, but some ______ are not as good.
+ 3352) A. others
+ 3353) B. other
+ 3354) C. another
+  SITE FEEDBACK: ‣ We can use others as a pronoun (not followed by a noun) to mean ‘different’ (people or things). /  ‣ We use other + noun. We could say other rooms. /  ‣ Another is singular. We can say another is (NOT another are).
+
+=== PAGE /grammar-points/a1/present-simple-forms-of-to-be/
+Q 2242 [gaps] A: {1} you a teacher? B: Yes, I {2} .
+  {1} options: is | Are
+  {2} options: am | are
+  SITE FEEDBACK: Correct answers: Are/am /  ‣ We use you + are. /  ‣ We use I + am.

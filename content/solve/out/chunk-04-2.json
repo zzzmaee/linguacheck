@@ -1,0 +1,1144 @@
+{
+ "10383": {
+  "choices": [
+   19009
+  ],
+  "feedback": "‣ <strong>False</strong> is correct because they worry about stress and losing fun time, not that children have no time for housework."
+ },
+ "10616": {
+  "choices": [
+   19606
+  ],
+  "feedback": "‣ <strong>E</strong> is correct because after saying every innovation caused excitement and fear, it introduces AI as 'the latest stage' that splits opinions into boomers and doomers."
+ },
+ "10617": {
+  "choices": [
+   19615
+  ],
+  "feedback": "‣ <strong>G</strong> is correct because 'This group… doesn't disagree with the possibility of risks' is followed by 'However, they believe it is possible to manage the situation'."
+ },
+ "10618": {
+  "choices": [
+   19617
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because after the extreme scenario of uncontrollable AI, it introduces 'more immediate issues', such as job losses."
+ },
+ "10619": {
+  "choices": [
+   19623
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because it introduces privacy, which is then explained: AI collects personal data and can track people."
+ },
+ "10620": {
+  "choices": [
+   19635
+  ],
+  "feedback": "‣ <strong>F</strong> is correct because 'To make this happen' refers to the balanced approach, and 'They also stress the need for transparency' follows."
+ },
+ "10621": {
+  "choices": [
+   19639
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because it explains 'holding someone accountable for the outcomes' mentioned in the previous sentence."
+ },
+ "10698": {
+  "choices": [
+   19878
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because the countryside house has four bedrooms and views of trees and mountains."
+ },
+ "10699": {
+  "choices": [
+   19882
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because a small one-bedroom city apartment suits one person working in the city."
+ },
+ "10700": {
+  "choices": [
+   19889
+  ],
+  "feedback": "‣ <strong>E</strong> is correct because it has a large dining room with ten chairs and no garden."
+ },
+ "10701": {
+  "choices": [
+   19890
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because it is near all the shops and schools and has a small garden."
+ },
+ "10702": {
+  "choices": [
+   19896
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because it is not in the countryside, has enough bedrooms and a large garage for two cars."
+ },
+ "10703": {
+  "choices": [
+   19902
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because it has one bedroom for a person living alone and no parking space."
+ },
+ "10723": {
+  "gaps": [
+   [
+    "knife"
+   ]
+  ],
+  "feedback": "Correct answer: knife<br>‣ You cut food with a <strong>knife</strong>."
+ },
+ "10724": {
+  "gaps": [
+   [
+    "mug"
+   ]
+  ],
+  "feedback": "Correct answer: mug<br>‣ A <strong>mug</strong> is a large cup for tea or coffee."
+ },
+ "10725": {
+  "gaps": [
+   [
+    "saucer"
+   ]
+  ],
+  "feedback": "Correct answer: saucer<br>‣ A cup sits on a <strong>saucer</strong>."
+ },
+ "10726": {
+  "gaps": [
+   [
+    "tray"
+   ]
+  ],
+  "feedback": "Correct answer: tray<br>‣ Waiters carry drinks on a <strong>tray</strong>."
+ },
+ "10727": {
+  "gaps": [
+   [
+    "bottle"
+   ]
+  ],
+  "feedback": "Correct answer: bottle<br>‣ Water is sold in a <strong>bottle</strong>."
+ },
+ "10728": {
+  "gaps": [
+   [
+    "plate"
+   ]
+  ],
+  "feedback": "Correct answer: plate<br>‣ Food such as pasta is served on a <strong>plate</strong>."
+ },
+ "10729": {
+  "gaps": [
+   [
+    "spoon"
+   ]
+  ],
+  "feedback": "Correct answer: spoon<br>‣ You eat soup with a <strong>spoon</strong>."
+ },
+ "10730": {
+  "gaps": [
+   [
+    "fork"
+   ]
+  ],
+  "feedback": "Correct answer: fork<br>‣ You eat salad with a <strong>fork</strong>."
+ },
+ "10731": {
+  "gaps": [
+   [
+    "glass"
+   ]
+  ],
+  "feedback": "Correct answer: glass<br>‣ You drink a <strong>glass</strong> of water."
+ },
+ "10732": {
+  "gaps": [
+   [
+    "napkin"
+   ]
+  ],
+  "feedback": "Correct answer: napkin<br>‣ You put a <strong>napkin</strong> on your knee while eating."
+ },
+ "10733": {
+  "choices": [
+   19977
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because tea is served in <strong>cups</strong>."
+ },
+ "10734": {
+  "choices": [
+   19983
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because soup is served in a <strong>bowl</strong>."
+ },
+ "10735": {
+  "choices": [
+   19988
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because a <strong>jug</strong> is a container for pouring water."
+ },
+ "10736": {
+  "choices": [
+   19990
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because tea is made and served in a <strong>teapot</strong>."
+ },
+ "10737": {
+  "choices": [
+   19996
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because you cut steak with a <strong>knife</strong>."
+ },
+ "10738": {
+  "choices": [
+   19997
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because you eat yogurt with a <strong>spoon</strong>."
+ },
+ "10739": {
+  "choices": [
+   20004
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because waiters carry food on a <strong>tray</strong>."
+ },
+ "10740": {
+  "choices": [
+   20006
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>cutlery</strong> is the general word for knives, forks and spoons."
+ },
+ "10741": {
+  "choices": [
+   20010
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because a <strong>teaspoon</strong> is a small spoon used to add sugar to tea."
+ },
+ "10742": {
+  "choices": [
+   20015
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because wine is sold in a <strong>bottle</strong>."
+ },
+ "10743": {
+  "gaps": [
+   [
+    "pond"
+   ]
+  ],
+  "feedback": "Correct answer: pond<br>‣ A <strong>pond</strong> is a small area of water, e.g. in a garden."
+ },
+ "10744": {
+  "gaps": [
+   [
+    "wildlife"
+   ]
+  ],
+  "feedback": "Correct answer: wildlife<br>‣ <strong>Wildlife</strong> means wild animals such as rabbits and foxes."
+ },
+ "10745": {
+  "gaps": [
+   [
+    "river"
+   ]
+  ],
+  "feedback": "Correct answer: river<br>‣ The Thames is a <strong>river</strong>."
+ },
+ "10746": {
+  "gaps": [
+   [
+    "farmhouse"
+   ]
+  ],
+  "feedback": "Correct answer: farmhouse<br>‣ A <strong>farmhouse</strong> is the house on a farm where the farmer lives."
+ },
+ "10747": {
+  "gaps": [
+   [
+    "crops"
+   ]
+  ],
+  "feedback": "Correct answer: crops<br>‣ <strong>Crops</strong> are plants such as potatoes grown in fields."
+ },
+ "10748": {
+  "gaps": [
+   [
+    "fence"
+   ]
+  ],
+  "feedback": "Correct answer: fence<br>‣ You climb over a <strong>fence</strong> between gardens."
+ },
+ "10749": {
+  "gaps": [
+   [
+    "village"
+   ]
+  ],
+  "feedback": "Correct answer: village<br>‣ A small place with 150 people is a <strong>village</strong>."
+ },
+ "10750": {
+  "gaps": [
+   [
+    "barn"
+   ]
+  ],
+  "feedback": "Correct answer: barn<br>‣ A <strong>barn</strong> is a farm building for storing machines, animals or crops."
+ },
+ "10751": {
+  "gaps": [
+   [
+    "cottage"
+   ]
+  ],
+  "feedback": "Correct answer: cottage<br>‣ A <strong>cottage</strong> is a small house in the countryside."
+ },
+ "10752": {
+  "gaps": [
+   [
+    "stream"
+   ]
+  ],
+  "feedback": "Correct answer: stream<br>‣ A <strong>stream</strong> is a small river with fresh running water."
+ },
+ "10764": {
+  "choices": [
+   20066
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because a <strong>forest</strong> is a large area full of trees."
+ },
+ "10765": {
+  "choices": [
+   20072
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because you can swim in a <strong>lake</strong>."
+ },
+ "10766": {
+  "choices": [
+   20073
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because vegetables like lettuce are grown in a <strong>field</strong>."
+ },
+ "10767": {
+  "choices": [
+   20080
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because you walk up a <strong>hill</strong>, which makes you tired."
+ },
+ "10768": {
+  "choices": [
+   20083
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because a <strong>wood</strong> is a small forest with trees you can climb."
+ },
+ "10769": {
+  "choices": [
+   20086
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because you follow a <strong>path</strong> to get somewhere on foot."
+ },
+ "10770": {
+  "choices": [
+   20090
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because cows, pigs and chickens are raised on a <strong>farm</strong>."
+ },
+ "10771": {
+  "choices": [
+   20096
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because a <strong>valley</strong> is the low land between mountains."
+ },
+ "10772": {
+  "choices": [
+   20100
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because the top of a <strong>mountain</strong> is often covered in snow."
+ },
+ "10773": {
+  "choices": [
+   20103
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because a <strong>village</strong> is a small place where people live, which may have only one shop."
+ },
+ "10774": {
+  "gaps": [
+   [
+    "mountain"
+   ],
+   [
+    "cottage"
+   ],
+   [
+    "forest"
+   ],
+   [
+    "farm"
+   ],
+   [
+    "crops"
+   ],
+   [
+    "fields"
+   ],
+   [
+    "barn"
+   ],
+   [
+    "fence"
+   ],
+   [
+    "pond"
+   ],
+   [
+    "wildlife"
+   ]
+  ],
+  "feedback": "Correct answers: 1. mountain, 2. cottage, 3. forest, 4. farm, 5. crops, 6. fields, 7. barn, 8. fence, 9. pond, 10. wildlife<br>‣ the bottom of a mountain, a small cottage, a dark forest with trees, crops in the fields, a barn with chickens, a fence around the garden, a pond with fish."
+ },
+ "10806": {
+  "choices": [
+   20186
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>ups and downs</strong> are the good and bad times in a relationship."
+ },
+ "10807": {
+  "choices": [
+   20192
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because <strong>odds and ends</strong> are small items of little value."
+ },
+ "10808": {
+  "choices": [
+   20195
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because the <strong>hustle and bustle</strong> is the busy noise and activity of city life."
+ },
+ "10809": {
+  "choices": [
+   20200
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because <strong>trial and error</strong> means trying different methods until one works."
+ },
+ "10810": {
+  "choices": [
+   20201
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>fun and games</strong> means pleasant, easy times."
+ },
+ "10811": {
+  "choices": [
+   20206
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because seeing things in <strong>black and white</strong> means having a fixed, simple view."
+ },
+ "10812": {
+  "choices": [
+   20209
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because the <strong>pros and cons</strong> are the advantages and disadvantages."
+ },
+ "10813": {
+  "choices": [
+   20215
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because <strong>every now and then</strong> means occasionally."
+ },
+ "10814": {
+  "choices": [
+   20217
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>safe and sound</strong> means safely, without harm."
+ },
+ "10815": {
+  "choices": [
+   20224
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because a matter of <strong>life or death</strong> is extremely urgent or serious."
+ },
+ "10816": {
+  "gaps": [
+   [
+    "life or death"
+   ]
+  ],
+  "feedback": "Correct answer: life or death<br>‣ A <strong>life or death</strong> situation is extremely dangerous."
+ },
+ "10817": {
+  "gaps": [
+   [
+    "thick and thin"
+   ]
+  ],
+  "feedback": "Correct answer: thick and thin<br>‣ <strong>Through thick and thin</strong> means in good times and bad."
+ },
+ "10818": {
+  "gaps": [
+   [
+    "lock and key"
+   ]
+  ],
+  "feedback": "Correct answer: lock and key<br>‣ <strong>Under lock and key</strong> means locked up securely."
+ },
+ "10819": {
+  "gaps": [
+   [
+    "By and large"
+   ]
+  ],
+  "feedback": "Correct answer: By and large<br>‣ <strong>By and large</strong> means generally or on the whole."
+ },
+ "10820": {
+  "gaps": [
+   [
+    "law and order"
+   ]
+  ],
+  "feedback": "Correct answer: law and order<br>‣ <strong>Law and order</strong> is a situation in which laws are obeyed."
+ },
+ "10821": {
+  "gaps": [
+   [
+    "hit and run"
+   ]
+  ],
+  "feedback": "Correct answer: hit and run<br>‣ A <strong>hit and run</strong> is an accident where the driver leaves without stopping."
+ },
+ "10822": {
+  "gaps": [
+   [
+    "wining and dining"
+   ]
+  ],
+  "feedback": "Correct answer: wining and dining<br>‣ <strong>Wining and dining</strong> someone means taking them out for good food and drink."
+ },
+ "10823": {
+  "gaps": [
+   [
+    "now and then"
+   ]
+  ],
+  "feedback": "Correct answer: now and then<br>‣ <strong>Now and then</strong> means occasionally."
+ },
+ "10824": {
+  "gaps": [
+   [
+    "wear and tear"
+   ]
+  ],
+  "feedback": "Correct answer: wear and tear<br>‣ <strong>Wear and tear</strong> is the damage from normal use."
+ },
+ "10825": {
+  "gaps": [
+   [
+    "hide and seek"
+   ]
+  ],
+  "feedback": "Correct answer: hide and seek<br>‣ <strong>Hide and seek</strong> is a children's game."
+ },
+ "10826": {
+  "gaps": [
+   [
+    "ups and downs"
+   ],
+   [
+    "wine and dine"
+   ],
+   [
+    "trial and error"
+   ],
+   [
+    "by and large"
+   ],
+   [
+    "odds and ends"
+   ],
+   [
+    "bread and butter"
+   ],
+   [
+    "lock and key"
+   ],
+   [
+    "back and forth"
+   ],
+   [
+    "hit and run"
+   ],
+   [
+    "life or death"
+   ]
+  ],
+  "feedback": "Correct answers: 1. ups and downs, 2. wine and dine, 3. trial and error, 4. by and large, 5. odds and ends, 6. bread and butter, 7. lock and key, 8. back and forth, 9. hit and run, 10. life or death<br>‣ ups and downs = good and bad times; trial and error = several attempts; odds and ends = bits left over; bread and butter = main source of income; back and forth = repeatedly between places."
+ },
+ "10837": {
+  "gaps": [
+   [
+    "bottle"
+   ]
+  ],
+  "feedback": "Correct answer: bottle<br>‣ Wine is sold in a <strong>bottle</strong>."
+ },
+ "10838": {
+  "gaps": [
+   [
+    "cup"
+   ]
+  ],
+  "feedback": "Correct answer: cup<br>‣ Tea is drunk from a <strong>cup</strong>."
+ },
+ "10839": {
+  "gaps": [
+   [
+    "bags"
+   ]
+  ],
+  "feedback": "Correct answer: bags<br>‣ Shopping is carried in <strong>bags</strong>; 'two' needs a plural."
+ },
+ "10840": {
+  "gaps": [
+   [
+    "packet"
+   ]
+  ],
+  "feedback": "Correct answer: packet<br>‣ Sweets come in a <strong>packet</strong>."
+ },
+ "10841": {
+  "gaps": [
+   [
+    "carton"
+   ]
+  ],
+  "feedback": "Correct answer: carton<br>‣ Milk is often sold in a <strong>carton</strong>."
+ },
+ "10842": {
+  "gaps": [
+   [
+    "can"
+   ]
+  ],
+  "feedback": "Correct answer: can<br>‣ Cat food is often sold in a <strong>can</strong>."
+ },
+ "10843": {
+  "gaps": [
+   [
+    "jar"
+   ]
+  ],
+  "feedback": "Correct answer: jar<br>‣ Jam is kept in a glass <strong>jar</strong>."
+ },
+ "10844": {
+  "gaps": [
+   [
+    "glass"
+   ]
+  ],
+  "feedback": "Correct answer: glass<br>‣ You pour yourself a <strong>glass</strong> of wine to drink."
+ },
+ "10845": {
+  "gaps": [
+   [
+    "tub"
+   ]
+  ],
+  "feedback": "Correct answer: tub<br>‣ Ice cream is sold in a <strong>tub</strong>."
+ },
+ "10846": {
+  "gaps": [
+   [
+    "piece"
+   ]
+  ],
+  "feedback": "Correct answer: piece<br>‣ A <strong>piece</strong> is a part of something, such as a muffin."
+ },
+ "10847": {
+  "gaps": [
+   [
+    "loaf"
+   ],
+   [
+    "bottle"
+   ],
+   [
+    "packet"
+   ],
+   [
+    "can",
+    "tin"
+   ],
+   [
+    "tub"
+   ],
+   [
+    "bar"
+   ],
+   [
+    "slices",
+    "slice"
+   ],
+   [
+    "pieces",
+    "piece"
+   ],
+   [
+    "spoonful"
+   ],
+   [
+    "glass"
+   ]
+  ],
+  "feedback": "Correct answers: 1. loaf, 2. bottle, 3. packet, 4. can, 5. tub, 6. bar, 7. slices, 8. pieces, 9. spoonful, 10. glass<br>‣ a loaf of bread, a bottle of champagne, a packet of spaghetti, a can of tomatoes, a tub of ice cream, a bar of chocolate, slices of bread, a spoonful of salt."
+ },
+ "10900": {
+  "choices": [
+   20519
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because climate migrants are 'forced to leave their homes' because of environmental problems."
+ },
+ "10901": {
+  "choices": [
+   20525
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because all these places face flooding: Pacific islands from rising seas, Bangladesh and the US coastal flooding."
+ },
+ "10902": {
+  "choices": [
+   20526
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because the biggest problem is that current international laws do not include climate change as a reason for seeking refuge."
+ },
+ "10903": {
+  "choices": [
+   20530
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because these organisations play a key role, 'but long-lasting solutions are needed as well'."
+ },
+ "10904": {
+  "choices": [
+   20534
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because many countries lack the resources to implement solutions on a large scale, so international support is needed."
+ },
+ "10905": {
+  "choices": [
+   20541
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because the paragraph ends by stressing that the world must work together to reduce the effects of climate change."
+ },
+ "10919": {
+  "choices": [
+   20641
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because we <strong>watch</strong> a movie, something moving for a long time."
+ },
+ "10920": {
+  "choices": [
+   20643
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because we <strong>look at</strong> something when we focus our eyes on it."
+ },
+ "10921": {
+  "choices": [
+   20646
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>look</strong> + adjective means 'seem'."
+ },
+ "10922": {
+  "choices": [
+   20651
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because noticing something without trying is <strong>see</strong>; past simple <strong>saw</strong>."
+ },
+ "10923": {
+  "choices": [
+   20653
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>see</strong> refers to the ability to notice with your eyes."
+ },
+ "10924": {
+  "choices": [
+   20657
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because we <strong>watch</strong> something changing over time, such as a sunset."
+ },
+ "10925": {
+  "choices": [
+   20659
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>can see</strong> describes what is visible without trying."
+ },
+ "10926": {
+  "choices": [
+   20663
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because we <strong>watch</strong> a performance for a period of time."
+ },
+ "10927": {
+  "choices": [
+   20664
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>have a look</strong> is a fixed expression using look as a noun."
+ },
+ "10928": {
+  "choices": [
+   20669
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because we <strong>watch</strong> people doing an activity over time."
+ },
+ "10939": {
+  "choices": [
+   20713
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because the Katy Freeway example illustrates the point that expanding roads leads to induced demand and renewed congestion."
+ },
+ "10940": {
+  "choices": [
+   20717
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because the passage does not say phantom jams are <strong>wholly</strong> the result of driver behaviour; the other points are stated."
+ },
+ "10941": {
+  "choices": [
+   20722
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because a <strong>steady</strong> flow is one that is even and regular, i.e. uniform."
+ },
+ "10942": {
+  "choices": [
+   20726
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because the experiment showed jams forming with no obstacle at all, proving they are caused by driver behaviour."
+ },
+ "10943": {
+  "choices": [
+   20728
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because the experiment shows that even in controlled conditions human drivers inevitably create jams once density is high."
+ },
+ "10944": {
+  "choices": [
+   20734
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because it keeps all the key information: shockwaves travel back at up to 20 mph because drivers overreact to high speeds and brake too hard."
+ },
+ "10945": {
+  "choices": [
+   20737
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because changing lanes only moves the braking pattern into other lanes."
+ },
+ "10946": {
+  "choices": [
+   20742
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because a road diet reduces capacity so that drivers switch to other routes or modes of transport."
+ },
+ "10947": {
+  "choices": [
+   20746
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because the author mentions cycling and walking, better city planning and rethinking commuting, but not financial penalties."
+ },
+ "10948": {
+  "choices": [
+   20748,
+   20751,
+   20753
+  ],
+  "feedback": "‣ <strong>A, D and F</strong> are correct because they summarise the main ideas: road expansion fails long-term, driver behaviour creates phantom jams on highways, and planning/public transport offer lasting solutions."
+ },
+ "10949": {
+  "choices": [
+   20755
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>last weekend</strong> needs the past simple: took."
+ },
+ "10950": {
+  "choices": [
+   20757
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because we say <strong>on the left</strong> of the picture."
+ },
+ "10951": {
+  "choices": [
+   20760
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because we say <strong>in the background</strong>."
+ },
+ "10952": {
+  "choices": [
+   20763
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>a bag</strong> is singular, so we use <strong>There is</strong>."
+ },
+ "10953": {
+  "choices": [
+   20766
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>children</strong> is plural, so we use <strong>are playing</strong>."
+ },
+ "10954": {
+  "choices": [
+   20770
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because we say 'in the photo, you can <strong>see</strong>…'."
+ },
+ "10955": {
+  "choices": [
+   20773
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>opposite</strong> needs no preposition; 'next' and 'in front' need 'to'/'of'."
+ },
+ "10956": {
+  "choices": [
+   20777
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because C is in the top right corner, so it is not in the middle."
+ },
+ "10957": {
+  "choices": [
+   20782
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because G is in the bottom left corner, which is the most precise description."
+ },
+ "10958": {
+  "choices": [
+   20784
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because B is at the top in the centre of the picture."
+ },
+ "10959": {
+  "gaps": [
+   [
+    "of"
+   ]
+  ],
+  "feedback": "Correct answer: of<br>‣ We say a photo <strong>of</strong> something."
+ },
+ "10960": {
+  "gaps": [
+   [
+    "are sitting"
+   ]
+  ],
+  "feedback": "Correct answer: are sitting<br>‣ Present continuous describes what is happening in the photo."
+ },
+ "10961": {
+  "gaps": [
+   [
+    "favourite"
+   ]
+  ],
+  "feedback": "Correct answer: favourite<br>‣ Adjectives don't take -s: <strong>favourite</strong> glasses."
+ },
+ "10962": {
+  "gaps": [
+   [
+    "pink shirt"
+   ]
+  ],
+  "feedback": "Correct answer: pink shirt<br>‣ Adjectives come before the noun: <strong>pink shirt</strong>."
+ },
+ "10963": {
+  "gaps": [
+   [
+    "looks"
+   ]
+  ],
+  "feedback": "Correct answer: looks<br>‣ <strong>Look</strong> + adjective means seem; the restaurant (it) <strong>looks</strong>."
+ },
+ "10964": {
+  "gaps": [
+   [
+    "so"
+   ]
+  ],
+  "feedback": "Correct answer: so<br>‣ <strong>So</strong> introduces a result."
+ },
+ "10965": {
+  "gaps": [
+   [
+    "because"
+   ]
+  ],
+  "feedback": "Correct answer: because<br>‣ <strong>Because</strong> introduces a reason."
+ },
+ "10966": {
+  "gaps": [
+   [
+    "and"
+   ]
+  ],
+  "feedback": "Correct answer: and<br>‣ <strong>And</strong> joins two actions."
+ },
+ "10967": {
+  "gaps": [
+   [
+    "but"
+   ]
+  ],
+  "feedback": "Correct answer: but<br>‣ <strong>But</strong> introduces a contrast."
+ },
+ "10968": {
+  "gaps": [
+   [
+    "so"
+   ]
+  ],
+  "feedback": "Correct answer: so<br>‣ <strong>So</strong> introduces a result."
+ },
+ "10969": {
+  "gaps": [
+   [
+    "of"
+   ],
+   [
+    "middle"
+   ],
+   [
+    "there are"
+   ],
+   [
+    "blue trousers"
+   ],
+   [
+    "are walking"
+   ],
+   [
+    "In"
+   ],
+   [
+    "is"
+   ],
+   [
+    "and"
+   ],
+   [
+    "because"
+   ],
+   [
+    "looks"
+   ]
+  ],
+  "feedback": "Correct answers: 1. of, 2. middle, 3. there are, 4. blue trousers, 5. are walking, 6. In, 7. is, 8. and, 9. because, 10. looks<br>‣ a photo of; in the middle; there are + plural; adjective before noun; present continuous; in the background; There is snow…and; because for reason; The place looks."
+ },
+ "10970": {
+  "choices": [
+   20789
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because the full phrase is <strong>in the centre of</strong> + place."
+ },
+ "10971": {
+  "choices": [
+   20790
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because we say a place is <strong>east of</strong> the town, without 'the' or 'in'."
+ },
+ "10972": {
+  "choices": [
+   20794
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>shops</strong> is plural, so we need 'are'; 'lots' would need 'of'."
+ },
+ "10973": {
+  "choices": [
+   20796
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because the phrase is <strong>in front of</strong>."
+ },
+ "10974": {
+  "choices": [
+   20799
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>but</strong> joins two contrasting ideas."
+ },
+ "10975": {
+  "choices": [
+   20803
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because with 'it' and the verb have in the present simple, the negative is <strong>doesn't have</strong>."
+ },
+ "10976": {
+  "choices": [
+   20807
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because the phrase is <strong>next to</strong>."
+ },
+ "10977": {
+  "choices": [
+   20808
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because we say <strong>on</strong> the west side of a town."
+ },
+ "10978": {
+  "gaps": [
+   [
+    "aren't",
+    "are not",
+    "’re not"
+   ]
+  ],
+  "feedback": "Correct answer: aren't<br>‣ With <strong>any</strong> and a plural noun we use the negative <strong>aren't</strong>."
+ },
+ "10979": {
+  "gaps": [
+   [
+    "side"
+   ]
+  ],
+  "feedback": "Correct answer: side<br>‣ We say on the north <strong>side</strong> of the town."
+ },
+ "10980": {
+  "gaps": [
+   [
+    "got"
+   ]
+  ],
+  "feedback": "Correct answer: got<br>‣ <strong>Hasn't got</strong> is the negative of 'has got'."
+ },
+ "10981": {
+  "gaps": [
+   [
+    "few"
+   ]
+  ],
+  "feedback": "Correct answer: few<br>‣ <strong>A few</strong> + plural noun means a small number."
+ },
+ "10982": {
+  "gaps": [
+   [
+    "but"
+   ]
+  ],
+  "feedback": "Correct answer: but<br>‣ <strong>But</strong> introduces a contrast."
+ },
+ "10983": {
+  "gaps": [
+   [
+    "doesn't",
+    "does not"
+   ]
+  ],
+  "feedback": "Correct answer: doesn't<br>‣ The negative of 'has' in the present simple is <strong>doesn't have</strong>."
+ },
+ "10984": {
+  "gaps": [
+   [
+    "lot"
+   ]
+  ],
+  "feedback": "Correct answer: lot<br>‣ <strong>A lot of</strong> + plural noun means many."
+ },
+ "10985": {
+  "gaps": [
+   [
+    "front"
+   ]
+  ],
+  "feedback": "Correct answer: front<br>‣ The phrase is <strong>in front of</strong>."
+ },
+ "10986": {
+  "gaps": [
+   [
+    "library"
+   ]
+  ],
+  "feedback": "Correct answer: library<br>‣ You borrow books from a <strong>library</strong>."
+ }
+}

@@ -1,0 +1,1341 @@
+{
+ "6412": {
+  "gaps": [
+   [
+    "Nowadays"
+   ],
+   [
+    "In my opinion"
+   ],
+   [
+    "Firstly"
+   ],
+   [
+    "In addition"
+   ],
+   [
+    "Secondly"
+   ],
+   [
+    "Moreover"
+   ],
+   [
+    "To sum up"
+   ],
+   [
+    "I believe"
+   ]
+  ],
+  "feedback": "Correct answers: 1 Nowadays; 2 In my opinion; 3 Firstly; 4 In addition; 5 Secondly; 6 Moreover; 7 To sum up; 8 I believe<br>‣ Introduce the topic, state your opinion, list reasons with sequencers and addition linkers, then conclude."
+ },
+ "6421": {
+  "choices": [
+   11090
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because in questions with <strong>be</strong> we invert: <strong>Are you</strong> a student?"
+ },
+ "6422": {
+  "choices": [
+   11095
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because we need the subject pronoun <strong>She</strong> and the possessive adjective <strong>Her</strong>."
+ },
+ "6423": {
+  "gaps": [
+   [
+    "However"
+   ],
+   [
+    "my opinion"
+   ],
+   [
+    "First"
+   ],
+   [
+    "Moreover",
+    "In addition"
+   ],
+   [
+    "Secondly"
+   ],
+   [
+    "For example"
+   ],
+   [
+    "so that"
+   ],
+   [
+    "In addition",
+    "Moreover"
+   ],
+   [
+    "To sum up"
+   ],
+   [
+    "believe"
+   ]
+  ],
+  "feedback": "Correct answers: 1 However; 2 my opinion; 3 First; 4 Moreover; 5 Secondly; 6 For example; 7 so that; 8 In addition; 9 To sum up; 10 believe<br>‣ Contrast, opinion, sequencing, adding, example, purpose and concluding linkers."
+ },
+ "6424": {
+  "choices": [
+   11100
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because <strong>However</strong> starts a new sentence and is followed by a comma to show contrast."
+ },
+ "6425": {
+  "choices": [
+   11102
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>Although</strong> is followed by a full clause (subject + verb)."
+ },
+ "6426": {
+  "choices": [
+   11105
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>Despite</strong> is followed by a noun phrase such as <strong>the fact that</strong>."
+ },
+ "6427": {
+  "choices": [
+   11109
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>as</strong> (= because) introduces a clause with subject and verb."
+ },
+ "6428": {
+  "choices": [
+   11114
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>Because of</strong> is followed by a noun phrase."
+ },
+ "6429": {
+  "choices": [
+   11117
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>so that</strong> is followed by a clause with a subject and modal verb."
+ },
+ "6430": {
+  "choices": [
+   11122
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>in order to</strong> is followed by the base form of a verb."
+ },
+ "6431": {
+  "choices": [
+   11125
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>Since</strong> (= because) is followed by a clause; <strong>because of</strong>/<strong>due to</strong> need a noun."
+ },
+ "6512": {
+  "choices": [
+   11317
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because the present simple negative is <strong>doesn't</strong> + base form for he/she/it."
+ },
+ "6513": {
+  "choices": [
+   11322
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because we use <strong>on</strong> for a surface like a table."
+ },
+ "6514": {
+  "choices": [
+   11324
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because present continuous with you: <strong>are</strong> you watching."
+ },
+ "6515": {
+  "choices": [
+   11327
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>What do you do?</strong> asks about your job."
+ },
+ "6516": {
+  "choices": [
+   11330
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because negative imperatives use <strong>Don't</strong> + base form."
+ },
+ "6517": {
+  "choices": [
+   11333
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because past simple questions use <strong>did</strong> + subject + base form."
+ },
+ "6518": {
+  "choices": [
+   11337
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because <strong>Would you like</strong> is a polite offer."
+ },
+ "6519": {
+  "choices": [
+   11339
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because we use <strong>any</strong> in negative sentences."
+ },
+ "6520": {
+  "choices": [
+   11341
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>There was</strong> introduces something that existed."
+ },
+ "6521": {
+  "choices": [
+   11346
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because <strong>much</strong> is used with uncountable nouns in negatives."
+ },
+ "6522": {
+  "choices": [
+   11347
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>be going to</strong> + base form expresses plans."
+ },
+ "6523": {
+  "choices": [
+   11350
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because an adverb (<strong>beautifully</strong>) describes the verb; an adjective (<strong>nice</strong>) describes the noun."
+ },
+ "6524": {
+  "choices": [
+   11353
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because the object comes right after the verb; time expressions go at the end."
+ },
+ "6525": {
+  "choices": [
+   11357
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because Pancake Day is on Shrove Tuesday, the day before Lent."
+ },
+ "6526": {
+  "choices": [
+   11358
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because the text says they often eat them with lemon and sugar."
+ },
+ "6527": {
+  "choices": [
+   11360
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because many British towns hold pancake races on Shrove Tuesday."
+ },
+ "6528": {
+  "choices": [
+   11363
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because runners must toss and catch a pancake in a pan as they run; nobody eats it to win."
+ },
+ "6529": {
+  "choices": [
+   11364
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because the story says a housewife ran to church with her pan because she was late."
+ },
+ "6530": {
+  "choices": [
+   11366
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because all the competitors in Olney are housewives."
+ },
+ "6531": {
+  "choices": [
+   11369
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because they must serve their pancake to the bell-ringer, not their husbands."
+ },
+ "6532": {
+  "choices": [
+   11370
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because the boy with the biggest piece of the huge pancake wins some money."
+ },
+ "6533": {
+  "gaps": [
+   [
+    "hat"
+   ]
+  ],
+  "feedback": "Correct answer: hat<br>‣ A smart hat lets you listen to music and answer calls without headphones."
+ },
+ "6534": {
+  "gaps": [
+   [
+    "glasses"
+   ]
+  ],
+  "feedback": "Correct answer: glasses<br>‣ Glasses are an early wearable that is not electronic."
+ },
+ "6535": {
+  "gaps": [
+   [
+    "patch"
+   ]
+  ],
+  "feedback": "Correct answer: patch<br>‣ The iTBra is a patch worn inside the bra that checks for breast cancer."
+ },
+ "6536": {
+  "gaps": [
+   [
+    "fitness tracker"
+   ]
+  ],
+  "feedback": "Correct answer: fitness tracker<br>‣ Fitness trackers monitor your heart and movement and help you keep fit."
+ },
+ "6537": {
+  "gaps": [
+   [
+    "headband"
+   ]
+  ],
+  "feedback": "Correct answer: headband<br>‣ SmartSleep is a soft headband that helps people sleep better."
+ },
+ "6538": {
+  "gaps": [
+   [
+    "smartwatch",
+    "smart watch"
+   ]
+  ],
+  "feedback": "Correct answer: smartwatch<br>‣ Heartguide looks like a smartwatch and measures blood pressure."
+ },
+ "6539": {
+  "gaps": [
+   [
+    "ring"
+   ]
+  ],
+  "feedback": "Correct answer: ring<br>‣ Smart jewellery such as rings can change colour."
+ },
+ "6540": {
+  "gaps": [
+   [
+    "jacket"
+   ]
+  ],
+  "feedback": "Correct answer: jacket<br>‣ With a smart jacket you can hug someone from miles away."
+ },
+ "6541": {
+  "gaps": [
+   [
+    "engineering"
+   ]
+  ],
+  "feedback": "Correct answer: engineering<br>‣ He started his engineering course at Manchester University."
+ },
+ "6542": {
+  "gaps": [
+   [
+    "three",
+    "3"
+   ]
+  ],
+  "feedback": "Correct answer: three<br>‣ They had lectures in the lecture rooms for three weeks."
+ },
+ "6543": {
+  "gaps": [
+   [
+    "had"
+   ],
+   [
+    "parties"
+   ]
+  ],
+  "feedback": "Correct answers: 1 had; 2 parties<br>‣ He made friends and they had cool parties."
+ },
+ "6544": {
+  "gaps": [
+   [
+    "basketball"
+   ]
+  ],
+  "feedback": "Correct answer: basketball<br>‣ He wanted to join a basketball team."
+ },
+ "6545": {
+  "gaps": [
+   [
+    "lectures"
+   ]
+  ],
+  "feedback": "Correct answer: lectures<br>‣ He has four hours of lectures every day."
+ },
+ "6546": {
+  "gaps": [
+   [
+    "projects"
+   ]
+  ],
+  "feedback": "Correct answer: projects<br>‣ After lectures he works on projects."
+ },
+ "6547": {
+  "gaps": [
+   [
+    "discussions"
+   ]
+  ],
+  "feedback": "Correct answer: discussions<br>‣ He enjoys discussions because he is alone most of the time."
+ },
+ "6548": {
+  "gaps": [
+   [
+    "jogging"
+   ]
+  ],
+  "feedback": "Correct answer: jogging<br>‣ He goes jogging once a day."
+ },
+ "6549": {
+  "gaps": [
+   [
+    "after"
+   ]
+  ],
+  "feedback": "Correct answer: after<br>‣ He hopes to go there after Easter."
+ },
+ "6550": {
+  "gaps": [
+   [
+    "farm"
+   ]
+  ],
+  "feedback": "Correct answer: farm<br>‣ He is going to work on a friend's farm in Wales."
+ },
+ "6551": {
+  "choices": [
+   11373
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because Jayden is going to do a diving instructor course and then teach diving all summer to earn some money."
+ },
+ "6552": {
+  "choices": [
+   11377
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because Pamela is going to cycle from Land's End in England to John o'Groats in Scotland, so she stays in the UK."
+ },
+ "6553": {
+  "choices": [
+   11378
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because Emma is going to visit lots of beaches and learn to surf, which is a new sport for her."
+ },
+ "6554": {
+  "choices": [
+   11381
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because Emma is going to stay with her friend Joe in his new house and help him paint the rooms."
+ },
+ "6555": {
+  "choices": [
+   11386
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because Pamela is cycling through the countryside and visiting cities, museums and castles, not beaches."
+ },
+ "6556": {
+  "choices": [
+   11389
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because Pamela is going to cycle with her friend Alfie for the whole trip."
+ },
+ "6557": {
+  "choices": [
+   11391
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because Jayden says he will go alone but is sure he will meet lots of cool people."
+ },
+ "6558": {
+  "choices": [
+   11395
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because Pamela plans to visit historic cities like Bath and Edinburgh and museums and castles on the way."
+ },
+ "6559": {
+  "choices": [
+   11398
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because Pamela is going to stay in a different guest house at the end of each day of cycling."
+ },
+ "6560": {
+  "choices": [
+   11400
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because Jayden says the UK is too cold and wants to fly to Greece or Egypt."
+ },
+ "6561": {
+  "choices": [
+   11404
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because in 2018 he travelled in Africa and learned some Swahili and Afrikaans."
+ },
+ "6562": {
+  "choices": [
+   11405
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because for the Active Youth Challenge in 2016 he learned car mechanics."
+ },
+ "6563": {
+  "choices": [
+   11409
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because at the summer camp in 2017 he received training in first aid."
+ },
+ "6564": {
+  "choices": [
+   11411
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because in 2016 he helped at a social club for the elderly and chatted with the members."
+ },
+ "6565": {
+  "choices": [
+   11416
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because in 2018 he organised his own transport, accommodation and visas in Ethiopia, Kenya and Tanzania."
+ },
+ "6566": {
+  "choices": [
+   11418
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because in 2017 he received training in climbing instruction at the summer camp."
+ },
+ "6567": {
+  "choices": [
+   11420
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because in 2016 he organised a four-day camping and hiking trip in the Scottish mountains."
+ },
+ "6568": {
+  "choices": [
+   11425
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because on his 2018 trip he read and learned a lot about the culture and wildlife."
+ },
+ "6569": {
+  "choices": [
+   11426
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because the 2016 hiking trip taught him how to deal with problems like getting lost."
+ },
+ "6570": {
+  "choices": [
+   11430
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because at the summer camp in 2017 he had to ensure the children were always safe."
+ },
+ "6591": {
+  "choices": [
+   11554
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because Sarah travelled long distances and got up early, but she never mentions managing staff; she was a musician."
+ },
+ "6592": {
+  "choices": [
+   11557
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because she often spent the afternoon at the beach drinking cocktails or sightseeing when the ship stopped."
+ },
+ "6593": {
+  "choices": [
+   11560
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because she had to chat to passengers politely even when she wasn't in the mood."
+ },
+ "6594": {
+  "choices": [
+   11561
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because she has been in her flat for a year and never used to spend much time there."
+ },
+ "6595": {
+  "choices": [
+   11564
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because she bought a bike and found some great beach cafes she never used to know about."
+ },
+ "6596": {
+  "choices": [
+   11568
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because she preferred beaches in the Caribbean and the Mediterranean because the weather is much better."
+ },
+ "6597": {
+  "choices": [
+   11570
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because she didn't use to be alone much when she was working; now she is spending a lot more time alone."
+ },
+ "6598": {
+  "choices": [
+   11574
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because she used to think people with normal jobs were boring, but now she values them as interesting and kind."
+ },
+ "6619": {
+  "gaps": [
+   [
+    "the email"
+   ]
+  ],
+  "feedback": "Correct answer: the email<br>‣ <strong>get</strong> = receive (an email)."
+ },
+ "6620": {
+  "gaps": [
+   [
+    "lots of calls"
+   ]
+  ],
+  "feedback": "Correct answer: lots of calls<br>‣ <strong>get</strong> = receive (calls)."
+ },
+ "6621": {
+  "gaps": [
+   [
+    "a check"
+   ]
+  ],
+  "feedback": "Correct answer: a check<br>‣ <strong>get</strong> = receive (a payment)."
+ },
+ "6622": {
+  "gaps": [
+   [
+    "this cool jacket"
+   ]
+  ],
+  "feedback": "Correct answer: this cool jacket<br>‣ <strong>get</strong> = buy or obtain."
+ },
+ "6623": {
+  "gaps": [
+   [
+    "a drink"
+   ]
+  ],
+  "feedback": "Correct answer: a drink<br>‣ <strong>get</strong> = bring or fetch something for someone."
+ },
+ "6624": {
+  "gaps": [
+   [
+    "the train"
+   ]
+  ],
+  "feedback": "Correct answer: the train<br>‣ <strong>get</strong> a train = take/catch it."
+ },
+ "6625": {
+  "gaps": [
+   [
+    "milk"
+   ]
+  ],
+  "feedback": "Correct answer: milk<br>‣ <strong>get</strong> = buy."
+ },
+ "6626": {
+  "gaps": [
+   [
+    "anything"
+   ]
+  ],
+  "feedback": "Correct answer: anything<br>‣ <strong>Can I get you anything?</strong> = offer to bring something."
+ },
+ "6627": {
+  "gaps": [
+   [
+    "my diploma"
+   ]
+  ],
+  "feedback": "Correct answer: my diploma<br>‣ <strong>get</strong> = obtain, achieve."
+ },
+ "6628": {
+  "gaps": [
+   [
+    "a strange text message"
+   ]
+  ],
+  "feedback": "Correct answer: a strange text message<br>‣ <strong>get</strong> = receive; <strong>it</strong> refers to one message."
+ },
+ "6629": {
+  "gaps": [
+   [
+    "hungry"
+   ]
+  ],
+  "feedback": "Correct answer: hungry<br>‣ <strong>get</strong> + adjective = become; food in the fridge suits hunger."
+ },
+ "6630": {
+  "gaps": [
+   [
+    "lost"
+   ]
+  ],
+  "feedback": "Correct answer: lost<br>‣ <strong>get lost</strong> = not know where you are."
+ },
+ "6631": {
+  "gaps": [
+   [
+    "mad"
+   ]
+  ],
+  "feedback": "Correct answer: mad<br>‣ <strong>get mad</strong> = become angry."
+ },
+ "6632": {
+  "gaps": [
+   [
+    "late"
+   ]
+  ],
+  "feedback": "Correct answer: late<br>‣ <strong>It's getting late</strong> = it is becoming late."
+ },
+ "6633": {
+  "gaps": [
+   [
+    "tired"
+   ]
+  ],
+  "feedback": "Correct answer: tired<br>‣ <strong>get tired</strong> = become tired, so we need rest."
+ },
+ "6634": {
+  "gaps": [
+   [
+    "married"
+   ]
+  ],
+  "feedback": "Correct answer: married<br>‣ <strong>get married</strong> is the opposite of staying single."
+ },
+ "6635": {
+  "gaps": [
+   [
+    "thirsty"
+   ]
+  ],
+  "feedback": "Correct answer: thirsty<br>‣ <strong>get thirsty</strong> = start needing water."
+ },
+ "6636": {
+  "gaps": [
+   [
+    "better"
+   ]
+  ],
+  "feedback": "Correct answer: better<br>‣ <strong>get better</strong> = recover from illness."
+ },
+ "6637": {
+  "gaps": [
+   [
+    "sick"
+   ]
+  ],
+  "feedback": "Correct answer: sick<br>‣ <strong>get sick</strong> = become ill."
+ },
+ "6638": {
+  "gaps": [
+   [
+    "old"
+   ]
+  ],
+  "feedback": "Correct answer: old<br>‣ <strong>get old</strong> = become old."
+ },
+ "6639": {
+  "gaps": [
+   [
+    "got to"
+   ]
+  ],
+  "feedback": "Correct answer: got to<br>‣ <strong>get to</strong> + place = arrive; past tense."
+ },
+ "6640": {
+  "gaps": [
+   [
+    "get"
+   ]
+  ],
+  "feedback": "Correct answer: get<br>‣ <strong>get home</strong> takes no <strong>to</strong>."
+ },
+ "6641": {
+  "gaps": [
+   [
+    "get"
+   ]
+  ],
+  "feedback": "Correct answer: get<br>‣ <strong>get there</strong>: no <strong>to</strong> before there."
+ },
+ "6642": {
+  "gaps": [
+   [
+    "get to"
+   ]
+  ],
+  "feedback": "Correct answer: get to<br>‣ <strong>get to work</strong> = arrive at work."
+ },
+ "6643": {
+  "gaps": [
+   [
+    "get to"
+   ]
+  ],
+  "feedback": "Correct answer: get to<br>‣ <strong>get to</strong> the station = arrive at it."
+ },
+ "6644": {
+  "gaps": [
+   [
+    "got",
+    "gotten"
+   ]
+  ],
+  "feedback": "Correct answer: got<br>‣ <strong>get here</strong>: no <strong>to</strong>; past participle <strong>got</strong>."
+ },
+ "6645": {
+  "gaps": [
+   [
+    "get to"
+   ]
+  ],
+  "feedback": "Correct answer: get to<br>‣ <strong>get to school</strong> = arrive at school."
+ },
+ "6646": {
+  "gaps": [
+   [
+    "got to"
+   ]
+  ],
+  "feedback": "Correct answer: got to<br>‣ Past tense: <strong>got to</strong> the airport."
+ },
+ "6647": {
+  "gaps": [
+   [
+    "got"
+   ]
+  ],
+  "feedback": "Correct answer: got<br>‣ <strong>get home</strong> takes no <strong>to</strong>; past tense."
+ },
+ "6648": {
+  "gaps": [
+   [
+    "get"
+   ]
+  ],
+  "feedback": "Correct answer: get<br>‣ <strong>get here</strong>: no <strong>to</strong> before here."
+ },
+ "6649": {
+  "gaps": [
+   [
+    "has"
+   ],
+   [
+    "Is"
+   ],
+   [
+    "Her"
+   ],
+   [
+    "was"
+   ],
+   [
+    "behind"
+   ],
+   [
+    "on"
+   ],
+   [
+    "smaller"
+   ],
+   [
+    "becomes"
+   ],
+   [
+    "any"
+   ],
+   [
+    "them"
+   ],
+   [
+    "why"
+   ],
+   [
+    "those"
+   ],
+   [
+    "but"
+   ],
+   [
+    "to live"
+   ],
+   [
+    "doesn't"
+   ]
+  ],
+  "feedback": "Correct answers: 1 has; 2 Is; 3 Her; 4 was; 5 behind; 6 on; 7 smaller; 8 becomes; 9 any; 10 them; 11 why; 12 those; 13 but; 14 to live; 15 doesn't<br>‣ Present simple for facts, possessive <strong>her</strong>, comparative <strong>smaller</strong>, <strong>any</strong> in negatives, <strong>want to</strong> + infinitive."
+ },
+ "6650": {
+  "gaps": [
+   [
+    "is over"
+   ]
+  ],
+  "feedback": "Correct answer: is over<br>‣ <strong>be over</strong> = be finished."
+ },
+ "6651": {
+  "choices": [
+   11599
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because <strong>depend on</strong> someone means rely on them for help."
+ },
+ "6654": {
+  "gaps": [
+   [
+    "carry on"
+   ]
+  ],
+  "feedback": "Correct answer: carry on<br>‣ <strong>carry on</strong> = continue."
+ },
+ "6657": {
+  "gaps": [
+   [
+    "broke in"
+   ]
+  ],
+  "feedback": "Correct answer: broke in<br>‣ <strong>break in</strong> = enter a building illegally."
+ },
+ "6658": {
+  "gaps": [
+   [
+    "bring up"
+   ]
+  ],
+  "feedback": "Correct answer: bring up<br>‣ <strong>bring up</strong> = raise a child."
+ },
+ "6661": {
+  "choices": [
+   11601
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>deal with</strong> means handle or manage people or problems."
+ },
+ "6662": {
+  "choices": [
+   11604
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>fill in</strong> a form means write the required information in it."
+ },
+ "6663": {
+  "choices": [
+   11611
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because <strong>find out</strong> means discover information."
+ },
+ "6664": {
+  "gaps": [
+   [
+    "on"
+   ]
+  ],
+  "feedback": "Correct answer: on<br>‣ <strong>get on</strong> with = make progress in / manage."
+ },
+ "6665": {
+  "gaps": [
+   [
+    "get down"
+   ]
+  ],
+  "feedback": "Correct answer: get down<br>‣ <strong>get down</strong> = write down."
+ },
+ "6666": {
+  "gaps": [
+   [
+    "off"
+   ]
+  ],
+  "feedback": "Correct answer: off<br>‣ <strong>get off</strong> a bus = leave it."
+ },
+ "6667": {
+  "gaps": [
+   [
+    "get in"
+   ]
+  ],
+  "feedback": "Correct answer: get in<br>‣ <strong>get in</strong> = enter."
+ },
+ "6668": {
+  "gaps": [
+   [
+    "get on"
+   ]
+  ],
+  "feedback": "Correct answer: get on<br>‣ <strong>get on with</strong> your work = continue doing it."
+ },
+ "6669": {
+  "gaps": [
+   [
+    "get rid of"
+   ]
+  ],
+  "feedback": "Correct answer: get rid of<br>‣ <strong>get rid of</strong> = throw away, remove."
+ },
+ "6670": {
+  "gaps": [
+   [
+    "back"
+   ]
+  ],
+  "feedback": "Correct answer: back<br>‣ <strong>give back</strong> = return something."
+ },
+ "6671": {
+  "gaps": [
+   [
+    "give in",
+    "hand in"
+   ]
+  ],
+  "feedback": "Correct answer: give in<br>‣ <strong>give in</strong> homework = hand it to the teacher."
+ },
+ "6672": {
+  "gaps": [
+   [
+    "in"
+   ]
+  ],
+  "feedback": "Correct answer: in<br>‣ <strong>give in</strong> to = stop resisting, surrender."
+ },
+ "6673": {
+  "gaps": [
+   [
+    "give out",
+    "gave out",
+    "handed out",
+    "hand out"
+   ]
+  ],
+  "feedback": "Correct answer: give out<br>‣ <strong>give out</strong> = distribute."
+ },
+ "6674": {
+  "choices": [
+   11613
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>cross out</strong> means draw a line through something written."
+ },
+ "6675": {
+  "choices": [
+   11618
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because <strong>cut up</strong> means cut into pieces."
+ },
+ "6676": {
+  "choices": [
+   11620
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>end up</strong> means finally be in a place you didn't plan."
+ },
+ "6677": {
+  "choices": [
+   11624
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>fill up</strong> means make a container completely full."
+ },
+ "6678": {
+  "choices": [
+   11628
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>get along with</strong> someone means have a good relationship with them."
+ },
+ "6679": {
+  "choices": [
+   11634
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because <strong>get back</strong> means return, which fits coming home from the war."
+ },
+ "6680": {
+  "gaps": [
+   [
+    "broke down"
+   ]
+  ],
+  "feedback": "Correct answer: broke down<br>‣ <strong>break down</strong> = stop working (machines)."
+ },
+ "6681": {
+  "gaps": [
+   [
+    "broke up"
+   ]
+  ],
+  "feedback": "Correct answer: broke up<br>‣ <strong>break up</strong> = end a romantic relationship."
+ },
+ "6682": {
+  "gaps": [
+   [
+    "call for"
+   ]
+  ],
+  "feedback": "Correct answer: call for<br>‣ <strong>call for</strong> someone = go and collect them."
+ },
+ "6683": {
+  "gaps": [
+   [
+    "carry out"
+   ]
+  ],
+  "feedback": "Correct answer: carry out<br>‣ <strong>carry out</strong> a study = do or perform it."
+ },
+ "6684": {
+  "gaps": [
+   [
+    "checking out"
+   ]
+  ],
+  "feedback": "Correct answer: checking out<br>‣ <strong>check out</strong> of a hotel = pay and leave."
+ },
+ "6685": {
+  "gaps": [
+   [
+    "Come on"
+   ]
+  ],
+  "feedback": "Correct answer: Come on<br>‣ <strong>Come on</strong> is used to tell someone to hurry."
+ },
+ "6734": {
+  "choices": [
+   11694
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because a compound adjective before a noun uses a hyphen and a singular noun: <strong>a 70-page essay</strong>."
+ },
+ "6735": {
+  "choices": [
+   11696
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because number + noun compound adjectives are hyphenated and the noun stays singular: <strong>a 30-minute walk</strong>."
+ },
+ "6736": {
+  "choices": [
+   11700
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because before a noun we say <strong>a three-day trip</strong>, with a hyphen and singular <strong>day</strong>."
+ },
+ "6737": {
+  "choices": [
+   11703
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because the compound adjective takes a hyphen and the singular noun: <strong>a 20-euro note</strong>."
+ },
+ "6738": {
+  "choices": [
+   11704
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because the noun in a compound adjective is singular and hyphenated: <strong>a six-mile run</strong>."
+ },
+ "6739": {
+  "choices": [
+   11707
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because before a noun we use the hyphenated singular form: <strong>a 10-mile queue</strong>."
+ },
+ "6740": {
+  "choices": [
+   11712
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because the compound adjective is hyphenated and singular: <strong>a two-pound bag</strong>."
+ },
+ "6741": {
+  "choices": [
+   11713
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because number + noun + -ed forms adjectives describing features: <strong>a two-headed snake</strong>."
+ },
+ "6742": {
+  "choices": [
+   11716
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because the compound adjective uses a hyphen and a singular noun: <strong>a 50-kilometre tunnel</strong>."
+ },
+ "6743": {
+  "choices": [
+   11721
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because the compound adjective uses the singular form <strong>foot</strong> with a hyphen: <strong>a 1083-foot tower</strong>."
+ },
+ "6744": {
+  "gaps": [
+   [
+    "three-day",
+    "3-day",
+    "three day",
+    "3 day"
+   ]
+  ],
+  "feedback": "Correct answer: three-day<br>‣ Number + singular noun with a hyphen before a noun."
+ },
+ "6745": {
+  "gaps": [
+   [
+    "nine-page",
+    "9-page",
+    "nine page",
+    "9 page"
+   ]
+  ],
+  "feedback": "Correct answer: nine-page<br>‣ The noun stays singular in a compound adjective."
+ },
+ "6746": {
+  "gaps": [
+   [
+    "one-hour",
+    "1-hour",
+    "one hour",
+    "1 hour"
+   ]
+  ],
+  "feedback": "Correct answer: one-hour<br>‣ Number + singular noun with a hyphen: a one-hour delay."
+ },
+ "6747": {
+  "gaps": [
+   [
+    "eight-storey",
+    "eight-story",
+    "8-storey",
+    "8-story",
+    "eight-floor",
+    "8-floor"
+   ]
+  ],
+  "feedback": "Correct answer: eight-storey<br>‣ We use a singular noun with a hyphen; <strong>an</strong> before eight."
+ },
+ "6748": {
+  "gaps": [
+   [
+    "40-foot",
+    "forty-foot",
+    "40-feet",
+    "40 foot",
+    "forty foot"
+   ]
+  ],
+  "feedback": "Correct answer: 40-foot<br>‣ In compound adjectives we use the singular <strong>foot</strong>."
+ },
+ "6749": {
+  "gaps": [
+   [
+    "1,000-euro",
+    "1000-euro",
+    "thousand-euro",
+    "one-thousand-euro",
+    "1,000 euro",
+    "1000 euro"
+   ]
+  ],
+  "feedback": "Correct answer: 1,000-euro<br>‣ The noun stays singular: a 1,000-euro computer."
+ },
+ "6750": {
+  "gaps": [
+   [
+    "six-cylinder",
+    "6-cylinder",
+    "six cylinder",
+    "6 cylinder"
+   ]
+  ],
+  "feedback": "Correct answer: six-cylinder<br>‣ Number + singular noun with a hyphen before the noun."
+ },
+ "6751": {
+  "gaps": [
+   [
+    "10-minute",
+    "ten-minute",
+    "10 minute",
+    "ten minute"
+   ]
+  ],
+  "feedback": "Correct answer: 10-minute<br>‣ The noun stays singular: a 10-minute walk."
+ },
+ "6752": {
+  "gaps": [
+   [
+    "three-legged",
+    "3-legged",
+    "three legged",
+    "3 legged"
+   ]
+  ],
+  "feedback": "Correct answer: three-legged<br>‣ Number + noun + -ed describes a physical feature: a three-legged dog."
+ },
+ "6753": {
+  "gaps": [
+   [
+    "five-hour",
+    "5-hour",
+    "five hour",
+    "5 hour"
+   ]
+  ],
+  "feedback": "Correct answer: five-hour<br>‣ Number + singular noun with a hyphen: a five-hour flight."
+ },
+ "6754": {
+  "gaps": [
+   [
+    "five-pound"
+   ]
+  ],
+  "feedback": "Correct answer: five-pound<br>‣ Compound adjectives use a hyphen and a singular noun."
+ },
+ "6755": {
+  "gaps": [
+   [
+    "40-year-old"
+   ]
+  ],
+  "feedback": "Correct answer: 40-year-old<br>‣ Age before a noun: number-year-old, with hyphens and singular <strong>year</strong>."
+ },
+ "6756": {
+  "gaps": [
+   [
+    "four-part"
+   ]
+  ],
+  "feedback": "Correct answer: four-part<br>‣ Hyphenated, singular noun before another noun: a four-part exam."
+ },
+ "6757": {
+  "gaps": [
+   [
+    "five-kilowatt"
+   ]
+  ],
+  "feedback": "Correct answer: five-kilowatt<br>‣ Hyphenated compound adjective with a singular noun."
+ },
+ "6758": {
+  "gaps": [
+   [
+    "million-dollar"
+   ]
+  ],
+  "feedback": "Correct answer: million-dollar<br>‣ Before a noun we say a million-dollar fine (singular, hyphenated)."
+ },
+ "6759": {
+  "gaps": [
+   [
+    "three-bedroom"
+   ]
+  ],
+  "feedback": "Correct answer: three-bedroom<br>‣ Hyphenated compound adjective with singular <strong>bedroom</strong>."
+ },
+ "6760": {
+  "gaps": [
+   [
+    "20-hour"
+   ]
+  ],
+  "feedback": "Correct answer: 20-hour<br>‣ Hyphenated compound adjective with singular <strong>hour</strong>."
+ },
+ "6761": {
+  "gaps": [
+   [
+    "five-star"
+   ]
+  ],
+  "feedback": "Correct answer: five-star<br>‣ A five-star hotel: hyphen and singular noun."
+ },
+ "6762": {
+  "gaps": [
+   [
+    "ten-minute"
+   ]
+  ],
+  "feedback": "Correct answer: ten-minute<br>‣ A ten-minute break: hyphen and singular noun."
+ },
+ "6763": {
+  "gaps": [
+   [
+    "four-week"
+   ]
+  ],
+  "feedback": "Correct answer: four-week<br>‣ A four-week holiday: hyphen and singular noun."
+ }
+}

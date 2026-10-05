@@ -1,0 +1,1172 @@
+{
+ "1035": {
+  "gaps": [
+   [
+    "even"
+   ]
+  ],
+  "feedback": "Correct answer: even<br>‣ <strong>even if</strong> means the result is the same in that case."
+ },
+ "1036": {
+  "gaps": [
+   [
+    "condition"
+   ]
+  ],
+  "feedback": "Correct answer: condition<br>‣ <strong>on condition (that)</strong> introduces a requirement."
+ },
+ "1037": {
+  "gaps": [
+   [
+    "only"
+   ]
+  ],
+  "feedback": "Correct answer: only<br>‣ <strong>only if</strong> limits the condition."
+ },
+ "1038": {
+  "gaps": [
+   [
+    "whether"
+   ]
+  ],
+  "feedback": "Correct answer: whether<br>‣ <strong>whether or not</strong> means in either case."
+ },
+ "1039": {
+  "gaps": [
+   [
+    "Supposing"
+   ]
+  ],
+  "feedback": "Correct answer: Supposing<br>‣ <strong>Supposing</strong> introduces an imaginary situation."
+ },
+ "1040": {
+  "gaps": [
+   [
+    "long"
+   ]
+  ],
+  "feedback": "Correct answer: long<br>‣ <strong>as long as</strong> means 'only if'."
+ },
+ "1041": {
+  "gaps": [
+   [
+    "provided"
+   ]
+  ],
+  "feedback": "Correct answer: provided<br>‣ <strong>provided that</strong> means 'on condition that'."
+ },
+ "1042": {
+  "gaps": [
+   [
+    "on"
+   ]
+  ],
+  "feedback": "Correct answer: on<br>‣ <strong>on condition</strong> introduces a requirement."
+ },
+ "1043": {
+  "gaps": [
+   [
+    "unless"
+   ]
+  ],
+  "feedback": "Correct answer: unless<br>‣ <strong>unless</strong> means 'except if'."
+ },
+ "1044": {
+  "gaps": [
+   [
+    "case"
+   ]
+  ],
+  "feedback": "Correct answer: case<br>‣ <strong>in case</strong> means as a precaution."
+ },
+ "5239": {
+  "gaps": [
+   [
+    "Neither"
+   ]
+  ],
+  "feedback": "Correct answer: Neither<br>‣ <strong>Neither</strong> = not one and not the other."
+ },
+ "5240": {
+  "gaps": [
+   [
+    "Both of us"
+   ]
+  ],
+  "feedback": "Correct answer: Both of us<br>‣ <strong>both of</strong> + object pronoun."
+ },
+ "5241": {
+  "gaps": [
+   [
+    "neither"
+   ]
+  ],
+  "feedback": "Correct answer: neither<br>‣ <strong>neither … nor</strong>."
+ },
+ "5242": {
+  "gaps": [
+   [
+    "either"
+   ]
+  ],
+  "feedback": "Correct answer: either<br>‣ <strong>either … or</strong> for alternatives."
+ },
+ "5243": {
+  "gaps": [
+   [
+    "Neither"
+   ]
+  ],
+  "feedback": "Correct answer: Neither<br>‣ <strong>Neither of</strong> = not one or the other."
+ },
+ "5244": {
+  "gaps": [
+   [
+    "either"
+   ]
+  ],
+  "feedback": "Correct answer: either<br>‣ After a negative verb we use <strong>either</strong>."
+ },
+ "5245": {
+  "gaps": [
+   [
+    "Both"
+   ]
+  ],
+  "feedback": "Correct answer: Both<br>‣ <strong>Both … and</strong>."
+ },
+ "5246": {
+  "gaps": [
+   [
+    "Both"
+   ]
+  ],
+  "feedback": "Correct answer: Both<br>‣ <strong>Both</strong> = the two players."
+ },
+ "5247": {
+  "gaps": [
+   [
+    "Neither"
+   ]
+  ],
+  "feedback": "Correct answer: Neither<br>‣ <strong>Neither</strong> + singular noun."
+ },
+ "5248": {
+  "gaps": [
+   [
+    "either"
+   ]
+  ],
+  "feedback": "Correct answer: either<br>‣ <strong>either</strong> = one or the other."
+ },
+ "5249": {
+  "choices": [
+   8190
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>either … or</strong> for alternatives."
+ },
+ "5250": {
+  "choices": [
+   8194
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because <strong>Neither</strong> = not one and not the other."
+ },
+ "5251": {
+  "choices": [
+   8195
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>both of</strong> + object pronoun."
+ },
+ "5252": {
+  "choices": [
+   8199
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because after a negative verb we use <strong>either</strong>."
+ },
+ "5253": {
+  "choices": [
+   8203
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because <strong>neither … nor</strong>."
+ },
+ "5254": {
+  "choices": [
+   8205
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>either … or</strong>."
+ },
+ "5255": {
+  "choices": [
+   8207
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>Both</strong> = the two parents."
+ },
+ "5257": {
+  "choices": [
+   8214
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>both … and</strong>, then <strong>neither of</strong> with a positive verb."
+ },
+ "5258": {
+  "choices": [
+   8217
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>either … or</strong>."
+ },
+ "5259": {
+  "choices": [
+   8220
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because after a negative verb we use <strong>either of</strong>."
+ },
+ "5260": {
+  "gaps": [
+   [
+    "neither of"
+   ]
+  ],
+  "feedback": "Correct answer: neither of<br>‣ <strong>neither of</strong> + pronoun with a singular verb."
+ },
+ "5261": {
+  "gaps": [
+   [
+    "either"
+   ]
+  ],
+  "feedback": "Correct answer: either<br>‣ <strong>either … or</strong>."
+ },
+ "5262": {
+  "gaps": [
+   [
+    "Both",
+    "Both of"
+   ]
+  ],
+  "feedback": "Correct answer: Both<br>‣ <strong>Both (of) the</strong> + plural noun."
+ },
+ "5263": {
+  "gaps": [
+   [
+    "either of"
+   ]
+  ],
+  "feedback": "Correct answer: either of<br>‣ After a negative verb: <strong>either of</strong> + pronoun."
+ },
+ "5264": {
+  "gaps": [
+   [
+    "both"
+   ]
+  ],
+  "feedback": "Correct answer: both<br>‣ <strong>both</strong> = the two things."
+ },
+ "5265": {
+  "gaps": [
+   [
+    "neither"
+   ]
+  ],
+  "feedback": "Correct answer: neither<br>‣ <strong>neither … nor</strong>."
+ },
+ "5266": {
+  "gaps": [
+   [
+    "both"
+   ]
+  ],
+  "feedback": "Correct answer: both<br>‣ <strong>both … and</strong>."
+ },
+ "5267": {
+  "gaps": [
+   [
+    "either of"
+   ]
+  ],
+  "feedback": "Correct answer: either of<br>‣ After a negative verb: <strong>either of</strong>."
+ },
+ "5268": {
+  "gaps": [
+   [
+    "either of"
+   ]
+  ],
+  "feedback": "Correct answer: either of<br>‣ <strong>either of</strong> = one or the other."
+ },
+ "5269": {
+  "gaps": [
+   [
+    "neither of"
+   ]
+  ],
+  "feedback": "Correct answer: neither of<br>‣ <strong>neither of</strong> + noun phrase."
+ },
+ "5306": {
+  "gaps": [
+   [
+    "any"
+   ]
+  ],
+  "feedback": "Correct answer: any<br>‣ We use <strong>any</strong> in negative sentences."
+ },
+ "5307": {
+  "gaps": [
+   [
+    "any"
+   ]
+  ],
+  "feedback": "Correct answer: any<br>‣ We use <strong>any</strong> in questions."
+ },
+ "5308": {
+  "gaps": [
+   [
+    "no"
+   ]
+  ],
+  "feedback": "Correct answer: no<br>‣ <strong>no</strong> + noun in a positive verb sentence."
+ },
+ "5309": {
+  "gaps": [
+   [
+    "None"
+   ]
+  ],
+  "feedback": "Correct answer: None<br>‣ <strong>None</strong> is used alone, as a pronoun."
+ },
+ "5310": {
+  "gaps": [
+   [
+    "None"
+   ]
+  ],
+  "feedback": "Correct answer: None<br>‣ <strong>None of</strong> + plural noun."
+ },
+ "5311": {
+  "gaps": [
+   [
+    "any"
+   ]
+  ],
+  "feedback": "Correct answer: any<br>‣ <strong>any</strong> in positive sentences means it doesn't matter which."
+ },
+ "5312": {
+  "gaps": [
+   [
+    "no"
+   ]
+  ],
+  "feedback": "Correct answer: no<br>‣ <strong>no</strong> + noun after a positive verb."
+ },
+ "5313": {
+  "gaps": [
+   [
+    "any"
+   ]
+  ],
+  "feedback": "Correct answer: any<br>‣ We use <strong>any</strong> in negative sentences."
+ },
+ "5314": {
+  "gaps": [
+   [
+    "None"
+   ]
+  ],
+  "feedback": "Correct answer: None<br>‣ <strong>None</strong> is used alone as a pronoun."
+ },
+ "5315": {
+  "gaps": [
+   [
+    "any"
+   ]
+  ],
+  "feedback": "Correct answer: any<br>‣ We use <strong>any</strong> in questions."
+ },
+ "5316": {
+  "choices": [
+   8270
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because we use <strong>anywhere</strong> in questions."
+ },
+ "5317": {
+  "choices": [
+   8273
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>Nothing</strong> answers 'what' on its own."
+ },
+ "5318": {
+  "choices": [
+   8278
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because <strong>None</strong> is the pronoun for 'not any' episodes."
+ },
+ "5319": {
+  "choices": [
+   8280
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because after a negative verb we use <strong>anybody</strong>."
+ },
+ "5320": {
+  "choices": [
+   8282
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>Anybody</strong> means any person at all."
+ },
+ "5321": {
+  "choices": [
+   8287
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because <strong>none of</strong> + noun phrase."
+ },
+ "5322": {
+  "choices": [
+   8290
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because <strong>none of</strong> + object pronoun (them)."
+ },
+ "5323": {
+  "choices": [
+   8293
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because <strong>nobody</strong> refers to people."
+ },
+ "5324": {
+  "choices": [
+   8295
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because the saying is <strong>No news is good news</strong>."
+ },
+ "5325": {
+  "choices": [
+   8299
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because we avoid double negatives: Nobody … anything."
+ },
+ "5326": {
+  "gaps": [
+   [
+    "anything"
+   ]
+  ],
+  "feedback": "Correct answer: anything<br>‣ After a negative verb we use <strong>anything</strong>."
+ },
+ "5327": {
+  "gaps": [
+   [
+    "no"
+   ]
+  ],
+  "feedback": "Correct answer: no<br>‣ <strong>no</strong> + noun after a positive verb."
+ },
+ "5328": {
+  "gaps": [
+   [
+    "anywhere"
+   ]
+  ],
+  "feedback": "Correct answer: anywhere<br>‣ After a negative verb we use <strong>anywhere</strong>."
+ },
+ "5329": {
+  "gaps": [
+   [
+    "Nobody"
+   ]
+  ],
+  "feedback": "Correct answer: Nobody<br>‣ <strong>Nobody</strong> means no person."
+ },
+ "5330": {
+  "gaps": [
+   [
+    "any"
+   ]
+  ],
+  "feedback": "Correct answer: any<br>‣ We use <strong>any</strong> in questions."
+ },
+ "5331": {
+  "gaps": [
+   [
+    "None"
+   ]
+  ],
+  "feedback": "Correct answer: None<br>‣ <strong>None</strong> is used alone as a pronoun for quantity."
+ },
+ "5332": {
+  "gaps": [
+   [
+    "Nobody"
+   ]
+  ],
+  "feedback": "Correct answer: Nobody<br>‣ For people we use <strong>nobody</strong>."
+ },
+ "5333": {
+  "gaps": [
+   [
+    "None"
+   ]
+  ],
+  "feedback": "Correct answer: None<br>‣ <strong>None of</strong> + noun phrase."
+ },
+ "5334": {
+  "gaps": [
+   [
+    "nothing"
+   ]
+  ],
+  "feedback": "Correct answer: nothing<br>‣ <strong>nothing</strong> with a positive verb."
+ },
+ "5335": {
+  "gaps": [
+   [
+    "any"
+   ]
+  ],
+  "feedback": "Correct answer: any<br>‣ <strong>any</strong> in positive sentences means whatever."
+ },
+ "5336": {
+  "gaps": [
+   [
+    "are bound"
+   ]
+  ],
+  "feedback": "Correct answer: are bound<br>‣ <strong>be bound to</strong> means it is certain."
+ },
+ "5337": {
+  "choices": [
+   8300
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>It's unlikely that</strong> + clause."
+ },
+ "5338": {
+  "gaps": [
+   [
+    "we are unlikely"
+   ]
+  ],
+  "feedback": "Correct answer: we are unlikely<br>‣ subject + <strong>be unlikely to</strong>."
+ },
+ "5339": {
+  "gaps": [
+   [
+    "will definitely"
+   ]
+  ],
+  "feedback": "Correct answer: will definitely<br>‣ <strong>definitely</strong> goes after will."
+ },
+ "5340": {
+  "gaps": [
+   [
+    "unlikely that we'll"
+   ]
+  ],
+  "feedback": "Correct answer: unlikely that we'll<br>‣ <strong>It's unlikely that</strong> + clause; we cannot say it's unlikely to + verb when 'it' is empty."
+ },
+ "5341": {
+  "gaps": [
+   [
+    "is sure to"
+   ]
+  ],
+  "feedback": "Correct answer: is sure to<br>‣ <strong>be sure to</strong> + infinitive."
+ },
+ "5342": {
+  "gaps": [
+   [
+    "probably won't"
+   ]
+  ],
+  "feedback": "Correct answer: probably won't<br>‣ <strong>probably</strong> goes before won't."
+ },
+ "5343": {
+  "gaps": [
+   [
+    "It's likely that sales will"
+   ]
+  ],
+  "feedback": "Correct answer: It's likely that sales will<br>‣ <strong>It's likely that</strong> + clause."
+ },
+ "5344": {
+  "gaps": [
+   [
+    "Sales are unlikely"
+   ]
+  ],
+  "feedback": "Correct answer: Sales are unlikely<br>‣ subject + <strong>be unlikely to</strong>."
+ },
+ "5345": {
+  "gaps": [
+   [
+    "bound to"
+   ]
+  ],
+  "feedback": "Correct answer: bound to<br>‣ <strong>be bound to</strong> + infinitive."
+ },
+ "5346": {
+  "gaps": [
+   [
+    "will probably not"
+   ]
+  ],
+  "feedback": "Correct answer: will probably not<br>‣ <strong>probably</strong> goes after will and before not."
+ },
+ "5347": {
+  "choices": [
+   8303
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because subject + <strong>be likely to</strong>."
+ },
+ "5348": {
+  "choices": [
+   8308
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because subject + <strong>be unlikely to</strong> + infinitive."
+ },
+ "5349": {
+  "choices": [
+   8309
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>be sure to</strong> + infinitive."
+ },
+ "5350": {
+  "choices": [
+   8313
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>be bound to</strong> expresses certainty."
+ },
+ "5351": {
+  "choices": [
+   8315
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>definitely</strong> goes before won't."
+ },
+ "5352": {
+  "choices": [
+   8319
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>probably</strong> goes before not in be going to."
+ },
+ "5353": {
+  "choices": [
+   8323
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because <strong>It's very unlikely that</strong> + clause."
+ },
+ "5354": {
+  "choices": [
+   8324
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because subject + <strong>be unlikely to</strong>."
+ },
+ "5355": {
+  "choices": [
+   8329
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because subject + <strong>be bound to</strong>."
+ },
+ "5356": {
+  "gaps": [
+   [
+    "are unlikely to arrive",
+    "aren't likely to arrive",
+    "are not likely to arrive"
+   ]
+  ],
+  "feedback": "Correct answer: are unlikely to arrive<br>‣ subject + <strong>be unlikely to</strong> + infinitive."
+ },
+ "5357": {
+  "gaps": [
+   [
+    "is sure to get",
+    "'s sure to get"
+   ]
+  ],
+  "feedback": "Correct answer: is sure to get<br>‣ <strong>be sure to</strong> + infinitive."
+ },
+ "5358": {
+  "gaps": [
+   [
+    "It's very unlikely that you",
+    "It is very unlikely that you"
+   ]
+  ],
+  "feedback": "Correct answer: It's very unlikely that you<br>‣ <strong>It's very unlikely that</strong> + clause."
+ },
+ "5359": {
+  "gaps": [
+   [
+    "probably will not be",
+    "will probably not be"
+   ]
+  ],
+  "feedback": "Correct answer: probably will not be<br>‣ <strong>probably</strong> with will not."
+ },
+ "5360": {
+  "gaps": [
+   [
+    "are bound to like"
+   ]
+  ],
+  "feedback": "Correct answer: are bound to like<br>‣ <strong>be bound to</strong> + infinitive."
+ },
+ "5361": {
+  "gaps": [
+   [
+    "likely to find"
+   ]
+  ],
+  "feedback": "Correct answer: likely to find<br>‣ <strong>be likely to</strong> + infinitive."
+ },
+ "5362": {
+  "gaps": [
+   [
+    "is bound to happen",
+    "'s bound to happen"
+   ]
+  ],
+  "feedback": "Correct answer: is bound to happen<br>‣ <strong>be bound to</strong> + infinitive."
+ },
+ "5363": {
+  "gaps": [
+   [
+    "likely that he will win",
+    "likely that he'll win"
+   ]
+  ],
+  "feedback": "Correct answer: likely that he will win<br>‣ <strong>It's likely that</strong> + clause."
+ },
+ "5364": {
+  "gaps": [
+   [
+    "is unlikely to find",
+    "'s unlikely to find"
+   ]
+  ],
+  "feedback": "Correct answer: is unlikely to find<br>‣ subject + <strong>be unlikely to</strong>."
+ },
+ "5365": {
+  "gaps": [
+   [
+    "definitely shouldn't be",
+    "definitely should not be"
+   ]
+  ],
+  "feedback": "Correct answer: definitely shouldn't be<br>‣ <strong>definitely</strong> goes before shouldn't."
+ },
+ "5366": {
+  "gaps": [
+   [
+    "unless"
+   ]
+  ],
+  "feedback": "Correct answer: unless<br>‣ <strong>Unless</strong> means 'except if'."
+ },
+ "5367": {
+  "choices": [
+   8332
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because <strong>on condition that</strong> introduces a requirement."
+ },
+ "5368": {
+  "choices": [
+   8334,
+   8336
+  ],
+  "feedback": "‣ <strong>A</strong> and <strong>C</strong> are correct because <strong>provided</strong> and <strong>as long as</strong> mean 'only if'."
+ },
+ "5369": {
+  "choices": [
+   8339
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>unless</strong> means 'except if'."
+ },
+ "5370": {
+  "choices": [
+   8343,
+   8345
+  ],
+  "feedback": "‣ <strong>B</strong> and <strong>D</strong> are correct because <strong>providing</strong> and <strong>as long as</strong> mean 'on condition that'."
+ },
+ "5371": {
+  "choices": [
+   8346
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>unless it rains</strong> = if it doesn't rain."
+ },
+ "5372": {
+  "gaps": [
+   [
+    "even if"
+   ]
+  ],
+  "feedback": "Correct answer: even if<br>‣ <strong>Even if</strong> means the result would be the same in that case."
+ },
+ "5373": {
+  "choices": [
+   8353
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because <strong>suppose</strong> introduces an imaginary situation."
+ },
+ "5374": {
+  "gaps": [
+   [
+    "Suppose"
+   ]
+  ],
+  "feedback": "Correct answer: Suppose<br>‣ <strong>Suppose</strong> introduces an imaginary situation."
+ },
+ "5375": {
+  "choices": [
+   8354,
+   8357
+  ],
+  "feedback": "‣ <strong>A</strong> and <strong>D</strong> are correct because both mean that non-members cannot go in."
+ },
+ "5376": {
+  "choices": [
+   8359
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>in case</strong> means as a precaution."
+ },
+ "5377": {
+  "choices": [
+   8362
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>even if</strong> means the result doesn't change."
+ },
+ "5378": {
+  "choices": [
+   8368,
+   8369
+  ],
+  "feedback": "‣ <strong>C</strong> and <strong>D</strong> are correct because both mean acceptance is a requirement."
+ },
+ "5379": {
+  "gaps": [
+   [
+    "on condition that"
+   ]
+  ],
+  "feedback": "Correct answer: on condition that<br>‣ <strong>On condition that</strong> introduces a requirement."
+ },
+ "5380": {
+  "gaps": [
+   [
+    "whether or not"
+   ]
+  ],
+  "feedback": "Correct answer: whether or not<br>‣ <strong>Whether or not</strong> means in either case."
+ },
+ "5381": {
+  "gaps": [
+   [
+    "Even if"
+   ]
+  ],
+  "feedback": "Correct answer: Even if<br>‣ <strong>Even if</strong> means the result doesn't change."
+ },
+ "5382": {
+  "gaps": [
+   [
+    "in case"
+   ]
+  ],
+  "feedback": "Correct answer: in case<br>‣ <strong>In case</strong> means as a precaution."
+ },
+ "5383": {
+  "gaps": [
+   [
+    "as long as"
+   ]
+  ],
+  "feedback": "Correct answer: as long as<br>‣ <strong>As long as</strong> means 'only if'."
+ },
+ "5384": {
+  "gaps": [
+   [
+    "only if"
+   ]
+  ],
+  "feedback": "Correct answer: only if<br>‣ <strong>Only if</strong> limits the condition to one situation."
+ },
+ "5385": {
+  "gaps": [
+   [
+    "provided"
+   ]
+  ],
+  "feedback": "Correct answer: provided<br>‣ <strong>Provided</strong> means 'on condition that'."
+ },
+ "5386": {
+  "choices": [
+   8371
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because a present condition with a past result needs <strong>would have</strong> + past participle."
+ },
+ "5387": {
+  "choices": [
+   8377
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because the result is in the present (today): <strong>would</strong> + infinitive."
+ },
+ "5388": {
+  "gaps": [
+   [
+    "wouldn't be"
+   ]
+  ],
+  "feedback": "Correct answer: wouldn't be<br>‣ Past condition (third conditional if-clause) with a present result: <strong>would</strong> + infinitive."
+ },
+ "5389": {
+  "gaps": [
+   [
+    "had taken"
+   ]
+  ],
+  "feedback": "Correct answer: had taken<br>‣ Past condition: <strong>if</strong> + past perfect, with a present result."
+ },
+ "5390": {
+  "gaps": [
+   [
+    "wouldn't have married"
+   ]
+  ],
+  "feedback": "Correct answer: wouldn't have married<br>‣ General present condition with a past result: <strong>would have</strong> + past participle."
+ },
+ "5391": {
+  "gaps": [
+   [
+    "had said"
+   ]
+  ],
+  "feedback": "Correct answer: had said<br>‣ Present result with a past condition: <strong>if</strong> + past perfect."
+ },
+ "5392": {
+  "gaps": [
+   [
+    "would have invited"
+   ]
+  ],
+  "feedback": "Correct answer: would have invited<br>‣ Present condition (past simple) with a past result: <strong>would have</strong> + past participle."
+ },
+ "5393": {
+  "gaps": [
+   [
+    "would have called"
+   ]
+  ],
+  "feedback": "Correct answer: would have called<br>‣ Present condition, past result (last night): <strong>would have</strong> + past participle."
+ },
+ "5394": {
+  "choices": [
+   8379
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because a past result needs <strong>would have</strong> + past participle."
+ },
+ "5395": {
+  "choices": [
+   8382
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because the result is in the past: <strong>would have known</strong>."
+ },
+ "5396": {
+  "gaps": [
+   [
+    "weren't"
+   ]
+  ],
+  "feedback": "Correct answer: weren't<br>‣ A present, permanent state in the if-clause uses the past simple."
+ },
+ "5397": {
+  "gaps": [
+   [
+    "'d accepted"
+   ]
+  ],
+  "feedback": "Correct answer: 'd accepted<br>‣ Past condition: past perfect, with a present result (now)."
+ },
+ "5398": {
+  "gaps": [
+   [
+    "'d taken"
+   ]
+  ],
+  "feedback": "Correct answer: 'd taken<br>‣ Past condition (last night): past perfect, with a present result."
+ },
+ "5399": {
+  "gaps": [
+   [
+    "hadn't prepared"
+   ]
+  ],
+  "feedback": "Correct answer: hadn't prepared<br>‣ Past condition: <strong>if</strong> + past perfect."
+ },
+ "5400": {
+  "choices": [
+   8387
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because the result refers to past trophies, so the condition is past perfect."
+ },
+ "5401": {
+  "choices": [
+   8390
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because the result refers to yesterday: <strong>would have</strong> + past participle."
+ },
+ "5402": {
+  "choices": [
+   8396
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because a present state (speaking Russian) in the if-clause uses the past simple."
+ },
+ "5403": {
+  "choices": [
+   8398
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because the result is in the present (now): <strong>might</strong> + infinitive."
+ },
+ "5404": {
+  "choices": [
+   8405
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because a past condition takes the past perfect."
+ },
+ "5405": {
+  "choices": [
+   8407
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because the result is in the present (now): <strong>would</strong> + infinitive."
+ },
+ "5406": {
+  "gaps": [
+   [
+    "hadn't eaten",
+    "had not eaten"
+   ]
+  ],
+  "feedback": "Correct answer: hadn't eaten<br>‣ Past condition: <strong>if</strong> + past perfect, with a present result."
+ },
+ "5407": {
+  "gaps": [
+   [
+    "would have moved",
+    "'d have moved"
+   ]
+  ],
+  "feedback": "Correct answer: would have moved<br>‣ Present condition, past result (years ago): <strong>would have</strong> + past participle."
+ },
+ "5408": {
+  "gaps": [
+   [
+    "would have acted",
+    "'d have acted"
+   ]
+  ],
+  "feedback": "Correct answer: would have acted<br>‣ Present condition, past result: <strong>would have</strong> + past participle."
+ },
+ "5409": {
+  "gaps": [
+   [
+    "would be",
+    "'d be"
+   ]
+  ],
+  "feedback": "Correct answer: would be<br>‣ Past condition, present result: <strong>would</strong> + infinitive."
+ },
+ "5410": {
+  "gaps": [
+   [
+    "would have finished",
+    "'d have finished"
+   ]
+  ],
+  "feedback": "Correct answer: would have finished<br>‣ Present condition, past result: <strong>would have</strong> + past participle."
+ },
+ "5411": {
+  "gaps": [
+   [
+    "wouldn't have got",
+    "would not have got",
+    "wouldn't have gotten",
+    "would not have gotten"
+   ]
+  ],
+  "feedback": "Correct answer: wouldn't have got<br>‣ Present condition, past result: <strong>would have</strong> + past participle."
+ },
+ "5412": {
+  "gaps": [
+   [
+    "would know",
+    "'d know",
+    "would have known",
+    "'d have known"
+   ]
+  ],
+  "feedback": "Correct answer: would know<br>‣ Past condition, present result (by now): <strong>would</strong> + infinitive."
+ },
+ "5413": {
+  "gaps": [
+   [
+    "hadn't achieved",
+    "had not achieved"
+   ]
+  ],
+  "feedback": "Correct answer: hadn't achieved<br>‣ Past condition: <strong>if</strong> + past perfect."
+ },
+ "5414": {
+  "gaps": [
+   [
+    "hadn't scared",
+    "had not scared"
+   ]
+  ],
+  "feedback": "Correct answer: hadn't scared<br>‣ Past condition: <strong>if</strong> + past perfect."
+ },
+ "5415": {
+  "gaps": [
+   [
+    "had gone",
+    "'d gone"
+   ]
+  ],
+  "feedback": "Correct answer: had gone<br>‣ Past condition: <strong>if</strong> + past perfect, with a present result."
+ },
+ "5436": {
+  "choices": [
+   8413
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because he says he is almost 19, so he is 18."
+ },
+ "5437": {
+  "choices": [
+   8416
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because he says students never have money."
+ },
+ "5438": {
+  "choices": [
+   8419
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because he says free time without money can get boring."
+ },
+ "5439": {
+  "choices": [
+   8421
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because he goes to the gym every morning."
+ },
+ "5440": {
+  "choices": [
+   8424
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because he says he studies history at university."
+ },
+ "5441": {
+  "choices": [
+   8428
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because he enjoys video games but doesn't think they are productive."
+ },
+ "5442": {
+  "choices": [
+   8429
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because he would like to find more productive activities."
+ }
+}

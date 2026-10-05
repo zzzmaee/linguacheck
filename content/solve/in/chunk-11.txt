@@ -1,0 +1,2633 @@
+=== PAGE /grammar-points/b1/for-since-from-difference/ | For, since, from: What’s the difference? | level b1
+--- QUIZ 711
+CONTEXT:
+Exercise 3
+ Fill in each gap using since, from, for.
+Q 6069 [gaps] I've been looking for a job {1} I left school.
+  {1} free text
+Q 6062 [gaps] We were awake {1} 2 a.m. because of the noise.
+  {1} free text
+Q 6050 [gaps] I have known Mark {1} a long time.
+  {1} free text
+Q 6065 [gaps] They've been arguing {1} almost an hour.
+  {1} free text
+Q 6070 [gaps] Passengers will be able to travel directly to London {1} the end of October.
+  {1} free text
+Q 6066 [gaps] He hasn't eaten anything {1} 24 hours.
+  {1} free text
+Q 6067 [gaps] His car was old. He'd had it {1} 1975.
+  {1} free text
+Q 6064 [gaps] We have been together {1} over ten years.
+  {1} free text
+Q 6068 [gaps] Everything has changed {1} we were in school.
+  {1} free text
+Q 6063 [gaps] I work every day {1} early in the morning until late at night.
+  {1} free text
+
+=== PAGE /reading/b1/how-sleep-transformed-professional-football-reading-test/ | How sleep transformed professional football – B1 English Reading Test | level b1
+--- QUIZ 677
+CONTEXT:
+B1 English Reading Test
+ Read the text sleep science in sport, and for questions 1 to 9, match the person and the sentence.
+ How sleep transformed professional football
+ A few decades ago, professional footballers spent their nights partying. Now, they are much more aware of the benefits of a good night’s sleep. 
+ The change began in the mid-1990s, when mattress salesman Nick Littlehales contacted the manager of the Manchester United football team, Alex Ferguson, asking whether he had ever considered how sleep affected performance on the pitch. Interested, Ferguson arranged for Littlehales to give a presentation to his team. Before long, the whole team had new mattresses and pillows, and Littlehales soon became football’s leading mattress advisor. In 1998, he supplied mattresses for England’s World Cup team, and at the 2004 Euros, he created individual sleep routines for every player. 
+ Gradually, club managers began to pay more attention to scientific sleep research, and for good reason. In 2011, sleep specialist Cheri Mah discovered that increasing sleep to 8-10 hours per night massively increased the speed and shot accuracy of basketball players. Other research shows that a single night of inadequate sleep can increase the risk of injury, and 64 hours of bad sleep reduces strength, power and balance, and can even cause the body to eat its own muscles! 
+ Consequently, managers started trying to improve their players’ sleep. Southampton Football Club’s manager Alek Gross, for example, forbade his players from consuming caffeine, sugar or fatty foods, which prevent sleep, in the evenings. Instead, they were given milky protein drinks which made them tired. The Mexico team manager was also concerned about sleep loss when travelling to their World Cup group games in Russia. Together with Manchester United sports scientist Robin Thorpe, he drew up a sleep and training schedule to optimize performance. Even the hotel bedrooms were set to the ideal sleeping temperature. The players supported the routine. In fact, on the evening of a game, their captain Rafael Marquez even asked fans who were celebrating at the same hotel to keep quiet because the team were sleeping. The intervention was a great success. Mexico won their next game versus South Korea and even beat Germany in their group. 
+ Now, many teams and players are making an effort to improve their sleep patterns, using various means. Manchester City player Sergio Aguero, for example, was finding it hard to sleep because his muscular body prevented his legs from closing when he lay on his side. He got a new mattress which matched his height and weight, thus keeping his neck and back aligned in the night. Meanwhile, James Milner from Manchester City found it hard to sleep after evening games, so would play computer games into the early hours. As a result, he was too tired to train the following morning. Setting a routine with a late bedtime, early rise and afternoon nap helped to fix this problem. Since these interventions are cheap and effective, even the less well-known teams can benefit. Brentford, for example, has the smallest budget in the championship league. Even so, the club’s head of performance, Chris Haslam, introduced wrist trackers to monitor player’s sleep, and these have led to a clear improvement in players’ attentiveness. 
+ Whereas in the past, playing after a party and a few hours’ sleep was seen as a badge of honour, a good sleep is now considered an essential part of performance. 
+ Questions
+Q 5791 [radio] _____ used technology to check how players were sleeping.
+ 9447) Nick Littlehales
+ 9448) Alex Ferguson
+ 9449) Cheri Mah
+ 9450) Alek Gross
+ 9451) Robin Thorpe
+ 9452) Rafael Marquez
+ 9453) Sergio Aguero
+ 9454) James Milner
+ 9455) Chris Haslam
+Q 5792 [radio] _____ increased sales for his business.
+ 9456) Nick Littlehales
+ 9457) Alex Ferguson
+ 9458) Cheri Mah
+ 9459) Alek Gross
+ 9460) Robin Thorpe
+ 9461) Rafael Marquez
+ 9462) Sergio Aguero
+ 9463) James Milner
+ 9464) Chris Haslam
+Q 5793 [radio] _____ studied the effect of sleep on athletic performance.
+ 9465) Nick Littlehales
+ 9466) Alex Ferguson
+ 9467) Cheri Mah
+ 9468) Alek Gross
+ 9469) Robin Thorpe
+ 9470) Rafael Marquez
+ 9471) Sergio Aguero
+ 9472) James Milner
+ 9473) Chris Haslam
+Q 5794 [radio] _____ changed his/her sleep routine to improve performance during practices.
+ 9474) Nick Littlehales
+ 9475) Alex Ferguson
+ 9476) Cheri Mah
+ 9477) Alek Gross
+ 9478) Robin Thorpe
+ 9479) Rafael Marquez
+ 9480) Sergio Aguero
+ 9481) James Milner
+ 9482) Chris Haslam
+Q 5795 [radio] _____ slept more comfortably after buying better products.
+ 9483) Nick Littlehales
+ 9484) Alex Ferguson
+ 9485) Cheri Mah
+ 9486) Alek Gross
+ 9487) Robin Thorpe
+ 9488) Rafael Marquez
+ 9489) Sergio Aguero
+ 9490) James Milner
+ 9491) Chris Haslam
+Q 5796 [radio] _____ designed a successful sleep routine for a national team.
+ 9492) Nick Littlehales
+ 9493) Alex Ferguson
+ 9494) Cheri Mah
+ 9495) Alek Gross
+ 9496) Robin Thorpe
+ 9497) Rafael Marquez
+ 9498) Sergio Aguero
+ 9499) James Milner
+ 9500) Chris Haslam
+Q 5797 [radio] _____ asked people not to be noisy so that his team could sleep.
+ 9501) Nick Littlehales
+ 9502) Alex Ferguson
+ 9503) Cheri Mah
+ 9504) Alek Gross
+ 9505) Robin Thorpe
+ 9506) Rafael Marquez
+ 9507) Sergio Aguero
+ 9508) James Milner
+ 9509) Chris Haslam
+Q 5798 [radio] _____ invited someone to talk to his team about sleep and bedding.
+ 9510) Nick Littlehales
+ 9511) Alex Ferguson
+ 9512) Cheri Mah
+ 9513) Alek Gross
+ 9514) Robin Thorpe
+ 9515) Rafael Marquez
+ 9516) Sergio Aguero
+ 9517) James Milner
+ 9518) Chris Haslam
+Q 5799 [radio] _____ made his players change their diet before they slept.
+ 9519) Nick Littlehales
+ 9520) Alex Ferguson
+ 9521) Cheri Mah
+ 9522) Alek Gross
+ 9523) Robin Thorpe
+ 9524) Rafael Marquez
+ 9525) Sergio Aguero
+ 9526) James Milner
+ 9527) Chris Haslam
+
+=== PAGE /use-of-english/b1/b1-english-test-5-text-with-multiple-choice-gaps/ | B1 English test 5 – Text with multiple-choice gaps | level b1
+--- QUIZ 680
+CONTEXT:
+Use of English Test – B1
+ Read the text and choose the correct answer for each gap.
+Q 5807 [gaps] Hi Mum, /  We’ve 1 {1} arrived at the caravan park. We stopped at a few places on the way here, including a castle and a hill with beautiful views. I thought the castle was amazing, but the kids 2 were {2} there. They didn't find the castle 3 {3} . They just wanted to run around. /  We had a few problems getting through the main gates. The owners of the caravan that we’ve rented told us that they 4 {4} a key for us at reception, but when we arrived, reception was closed and there was no-one there. We had to phone the owners and ask them where 5 {5} the key. In the end, someone from the shop helped us get into reception and pick up the key. /  Well, the caravan park is very different 6 {6} how I remember it. Since the last time we 7 {7} here, it has doubled in size! A new swimming pool 8 {8} , and there is also another bar. I wish I had known about that when I booked the caravan. We’re really close to it and it is 9 {9} noisy that I don’t think I will sleep well tonight. I 10 {10} better buy some earplugs when I get the chance, otherwise I’m going to be very grumpy this trip. If I 11 {11} about the pool, I wouldn't have rented this caravan. /  I 12 {12} Aunt Jane and Uncle Robert yet, 13 {13} I know they are somewhere in the caravan park! Their caravan is number 73, 14 {14} ? I’ll probably look for them tomorrow and invite them to dinner 15 {15} we are here. /  Take care, /  Love from Susie
+  {1} options: just | since | yet
+  {2} options: bored | boring | bore
+  {3} options: interesting | interested | interest
+  {4} options: will leave | would leave | left
+  {5} options: they had left | they would leave | had they left
+  {6} options: from | about | than
+  {7} options: have been | were | are
+  {8} options: has built | has been built | is building
+  {9} options: such | so | such a
+  {10} options: had | have | would
+  {11} options: had known | knew | 'd have known
+  {12} options: haven’t seen | didn't see | 'm not seeing
+  {13} options: although | however | since
+  {14} options: aren’t they | isn’t it | doesn’t it
+  {15} options: for | during | while
+
+=== PAGE /reading/b1/learning-english-forum-your-answer-reading-test/ | Learning English Forum. Your answer! – B1 English Reading Test | level b1
+--- QUIZ 678
+CONTEXT:
+B1 English Reading Test
+ Read a text about learning English, and for questions 1 to 6, choose the correct option.
+ Learning English Forum. Your answer!
+ Banjo_Boy asks:
+ I was in the USA on a language course last summer. It was a fantastic learning experience! People were so friendly and welcoming. I’m going on a British summer course this year. I heard that English people are more unfriendly and polite. Is that true? I’m worried about the language as well. I learned American English at school, and I’ve heard that British English is different. I’m worried that I’ll misunderstand everyone, make errors and appear impolite. Can anyone help?
+ Sara_May replies:
+ Don’t worry about the language! It’s mostly the same. In terms of grammar, there are no differences at all. There are a few vocabulary differences though, like in the USA they say ‘subway’, ‘gas’ and ‘apartment’, while in Britain they say ‘underground’, ‘petrol’ and ‘flat’. But it won’t be a problem. You’ll understand those unfamiliar words from the context. What’s more, British people will understand you if you use American words. After all, they watch lots of American shows on television. The British accent is very different from the American one, but personally, I find it easier to understand.
+ Paulo_Riviera_166 replies:
+ You won’t find the language confusing, but people’s behaviour is very different, in my opinion. Americans are more informal and open. They talk about anything – their money, their weight, their health. They are enthusiastic and friendly, and it’s easy to get to know them. British people aren’t like that. They don’t like to talk about their personal lives until they know you well, and they think it is respectful to give you privacy. As a result, it isn’t easy to make friends with British people. They are friendly and polite, but they often remain rather distant.
+ Nellie_111 replies:
+ Don’t worry about making social errors in Britain. People are so polite that if you do something wrong, they won’t comment! I agree with Paulo_Riviera_166 in some ways. British people are more distant, but they aren’t more formal, in my opinion. For example, in the States, kids sometimes call their dads ‘Sir’, but British people never do that! In America, success is important, so people will often tell you how great they are. In Britain, it’s considered rude to boast about your achievements. If you do, people may tease you or gossip about you. Also, British people hate being complimented. If you say something nice about them, they often look embarrassed and don’t know what to say!
+ Bubbles replies:
+ I don’t know where Sara_May was staying in the UK, but I was in the north of the country on a school trip a couple of years ago. We all stayed with host families, and the only person I could understand was the mother of the family. I couldn’t understand anyone else, even after three weeks! The people didn’t sound anything like the people I had heard in my course books at school, and I learned British English! I guess people sound different in different areas of the country. All I can say is, good luck, and if you don’t understand someone, ask them to write down what they are trying to say!
+ Questions
+Q 5800 [radio] Which sentence best summarises Banjo_Boy’s situation?
+ 9528) A. He is worried about making mistakes in his language and behaviour when he goes to Britain.
+ 9529) B. His is worried that his trip to America won’t be as fun as last year’s trip to Britain.
+ 9530) C. He wants to know whether it is more useful to learn American English or British English.
+ 9531) D. He wants to learn how to speak well and be polite to his American and British guests.
+Q 5801 [radio] What is Sara_May’s advice?
+ 9532) A. Neither the vocabulary nor the accent differences are hard to understand.
+ 9533) B. The vocabulary differences are hard to understand, but the British accent is easy to understand.
+ 9534) C. The vocabulary differences are easy to understand, but the British accent is hard to understand.
+ 9535) D. Both the vocabulary and the accent differences are hard to understand.
+Q 5802 [radio] According to Paulo_Riviera_166, British people are...
+ 9536) A. formal and unfriendly.
+ 9537) B. enthusiastic and personal.
+ 9538) C. friendly and open.
+ 9539) D. respectful and distant.
+Q 5803 [radio] According to Nellie_111, Americans are ... than British people.
+ 9540) A. less likely to comment if you make a social error
+ 9541) B. less likely to talk about their achievements
+ 9542) C. more likely to call their parents by a formal title
+ 9543) D. more likely to feel embarrassed by a compliment
+Q 5804 [radio] Why does Bubbles disagree with Sara_May?
+ 9544) A. She thinks it’s hard to understand British vocabulary.
+ 9545) B. She thinks the British accent is difficult to understand.
+ 9546) C. She thinks British grammar is different from American grammar.
+ 9547) D. She thinks British people won’t understand American English.
+Q 5805 [radio] Which of the four people responded to the question: “I heard that English people are more unfriendly and polite. Is that true?”
+ 9548) A. Paulo_Riviera_166 only.
+ 9549) B. Paulo_Riviera_166 and Nellie_111.
+ 9550) C. Paulo_Riviera_166, Nellie_111 and Bubbles.
+ 9551) D. All of them.
+
+=== PAGE /use-of-english/a2/a2-english-test-5-text-with-multiple-choice-gaps/ | A2 English test 5 – Text with multiple-choice gaps | level a2
+--- QUIZ 683
+CONTEXT:
+Use of English Test – A2
+ Read the text and choose the correct answer for each gap.
+Q 5838 [gaps] There are many challenges on the internet 1 {1} are related to food. For example, some people video themselves while they 2 {2} an onion or a lemon. 3 {3} of these challenges are harmless and fun. 4 {4} , a few of them are dangerous. For example, in one challenge, people have to hold ice and salt in 5 {5} hands. They get together with friends and find out who can hold it for the 6 {6} time. But this challenge is so dangerous that nobody 7 {7} do it. If you take some ice and add salt, the temperature of the ice 8 {8} to -17ºC. Ice at this temperature will burn you. The problem is, you 9 {9} notice that your hand is burning because the ice is so cold. You’ll 10 {10} it, and the burn will get worse.  /  In another challenge, people try to eat a large spoonful of cinnamon powder without drinking 11 {11} . It sounds simple, but it isn’t. In fact, it’s both impossible and dangerous. Cinnamon powder 12 {12} in water or the saliva in your mouth. So, if you put a spoonful of 13 {13} in your mouth, your body will panic and you will start coughing. If that powder gets 14 {14} your lungs, you might damage them.  /  So, in the future, when someone 15 {15} you to do a food challenge, don’t agree to it unless you know it is safe. Don’t risk your health just to make a funny video.
+  {1} options: who | that they | which
+  {2} options: have eaten | are eaten | are eating
+  {3} options: Few | A lot | Much
+  {4} options: However | Although | So
+  {5} options: their | theirs | them
+  {6} options: most long | longest | longer
+  {7} options: might | will | should
+  {8} options: will fall | is falling | would fall
+  {9} options: mustn't | might not | shouldn't
+  {10} options: to keep holding | keep holding | keep to hold
+  {11} options: nothing | everything | anything
+  {12} options: hasn't dissolved | isn't dissolving | doesn't dissolve
+  {13} options: it | those | its
+  {14} options: along | through | into
+  {15} options: will dare | is going to dare | dares
+
+=== PAGE /use-of-english/a2/a2-english-test-4-multiple-choice-questions/ | A2 English test 4 – multiple choice questions | level a2
+--- QUIZ 682
+CONTEXT:
+Use of English Test – A2
+ For the following questions (1 to 15), choose a, b, or c.
+Q 5823 [radio] Who ____ these flowers?
+ 9597) A. did give you
+ 9598) B. gave you
+ 9599) C. you gave
+Q 5824 [radio] I _____ coffee, but today I _____ one.
+ 9600) A. don't drink / need
+ 9601) B. 'm not drinking / need
+ 9602) C. don't drink / 'm needing
+Q 5825 [radio] She _____ very fast when she _____ control of the car.
+ 9603) A. was driving / lost
+ 9604) B. drove / lost
+ 9605) C. was driving / was losing
+Q 5826 [radio] I'm going to the florist's _____ roses for Patricia.
+ 9606) A. for buying
+ 9607) B. for buy
+ 9608) C. to buy
+Q 5827 [radio] We _____ to Disney for Thanksgiving. It'll be fun!
+ 9609) A. fly
+ 9610) B. 're flying
+ 9611) C. 'll fly
+Q 5828 [radio] I wasn't _____ to understand what had happened.
+ 9612) A. enough old
+ 9613) B. too old
+ 9614) C. old enough
+Q 5829 [radio] He isn't capable of _____ this to _____.
+ 9615) A. do / we
+ 9616) B. doing / us
+ 9617) C. to do / us
+Q 5830 [radio] I'm going _____ in the park.
+ 9618) A. for a run
+ 9619) B. to a run
+ 9620) C. run
+Q 5831 [radio] We _____ do it now. We can do it later.
+ 9621) A. don't have to
+ 9622) B. mustn't
+ 9623) C. haven't
+Q 5832 [radio] What time _____ there?
+ 9624) A. we should be
+ 9625) B. should we to be
+ 9626) C. should we be
+Q 5833 [radio] I _____ a car if I lived nearby.
+ 9627) A. didn't need
+ 9628) B. wouldn't need
+ 9629) C. won't need
+Q 5834 [radio] ______ to play any sports when you were at school?
+ 9630) A. Did you used
+ 9631) B. Used you
+ 9632) C. Did you use
+Q 5835 [radio] David won't help us, and neither _____ Betty.
+ 9633) A. will
+ 9634) B. won't
+ 9635) C. does
+Q 5836 [radio] In the morning, she said she _____ at the office all afternoon.
+ 9636) A. 'd be
+ 9637) B. will be
+ 9638) C. was
+Q 5837 [radio] My phone wasn't on the desk. Somebody _____ it!
+ 9639) A. took
+ 9640) B. was taking
+ 9641) C. had taken
+
+=== PAGE /reading/a1/a-trip-around-the-usa-reading-test/ | A trip around the USA – A1 English Reading Test | level a1
+--- QUIZ 666
+CONTEXT:
+A1 English Reading Test
+ Read the text about travelling aroung the USA and for questions 1 to 7, decide if the sentences are true or false.
+ A trip around the USA
+ Dear Family,
+ Everything has been so much fun here in the US. I am sorry that it has taken me so long to write. When we arrived yesterday, we immediately went to our hotel in New York City, took showers, and began our sightseeing trip! We saw the Statue of Liberty, Wall Street, and Times Square, all in just one day. 
+ Unfortunately, we could only spend that one day in New York because we had to take the train to see the Niagara Falls. I am riding the train now as I write. We should arrive in a few hours. I think we’ll go straight to bed as it will be past midnight when we arrive. 
+ After Niagara Falls, we’re going to visit Toronto in Canada as it is only a little further north. I’ve never been to Canada, so that will be exciting. From Toronto, we’re going to take a flight to Los Angeles. That’s where we’re going to stay for the rest of the trip. I think Sam wants to go to Disneyland, so I’m sure we’ll do that. And of course, we’re going to surf in the Pacific Ocean!
+ I will try to write again soon, but we are doing so much that I can’t make any promises. Take care.
+ We love you both,
+ Francis and Sam
+ Questions
+Q 5712 [radio] Francis forgot to write because the trip was too long.
+ 9208) A. True
+ 9209) B. False
+Q 5713 [radio] Francis isn’t happy about only spending one day in NYC.
+ 9210) A. True
+ 9211) B. False
+Q 5714 [radio] They get off the train very late at night.
+ 9212) A. True
+ 9213) B. False
+Q 5715 [radio] They are going to visit another country apart from the USA.
+ 9214) A. True
+ 9215) B. False
+Q 5716 [radio] Francis really wants to go to an amusement park.
+ 9216) A. True
+ 9217) B. False
+Q 5717 [radio] Francis will certainly write again.
+ 9218) A. True
+ 9219) B. False
+
+=== PAGE /use-of-english/a2/a2-english-test-3-text-with-multiple-choice-gaps/ | A2 English test 3 – Text with multiple choice gaps | level a2
+--- QUIZ 679
+CONTEXT:
+Use of English Test – A2
+ Read the text and choose the correct answer for each gap.
+Q 5806 [gaps] Marilyn Monroe 1 {1} in 1926 in Los Angeles. Her real name was Norma Jeane Mortenson. When she was seven years old, her mother 2 {2} move into hospital because she was suffering from mental illness. After that, Norma lived in several foster homes. After her sixteenth birthday, Norma married James Dougherty, but their marriage didn’t last long. 3 {3} Norma’s difficult childhood made her strong, it also made her very insecure.  /  During World War Two, Marilyn worked in a factory. There, she 4 {4} the photographer David Conover and he asked her 5 {5} in his photographs. Their photos were very successful. By 1945 she 6 {6} on 33 magazine covers! But Marilyn’s dream was to be an actress. 7 {7} her modelling success, she 8 {8} some film roles, and by 1953, she was one of 9 {9} popular Hollywood stars.  /  10 {10} , she was never lucky in love. In 1954, she married the baseball star Joe DiMaggio. They split up just nine months later. At the time, DiMaggio’s baseball career 11 {11} . He felt jealous of Marilyn, 12 {12} had become famous and 13 {13} by many people. He spent most of his time 14 {14} television, which Marilyn found boring.  /  In 1956, Marilyn married the writer Arthur Miller. At first, they were happy together, but later, while the two of them 15 {15} together on a film, they fell out and separated. Marilyn died from a drug overdose when she was 36 years old.
+  {1} options: is born | born | was born
+  {2} options: had to | should | must
+  {3} options: Because | Although | However
+  {4} options: has met | met | was met
+  {5} options: posing | pose | to pose
+  {6} options: appeared | was appeared | had appeared
+  {7} options: Because | Although | Because of
+  {8} options: was given | gave | had given
+  {9} options: the more | the most | most
+  {10} options: However | So | Although
+  {11} options: was ended | was ending | has ended
+  {12} options: which | she | who
+  {13} options: was admiring | admired | was admired
+  {14} options: watching | watch | to watch
+  {15} options: were working | had worked | have worked
+
+=== PAGE /reading/b1/the-arm-of-liberty-reading-test/ | The arm of Liberty – B1 English Reading Test | level b1
+--- QUIZ 663
+CONTEXT:
+B1 English Reading Test
+ Read the text about the Statue of Liberty, and for questions 1 to 10, choose the correct answers.
+ The arm of Liberty
+ The Statue of Liberty is probably the most famous icon of the USA. It was built to celebrate the end of slavery, and later became a symbol for freedom among immigrants. The statue depicts Libertas, the Roman goddess of liberty. And the torch she carries high above her outstretched arm represents a light that guides people along the path to freedom. Interestingly, however, Liberty looks different from the way the designer first intended. 
+ The idea for the statue came from a poet, Édouard de Laboulaye. When the American Civil war ended, he wanted to commemorate the end of the slave trade with a gift. He and other people who opposed slavery raised money and hired a sculptor, Frédéric-Auguste Bartholdi, to design the statue. Bartholdi later employed the French engineer, Gustave Eiffel, to devise its structure. Eiffel, who would subsequently build the famous tower in Paris, was already a well-known designer of railway bridges. So he knew how to build robust structures that are flexible and safe in strong winds. This feature was necessary because the winds in New York harbor are extremely strong. Today, the top of her torch swings over 15cm when the wind is blowing at 50 miles per hour.
+ Eiffel designed the statue to be built around a massive metal skeleton, similar to the Eiffel tower. Huge pieces of copper were fixed onto this to form its shape. Until recently, two copies of the plans were believed to exist. But recently, a third copy was discovered, which revealed some interesting information. In 2018, a map dealer bought some historic papers at an auction in Paris, which included original plans, calculations, and drawings of the statue. At first, the documents were too fragile to read. But after special treatment, the papers clearly showed that Eiffel’s plans had been changed by Bartholdi with red ink. Liberty’s arm, which was thick and vertical in Eiffel’s drawing, was adjusted to be slimmer, less upright, and generally more attractive than Eiffels’ design. 
+ The changes in the plans are dated July 28, 1882, after the construction of the tower had begun. We don’t know what Eiffel thought of Bartholdi’s changes. By then, Eiffel was working on other projects, and only his assistants were working with Bartholdi in New York. Maybe Bartholdi thought he could make the changes because Eiffel was not there and would not complain. 
+ However, the changes made the arm not only more attractive but also weaker, which has created problems over the years. At first, visitors could climb a ladder to the torch in Liberty’s arm, but in 1916, there was an explosion on a nearby island. It damaged the statue and made it unsafe, and the stairway to the torch has been closed ever since. During restoration work in the 1980s, engineers noticed that the structure inside Liberty’s head, shoulders, and arm were different from how they were shown on Eiffel’s plans. They thought that the builders had made mistakes, but some historians believed that Bartholdi had changed Eiffel’s design. The newly discovered papers confirm those theories. 
+ Questions
+Q 5685 [radio] The Statue of Liberty was constructed to welcome immigrants to the USA.
+ 9138) A. True
+ 9139) B. False
+Q 5686 [radio] Édouard de Laboulaye paid for the statue with his own money.
+ 9140) A. True
+ 9141) B. False
+Q 5687 [radio] Gustave Eiffel designed the Statue of Liberty before designing the Eiffel Tower.
+ 9142) A. True
+ 9143) B. False
+Q 5688 [radio] Eiffel failed to consider strong winds when designing the Eiffel Tower.
+ 9144) A. True
+ 9145) B. False
+Q 5689 [radio] Three known copies of Eiffel’s plans of the Statue of Liberty exist today.
+ 9146) A. True
+ 9147) B. False
+Q 5690 [radio] Eiffel planned for Liberty to hold her torch more vertically than it is today.
+ 9148) A. True
+ 9149) B. False
+Q 5691 [radio] Eiffel worked with Bartholdi on the construction of the Statue of Liberty.
+ 9150) A. True
+ 9151) B. False
+Q 5692 [radio] The new arm design is not as strong as Eiffel’s original design.
+ 9152) A. True
+ 9153) B. False
+Q 5693 [radio] People have not been allowed to climb the arm since 1916.
+ 9154) A. True
+ 9155) B. False
+Q 5694 [radio] In the 1980s, engineers noticed that the arm did not match Eiffel’s plans.
+ 9156) A. True
+ 9157) B. False
+
+=== PAGE /use-of-english/a1/a1-english-test-5-text-multiple-choice-gaps/ | A1 English test 5 – Text with multiple choice gaps | level a1
+--- QUIZ 668
+CONTEXT:
+Use of English Test – A1
+ Read the text and choose the correct answer for each gap.
+Q 5724 [gaps] Brown bears and Grizzly bears, or grizzlies, 1 {1} two kinds of bear from North America. They are very similar, 2 {2} they aren’t the same. Grizzly bears have light-coloured fur on 3 {3} shoulders and backs, but brown bears don't. The bears also live 4 {4} different areas. Brown bears live 5 {5} the sea, but grizzlies live in mountains and forests inland. That means they have 6 {6} . Brown bears eat fish from rivers near the sea. 7 {7} fish are very fatty, and there are 8 {8} of them, so brown bears can get very big and fat. The big ones weigh 750 kilogrammes! 9 {9} aren’t many fish in the mountains and forests, so grizzly bears need 10 {10} other things too, like grass, nuts and berries. These foods 11 {11} contain much fat, so grizzlies are much 12 {12} than brown bears. They usually weigh 13 {13} 90 and 300 kilogrammes. There isn’t 14 {14} food for grizzly bears, so they need to protect their land and food. As a result, they are 15 {15} dangerous than brown bears, both to humans and other bears.
+  {1} options: are | were | is
+  {2} options: but | and | because
+  {3} options: their | its | his
+  {4} options: in | at | of
+  {5} options: near | above | next
+  {6} options: different diets | diets different | differents diets
+  {7} options: That | These | This
+  {8} options: few | much | a lot
+  {9} options: It | They | There
+  {10} options: ate | to eat | eating
+  {11} options: don't | isn't | aren't
+  {12} options: smaller | small | smallest
+  {13} options: over | between | besides
+  {14} options: a lot | much | many
+  {15} options: more | most | much
+
+=== PAGE /grammar-points/a1/conjunctions_and-but-or-so-because/ | Conjunctions: And, but, or, so, because | level a1
+--- QUIZ 669
+CONTEXT:
+Exercise 1
+ Choose and, but, or, so, because to complete each sentence.
+Q 5725 [gaps] I called Tom, {1} he didn't answer.
+  {1} options: so | or | but | because
+Q 5726 [gaps] I'm tired {1} I went to bed very late.
+  {1} options: but | and | so | because
+Q 5727 [gaps] It was very late, {1} we took a taxi.
+  {1} options: or | but | because | so
+Q 5730 [gaps] You can go by bus {1} by train.
+  {1} options: because | but | so | or
+Q 5734 [gaps] She got into the car {1} left.
+  {1} options: or | and | but | so
+Q 5731 [gaps] I called you {1} I was worried.
+  {1} options: and | but | so | because
+Q 5729 [gaps] Would you like to do it now {1} later?
+  {1} options: so | and | but | or
+Q 5732 [gaps] She can sing, {1} she can't dance.
+  {1} options: but | and | so | or
+Q 5728 [gaps] I wasn't hungry, {1} I didn't eat.
+  {1} options: so | or | but | because
+Q 5733 [gaps] I have one brother {1} two sisters.
+  {1} options: but | and | or | so
+
+=== PAGE /grammar-points/a1/conjunctions_and-but-or-so-because/ | Conjunctions: And, but, or, so, because | level a1
+--- QUIZ 670
+CONTEXT:
+Exercise 2
+ Choose and, but, or, so, because to complete these sentences.
+Q 5735 [radio] I don't have any brothers _____ sisters. I'm an only child.
+ 9232) A. or
+ 9233) B. and
+ 9234) C. but
+ 9235) D. because
+Q 5736 [radio] I get home at around 7 p.m., _____ then I make dinner.
+ 9236) A. but
+ 9237) B. and
+ 9238) C. or
+ 9239) D. because
+Q 5738 [radio] It's raining, _____ we should take our umbrellas.
+ 9244) A. and
+ 9245) B. but
+ 9246) C. because
+ 9247) D. so
+Q 5739 [radio] She went home _____ she wasn't feeling very well.
+ 9248) A. because
+ 9249) B. and
+ 9250) C. but
+ 9251) D. so
+Q 5740 [radio] We had a little accident, _____ everybody is OK.
+ 9252) A. and
+ 9253) B. but
+ 9254) C. or
+ 9255) D. so
+Q 5737 [radio] I bought a pair of shoes in the sales, _____ my wife bought a new dress.
+ 9240) A. because
+ 9241) B. or
+ 9242) C. and
+ 9243) D. but
+Q 5741 [radio] It was a fantastic opportunity, _____ I decided to take it.
+ 9256) A. because
+ 9257) B. or
+ 9258) C. so
+ 9259) D. and
+Q 5742 [radio] I didn't tell you the truth _____ I didn't want to hurt your feelings.
+ 9260) A. so
+ 9261) B. because
+ 9262) C. and
+ 9263) D. but
+Q 5743 [radio] I hated the present, _____ I said it was great.
+ 9264) A. so
+ 9265) B. or
+ 9266) C. because
+ 9267) D. but
+Q 5744 [radio] We can do it now _____ after lunch.
+ 9268) A. or
+ 9269) B. but
+ 9270) C. and
+ 9271) D. because
+
+=== PAGE /grammar-points/a1/conjunctions_and-but-or-so-because/ | Conjunctions: And, but, or, so, because | level a1
+--- QUIZ 671
+CONTEXT:
+Exercise 3
+ Conjunctions: And, but, or, so, because
+ Fill in each gap using one of these conjunctions: and, but, or, so, because.
+Q 5745 [gaps] I have a car, {1} I never drive to work {2} the tube is faster.
+  {1} free text
+  {2} free text
+Q 5750 [gaps] We couldn't do any shopping {1} it was a holiday.
+  {1} free text
+Q 5747 [gaps] Junk food is delicious {1} very unhealthy, {2} you should not eat it very often.
+  {1} free text
+  {2} free text
+Q 5751 [gaps] I knew Sara could help me, {1} I asked her for help.
+  {1} free text
+Q 5753 [gaps] Would you like to watch a film at home {1} to go to the movies?
+  {1} free text
+Q 5748 [gaps] I wasn't feeling well, {1} I went to the doctor, {2} he told me that I need to start a diet.
+  {1} free text
+  {2} free text
+Q 5746 [gaps] I'm from the UK, {1} I live in the US {2} my wife is American.
+  {1} free text
+  {2} free text
+Q 5752 [gaps] He's a great person, {1} he's totally crazy.
+  {1} free text
+Q 5749 [gaps] My brother is easy-going {1} positive, {2} my sister is very pessimistic.
+  {1} free text
+  {2} free text
+Q 5754 [gaps] The city is expensive. You should rent a room in a shared flat {1} a small studio.
+  {1} free text
+
+=== PAGE /reading/a1/going-to-the-mall-reading-test/ | Going to the mall – A1 English Reading Test | level a1
+--- QUIZ 665
+CONTEXT:
+A1 English Reading Test
+ Read the text about travelling around the USA and for questions 1 to 6, choose the correct answer.
+ Going to the Mall
+ Every city in the USA has a mall or four. There are about 1,100 malls in the US. These giant store-filled buildings are one of America’s greatest entertainment options for teens and families.
+ Mall of America in Minnesota is the largest mall. It is so big that it has an amusement park in it, Nickelodeon Universe, with several roller coasters! There are more than 500 stores in it, about 400,000m2 and about 12,000 people work there.
+ But malls nowadays aren’t the same as they used to be in the 80s and 90s. During those decades, teens would go to the mall and spend hours shopping, playing video games at the arcade, or just hanging out with friends. It was cool in the summer and warm in the winter. In those days, malls provided the perfect source of shopping and entertainment for entire families. 
+ Nowadays, you can still eat in the food court and go to the movies, but there aren’t many arcades left. Millennials have their Xboxes or Ps4s, and they like shopping online, which is also happening with more and more people from other generations. And as more people shop online and play video games at home, fewer people go to the mall to hang out. 
+ Hopefully, malls will remain one of the great American pastimes. But only time will tell how people in the future will prefer to spend their time.
+ Questions
+Q 5705 [radio] People like malls because...
+ 9187) A. it is a fun place to be.
+ 9188) B. it’s cheap.
+ 9189) C. there are so many of them.
+Q 5707 [radio] Why is the Mall of America so famous?
+ 9193) A. Because it’s the official Mall of the country.
+ 9194) B. Because it’s in Minnesota.
+ 9195) C. Because of its size.
+Q 5708 [radio] At the mall of America, you can...
+ 9196) A. visit the president of the USA.
+ 9197) B. ride a rollercoaster.
+ 9198) C. walk in a park.
+Q 5706 [radio] What can’t people do at malls very much anymore?
+ 9190) A. Hang out with friends.
+ 9191) B. Play video games.
+ 9192) C. Go for lunch.
+Q 5711 [radio] Malls nowadays ... than in the past.
+ 9205) A. are bigger
+ 9206) B. are more popular
+ 9207) C. have fewer entertainment options
+Q 5709 [radio] Why are malls dying?
+ 9199) A. People prefer other options.
+ 9200) B. They are too expensive.
+ 9201) C. They aren’t entertaining.
+Q 5710 [radio] The future of malls...
+ 9202) A. is going to get better.
+ 9203) B. is certainly going to be bad.
+ 9204) C. is uncertain.
+
+=== PAGE /reading/b1-b2/strange-burial-reading-test/ | Strange burial – B1+ English Reading Test | level b1-b2
+--- QUIZ 657
+CONTEXT:
+B1+ English Reading Test
+ Read the text about an archeological discovery and complete the reading comprehension exercise below.
+ Strange burial
+ In 2017, archaeologists discovered the remains of a Bronze Age chief in Lechlade, a town in the west of England. The finding is historically interesting as the artefacts with which he was buried indicate that he was very important. Plus, the manner of his burial was significantly different from other burials at the time. Even more fascinating was the discovery of an older man’s remains close to the chief’s. Archaeologists are puzzling over what the relationship between the two men could be, and why they were treated so differently from the norm at the time. 
+ Interestingly, the chief was buried with the heads and hooves of four cattle around 4,200 ago. Carbon dating has revealed that the remains, which were found in an area where a skate park is to be built, date back to the Bronze Age. Archaeologist Andy Hood, who helped to excavate the site, said that it was common for Bronze Age chiefs to be buried with the skull and hooves of a single cattle, but that until now none had been uncovered with multiple cattle remains in the UK. This fact seems to indicate that this chief was especially important. Hood and his colleagues consider it likely that the animals were killed as part of the burial ceremony. The loss of four of them would have been a considerable sacrifice.
+ Other artefacts found near the chief include a copper dagger, a stone wrist guard, a fire-making kit and some jewellery. These items were typically buried alongside members of the “Beaker culture”. These were people who arrived in Britain from mainland Europe in around 2400BC. They were given this name due to the tall pots which looked like beakers that were typical of this culture. Usually, prominent people from this culture were buried with such a pot, but this chief was not. Archaeologists wonder whether this meant that this chief was especially revered among the Beaker society and was not symbolised by the typical pot.
+ The chieftain was buried at the centre of a circular pit. At the time, soil would have been piled on top of it. Near the chief, within the circle, were the remains of the older man, who was about 50-60 years old when he died. Newspapers have suggested that the older man was a priest who was sacrificed to help the chief in the afterlife. However, archaeologists say there is no evidence to support this idea. Even so, the older man’s burial is strange, as he was buried in an unusual seated position, with his legs going downwards into the earth. Bronze Age people, including the chief, were almost always buried on their sides. The reason for this unique position, the status of the chief and the relationship between the two men, may remain a mystery forever. 
+ Questions
+ Which remains do the sentences refer to? You may choose some answers more than once.
+Q 5637 [radio] _____ was/were discovered in a park in Lechlade, UK.
+ 8949) A. The chief
+ 8950) B. The old man
+ 8951) C. Both the chief and the old man
+ 8952) D. Chiefs from the Beaker culture
+ 8953) E. Important members of the Beaker culture
+ 8954) F. Journalists
+ 8955) G. Archaeologists
+Q 5638 [radio] _____ was/were buried with the heads and hooves of four cattle.
+ 8956) A. The chief
+ 8957) B. The old man
+ 8958) C. Both the chief and the old man
+ 8959) D. Chiefs from the Beaker culture
+ 8960) E. Important members of the Beaker culture
+ 8961) F. Journalists
+ 8962) G. Archaeologists
+Q 5640 [radio] _____ believe that the cattle were sacrificed.
+ 8970) A. The chief
+ 8971) B. The old man
+ 8972) C. Both the chief and the old man
+ 8973) D. Chiefs from the Beaker culture
+ 8974) E. Important members of the Beaker culture
+ 8975) F. Journalists
+ 8976) G. Archaeologists
+Q 5641 [radio] _____ was/were buried with a beaker.
+ 8977) A. The chief
+ 8978) B. The old man
+ 8979) C. Both the chief and the old man
+ 8980) D. Chiefs from the Beaker culture
+ 8981) E. Important members of the Beaker culture
+ 8982) F. Journalists
+ 8983) G. Archaeologists
+Q 5642 [radio] _____ was/were not buried with a beaker.
+ 8984) A. The chief
+ 8985) B. The old man
+ 8986) C. Both the chief and the old man
+ 8987) D. Chiefs from the Beaker culture
+ 8988) E. Important members of the Beaker culture
+ 8989) F. Journalists
+ 8990) G. Archaeologists
+Q 5643 [radio] _____ was/were buried in a circular pit.
+ 8991) A. The chief
+ 8992) B. The old man
+ 8993) C. Both the chief and the old man
+ 8994) D. Chiefs from the Beaker culture
+ 8995) E. Important members of the Beaker culture
+ 8996) F. Journalists
+ 8997) G. Archaeologists
+Q 5644 [radio] _____ thought the old man was a religious figure.
+ 8998) A. The chief
+ 8999) B. The old man
+ 9000) C. Both the chief and the old man
+ 9001) D. Chiefs from the Beaker culture
+ 9002) E. Important members of the Beaker culture
+ 9003) F. Journalists
+ 9004) G. Archaeologists
+Q 5645 [radio] _____ believe that the old man was sacrificed.
+ 9005) A. The chief
+ 9006) B. The old man
+ 9007) C. Both the chief and the old man
+ 9008) D. Chiefs from the Beaker culture
+ 9009) E. Important members of the Beaker culture
+ 9010) F. Journalists
+ 9011) G. Archaeologists
+Q 5646 [radio] _____ was/were buried in a sitting position.
+ 9012) A. The chief
+ 9013) B. The old man
+ 9014) C. Both the chief and the old man
+ 9015) D. Chiefs from the Beaker culture
+ 9016) E. Important members of the Beaker culture
+ 9017) F. Journalists
+ 9018) G. Archaeologists
+
+=== PAGE /reading/b1-b2/is-buying-local-food-always-better-reading-test/ | Food miles: Is buying local food always better? – B1+ English Reading | level b1-b2
+--- QUIZ 659
+CONTEXT:
+B1+ English Reading Test
+ Read the text about food and the environment and for questions 1 to 6, choose the correct answer.
+ Food miles: Is buying local food always better?
+ Recently, campaigners have encouraged us to buy local food. This reduces ‘food miles’, that is, the distance food travels to get from the producer to the retailer. They reason that the higher the food miles, the more carbon emissions. Buying local food, therefore, has a lower carbon footprint and is more environmentally friendly.
+ However, the real story is not as simple as that. If our aim is to reduce carbon emissions, we must look at the whole farming process, not just transportation. According to a 2008 study, only 11% of carbon emissions in the food production process result from transportation, and only 4% originated from the final delivery of the product from the producer to the retailer. Other processes, including fertilisation, storage, heating and irrigation, contribute much more.
+ In fact, imported food often has a lower carbon footprint than locally grown food. Take apples, for example. In autumn, when apples are harvested, the best option for a British resident is to buy British apples. However, the apples we buy in winter or spring have been kept refrigerated for months, and this uses up a lot of energy. In spring, therefore, it is more energy-efficient to import them from New Zealand, where they are in season. Heating also uses a lot of energy, which is why growing tomatoes in heated greenhouses in the UK is less environmentally friendly than importing them from Spain, where the crop grows well in the local climate.
+ We must also take into account the type of transport. Transporting food by air creates about 50 times more emissions than shipping it. However, only a small proportion of goods are flown to the consumer country, and these are usually high value, perishable items which we cannot produce locally, such as seafood and out-of-season berries. Even then, these foods may not have a higher carbon footprint than locally grown food. For example, beans flown in from Kenya are grown in sunny fields using manual labour and natural fertilisers, unlike in Britain, where we use oil-based fertilisers and diesel machinery. Therefore, the total carbon footprint is still lower.
+ It’s also worth remembering that a product’s journey does not end at the supermarket. The distance consumers travel to buy their food, and the kind of transport they use will also add to its carbon footprint. So driving a long way to shop for food will negate any environmental benefits of buying locally grown produce. Furthermore, choosing local over imported food can also badly affect people in developing countries. Many of them work in agriculture because they have no other choice. If they are unable to sell produce overseas, they will have less income to buy food, clothes, medicine and to educate their children.
+ Recently, some supermarkets have been trying to raise awareness of food miles by labelling foods with stickers that show it has been imported by air. But ultimately, the message this gives is too simple. Lots of different factors contribute to a food’s carbon footprint besides the distance it has travelled. And even if we only buy local food which is currently in season, there are ethical implications. What’s more, our diets would be more limited.
+ Questions
+Q 5656 [radio] What is the main idea of the text?
+ 9046) A. The importance of buying locally produced food.
+ 9047) B. The reasons why food miles campaigns are too simple.
+ 9048) C. The advantages of importing food from overseas.
+ 9049) D. The problems caused by transporting food.
+Q 5657 [radio] According to a study in the USA, 11% is ...
+ 9050) A. the percentage of food that is produced and sold locally.
+ 9051) B. the percentage of energy in food production used to transport food from producer to retailer.
+ 9052) C. the percentage of energy in food production used for any kind of transport.
+ 9053) D. the percentage of food which is imported from overseas.
+Q 5658 [radio] Seafood is given as an example of food which...
+ 9054) A. is transported by air unnecessarily.
+ 9055) B. is expensive and goes bad quickly.
+ 9056) C. people in poor countries rely on for income.
+ 9057) D. is usually transported by ship.
+Q 5659 [radio] According to the text, how are Spanish tomatoes and Kenyan beans similar?
+ 9058) A. They are both transported by air.
+ 9059) B. They are both grown using natural fertilizer.
+ 9060) C. They are both grown outdoors.
+ 9061) D. They both have high carbon footprints.
+Q 5660 [radio] Which of these does the writer NOT support?
+ 9062) A. Supporting farmers in poor countries.
+ 9063) B. Importing apples to Britain from New Zealand in spring.
+ 9064) C. Buying beans imported by air from Kenya.
+ 9065) D. Making a long journey to buy food produced locally.
+Q 5661 [radio] The writer thinks that labelling food which has been transported by air...
+ 9066) A. will raise environmental awareness.
+ 9067) B. helps people to shop more ethically.
+ 9068) C. does not tell a full, accurate story.
+ 9069) D. gives false information about the product.
+
+=== PAGE /reading/b1-b2/where-are-the-harry-potter-stars-now-reading-test/ | Where are the Harry Potter Stars now? – B1+ English Reading Test | level b1-b2
+--- QUIZ 661
+CONTEXT:
+B1+ English Reading Test
+ Read the text about the main actors in the Harry Potter movies and for questions 1 to 8, choose the correct answer.
+ Where are the Harry Potter Stars now?
+ The actors who played the children in the Harry Potter movies are now adults. So how have their early experiences shaped their lives?
+ Daniel Ratcliffe
+ Daniel Ratcliffe, who played Harry Potter in the eight films, has recently been reading memes featuring him in his famous role and has only just realized that many people considered him cool. At the time, he felt as insecure as anyone that age. The English actor says that although he now has a successful acting career, he always finds the early Harry Potter movies difficult to watch because he admits he wasn’t very good at acting. The young actors received coaching in singing and dancing on set, but never any acting training in all the time they were on set, so he feels his early films are very one-dimensional. It wasn’t until he met actor Gary Oldman on set in Harry Potter and the Prisoner of Azkaban that he began to understand how to approach a role. Daniel says he never particularly wanted an acting career but fell into the job. In fact, in an early interview, Daniel told viewers that he wanted to be a professional wrestler!
+ Rupert Grint
+ Rupert Grint, who played Harry’s friend Ron Weasley, found being a famous actor very isolating as a child and teenager. Being around adults so much, he felt very strange when returning to his peers to do exams, as he thought he had little in common with them. After filming the fourth film in the series, he even considered quitting the series, as it was “a bit of a drag”. Rupert also found being well-known a big sacrifice and even scary. He was instantly recognizable whenever he went out, and people he didn’t know took photos of him. The young actor says he disliked being known as Ron Weasley and nothing else. But he has got used to the attention, and, despite these negative aspects, says that the Harry Potter films were an amazing part of his life which he is proud to be a part of.
+ Emma Watson
+ Emma Watson, who played Hermione Granger in the series, always felt a great connection to her character, as both were perfect students and neither were very cool. She admits to having become rather obsessed with her character to the extent that she could not separate her own identity from hers. Watson feels that she has missed out on her own teenage years as she was “being Hermione” all that time. Since the series ended, Emma has been able to focus more on herself. She continued her studies, getting top grades, in case her acting career didn’t work out, but has gone on to star in a number of films. No longer seeking blockbuster films, she chooses smaller, high-quality films that mean something to her personally. She has also become a well-respected ambassador for women’s rights. Despite her success, Emma has had to undergo a lot of therapy due to her fame. As a teenager, she often felt that her life as Hermione was so “big” that she lost her own identity. She also feels guilty for not enjoying the fame and attention that she has received. However, by focusing on her family and home life, she has managed to form an identity for herself beyond Hermione.
+ Questions
+Q 5668 [radio] _____ thought about leaving the Harry Potter series.
+ 9088) A. Daniel Ratcliffe
+ 9089) B. Rupert Grint
+ 9090) C. Emma Watson
+Q 5669 [radio] _____ felt that (s)he and his/her character had a lot in common.
+ 9091) A. Daniel Ratcliffe
+ 9092) B. Rupert Grint
+ 9093) C. Emma Watson
+Q 5670 [radio] _____ didn’t feel fashionable while acting in the series.
+ 9094) A. Daniel Ratcliffe
+ 9095) B. Rupert Grint
+ 9096) C. Emma Watson
+Q 5672 [radio] As a teenager, ______ felt that other teens were different from him/her.
+ 9100) A. Daniel Ratcliffe
+ 9101) B. Rupert Grint
+ 9102) C. Emma Watson
+Q 5673 [radio] ______ felt ashamed because (s)he didn’t like being famous.
+ 9103) A. Daniel Ratcliffe
+ 9104) B. Rupert Grint
+ 9105) C. Emma Watson
+Q 5674 [radio] ______ is embarrassed by his/her lack of talent as a young actor.
+ 9106) A. Daniel Ratcliffe
+ 9107) B. Rupert Grint
+ 9108) C. Emma Watson
+Q 5675 [radio] ______ felt that his/her character’s personality took over his/her own.
+ 9109) A. Daniel Ratcliffe
+ 9110) B. Rupert Grint
+ 9111) C. Emma Watson
+Q 5676 [radio] ______ considered education as important as acting.
+ 9112) A. Daniel Ratcliffe
+ 9113) B. Rupert Grint
+ 9114) C. Emma Watson
+
+=== PAGE /reading/b1-b2/world-walker-reading-test/ | World walker – B1+ English Reading Test | level b1-b2
+--- QUIZ 656
+CONTEXT:
+B1+ English Reading Test
+ Read the text a traveller and for questions 1 to 9, decide if the sentences are true or false.
+ World walker
+ Right now, somewhere in the world, Tom Turcich is walking. He started his hike in April 2015 and is still going. His intention is to to walk across every continent in the world.
+ Tom made the decision to travel the world after one of his close friends died at the age of 17. The tragedy encouraged Tom to make the most of his own life. He spent the next few years completing college and working to save money, and in 2015, he finally quit his job, packed a few belongings and set off on foot from his home in New Jersey, USA.
+ He took a route south through the USA and Central America and down the west coast of South America. After that, he travelled to Antarctica and Europe aboard a ship, and he is currently walking across North Africa. From there, he’ll hike east through Asia and Australia. Then he plans to fly to the west coast of the USA and cross that on foot, back towards his final destination, his home in New Jersey.
+ Tom isn’t walking alone. He picked up a dog called Savannah from an animal shelter in Texas. At first, he thought it would be useful to have a dog protecting him, but the two soon became perfect travel companions. He thought he would have trouble crossing borders with the dog, but he acquired a certificate proving that it was free of disease and since then the process has been surprisingly simple.
+ Turcich usually walks about 38 kilometres a day, burning 5000 calories daily. He has encountered a number of difficulties on the way, such as walking across the mountains and volcanoes of Guatemala. They were so steep that he could only manage about 10 miles a day. He carries just a tent, a sleeping bag and a few basic supplies, all of which he pushes a baby stroller, as he found that it requires less effort than carrying a backpack.
+ When he first started out, his legs ached at the end of the day. But he is now used to the exercise, although he makes sure to spend time at the end of the day stretching his legs. He had worn out several pairs of hiking boots already, each pair lasting about 800 kilometres. Tom has an arrangement with a friend in the States who mails him new pairs of sneakers whenever he needs them.
+ He has had some great experiences along the way and is always surprised by the generosity and hospitality of strangers, who frequently welcome him into their homes. However, few of them believe him when he tells them that he has walked to South America on foot, assuming that he has made a mistake speaking Spanish. But eventually, they accept his story and are extremely impressed.
+ Tom keeps a blog where he documents his travels and posts wonderful photographs that he has taken along the way. He had never been interested in photography before he started his trek but now loves the art form. He hopes that after returning to the USA, he will be able to work as a travel writer or photographer.
+ Questions
+Q 5628 [radio] Tom set off on his journey right after his friend died.
+ 8931) A. True
+ 8932) B. False
+Q 5629 [radio] Tom has already walked across South America and Europe.
+ 8933) A. True
+ 8934) B. False
+Q 5630 [radio] He took with him a dog that he'd had for years.
+ 8935) A. True
+ 8936) B. False
+Q 5631 [radio] In Guatemala, he had to slow down his pace.
+ 8937) A. True
+ 8938) B. False
+Q 5632 [radio] He thinks a baby stroller is more convenient than a backpack.
+ 8939) A. True
+ 8940) B. False
+Q 5633 [radio] He used to have to stretch every day, but he no longer needs to.
+ 8941) A. True
+ 8942) B. False
+Q 5634 [radio] He buys new shoes or boots locally whenever he wears out a pair.
+ 8943) A. True
+ 8944) B. False
+Q 5635 [radio] Tom often made mistakes communicating with local people in Spanish.
+ 8945) A. True
+ 8946) B. False
+Q 5636 [radio] He didn't use to be into photography, but now he loves it.
+ 8947) A. True
+ 8948) B. False
+
+=== PAGE /reading/a2/frogs-in-love-romeo-and-juliet-reading-test/ | Frogs in love: Romeo and Juliet – A2 English Reading Test | level a2
+--- QUIZ 654
+CONTEXT:
+A2 English Reading Test
+ A2 Readig Test. Read the text and for questions 1 to 8, decide if the sentences are true or false.
+ Frogs in love: Romeo and Juliet
+ Romeo the frog spent ten years alone in a museum in Bolivia. He is a Sehuencas frog, and for a long time, scientists at the museum thought that Romeo was the only Sehuencas frog in the world. A lot of these frogs have died because of deforestation,and a deadly disease has taken the lives of many others. The scientists wanted to find a mate for Romeo. They even set up a profile for him on Match.com!
+ In 2018, some scientists went to the Bolivian forests to look for a partner for Romeo. They looked in many streams, but they couldn’t find any frogs. They grew tired, wet and disappointed. They decided to check one more stream before going home. And then, they found a Sehuencas frog beside a waterfall. This frog was male, but they returned the next day and found four more frogs, two male and two female. One of the females was the right age to mate. The conservationists called her Juliet.
+ The scientists didn’t let Romeo and Juliet meet at first. They needed to check that Juliet didn’t have a disease. But finally, they put the two frogs together. At first, Romeo seemed nervous, but soon he swam to Juliet and then he did a funny dance, shaking his toes. Then he put his arms and legs around her and made a really loud call.
+ Juliet hasn’t laid any eggs yet, but scientists hope she will. That way, they can learn more about these frogs and help to protect them in the forest. But they know it won’t be easy. For frogs to mate, the temperature and the water quality must be perfect. They also only mate when it is raining, so the scientists had to put special rain equipment in their tank. However, the scientists aren’t too worried if Romeo and Juliet don’t mate, because they have the four other frogs. And they are happy that Romeo isn’t lonely anymore!
+ Questions
+Q 5613 [radio] Romeo is the only Sehuencas frog in the world.
+ 8901) A. True
+ 8902) B. False
+Q 5614 [radio] Sehuencas frogs are dying for several reasons.
+ 8903) A. True
+ 8904) B. False
+Q 5615 [radio] The scientists found four Sehuencas frogs in the forest in total.
+ 8905) A. True
+ 8906) B. False
+Q 5616 [radio] Juliet is a female Sehuancas frog which is the right age to mate.
+ 8907) A. True
+ 8908) B. False
+Q 5617 [radio] The scientists put Romeo and Juliet together immediately.
+ 8909) A. True
+ 8910) B. False
+Q 5618 [radio] Romeo hasn’t touched Juliet yet because he is too nervous.
+ 8911) A. True
+ 8912) B. False
+Q 5619 [radio] Frogs only mate when the temperature and weather are right.
+ 8913) A. True
+ 8914) B. False
+Q 5620 [radio] The other frogs from the forest are too old to mate.
+ 8915) A. True
+ 8916) B. False
+
+=== PAGE /reading/b1/chocolate-town-chocolate-workers-reading-test/ | Chocolate town for chocolate workers – B1 English Reading Test | level b1
+--- QUIZ 651
+CONTEXT:
+B1 English Reading Test
+ Read a text about a famous British town and for questions 1 to 7, choose the correct answers.
+ Chocolate town for chocolate workers
+ If you love chocolate, maybe you have eaten a bar of Cadbury’s Bournville chocolate. But Bournville isn’t just the name of an English chocolate bar. It’s the name of a village which was built especially for workers at the Cadbury’s chocolate factory.
+ George and Richard Cadbury took over the cocoa and chocolate business from their father in 1861. A few years later, they decided to move the factory out of the centre of Birmingham, a city in the middle of England, to a new location where they could expand. They chose an area close to the railways and canals so that they could receive milk deliveries easily and send the finished products to stores across the country.
+ Here, the air was much cleaner than in the city centre, and the Cadbury brothers thought it would be a much healthier place for their employees to work. They named the site Bournville after a local river called ‘The Bourn’. ‘Ville’, the French word for town, was used because at the time, people thought French chocolate was the highest quality. The new factory opened in 1879. Close to it, they built a village where the factory workers could live. By 1900, there were 313 houses on the site, and many more were built later. 
+ The Cadbury family were religious and believed that it was right to help other people. They thought their workers deserved to live and work in good conditions. In the factory, workers were given a fair wage, a pension and access to medical treatment. The village was also designed to provide the best possible conditions for workers too. The houses, although traditional in style, had modern interiors, indoor bathrooms and large gardens. The village provided everything that workers needed including a shop, a school and a community centre where evening classes were held to train young members of the workforce. 
+ Since the Cadbury family believed that their workers and their families should be fit and healthy, they added a park with hockey and football pitches, a running track, bowling green, fishing lake, and an outdoor swimming pool. A large clubhouse was built in the park so that players could change their clothes and relax after a game. Dances and dinners were also held here for the factory workers, who were never charged to use any of the sports facilities. However, because the Cadbury’s believed that alcohol was bad for health and society, no pubs were ever built in Bourneville!
+ The Cadbury brothers were among the first business owners to ensure that their workers had good standards of living. Soon, other British factory owners were copying their ideas by providing homes and communities for their workers designed with convenience and health in mind. Today, over 25,000 people live in Bournville village. There are several facilities there to help people with special needs, such as care homes for the elderly, a hostel for people with learning difficulties and affordable homes for first-time homeowners and single people. Over a hundred years since the first house in Bournville Village was built, the aims of its founders are still carried out.
+ Questions
+Q 5592 [checkbox, pick 2] Bournville is ... Choose TWO correct answers
+ 8825) A. a village
+ 8826) B. a river
+ 8827) C. the founder of a chocolate factory
+ 8828) D. a chocolate bar
+ 8829) E. a chocolate factory
+Q 5593 [checkbox, pick 2] The new site for the chocolate factory was chosen because ... Choose TWO correct answers
+ 8830) A. it was close to farms which provided milk.
+ 8831) B. it had clean, countryside air.
+ 8832) C. a lot of people lived nearby.
+ 8833) D. it was in the centre of the city.
+ 8834) E. it was close to several transportation routes.
+Q 5594 [checkbox, pick 2] Bournville takes its name from ... Choose TWO correct answers
+ 8835) A. a local river.
+ 8836) B. a local town.
+ 8837) C. a French word.
+ 8838) D. a kind of French chocolate.
+ 8839) E. a French town.
+Q 5595 [checkbox, pick 2] The original houses in Bournville were ... Choose TWO correct answers
+ 8840) A. traditional in appearance.
+ 8841) B. large.
+ 8842) C. free for workers.
+ 8843) D. near to the chocolate factory.
+ 8844) E. built by the factory workers.
+Q 5596 [checkbox, pick 2] Workers at the Cadbury received ... Choose TWO correct answers
+ 8845) A. free health care.
+ 8846) B. free access to sports facilities.
+ 8847) C. pensions.
+ 8848) D. free food and drink.
+ 8849) E. dancing lessons.
+Q 5597 [checkbox, pick 2] The extract shows that the Cadbury family were ... Choose TWO correct answers
+ 8850) A. careful.
+ 8851) B. mean.
+ 8852) C. kind.
+ 8853) D. original.
+ 8854) E. sporty.
+Q 5598 [checkbox, pick 2] Who can live in special homes for many people in Bournville now? Choose TWO correct answers
+ 8855) A. chocolate factory workers.
+ 8856) B. old people.
+ 8857) C. first-time buyers.
+ 8858) D. single people.
+ 8859) E. people with learning problems.
+
+=== PAGE /reading/a1/famous-peoples-first-jobs-reading-comprehension-test/ | Famous people’s first jobs – A1 English Reading Test | level a1
+--- QUIZ 652
+CONTEXT:
+A1 English Reading Test
+ Read the text about three famous people’s first jobs and for questions 1 to 6, choose the correct answer.
+ Famous people’s first jobs
+ Not all famous people were born into famous families. A lot of them had normal lives before becoming famous. They also had jobs like the rest of us. Here are just a few:
+ Former President Obama worked at an ice-cream parlour selling ice-cream cones. He was in high school in Honolulu, Hawaii and said it was quite hard. He also said that the job taught him about responsibility, hard work and how to spend time with work, friends and family.
+ Brad Pitt had a weird job when he was younger. He worked as a chicken! That’s right. He worked at a restaurant called El Pollo Loco in Hollywood, and his job was to dress up like a chicken and wave at the cars on the road. In fact, if you go on a “See the Stars” tour in Hollywood, many of them will take you past the same restaurant where Brad used to work.
+ Maybe the strangest path in life was that of Pope Francis. When he was young in Argentina, he worked several jobs before joining the Jesuits and dedicating his life to religion. He worked as a cleaner sweeping floors, a chemical tester at a laboratory and as a bouncer at a bar! Yes, the pope was the person responsible for security at a bar in case anything wrong happened. Can you imagine?!
+ Questions
+Q 5599 [radio] Who helped protect people?
+ 8860) A. President Obama
+ 8861) B. Brad Pitt
+ 8862) C. Pope Francis
+Q 5600 [radio] Who pretended to be an animal?
+ 8863) A. President Obama
+ 8864) B. Brad Pitt
+ 8865) C. Pope Francis
+Q 5601 [radio] Who learned a lot from their first job?
+ 8866) A. President Obama
+ 8867) B. Brad Pitt
+ 8868) C. Pope Francis
+Q 5602 [radio] Who worked in advertising?
+ 8869) A. President Obama
+ 8870) B. Brad Pitt
+ 8871) C. Pope Francis
+Q 5603 [radio] Who thought the job was difficult?
+ 8872) A. President Obama
+ 8873) B. Brad Pitt
+ 8874) C. Pope Francis
+Q 5604 [radio] Who had a couple of different jobs?
+ 8875) A. President Obama
+ 8876) B. Brad Pitt
+ 8877) C. Pope Francis
+
+=== PAGE /reading/a2/travelling-rock-garden-chandigarh-reading-test/ | Travel: The Rock Garden of Chandigarh – A2 English Reading Test | level a2
+--- QUIZ 648
+CONTEXT:
+A2 English Reading Test
+ Read the text and for questions 1 to 5, choose the correct answer.
+ The Rock Garden of Chandigarh
+ In Chandigarh, a city in northeast India, there is an amazing garden. There are tall rocks and small paths between them. There are waterfalls, pools, and hundreds of sculptures. The sculptures are surprising because they are all made from rubbish, like plastic jewellery, bottles, broken pots, sinks, toilets, and pieces of electrical equipment. 
+ The garden has a surprising history too because it was built in secret! A man called Nek Chand started building the garden in 1957. He chose some land in a forest near the city, where there were rocks and a river. Nobody was allowed to build here, so Nek knew that people wouldn’t see him there. Then he started to collect rubbish and make the sculptures. 
+ Nek’s project was illegal, but for 18 years, nobody found it. However, in 1975, some government officials discovered it. By that time, the garden was nearly 49,000m2 in size. The government tried to destroy the garden, but when the people in the city heard about it, they wanted to keep it. 
+ In 1976 it became a public park. After that, Nek Chand received a salary so that he could work in the garden full-time, and fifty more people were employed to work there with him. People paid to visit the garden. Nek put collection centres around the town so that he could make more recycled sculptures. 
+ However, the garden wasn’t safe yet. In 1990, the local government tried to build a road through the park, just for VIPs. But local people protested, and their plan failed. Later, Nek became famous. He travelled to the USA to tell people about his garden. But when he returned, his garden was destroyed! It took a long time to rebuild it and keep it safe. 
+ Now, a charity manages the garden. Five thousand visitors visit this special place each day. Volunteers, workers, and local children still work here. They keep the garden clean and learn to make sculptures. If you like, you can volunteer here too!
+ Questions
+Q 5575 [radio] What is the most surprising thing about the garden?
+ 8769) A. the rocks
+ 8770) B. the waterfalls
+ 8771) C. the sculptures
+ 8772) D. the plants
+Q 5576 [radio] When Nek first started building the garden he was...
+ 8773) A. breaking the law.
+ 8774) B. collecting rubbish in the forest.
+ 8775) C. working as a government official.
+ 8776) D. living in the forest.
+Q 5577 [radio] When the garden was discovered in 1975,...
+ 8777) A. The local people wanted to destroy it, but the government didn’t.
+ 8778) B. The government wanted to destroy it, but the local people didn’t.
+ 8779) C. Both the government and the local people wanted to destroy it.
+ 8780) D. Both the government and the local people wanted to keep it.
+Q 5578 [radio] What happened while Nek was in USA?
+ 8781) A. Someone stole some sculptures.
+ 8782) B. A road was built through the park.
+ 8783) C. Some VIPs visited the garden.
+ 8784) D. People destroyed the garden.
+Q 5579 [radio] Which of the following is NOT true about the garden now?
+ 8785) A. There is a road for VIPs through the garden.
+ 8786) B. People are still making new sculptures there.
+ 8787) C. The local government doesn’t manage the garden.
+ 8788) D. You can volunteer to work there.
+
+=== PAGE /reading/a1/three-american-festivals-reading-test/ | Three American festivals – A1 English Reading Test | level a1
+--- QUIZ 647
+CONTEXT:
+A1 English Reading Test
+ Read the text about American festivals and for questions 1 to 7 choose the correct answer.
+ Three American Festivals
+ Burning Man
+ Burning Man is an event that started in 1986 in Black Rock City, Nevada. People go to the desert and build a giant community for nine days. At the end of the festival, they burn a giant wooden statue of a man. That’s where the name comes from. The festival celebrates inclusion, community, and responsibility. Everyone should share their talents so others can enjoy them for free. It is now also very popular with young influencers on social media and other famous people.
+ The Taste of Buffalo
+ The Taste of Buffalo in Buffalo, New York, is the largest 2-day food festival in the country every year. Nearly half a million people visit the festival to eat food from over 50 restaurants. There are over 200 different dishes to try! Most of the food is from regional restaurants, and it is a great family event. You can listen to live music from 2 stages, walk through the parks and downtown as well as participate in a lot of different family-friendly activities.
+ National Cherry Blossom Festival
+ The National Cherry Blossom Festival in Washington D.C. is a spring event that remembers the gift of cherry trees from Japan to the USA in 1912. The trees were a present from the mayor of Tokyo to the mayor of Washington DC. The first celebration was in 1934. There is a parade every year with large balloons, marching bands from all over the country, and concerts. There are also a lot of different shows and events, such as a kite flying festival, a 10-mile run, and fireworks at night.
+ Questions
+Q 5568 [radio] celebrates friendship between cities?
+ 8748) A. Burning Man
+ 8749) B. The Taste of Buffalo
+ 8750) C. The National Cherry Blossom Festival
+Q 5569 [radio] probably isn't a family event?
+ 8751) A. Burning Man
+ 8752) B. The Taste of Buffalo
+ 8753) C. The National Cherry Blossom Festival
+Q 5570 [radio] attracts people who like different types of things, like music or sport?
+ 8754) A. Burning Man
+ 8755) B. The Taste of Buffalo
+ 8756) C. The National Cherry Blossom Festival
+Q 5571 [radio] is the biggest of its kind?
+ 8757) A. Burning Man
+ 8758) B. The Taste of Buffalo
+ 8759) C. The National Cherry Blossom Festival
+Q 5572 [radio] is mostly a local event?
+ 8760) A. Burning Man
+ 8761) B. The Taste of Buffalo
+ 8762) C. The National Cherry Blossom Festival
+Q 5573 [radio] is most popular on social media?
+ 8763) A. Burning Man
+ 8764) B. The Taste of Buffalo
+ 8765) C. The National Cherry Blossom Festival
+Q 5574 [radio] has musicians walking and playing in the street?
+ 8766) A. Burning Man
+ 8767) B. The Taste of Buffalo
+ 8768) C. The National Cherry Blossom Festival
+
+=== PAGE /reading/a1/neighborhood-reading-test/ | My neighborhood  – A1 English Reading Test | level a1
+--- QUIZ 641
+CONTEXT:
+A1 English Reading Test
+ Read the text about a neighborhood and for questions 1 to 8 choose the correct answer.
+ My neighborhood
+ My neighborhood is very peaceful and quiet. It is a new neighborhood, and there are a lot of big houses and some apartment buildings. The streets are very clean, and there aren’t many cars. My school is near my house. I can walk there in 10 minutes. 
+ There’s also a park, which has a small playground for children and a large field. I like to play baseball there with my friends after school. All of the houses have a small front yard but big back yards. Most of my neighbors have a swimming pool, and some even have a trampoline! 
+ Everyone has a flower garden, and in the spring, it is very beautiful. My road is called Maple Road. It is not in the city. It’s in the suburbs. There aren’t any restaurants, bars or cinemas on my road. But, if you go to Main street, you can find a lot of things to do. My favorite store is there. It’s called Knick-Knack, and they sell everything you can imagine.
+ I like my neighborhood because it is very safe. There is no crime, and all of my neighbors take care of each other. The police station is next to the school, which is very nice. However, the hospital is quite far. It is in the city, and we have to drive 30 minutes to get there. 
+ My friends live near me, and we often meet up to play or just talk. We love playing hockey in the street because there isn’t any traffic. I think I am lucky to live in my neighborhood.
+ Questions
+Q 5524 [radio] It's a busy neighborhood with lots of activity.
+ 8607) A. True
+ 8608) B. False
+Q 5525 [radio] There are only a few cars on the streets.
+ 8609) A. True
+ 8610) B. False
+Q 5526 [radio] He enjoys playing in the playground near his home.
+ 8611) A. True
+ 8612) B. False
+Q 5528 [radio] People decorate their flower gardens in the fall to make them beautiful.
+ 8615) A. True
+ 8616) B. False
+Q 5529 [radio] He lives in the city.
+ 8617) A. True
+ 8618) B. False
+Q 5527 [radio] He lives on Main Street.
+ 8613) A. True
+ 8614) B. False
+Q 5530 [radio] He lives beside the police station.
+ 8619) A. True
+ 8620) B. False
+Q 5531 [radio] He’s very happy with his neighborhood.
+ 8621) A. True
+ 8622) B. False
+
+=== PAGE /reading/a2/hobbies-people-collect-reading-test/ | Hobbies: Why do people collect? – A2 English Reading Test | level a2
+--- QUIZ 644
+CONTEXT:
+A2 English Reading Test
+ Read the text and for questions 1 to 8, match each sentence with the person who might say it.
+ Why do people collect?
+ Petra Engels owns 19,571 erasers, Carol Vaughn has 1,221 bars of soap, and Ralf Shrőder has a collection of 14,502 packets of sugar. Many people love to collect things, but why? Psychologists and collectors have different opinions. 
+ The psychologist Carl Jung believed that collecting is part of our ancient human history. Thousands of years ago, humans collected nuts and berries. They kept them carefully and ate them when there was no food. The best collectors survived long cold winters or seasons without rain. Their genes passed to future generations. Nowadays, we still have a collecting instinct. 
+ Historian Philipp Bloom has a different opinion. He thinks collectors want to make something that will remain after their death. By bringing many similar items together, the collector gains historical importance. Sometimes their collections become museums or libraries, for example, Henry Huntington, who founded a library in Los Angeles to house his collection of books.
+ Author Steve Roach thinks that people collect things to remember their childhood. Many children collect things, but few have enough money to buy the things they really want, and they lose interest. In later life, they remember their collections fondly. Now, they have enough money and opportunity to find special items, and they start collecting again. This way, they can re-live and enjoy their childhood years. 
+ Art collector, Werner Muensterberger, agrees that collecting is linked to childhood. But he believes we collect in order to feel safe and secure. While babies hold blankets or toys to feel safe when their mother isn’t there, adults collect things to stop feeling lonely or anxious. 
+ Autograph collector Mark Baker agrees that collecting is emotional, but he doesn’t collect to reduce anxiety. “For me, it’s the excitement,” he says. “I love trying to get a famous person’s autograph. Sometimes I succeed, and sometimes I fail. Also, by collecting autographs, I feel connected to famous people. I don’t just watch them on television. I actually meet them.” 
+ These are just a few reasons for collecting. Do you know any people with collections? Why do they collect?
+ Questions
+Q 5546 [radio] People collect things because it makes them feel comfortable.
+ 8665) A. Mark Baker
+ 8666) B. Carl Jung
+ 8667) C. Werner Muensterberger
+ 8668) D. Philipp Bloom
+ 8669) E. None of the people in the text
+ 8670) F. Steve Roach
+Q 5553 [radio] I collect because I enjoy trying to achieve something.
+ 8707) A. Mark Baker
+ 8708) B. Carl Jung
+ 8709) C. Werner Muensterberger
+ 8710) D. Philipp Bloom
+ 8711) E. None of the people in the text
+ 8712) F. Steve Roach
+Q 5547 [radio] People have always collected because we need to stay alive.
+ 8671) A. Mark Baker
+ 8672) B. Carl Jung
+ 8673) C. Werner Muensterberger
+ 8674) D. Philipp Bloom
+ 8675) E. None of the people in the text
+ 8676) F. Steve Roach
+Q 5548 [radio] People collect because they want to remember a former hobby.
+ 8677) A. Mark Baker
+ 8678) B. Carl Jung
+ 8679) C. Werner Muensterberger
+ 8680) D. Philipp Bloom
+ 8681) E. None of the people in the text
+ 8682) F. Steve Roach
+Q 5549 [radio] People collect because they want to be famous for something important.
+ 8683) A. Mark Baker
+ 8684) B. Carl Jung
+ 8685) C. Werner Muensterberger
+ 8686) D. Philipp Bloom
+ 8687) E. None of the people in the text
+ 8688) F. Steve Roach
+Q 5550 [radio] People start collecting again when they can afford to buy special things.
+ 8689) A. Mark Baker
+ 8690) B. Carl Jung
+ 8691) C. Werner Muensterberger
+ 8692) D. Philipp Bloom
+ 8693) E. None of the people in the text
+ 8694) F. Steve Roach
+Q 5551 [radio] Collecting gives people something to do during bad weather and cold or wet seasons.
+ 8695) A. Mark Baker
+ 8696) B. Carl Jung
+ 8697) C. Werner Muensterberger
+ 8698) D. Philipp Bloom
+ 8699) E. None of the people in the text
+ 8700) F. Steve Roach
+Q 5552 [radio] Collecting links ordinary people to the lives of well-known people.
+ 8701) A. Mark Baker
+ 8702) B. Carl Jung
+ 8703) C. Werner Muensterberger
+ 8704) D. Philipp Bloom
+ 8705) E. None of the people in the text
+ 8706) F. Steve Roach
+
+=== PAGE /reading/a1/my-first-day-at-school-reading-test/ | Memories of my first day at school – A1 English Reading Test | level a1
+--- QUIZ 727
+CONTEXT:
+A1 English Reading Test
+ Read the text about a girl’s first day at school and for questions 1 to 6, choose the correct answer.
+ Memories of my first day at school
+ I remember my first day at school very well. I knew the school quite well because my older sister, Sandy, went there and every day, dad and I met her at the school gate after school. Every day, she ran out of the school with her friends. She often carried a painting. I felt jealous. I wanted to paint too!
+ I was five years old when I started school. Most children in my class started school in September, but I started school in January, when I was five years old, because my birthday is in December. Three other kids started school on the same day as me. I was excited about my first day. I had my new uniform: a black skirt, a white t-shirt and green jumper, and a new red bag. When we arrived that day, a teacher met the new children at the school gate. Dad hugged me and said goodbye. I stood with the other children. I didn’t talk to them because I was too nervous. Then, Mrs Wilson took us to our classroom. All the other children were already there. They looked at us when we entered the room. When thirty children looked at me, I started to cry!
+ But I wasn’t upset for long. I sat with the other children on the carpet and the class teacher, Miss Holland, read us a story. Later, we drew pictures with coloured pencils, and at break time, I made friends with a girl called Megan. At the end of the day, I ran to the school gate with Megan and my picture, just like Sandy always did.
+ Questions
+Q 6230 [radio] The writer was jealous of Sandy because she _____ at school.
+ 10628) A. learned to write
+ 10629) B. painted pictures
+ 10630) C. had many friends
+Q 6231 [radio] The writer started school in ___.
+ 10631) A. September
+ 10632) B. December
+ 10633) C. January
+Q 6232 [radio] The writer and ___ other children started school that day.
+ 10634) A. three
+ 10635) B. five
+ 10636) C. thirty
+Q 6233 [radio] Before the writer started school, she felt ___.
+ 10637) A. excited
+ 10638) B. nervous
+ 10639) C. upset
+Q 6234 [radio] The writer started to cry when ___.
+ 10640) A. her father left.
+ 10641) B. she entered the school
+ 10642) C. other children looked at her
+Q 6235 [radio] On the first day, the writer ___.
+ 10643) A. learned to read
+ 10644) B. listened to a story
+ 10645) C. painted a picture
+
+=== PAGE /reading/a1/daily-routines-sportswoman/ | The daily routines of a sportswoman – A1 English Reading Test | level a1
+--- QUIZ 639
+CONTEXT:
+A1 English Reading Test
+ Read the text about the daily routines of a sportswoman and for questions 1 to 7 choose the correct answer.
+ The daily routines of a sportswoman
+ Janet is an athlete, and she wakes up at 4:30 am every weekday morning. She spends the first 30 minutes reading and then 15 minutes meditating. At 5:15 am Janet checks her email for only 30 minutes and then goes for her first run of the day. She runs for an hour and a half along the lake near her house. After running, Janet has a shower and then prepares breakfast, which is usually cereal and fruit. However, she occasionally has a less healthy breakfast.
+ She usually finishes breakfast at around 8 am. If it is a weekday, she always leaves the house at 8:20 and goes to training. Her training starts at 9 am, and she needs 30 minutes to drive to the gym. She trains for 3 hours with her team and then goes home for lunch. She always eats a very big and healthy lunch. As soon as she finishes lunch, she has a nap for one hour.
+ After her nap, she likes to go for a walk around the lake and look at nature. She sometimes reads or meditates at the lake in the afternoon. In the evening, during the week, she meets up with friends. Most of her friends are athletes too, so they have a lot to talk about.
+ She typically goes to bed at 9 pm because she prefers to be awake in the morning than at night. She sometimes falls asleep listening to music, but she never watches the television or reads anything on her tablet. She always makes sure her alarm is set and is almost always asleep by 9:45 pm.
+ Questions
+Q 5512 [radio] What time does she finish checking her emails?
+ 8571) A. 5:30 am.
+ 8572) B. 5:45 am.
+ 8573) C. 6:00 am.
+Q 5513 [radio] How long does she run for in the morning?
+ 8574) A. 45 minutes.
+ 8575) B. 60 minutes.
+ 8576) C. 90 minutes.
+Q 5514 [radio] Janet ______ has a healthy breakfast.
+ 8577) A. always
+ 8578) B. occasionally
+ 8579) C. usually
+Q 5515 [radio] How often does she meditate?
+ 8580) A. Once or twice a day.
+ 8581) B. Once a day.
+ 8582) C. Rarely.
+Q 5516 [radio] What does Janet do to help her get to sleep?
+ 8583) A. listen to music
+ 8584) B. read on her tablet
+ 8585) C. watch TV
+Q 5517 [radio] What is the last thing she does before going to sleep?
+ 8586) A. She reads.
+ 8587) B. She sets her alarm.
+ 8588) C. She checks the time.
+
+=== PAGE /reading/a1/about-my-family/ | About my family (Describing people) – A1 English Reading Test | level a1
+--- QUIZ 638
+CONTEXT:
+A1 English Reading Test
+ Read the text and for questions 1 to 9 choose the correct answer.
+ About my family
+ Dear Marta,
+ I’m going to tell you about my family. I live with my little sister, mum, and dad. We live in London, although I grew up in Lancaster, a beautiful city in the North of England.
+ My dad’s name is Pierre. He’s from France, and he speaks English and French. When he was young, my mother went to France on a student exchange, and they met there. A few years later, my dad moved to England and married my mum. He works as a French teacher. He’s very tall –much taller than my mum– and athletic. He’s got short blonde hair and blue eyes.
+ My mum’s name is Anna. She’s English. She’s quite short, and she’s got long curly brown hair and brown eyes. She works at a chemist’s opposite our home. She can speak French too!
+ My sister Julia is 18 years old, and she’s got the same colour of hair and eyes as my father. She loves playing the piano and dancing. She’s very talented, and she would like to be a professional musician.
+ I’ve got short blonde hair like my dad, but brown eyes like my mom. We all love playing board games together on Friday evenings, and we always order pizza. Our favourite game is Monopoly. Oh, I almost forgot…we’ve also got a pet cat, Snowball. She’s all white and has got a lot of fur. She likes sleeping on me.
+ Write back soon. Please, tell me about your family too.
+ Love
+ Jonathan
+ Questions
+Q 5503 [radio] Jonathan was born in London.
+ 8553) A. True
+ 8554) B. False
+Q 5504 [radio] His parents both speak more than one language.
+ 8555) A. True
+ 8556) B. False
+Q 5505 [radio] They got married in France.
+ 8557) A. True
+ 8558) B. False
+Q 5506 [radio] Jonathan's mother is a lot shorter than his father.
+ 8559) A. True
+ 8560) B. False
+Q 5507 [radio] She doesn't work far from home.
+ 8561) A. True
+ 8562) B. False
+Q 5508 [radio] Jonathan's sister's got blue eyes.
+ 8563) A. True
+ 8564) B. False
+Q 5510 [radio] She works as a musician.
+ 8567) A. True
+ 8568) B. False
+Q 5509 [radio] Jonathan's hair is the same colour as his mother's.
+ 8565) A. True
+ 8566) B. False
+Q 5511 [radio] On Fridays, they always eat the same thing.
+ 8569) A. True
+ 8570) B. False
+
+=== PAGE /use-of-english/a1/a1-english-test-4-multiple-choice-questions/ | A1 English test 4 – multiple choice questions | level a1
+--- QUIZ 637
+CONTEXT:
+Use of English Test – A1
+ For the following questions (1 to 15), choose a, b, or c.
+Q 5488 [radio] _____ are very happy with _____ new dog.
+ 8504) A. We / us
+ 8505) B. We / our
+ 8506) C. Us / our
+Q 5489 [radio] Do you have ______ umbrella?
+ 8507) A. an
+ 8508) B. the
+ 8509) C. -
+Q 5490 [radio] These are _____.
+ 8511) A. my favourite shoes.
+ 8512) B. my favourites shoes.
+ 8513) C. my shoes favourite.
+Q 5491 [radio] He _____ with his parents, he lives with his sister.
+ 8516) A. doesn't lives
+ 8517) B. don't lives
+ 8518) C. doesn't live
+Q 5492 [radio] I go to the gym ___ Tuesdays and Thursdays.
+ 8520) A. at
+ 8521) B. in
+ 8522) C. on
+Q 5493 [radio] _____ on weekends?
+ 8523) A. Do you work
+ 8524) B. Are you working
+ 8525) C. Are you work
+Q 5494 [radio] When _____?
+ 8526) A. did she arrive
+ 8527) B. she arrived
+ 8528) C. did she arrived
+Q 5495 [radio] She _____ French, but she can speak German.
+ 8529) A. can't to speak
+ 8530) B. can't speak
+ 8531) C. doesn't can speak
+Q 5496 [radio] I _____ travel around Europe next summer.
+ 8532) A. like to
+ 8533) B. would like
+ 8534) C. 'd like to
+Q 5497 [radio] _____ watch this film. It's horrible.
+ 8535) A. Let's don't
+ 8536) B. Don't
+ 8537) C. You don't
+Q 5498 [radio] I needed help and he offered _____ me.
+ 8538) A. to helped
+ 8539) B. to help
+ 8540) C. helping
+Q 5499 [radio] There aren't _____ options.
+ 8541) A. many
+ 8542) B. much
+ 8543) C. a lot
+Q 5500 [radio] _____'s important to do exercise regularly.
+ 8544) A. There
+ 8545) B. -
+ 8546) C. It
+Q 5501 [radio] There were very dark clouds _____ us.
+ 8547) A. under
+ 8548) B. beside
+ 8549) C. above
+Q 5502 [radio] My sister's school is ____ than my school.
+ 8550) A. more far
+ 8551) B. farer
+ 8552) C. further
+
+=== PAGE /use-of-english/a1/a1-english-test-3-text-multiple-choice-gaps/ | A1 English test 3 – Text with multiple choice gaps | level a1
+--- QUIZ 636
+CONTEXT:
+Use of English Test – A1
+ Read the text and choose the correct answer for each gap.
+Q 5487 [gaps] My name 1 {1} Laura, and I have a journalism degree. When I finished university last year, I started looking for a job as a journalist. I applied for hundreds of jobs all over the UK, and I went to a 2 {2} interviews, but they all told 3 {3} that they needed someone with experience. I never got 4 {4} job offers. /  After four months of applying for journalism jobs, I 5 {5} to take any type of work while I continued planning my professional future. Now I 6 {6} as a waitress at a restaurant 7 {7} my home – I just need to cross the street and I'm 8 {8} work. It's a temporary job, but I started it five months ago! /  I enjoy 9 {9} as a waitress. I'm a very social person, and working at a restaurant you meet people all the time, but it is also physically hard. When I am at home, I 10 {10} exhausted, and I 11 {11} about my future career as a journalist. What 12 {12} to do? /  I think that the 13 {13} thing I can do is quit my job, but I'm living alone, and I need the money for the rent. My parents 14 {14} me to leave the restaurant and move back with them until I find a good job, but I 15 {15} to lose my independence.
+  {1} options: 's | am | has
+  {2} options: few | lot | little
+  {3} options: me | my | I
+  {4} options: some | a | any
+  {5} options: decided | decide | did decide
+  {6} options: am working | worked | work
+  {7} options: next to | opposite | in front of
+  {8} options: at | at the | in the
+  {9} options: work | to work | working
+  {10} options: am usually | feel usually | usually am
+  {11} options: can't think | can't to think | don't cant think
+  {12} options: do I going | am I going | I'm going
+  {13} options: better | goodest | best
+  {14} options: telled | are telling | told
+  {15} options: 'm not want | not want | don't want
+
+=== PAGE /reading/a1/online-shopping/ | Online shopping – A1 English Reading Test | level a1
+--- QUIZ 634
+CONTEXT:
+A1 English Reading Test
+ Read the text and for questions 1 to 7 choose the correct answer.
+ Online shopping
+ My name is Sara, and I love shopping online. I prefer mobile phone apps, but sometimes I use my computer. The phone is more convenient for me, and I can even do my shopping from bed!
+ I love shopping so much that I buy everything I need at home. I get food, electronics, books, and even large pieces of furniture like my sofa and bookshelves all online! But I still prefer getting clothes from a store so I can try them on to be sure they fit me fine.
+ Yesterday, I bought a birthday present for my mother, and it arrived today! That saves me a lot of time. I am a very busy person, and I am a little forgetful too. If I think of something I need, then it is wonderful that I can buy it at that moment.
+ My friends aren’t as comfortable with buying things online as I am because they think that it can be dangerous. Of course, bad things sometimes happen, but I am very careful with all of my personal details. I think the biggest fear that people have with using their credit cards online is that someone will steal their number. It is important to be sure that the web page is secure. You can see this if the address has got an “s” in it, like https://. That “s” means it is safe.
+ People should not be afraid of shopping online. I think it will be the only way we will do our shopping in the future!
+ Questions
+Q 5473 [radio] What is Sara’s favourite way of shopping?
+ 8462) A. On her computer.
+ 8463) B. On her phone.
+ 8464) C. In a shop.
+Q 5474 [radio] What doesn’t Sara buy online?
+ 8465) A. Food.
+ 8466) B. Furniture.
+ 8467) C. Clothes.
+Q 5475 [radio] What does the word ‘it’ refer to in paragraph 3?
+ 8468) A. Shopping online.
+ 8469) B. A present.
+ 8470) C. Her mother’s birthday.
+Q 5476 [radio] Why does Sara think online shopping is very convenient?
+ 8471) A. It’s fast.
+ 8472) B. It’s cheap.
+ 8473) C. It’s good quality.
+Q 5479 [radio] What does ‘steal’ mean in paragraph 4?
+ 8480) A. To make public.
+ 8481) B. To take without permission.
+ 8482) C. To use something that is not yours.
+Q 5477 [radio] Sara thinks that shopping online ...
+ 8474) A. is often dangerous.
+ 8475) B. is always safe.
+ 8476) C. is safe if you are careful.
+Q 5478 [radio] Sara thinks that in the future ...
+ 8477) A. online shopping will be safer.
+ 8478) B. a lot of people will shop online.
+ 8479) C. everybody will only shop online.
+
+=== PAGE /grammar-points/b1/had-better-its-time/ | Had better… It’s time… | level b1
+--- QUIZ 632
+CONTEXT:
+Exercise 1
+ Choose the correct forms of had better, it’s time, should, etc. to complete the following sentences.
+Q 5443 [gaps] You {1} your tickets in advance.
+  {1} options: better booking | 'd better book | 'd better to book
+Q 5444 [gaps] You {1} late at the family dinner
+  {1} options: should better not be | 'd better not be | better don't be
+Q 5445 [gaps] It's late. I {1} if I don't want to miss my train.
+  {1} options: 'd better to go | 'd better go | better to go
+Q 5446 [gaps] A: Did you like the film? B: Yes, you {1} it.
+  {1} options: 'd better to see | should see | 'd better see
+Q 5447 [gaps] It's almost midnight. It's time you {1} to bed.
+  {1} options: went | to go | go
+Q 5448 [gaps] You {1} another drink if you are driving.
+  {1} options: better don't have | 'd better not have | 'd better don't have
+Q 5449 [gaps] He {1} here before 9 tomorrow if he doesn't want to be fired.
+  {1} options: 'd better to get | 'd better get | 'd better gets
+Q 5450 [gaps] It's time {1} himself.
+  {1} options: that Tom proves | for Tom proved | for Tom to prove
+Q 5451 [gaps] You {1} this cake, it's delicious!
+  {1} options: 'd better try | should try | should better try
+Q 5452 [gaps] You {1} your computer in the car. There are a lot of car burglaries in this area.
+  {1} options: 'd better don't leave | better don't leave | 'd better not leave
+
+=== PAGE /grammar-points/b1/had-better-its-time/ | Had better… It’s time… | level b1
+--- QUIZ 631
+CONTEXT:
+Had better… It’s time…
+ Exercise 2
+ Choose the correct forms of had better, it’s time, should, etc. to complete the following sentences.
+Q 5453 [radio] It's almost 5. I _____ to the bank before they close.
+ 8432) A. 'd better go
+ 8433) B. should better go
+ 8434) C. 'd better to go
+Q 5454 [radio] It's time the government _____ something about the situation.
+ 8435) A. do
+ 8436) B. should do
+ 8437) C. did
+Q 5455 [radio] You _____ the truth or they'll find out.
+ 8438) A. 'd better to tell
+ 8439) B. 'd better tell
+ 8440) C. should better tell
+Q 5456 [radio] He _____ right about this, or he'll regret it.
+ 8441) A. would better be
+ 8442) B. had better be
+ 8443) C. had better been
+Q 5457 [radio] You _____ Tom to the party if Sarah is going to be there.
+ 8444) A. better don't invite
+ 8445) B. hadn't better invite
+ 8446) C. 'd better not invite
+Q 5458 [radio] It's time _____ action as a collective.
+ 8447) A. we all took
+ 8448) B. for all of us take
+ 8449) C. we all take
+Q 5459 [radio] I think we _____ children more than one foreign language.
+ 8450) A. 'd better teach
+ 8451) B. should teach
+ 8452) C. should better teach
+Q 5460 [radio] You _____ your opinion on this matter. It's a sensitive topic.
+ 8453) A. 'd better don't express
+ 8454) B. better don't express
+ 8455) C. 'd better not express
+Q 5461 [radio] It's time _____.
+ 8456) A. for the president acted.
+ 8457) B. for the president to act.
+ 8458) C. the president acts.
+Q 5462 [radio] They _____ a solution soon, or it'll be too late.
+ 8459) A. 'd better find
+ 8460) B. 'd better to find
+ 8461) C. should better find
+
+=== PAGE /grammar-points/b1/had-better-its-time/ | Had better… It’s time… | level b1
+--- QUIZ 633
+CONTEXT:
+Exercise 3
+ Use the verbs in the box in the correct form to fill in the gaps.
+ accept – call – change – do – go – have – not lose – not say – start – stop – take
+ EXAMPLE: It’s about time you stopped smoking.
+Q 5463 [gaps] It's time he {1} making some changes.
+  {1} free text
+Q 5464 [gaps] It's going to rain. You'd better {1} an umbrella.
+  {1} free text
+Q 5465 [gaps] My parents must be worried. I'd better {1} them and tell them that I'm OK.
+  {1} free text
+Q 5466 [gaps] It's time for John {1} his job.
+  {1} free text
+Q 5467 [gaps] You {1} better tell the truth when they ask you.
+  {1} free text
+Q 5468 [gaps] They'd better {1} another match if they want to stay in the tournament.
+  {1} free text
+Q 5469 [gaps] It's time you {1} that you made a mistake.
+  {1} free text
+Q 5470 [gaps] I think you'd better {1} your password. This one isn't safe.
+  {1} free text
+Q 5471 [gaps] It's very late. It's time {1} to bed.
+  {1} free text
+Q 5472 [gaps] You'd better {1} a word about this.
+  {1} free text
+
+=== PAGE /reading/a1/what-do-you-do-with-free-time/ | What do you do with your free time? – A1 English Reading Test | level a1
+--- QUIZ 630
+CONTEXT:
+A1 English Reading Test
+ Read the text and for questions 1 to 7 choose the correct answer.
+ What do you do with your free time?
+ I’m almost 19 years old, and I finished my first year of university. I’m currently on holiday, and I have a lot of free time. Having free time is nice, but the problem is that when you are a student, you never have money. And when you have a lot of free time, but you don’t have much money, it can get boring.
+ Every morning I go to the gym, and I read in the afternoons. But I still have a lot of free time. Going to the gym takes me about two hours, including the road time and the post-gym shower. And I usually read for one hour. Another activity that I do is watch documentaries. I study history, and I love historical documentaries. I learn a lot from them. I watch documentaries for one and a half hours four or five times a week.
+ But those activities are a small part of my day. When I’m not at the gym or reading, I get bored, and I often play video games for hours. I enjoy playing video games, but I don’t think it’s a productive activity. When I play for a long time, I feel bad. I’d like to find more productive activities to do, but it isn’t easy. I live in a small town, and there aren’t many things to do.
+ Do you have any suggestions? What do you do with your free time?
+ Questions
+Q 5436 [radio] He ...
+ 8411) A. is working.
+ 8412) B. is not a student.
+ 8413) C. is 18 years old.
+Q 5437 [radio] He ...
+ 8414) A. doesn't have free time.
+ 8415) B. is travelling.
+ 8416) C. doesn't have money.
+Q 5438 [radio] He ...
+ 8417) A. is very happy because he has a lot of free time.
+ 8418) B. is not happy because he doesn't have any free time.
+ 8419) C. is sometimes bored.
+Q 5439 [radio] Every day, he ...
+ 8420) A. watches documentaries.
+ 8421) B. goes to the gym.
+ 8422) C. reads for two hours.
+Q 5440 [radio] He ...
+ 8423) A. teaches history.
+ 8424) B. studies history at university.
+ 8425) C. reads history books four or five times a week.
+Q 5441 [radio] He ...
+ 8426) A. does not enjoy playing video games.
+ 8427) B. thinks video games are stupid.
+ 8428) C. doesn't think playing video games is productive.
+Q 5442 [radio] He wants ...
+ 8429) A. to do more productive things in his free time.
+ 8430) B. to live in a big city.
+ 8431) C. to find a job.
+
+=== PAGE /grammar-points/b2/mixed-conditionals/ | Mixed conditionals: If I were you, I wouldn’t have done it | level b2
+--- QUIZ 626
+CONTEXT:
+Exercise 1
+ Choose the correct options to complete the following mixed conditional sentences.
+Q 5388 [gaps] If I hadn't fought for our relationship, we {1} together now.
+  {1} options: weren't | wouldn't be | wouldn't have been
+Q 5391 [gaps] I would be happier if I {1} 'yes' when she asked me to marry her.
+  {1} options: would say | said | had said
+Q 5392 [gaps] If you weren't such a jerk, they {1} you to yesterday's party.
+  {1} options: would invite | would have invited | had invited
+Q 5389 [gaps] If you {1} a map, as I told you, we wouldn't be lost now.
+  {1} options: took | had taken | would have taken
+Q 5390 [gaps] If I didn't love you, I {1} you last year.
+  {1} options: wouldn't marry you | wouldn't have married | hadn't married
+Q 5393 [gaps] If I had more time, I {1} you last night.
+  {1} options: would call | called | would have called
+Q 5397 [gaps] If you {1} that job, you would be miserable now.
+  {1} options: would have accepted | 'd accepted | would accept
+Q 5396 [gaps] I'm afraid of flying. If I {1} afraid of flying, we'd have travelled by plane.
+  {1} options: hadn't been | weren't | wouldn't have been
+Q 5398 [gaps] If you {1} dad's car without permission last night, you might be in trouble.
+  {1} options: took | 'd taken | would have taken
+Q 5399 [gaps] You wouldn't have this job if I {1} you for the interview.
+  {1} options: didn't prepare | hadn't prepared | wouldn't have prepared
+
+=== PAGE /grammar-points/b2/mixed-conditionals/ | Mixed conditionals: If I were you, I wouldn’t have done it | level b2
+--- QUIZ 627
+CONTEXT:
+Exercise 2
+ Choose the correct options to complete following mixed conditional sentences.
+Q 5386 [radio] He says he's your friend, but he didn't help you. If he were your friend, he _____ you.
+ 8370) A. had helped
+ 8371) B. would have helped
+ 8372) C. would help
+ 8373) D. helped
+Q 5404 [radio] I feel fine because I took the medicine. If I _____ the medicine, I would still be in pain.
+ 8402) A. wouldn't take
+ 8403) B. wouldn't have taken
+ 8404) C. didn't take
+ 8405) D. hadn't taken
+Q 5394 [radio] I'm not patient, and I didn't wait for them. If I were more patient, I _____ for them.
+ 8378) A. would wait
+ 8379) B. would have waited
+ 8380) C. waited
+ 8381) D. had waited
+Q 5395 [radio] I didn't know that you were there because I'm not a psychic. I _____ that you were there if I were a psychic.
+ 8382) A. would have known
+ 8383) B. had known
+ 8384) C. would know
+ 8385) D. knew
+Q 5387 [radio] I am where I am today because you helped me. I _____ where I am today if you hadn't helped me.
+ 8374) A. wouldn't have been
+ 8375) B. hadn't been
+ 8376) C. weren't
+ 8377) D. wouldn't be
+Q 5400 [radio] I should be your coach. If I _____ your coach, you would have won many more trophies.
+ 8386) A. were
+ 8387) B. had been
+ 8388) C. would be
+ 8389) D. would have been
+Q 5401 [radio] If I were ill, I _____ to work yesterday.
+ 8390) A. wouldn't have gone
+ 8391) B. wouldn't go
+ 8392) C. hadn't gone
+ 8393) D. didn't go
+Q 5403 [radio] If he hadn't been wearing a helmet, he _____ dead now.
+ 8398) A. might be
+ 8399) B. might have been
+ 8400) C. were
+ 8401) D. had been
+Q 5402 [radio] I didn't understand his letter because I don't speak Russian. If I _____ Russian, I would have understood his letter.
+ 8394) A. would speak
+ 8395) B. would have spoken
+ 8396) C. spoke
+ 8397) D. had spoken
+Q 5405 [radio] I'm tired because I went to bed late. If I hadn't gone to bed so late, I _____ tired now.
+ 8406) A. wouldn't have been
+ 8407) B. wouldn't be
+ 8408) C. weren't
+ 8409) D. hadn't been
+
+=== PAGE /grammar-points/b2/mixed-conditionals/ | Mixed conditionals: If I were you, I wouldn’t have done it | level b2
+--- QUIZ 628
+CONTEXT:
+Exercise 3
+ Complete these mixed conditional sentences with the verbs in brackets. Use past simple, past perfect, would + infinitive or would + have + past participle.
+Q 5406 [gaps] If you {1} (not eat) so much, you wouldn't be feeling sick now.
+  {1} free text
+Q 5407 [gaps] If we had money, we {1} (move) to a bigger house years ago.
+  {1} free text
+Q 5408 [gaps] If I were you, I {1} (act) differently. Your behaviour was unacceptable.
+  {1} free text
+Q 5409 [gaps] We are second now. We {1} (be) top of the league if we hadn't lost our last match.
+  {1} free text
+Q 5410 [gaps] If he weren't so lazy, he {1} (finish) the assignment when it was due.
+  {1} free text
+Q 5413 [gaps] I would be equally proud of you if you {1} (not achieve) so many things in your life.
+  {1} free text
+Q 5411 [gaps] If I didn't work so hard, I {1} (not get) the job I have.
+  {1} free text
+Q 5412 [gaps] If he had done anything wrong, we {1} (know) it by now.
+  {1} free text
+Q 5414 [gaps] He'd still be here if you {1} (not scare) him away.
+  {1} free text
+Q 5415 [gaps] I would have a better job if I {1} (go) to university.
+  {1} free text
+
+=== PAGE /grammar-points/b2/unless-even-if-provided-as-long-conditionals/ | Unless, even if, provided, as long as: Other expressions in conditionals | level b2
+--- QUIZ 623
+CONTEXT:
+Unless, even if, provided, as long as, etc.: Other expressions in conditionals
+ Exercise 1
+ Choose unless, even if, provided, as long as, etc. to complete these sentences.
+Q 5366 [gaps] Don't call the police {1} it's strictly necessary.
+  {1} options: unless | whether or not | even if
+Q 5372 [gaps] The exam was too difficult. I wouldn't have passed {1} I had studied harder.
+  {1} options: only if | as long as | even if
+Q 5374 [gaps] {1} you could spend 15$ every hour. How much could you spend in a year?
+  {1} options: Suppose | Provided | Only if
+Q 5379 [gaps] I'll talk to the press {1} they don't reveal my identity.
+  {1} options: on condition that | even if | whether or not
+Q 5380 [gaps] You should stop drinking {1} you have an addiction problem. Alcohol is just not healthy.
+  {1} options: provided that | supposing | whether or not
+Q 5382 [gaps] We should take a jacket {1} it's cold when we arrive.
+  {1} options: provided | even if | in case
+Q 5383 [gaps] I don't mind how you spend the money {1} you stick to the budget.
+  {1} options: as long as | in case | unless
+Q 5384 [gaps] Bees sting {1} they feel threatened.
+  {1} options: in case | only if | whether or not
+Q 5381 [gaps] {1} you say sorry a thousand times, you can't change what you've done.
+  {1} options: Even if | Only if | Unless
+Q 5385 [gaps] You're free to do whatever you want {1} you respect the rules.
+  {1} options: unless | provided | even if
+
+=== PAGE /grammar-points/b2/unless-even-if-provided-as-long-conditionals/ | Unless, even if, provided, as long as: Other expressions in conditionals | level b2
+--- QUIZ 624
+CONTEXT:
+Unless, even if, provided, as long as, etc.: Other expressions in conditionals
+ Exercise 2
+ Choose unless, even if, provided, as long as, etc. for each gap below.
+Q 5367 [radio] I'll lend you the money _____ that you pay me back by Friday.
+ 8330) A. in case
+ 8331) B. even if
+ 8332) C. on condition
+ 8333) D. unless
+Q 5368 [checkbox] You can use my computer _____ you promise to be careful. Choose TWO correct options
+ 8334) A. provided
+ 8335) B. unless
+ 8336) C. as long as
+ 8337) D. in case
+Q 5369 [radio] You cannot use my computer _____ you promise to be careful.
+ 8338) A. provided
+ 8339) B. unless
+ 8340) C. as long as
+ 8341) D. only if
+Q 5373 [radio] _____ you found a wallet with money in it. What would you do?
+ 8350) A. As long as
+ 8351) B. Unless
+ 8352) C. Even if
+ 8353) D. Suppose
+Q 5370 [checkbox] We're going for a trek tomorrow ____ it doesn't rain. Choose TWO correct options
+ 8342) A. unless
+ 8343) B. providing
+ 8344) C. even if
+ 8345) D. as long as
+Q 5371 [radio] We're going for a trek tomorrow ____ it rains.
+ 8346) A. unless
+ 8347) B. providing
+ 8348) C. in case
+ 8349) D. as long as
+Q 5375 [checkbox] Only members can go in. Choose TWO options with the same meaning
+ 8354) A. Unless you are a member, you can't go in.
+ 8355) B. You can go in even if you are a member.
+ 8356) C. You can go in wether or not you are a member.
+ 8357) D. You can go in only if you are a member.
+Q 5376 [radio] Take my card _____ you need to contact me.
+ 8358) A. on condition that
+ 8359) B. in case
+ 8360) C. as long as
+ 8361) D. even if
+Q 5378 [checkbox] You can download the software ______ you accept the Terms and Conditions. Choose TWO correct options
+ 8366) A. even if
+ 8367) B. whether or not
+ 8368) C. only if
+ 8369) D. on condition that
+Q 5377 [radio] You can offer as much as you want, I'll never work for you. (Choose the option with similar meaning).
+ 8362) A. Even if you offer a lot of money
+ 8363) B. Provided you offer a lot of money
+ 8364) C. Unless you offer a lot of money
+ 8365) D. As long as you offer a lot of money
+
+=== PAGE /grammar-points/b2/unless-even-if-provided-as-long-conditionals/ | Unless, even if, provided, as long as: Other expressions in conditionals | level b2
+--- QUIZ 125
+CONTEXT:
+Unless, even if, provided, as long as, etc.: Other expressions in conditionals
+ Exercise 3
+ Fill in each gap with one word from the list. Do NOT use if.
+ case – condition – even – in – long – on – only – provided – supposing – unless – whether
+ EXAMPLE: Take a torch in case you need it.
+Q 1035 [gaps] You should vote {1} if you don't know who to vote for.
+  {1} free text
+Q 1036 [gaps] You can go on {1} you come back before 10.
+  {1} free text
+Q 1037 [gaps] I'll enter the competition {1} if you do it with me.
+  {1} free text
+Q 1038 [gaps] It's my money, so I'm going to buy a new car {1} or not you agree with me.
+  {1} free text
+Q 1039 [gaps] {1} I told you the truth, would you ever tell anyone?
+  {1} free text
+Q 1040 [gaps] It doesn't matter how slowly you go as {1} as you do not stop.
+  {1} free text
+Q 1041 [gaps] You can print as many copies as you want {1} that they are intended for personal use
+  {1} free text
+Q 1042 [gaps] I'll tell you {1} condition you don't tell anyone.
+  {1} free text
+Q 1043 [gaps] The concert will be cancelled {1} we sell more tickets.
+  {1} free text
+Q 1044 [gaps] I'll take some snacks in {1} we get hungry along the way.
+  {1} free text
+
+=== PAGE /grammar-points/b1/any-no-none/ | Any, no, none: Quantifiers | level b1
+--- QUIZ 617
+CONTEXT:
+Exercise 1
+ Choose any/no/none to complete these sentences.
+Q 5306 [gaps] We couldn't find {1} open restaurants.
+  {1} options: none | any | no
+Q 5307 [gaps] Do you have {1} pets?
+  {1} options: any | none | no
+Q 5308 [gaps] There are still {1} answers about what happened to her.
+  {1} options: none | no | any
+Q 5309 [gaps] A: How much milk did you buy? B: {1} . Sorry, I forgot.
+  {1} options: None | No | Any
+Q 5311 [gaps] You can use {1} computer in the room. All of them work.
+  {1} options: none | no | any
+Q 5310 [gaps] {1} of the films are available on streaming platforms.
+  {1} options: None | No | Any
+Q 5312 [gaps] We're worried. We've had {1} news from them since they left.
+  {1} options: any | none | no
+Q 5313 [gaps] I didn't ask {1} questions.
+  {1} options: any | none | no
+Q 5314 [gaps] A: How many chapters have you finished? B: {1} . I've had no time.
+  {1} options: No | Any | None
+Q 5315 [gaps] Did you have {1} problems?
+  {1} options: any | none | no
+
+=== PAGE /grammar-points/b1/any-no-none/ | Any, no, none: Quantifiers | level b1
+--- QUIZ 618
+CONTEXT:
+Exercise 2
+ Choose the correct option for each gap below.
+Q 5316 [radio] Did you go _____?
+ 8270) A. anywhere
+ 8271) B. nowhere
+ 8272) C. no place
+Q 5317 [radio] A: What did you do? B: _____. We went back home.
+ 8273) A. Nothing
+ 8274) B. Anything
+ 8275) C. Nowhere
+Q 5318 [radio] A: How many episodes did you watch? B:_____. I read a book.
+ 8276) A. No
+ 8277) B. Nothing
+ 8278) C. None
+Q 5319 [radio] I didn't tell _____ what happened.
+ 8279) A. nobody
+ 8280) B. anybody
+ 8281) C. no person
+Q 5320 [radio] Shh, be quiet please! _____ could hear us.
+ 8282) A. Anybody
+ 8283) B. Nobody
+ 8284) C. No person
+Q 5321 [radio] You did _____ of the things I asked you to do.
+ 8285) A. any
+ 8286) B. no
+ 8287) C. none
+Q 5322 [radio] I asked all my friends, but _____ could help me.
+ 8288) A. anybody
+ 8289) B. none of they
+ 8290) C. none of them
+Q 5323 [radio] I called three times but _____ picked up the phone.
+ 8291) A. None
+ 8292) B. Nothing
+ 8293) C. Nobody
+Q 5324 [radio] _____ news is good news.
+ 8294) A. Any
+ 8295) B. No
+ 8296) C. None
+Q 5325 [radio] Nobody did _____ for me when I needed help.
+ 8297) A. nothing
+ 8298) B. none
+ 8299) C. anything
+
+=== PAGE /grammar-points/b1/any-no-none/ | Any, no, none: Quantifiers | level b1
+--- QUIZ 619
+CONTEXT:
+Exercise 3
+ Fill in the gaps with no, any, none or anything, anybody, anywhere, nothing, nobody, nowhere.
+Q 5326 [gaps] We didn't hear {1} the night of the event.
+  {1} free text
+Q 5327 [gaps] There were {1} witnesses who could testify.
+  {1} free text
+Q 5328 [gaps] We didn't go {1} . We stayed at home.
+  {1} free text
+Q 5329 [gaps] {1} will tell me what to do. I'm an independent person.
+  {1} free text
+Q 5330 [gaps] Did you have {1} visitors last Sunday?
+  {1} free text
+Q 5331 [gaps] A: How many visitors did you have? B: {1} . I was alone all day.
+  {1} free text
+Q 5332 [gaps] A: Who visited you last Sunday? B: {1} . I was alone all day.
+  {1} free text
+Q 5333 [gaps] {1} of the suspects have been publicly named.
+  {1} free text
+Q 5334 [gaps] I'm sorry, but it's too late. There is {1} we can do now.
+  {1} free text
+Q 5335 [gaps] Please, ask. I'm here to answer {1} questions you might have.
+  {1} free text
+
+=== PAGE /grammar-points/b1-b2/likely-unlikely-bound-definitely-probably/ | Likely, unlikely, bound, definitely, probably: Probability | level b1-b2
+--- QUIZ 620
+CONTEXT:
+Exercise 1
+ Use likely, unlikely, bound, definitely, probably correctly to fill the gaps below.
+Q 5336 [gaps] They are the best team ever, so I think they {1} to win the final.
+  {1} options: are unlikely | are bound | will definitely
+Q 5342 [gaps] If you don't speak very slowly, they {1} understand you.
+  {1} options: won't probably | will not probably | probably won't
+Q 5338 [gaps] In this economy, {1} to find a buyer for the house.
+  {1} options: we are unlikely | it is unlikely | unlikely
+Q 5340 [gaps] In this economy it's {1} find a buyer for the house.
+  {1} options: not probably to | unlikely that we'll | unlikely to
+Q 5339 [gaps] He {1} be one of our best employees.
+  {1} options: definitely will | is bound | will definitely
+Q 5341 [gaps] Tomorrow's dinner party {1} be an unforgettable event.
+  {1} options: is sure to | definitely will | will unlikely
+Q 5343 [gaps] {1} increase again in November.
+  {1} options: It's likely that sales will | Sales are likely | Sales will unlikely
+Q 5344 [gaps] {1} to increase again in November.
+  {1} options: Sales will unlikely | It's likely that sales | Sales are unlikely
+Q 5345 [gaps] The new technology is {1} become obsolete very quickly.
+  {1} options: definitely | bound to | unlikely
+Q 5346 [gaps] Some animals {1} survive this extreme weather.
+  {1} options: won't probably | are unlikely | will probably not
+
+=== PAGE /grammar-points/b1-b2/likely-unlikely-bound-definitely-probably/ | Likely, unlikely, bound, definitely, probably: Probability | level b1-b2
+--- QUIZ 621
+CONTEXT:
+Exercise 2
+ Choose the correct forms of likely, unlikely, bound, definitely, probably for these sentences.
+Q 5337 [radio] It's _____ get their money back.
+ 8300) A. unlikely that they will
+ 8301) B. unlikely to
+ 8302) C. definitely that they will
+Q 5348 [radio] _____ get their money back.
+ 8306) A. It's unlikely to
+ 8307) B. They will unlikely
+ 8308) C. They are unlikely to
+Q 5351 [radio] This _____ be his last mistake.
+ 8315) A. definitely won't
+ 8316) B. won't definitely
+ 8317) C. definitely will not
+Q 5349 [radio] Floods, earthquakes, and tsunamis _____ happen more frequently in the future.
+ 8309) A. are sure to
+ 8310) B. definitely will
+ 8311) C. are likely
+Q 5347 [radio] People think _____ win.
+ 8303) A. they're the most likely to
+ 8304) B. it's most likely
+ 8305) C. they it's most likely
+Q 5350 [radio] The Dragons are the best. They _____ finish in the top three.
+ 8312) A. are unlikely to
+ 8313) B. are bound to
+ 8314) C. probably will
+Q 5352 [radio] He _____ send you a check.
+ 8318) A. isn't probably going to
+ 8319) B. is probably not going to
+ 8320) C. will not probably
+Q 5353 [radio] ______ give them a loan.
+ 8321) A. Banks will unlikely
+ 8322) B. Banks are very unlikely that will
+ 8323) C. It's very unlikely that banks will
+Q 5354 [radio] _____ give them a loan.
+ 8324) A. Banks are very unlikely to
+ 8325) B. It's very unlikely banks to
+ 8326) C. Banks are very unlikely that will
+Q 5355 [radio] If you can't admit your mistakes, _____ have problems.
+ 8327) A. it's bound that you'll
+ 8328) B. you definitely will
+ 8329) C. you are bound to
+
+=== PAGE /grammar-points/b1-b2/likely-unlikely-bound-definitely-probably/ | Likely, unlikely, bound, definitely, probably: Probability | level b1-b2
+--- QUIZ 622
+CONTEXT:
+Exercise 3
+ Write sentences with similar meanings. Use the words in brackets.
+ EXAMPLE: He probably won’t win the game. ⇒ He is unlikely to win the game. (unlikely)
+Q 5356 [gaps] They will probably not arrive early. ⇒ They {1} early. (unlikely)
+  {1} free text
+Q 5357 [gaps] She will definitely get good grades. ⇒ She {1} good grades. (sure)
+  {1} free text
+Q 5358 [gaps] You definitely won't have any problems. ⇒ {1} will have any problems. (very unlikely)
+  {1} free text
+Q 5359 [gaps] Tom probably won't be there. ⇒ Tom {1} there. (will not)
+  {1} free text
+Q 5360 [gaps] They will definitely like each other. ⇒ They {1} each other. (bound)
+  {1} free text
+Q 5361 [gaps] You will probably find what you are looking for. ⇒ You are {1} what you are looking for. (likely)
+  {1} free text
+Q 5362 [gaps] It will definitely happen. ⇒ It {1} . (bound)
+  {1} free text
+Q 5363 [gaps] He is likely to win tonight. ⇒ It's {1} tonight. (likely)
+  {1} free text
+Q 5364 [gaps] Kevin probably won't find a job soon. ⇒ Kevin {1} a job soon. (unlikely)
+  {1} free text
+Q 5365 [gaps] You should definitely not be here. ⇒ You {1} here. (shouldn't)
+  {1} free text
+
+=== PAGE /grammar-points/b1/both-either-neither/ | Both, either, neither: Quantifiers | level b1
+--- QUIZ 610
+CONTEXT:
+Exercise 1
+ Choose the correct forms of both, either, neither to complete the sentences.
+Q 5242 [gaps] Can {1} you or Lisa take me to the station?
+  {1} options: neither | either | both
+Q 5243 [gaps] {1} of them could take me to the station, so I had to take a taxi.
+  {1} options: Both | Neither | Either
+Q 5239 [gaps] A: Are you from Spain or from Italy? B: {1} . I'm from Portugal.
+  {1} options: Either | Both | Neither
+Q 5240 [gaps] {1} can win this game.
+  {1} options: The both of us | Both of us | Both us
+Q 5241 [gaps] With a tourist visa, you can {1} work nor study.
+  {1} options: both | either | neither
+Q 5244 [gaps] He showed us two apartments but we didn't like {1} of them.
+  {1} options: neither | either | both
+Q 5245 [gaps] {1} John and Sara were invited.
+  {1} options: Both | Neither | Either
+Q 5246 [gaps] The tennis game was fantastic. {1} players were great.
+  {1} options: Neither | Either | Both
+Q 5247 [gaps] The match was really boring. {1} team played well.
+  {1} options: Both | Either | Neither
+Q 5248 [gaps] You can choose {1} of those two presents. Which one do you prefer?
+  {1} options: both | either | neither
+
+=== PAGE /grammar-points/b1/both-either-neither/ | Both, either, neither: Quantifiers | level b1
+--- QUIZ 611
+CONTEXT:
+Exercise 2
+ Use both, either, neither correctly to complete the sentences.
+Q 5249 [radio] You can _____ drive or take the train.
+ 8189) A. both
+ 8190) B. either
+ 8191) C. neither
+Q 5250 [radio] A: Are you at home or at work? B: _____. I'm in the car.
+ 8192) A. Both
+ 8193) B. Either
+ 8194) C. Neither
+Q 5251 [radio] I don't know which film to watch. _____ must be very good.
+ 8195) A. Both of them
+ 8196) B. The both
+ 8197) C. Both them
+Q 5252 [radio] I didn't like _____ of the films. Both of them were boring.
+ 8198) A. both
+ 8199) B. either
+ 8200) C. neither
+Q 5253 [radio] He was _____ handsome nor unattractive. He was average.
+ 8201) A. both
+ 8202) B. either
+ 8203) C. neither
+Q 5254 [radio] We can take _____ the train or the bus.
+ 8204) A. both
+ 8205) B. either
+ 8206) C. neither
+Q 5255 [radio] _____ my parents went to see the teacher.
+ 8207) A. Both
+ 8208) B. Either
+ 8209) C. Neither
+Q 5257 [radio] _____ my brother and I play football, but _____ of us play very well.
+ 8213) A. Both / either
+ 8214) B. Both / neither
+ 8215) C. Either / both
+Q 5258 [radio] _____ stay or go. It's your decision.
+ 8216) A. Both
+ 8217) B. Either
+ 8218) C. Neither
+Q 5259 [radio] I don't want to go to _____ of those two pubs. Let's go home.
+ 8219) A. both
+ 8220) B. either
+ 8221) C. neither
+
+=== PAGE /grammar-points/b1/both-either-neither/ | Both, either, neither: Quantifiers | level b1
+--- QUIZ 612
+CONTEXT:
+Exercise 3
+ Write both/either/neither. Use of where necessary.
+ EXAMPLE: Kevin and Mat are nice, but neither of them are good students.
+Q 5261 [gaps] We'll arrive {1} on Friday night or Saturday morning.
+  {1} free text
+Q 5262 [gaps] {1} the platforms have lots of apps.
+  {1} free text
+Q 5263 [gaps] Tom and Kev were at the concert, but I didn't see {1} them.
+  {1} free text
+Q 5265 [gaps] I've got {1} time nor money to go on holiday.
+  {1} free text
+Q 5264 [gaps] A: Did you eat the sandwich or the pizza? B: I ate {1} . I was really hungry.
+  {1} free text
+Q 5260 [gaps] We've got two children, but {1} them lives with us any longer.
+  {1} free text
+Q 5266 [gaps] Being a celebrity is something that she {1} loves and hates.
+  {1} free text
+Q 5267 [gaps] You can't wear {1} those dresses. They don't suit you.
+  {1} free text
+Q 5268 [gaps] You can wear {1} those dresses. Choose the one you like better.
+  {1} free text
+Q 5269 [gaps] Fortunately, {1} Maria's parents was injured during the incident.
+  {1} free text
+
+=== PAGE /grammar-points/a1/will-and-shall/ | ‘Will’ and ‘shall’: Future | level a1
+--- QUIZ 607
+CONTEXT:
+Exercise 1
+ Complete the sentences with I will (I’ll), Shall I or Shall we.
+Q 5209 [radio] A: I'm hungry. B: _____ make some bacon and eggs.
+ 8159) A. I'll
+ 8160) B. Shall I
+ 8161) C. Shall we
+Q 5210 [radio] I hope _____ see you again one day.
+ 8162) A. I'll
+ 8163) B. Shall I
+ 8164) C. Shall we
+Q 5211 [radio] A: _____ go to a restaurant tonight? B: Yes. That's a great idea.
+ 8165) A. I'll
+ 8166) B. Shall I
+ 8167) C. Shall we
+Q 5212 [radio] I don't think _____ go out this weekend. I'm very tired.
+ 8168) A. I'll
+ 8169) B. Shall I
+ 8170) C. Shall we
+Q 5213 [radio] _____ always love you.
+ 8171) A. I will
+ 8172) B. Shall I
+ 8173) C. Shall we
+Q 5214 [radio] A: It's very hot in this room. B: _____ open the windows?
+ 8174) A. I'll
+ 8175) B. Shall I
+ 8176) C. Shall we
+Q 5215 [radio] A: _____ have a barbecue on Saturday? B: That's an excellent idea! Who shall we invite?
+ 8177) A. I will
+ 8178) B. Shall I
+ 8179) C. Shall we
+Q 5216 [radio] You look thirsty. _____ get you a drink?
+ 8180) A. I'll
+ 8181) B. Shall I
+ 8182) C. Shall we
+Q 5217 [radio] A: Did you talk to Laura? B: Oh no, I forgot. _____ call her now.
+ 8183) A. I'll
+ 8184) B. Shall I
+ 8185) C. Shall we
+Q 5218 [radio] I'm sure _____ find a great job soon.
+ 8186) A. I'll
+ 8187) B. Shall I
+ 8188) C. Shall we
+
+=== PAGE /grammar-points/a1/will-and-shall/ | ‘Will’ and ‘shall’: Future | level a1
+--- QUIZ 608
+CONTEXT:
+‘Will’ and ‘shall’: Future
+ Exercise 2
+ Use the verbs in the box and will or won’t to complete these sentences. Use short forms of will when you can.
+ be (x2) – come – get – lend – pass – see – stay – turn on – win (x2)
+ EXAMPLE: I won’t be at the office on time. There’s a lot of traffic.
+Q 5219 [gaps] Peter needs to study more or he {1} the exam.
+  {1} free text
+Q 5220 [gaps] A: Shall we watch a film? B: Good idea! I {1} the TV.
+  {1} free text
+Q 5221 [gaps] A: {1} you {2} at your office tomorrow morning? B: Yes, I'll be there all morning.
+  {1} free text
+  {2} free text
+Q 5222 [gaps] I'm not sure Sandra {1} the job. They interviewed a lot of people for the same job.
+  {1} free text
+Q 5223 [gaps] He {1} the election. Very few people will vote for him and he'll lose.
+  {1} free text
+Q 5224 [gaps] A: When {1} I {2} you again? B: I don't know. I hope you'll see me very soon.
+  {1} free text
+  {2} free text
+Q 5225 [gaps] I don't think he {1} to the party. He doesn't like big parties.
+  {1} free text
+Q 5227 [gaps] I'm sorry but I {1} you the money. I have no money.
+  {1} free text
+Q 5226 [gaps] Do you think they {1} the match?
+  {1} free text
+Q 5228 [gaps] Perhaps I {1} at home tonight. I want to relax and watch a movie.
+  {1} free text
+
+=== PAGE /grammar-points/a1/will-and-shall/ | ‘Will’ and ‘shall’: Future | level a1
+--- QUIZ 609
+CONTEXT:
+Exercise 3
+ Complete the sentences with ‘ll (will), won’t or shall and the words in brackets. Use short forms of will when you can
+ EXAMPLE: Sentence ⇒ Will she passthe exam? (she/pass)
+Q 5229 [gaps] {1} back soon? (she/be)
+  {1} free text
+Q 5230 [gaps] A: Will he leave? B: No, he {1} .
+  {1} free text
+Q 5233 [gaps] {1} the bag for you? It looks heavy. (I/carry)
+  {1} free text
+Q 5232 [gaps] They {1} the tournament. It's impossible. (win)
+  {1} free text
+Q 5231 [gaps] {1} me a favour? (you/do)
+  {1} free text
+Q 5234 [gaps] A: {1} tomorrow again? B: Yes, great! (we/meet)
+  {1} free text
+Q 5236 [gaps] I don't think the readers {1} his new book. (like)
+  {1} free text
+Q 5235 [gaps] It's dark. I {1} the light. (turn on)
+  {1} free text
+Q 5237 [gaps] I'm sure he {1} us. He always helps people. (help)
+  {1} free text
+Q 5238 [gaps] A: {1} for dinner tonight? B: OK. (we/go out)
+  {1} free text
+
+=== PAGE /grammar-points/b1/all-both/ | All, both: Quantifiers | level b1
+--- QUIZ 613
+CONTEXT:
+Exercise 1
+ Choose the correct forms of all/both to complete the sentences.
+Q 5270 [gaps] {1} happy to see you.
+  {1} options: We both are | We are both | Both us
+Q 5282 [gaps] I liked {1} music in your playlist.
+  {1} options: all | all of | all the
+Q 5283 [gaps] {1} students worked hard to get good grades.
+  {1} options: Both of | Both of the | The both
+Q 5285 [gaps] She has two sons and loves {1} equally.
+  {1} options: both them | them both | the both of them
+Q 5284 [gaps] {1} were shocked when we found out the truth.
+  {1} options: All us | We all | All of us
+Q 5286 [gaps] {1} admit their mistakes.
+  {1} options: They both should | Both them should | They should both
+Q 5287 [gaps] Count the coins and put {1} in a bag.
+  {1} options: them all | they all | all them
+Q 5288 [gaps] We like {1} schools. We can't decide.
+  {1} options: the both | both | both of
+Q 5289 [gaps] {1} you need to relax.
+  {1} options: Both | Both of | The both of
+Q 5290 [gaps] {1} animals should have the same rights as humans.
+  {1} options: All | All the | All of
+
+=== PAGE /grammar-points/b1/all-both/ | All, both: Quantifiers | level b1
+--- QUIZ 614
+CONTEXT:
+Exercise 2
+ Choose the right option in the following questions.
+Q 5294 [radio] _____ a new diet.
+ 8234) A. They both have started
+ 8235) B. Both they have started
+ 8236) C. They have both started
+Q 5295 [radio] He fell and ______ eggs got broken.
+ 8237) A. all the
+ 8238) B. all
+ 8239) C. all of
+Q 5296 [radio] The teacher sent _____ home.
+ 8240) A. them both
+ 8241) B. they both
+ 8242) C. the both of them
+Q 5297 [radio] _____ work in my office.
+ 8243) A. Both her brothers
+ 8244) B. Both of brothers
+ 8245) C. Her both brothers
+Q 5298 [radio] _____ accused of fraud.
+ 8246) A. They both have been
+ 8247) B. They have both been
+ 8248) C. Both them have been
+Q 5271 [radio] Which sentence is NOT correct?
+ 8222) A. All students like holidays.
+ 8223) B. All of students in my class like holidays.
+ 8224) C. All of the students in my class like holidays.
+Q 5291 [radio] Which sentence is NOT correct?
+ 8225) A. Did you drink all of the milk?
+ 8226) B. Did you drink all of milk?
+ 8227) C. Did you drink it all?
+Q 5292 [radio] Which sentence is NOT correct?
+ 8228) A. You both must be crazy.
+ 8229) B. You must both be crazy.
+ 8230) C. Both of you must be crazy.
+Q 5293 [radio] Which sentence is NOT correct?
+ 8231) A. The both suspects were arrested last Friday.
+ 8232) B. Both of the suspects were arrested last Friday.
+ 8233) C. Both the suspects were arrested last Friday.
+Q 5299 [radio] Which sentence is NOT correct?
+ 8249) A. He hates all us.
+ 8250) B. He hates us all.
+ 8251) C. He hates all of us.
+
+=== PAGE /grammar-points/b1/all-both/ | All, both: Quantifiers | level b1
+--- QUIZ 615
+CONTEXT:
+Exercise 3
+ Re-write the sentences using all/both in mid position (=before the verb, after be, after the first auxiliary).
+ EXAMPLE: All of them arrived early. ⇒ They all arrived early.
+Q 5272 [gaps] Both Simon and Pete like Aleisha. ⇒ {1} Aleisha.
+  {1} free text
+Q 5273 [gaps] All of us were invited to the wedding. ⇒ {1} to the wedding.
+  {1} free text
+Q 5274 [gaps] Both of them have been working on the case. ⇒ {1} on the case.
+  {1} free text
+Q 5275 [gaps] Have all of them arrived? ⇒ {1} ?
+  {1} free text
+Q 5276 [gaps] Both Sonia and Will can help you with those boxes. ⇒ {1} you with those boxes.
+  {1} free text
+Q 5277 [gaps] Both of us hated the film. ⇒ {1} the film.
+  {1} free text
+Q 5278 [gaps] All the students were surprised and excited. ⇒ {1} surprised and excited.
+  {1} free text
+Q 5279 [gaps] Did both of you get a promotion? ⇒ {1} a promotion?
+  {1} free text
+Q 5280 [gaps] All of us have learned a lot during this course. ⇒ {1} a lot during this course.
+  {1} free text
+Q 5281 [gaps] Both of them looked at me and left. ⇒ {1} at me and left.
+  {1} free text
+
+=== PAGE /grammar-points/a1/have-got/ | Have got | level a1
+--- QUIZ 598
+CONTEXT:
+Exercise 1
+ Choose the correct verb forms to complete the sentences below.
+Q 5119 [radio] _____ a pen?
+ 8069) A. Do you have got
+ 8070) B. Have you got
+ 8071) C. You have got
+Q 5120 [radio] They _____ any children.
+ 8072) A. don't have got
+ 8073) B. don't got
+ 8074) C. haven't got
+Q 5121 [radio] A: 'Have you got a car?' B: 'Yes, I _____.'
+ 8075) A. have
+ 8076) B. do
+ 8077) C. 've got
+Q 5122 [radio] When we were kids, we _____ many toys.
+ 8078) A. hadn't got
+ 8079) B. didn't have
+ 8080) C. hadn't
+Q 5123 [radio] He ____ a very nice family.
+ 8081) A. 's got
+ 8082) B. have got
+ 8083) C. 've got
+Q 5125 [radio] There is a door here. _____ the key?
+ 8087) A. Have you got
+ 8088) B. Do you got
+ 8089) C. Do you have got
+Q 5126 [radio] They _____ two cats and two dogs.
+ 8090) A. has got
+ 8091) B. 've
+ 8092) C. 've got
+Q 5124 [radio] _____ a question?
+ 8084) A. Have you
+ 8085) B. Do you have got
+ 8086) C. Do you have
+Q 5127 [radio] I _____ the answer to your question.
+ 8093) A. haven't
+ 8094) B. don't have got
+ 8095) C. haven't got
+Q 5128 [radio] I _____ a lot of money at the moment.
+ 8096) A. don't have got
+ 8097) B. don't have
+ 8098) C. haven't
+
+=== PAGE /grammar-points/a1/have-got/ | Have got | level a1
+--- QUIZ 599
+CONTEXT:
+Exercise 2
+ Transform these sentences using the verb have got like in the example below. Use short forms when possible: ‘ve got, ‘s got, haven’t got, hasn’t got.
+ EXAMPLE: They have a yacht ⇒ They ‘ve got a yacht.
+Q 5129 [gaps] I have a new computer. ⇒ I {1} a new computer.
+  {1} free text
+Q 5130 [gaps] Do you have a new profile photo? ⇒ {1} a new profile photo?
+  {1} free text
+Q 5131 [gaps] She has blonde hair and blue eyes. ⇒ She {1} blonde hair and blue eyes.
+  {1} free text
+Q 5132 [gaps] I don't have a Twitter account. ⇒ I {1} a Twitter account.
+  {1} free text
+Q 5133 [gaps] She doesn't have any money. ⇒ She {1} any money.
+  {1} free text
+Q 5134 [gaps] A: Do you have a laptop? B: Yes, I do. ⇒ A: Have you got a laptop? B: Yes, I {1} .
+  {1} free text
+Q 5135 [gaps] They have a lot of Youtube fans. ⇒ They {1} a lot of Youtube fans.
+  {1} free text
+Q 5136 [gaps] He doesn't have any interest in science. ⇒ He {1} any interest in science.
+  {1} free text
+Q 5137 [gaps] Does she have a sister? ⇒ {1} a sister?
+  {1} free text
+Q 5138 [gaps] I have a terrible headache. ⇒ I {1} a terrible headache.
+  {1} free text
+
+=== PAGE /grammar-points/a1/have-got/ | Have got | level a1
+--- QUIZ 600
+CONTEXT:
+Exercise 3
+ Change the following sentences or questons into the past tense.
+ EXAMPLE: They haven’t got a house ⇒ They didn’t have a house.
+Q 5139 [gaps] He's got a girlfriend. ⇒ He {1} a girlfriend.
+  {1} free text
+Q 5140 [gaps] They haven't got any problems. ⇒ They {1} any problems.
+  {1} free text
+Q 5141 [gaps] Have you got a pen? ⇒ {1} a pen?
+  {1} free text
+Q 5142 [gaps] She hasn't got a sister. ⇒ She {1} a sister.
+  {1} free text
+Q 5143 [gaps] He's got an exam. ⇒ He {1} an exam.
+  {1} free text
+Q 5144 [gaps] Has she got a cold? ⇒ {1} a cold?
+  {1} free text
+Q 5145 [gaps] Have you got a headache? ⇒ {1} a headache?
+  {1} free text
+Q 5146 [gaps] I haven't got time. ⇒ I {1} time.
+  {1} free text
+Q 5147 [gaps] She's got a nice smile. ⇒ She {1} a nice smile.
+  {1} free text
+Q 5148 [gaps] He hasn't got much experience. ⇒ He {1} much experience.
+  {1} free text
+
+=== PAGE /grammar-points/a2/purpose-to-for/ | Expressing purpose with ‘to’ and ‘for’ | level a2
+--- QUIZ 604
+CONTEXT:
+Expressing purpose with to and for
+ Exercise 1
+ Complete the sentences below with to and for.
+Q 5179 [gaps] I need my computer {1} send an important email.
+  {1} options: to | for
+Q 5180 [gaps] Call your doctor {1} an appointment.
+  {1} options: for | to
+Q 5181 [gaps] I'm on a diet {1} lose some weight.
+  {1} options: for | to
+Q 5182 [gaps] I'm going to call the restaurant {1} book a table.
+  {1} options: for | to
+Q 5183 [gaps] A thermometer is a tool {1} measuring the temperature.
+  {1} options: for | to
+Q 5184 [gaps] Do you have time {1} a cup of tea?
+  {1} options: to | for
+Q 5185 [gaps] I need some money {1} a taxi.
+  {1} options: for | to
+Q 5186 [gaps] I need some money {1} take a taxi.
+  {1} options: for | to
+Q 5187 [gaps] This knife is used {1} cutting plastic.
+  {1} options: to | for
+Q 5188 [gaps] Where can I go {1} buy the ingredients?
+  {1} options: to | for
+
+=== PAGE /grammar-points/a2/purpose-to-for/ | Expressing purpose with ‘to’ and ‘for’ | level a2
+--- QUIZ 605
+CONTEXT:
+Expressing purpose with to and for
+ Exercise 2
+ Choose the correct forms to express purpose.
+Q 5189 [radio] She's going to university _____ her studies.
+ 8129) A. for continuing
+ 8130) B. for continue
+ 8131) C. to continue
+Q 5190 [radio] I need to buy a new dress _____.
+ 8132) A. to my next interview
+ 8133) B. for my next interview
+ 8134) C. for interviewing
+Q 5191 [radio] Do you want to go to a coffee shop _____?
+ 8135) A. for breakfast
+ 8136) B. to breakfast
+ 8137) C. for having breakfast
+Q 5192 [radio] Kitchen scissors are _____ foods.
+ 8138) A. for cutting
+ 8139) B. to cutting
+ 8140) C. for cut
+Q 5193 [radio] I need to go home _____ my homework.
+ 8141) A. for finishing
+ 8142) B. to finish
+ 8143) C. for finish
+Q 5194 [radio] You must sign up _____ the site.
+ 8144) A. to use
+ 8145) B. for use
+ 8146) C. for using
+Q 5195 [radio] I'm going to the post office _____.
+ 8147) A. for some stamps
+ 8148) B. to some stamps
+ 8149) C. for getting some stamps
+Q 5196 [radio] This tool is _____ cans easily.
+ 8150) A. for open
+ 8151) B. for opening
+ 8152) C. to opening
+Q 5197 [radio] I needed to be alone _____.
+ 8153) A. for relax
+ 8154) B. for relaxing
+ 8155) C. to relax
+Q 5198 [radio] She called the police _____.
+ 8156) A. to helping
+ 8157) B. for getting help
+ 8158) C. for help
+
+=== PAGE /grammar-points/a2/purpose-to-for/ | Expressing purpose with ‘to’ and ‘for’ | level a2
+--- QUIZ 606
+CONTEXT:
+Expressing purpose with to and for
+ Exercise 3
+ Fill in the gaps with to + infinitive, for + -ing or for + noun. In each gap, use to or for and the word/s in brackets.
+ EXAMPLE: I went to the shop to buy (buy) bread.
+Q 5200 [gaps] I went to the shop {1} (bread).
+  {1} free text
+Q 5199 [gaps] This app is used {1} (find) new music.
+  {1} free text
+Q 5201 [gaps] I do exercise {1} (reduce) stress.
+  {1} free text
+Q 5202 [gaps] I shop online {1} (save) time.
+  {1} free text
+Q 5205 [gaps] This park is the perfect place {1} (picnics).
+  {1} free text
+Q 5203 [gaps] You can go to the library {1} (find) articles for your project.
+  {1} free text
+Q 5204 [gaps] They use social media {1} (entertainment).
+  {1} free text
+Q 5206 [gaps] A pen is {1} (write).
+  {1} free text
+Q 5207 [gaps] He studied a lot {1} (get) good marks.
+  {1} free text
+Q 5208 [gaps] She worked very hard {1} (a promotion).
+  {1} free text
+
+=== PAGE /grammar-points/a1/would-like/ | Would you like…? I’d like… | level a1
+--- QUIZ 601
+CONTEXT:
+Exercise 1
+ Read the following sentences with Do you want or I want and write sentences with the same meaning using would you like or I’d like.
+ EXAMPLES:
+ I want some coffee. ⇒ I’d like some coffee.
+ Do you want some coffee? ⇒ Would you like some coffee?
+Q 5149 [gaps] I want to go out tonight. ⇒ {1} tonight.
+  {1} free text
+Q 5150 [gaps] Do you want to come with us? ⇒ {1} with us?
+  {1} free text
+Q 5151 [gaps] Do you want a sandwich? ⇒ {1} a sandwich?
+  {1} free text
+Q 5152 [gaps] I want a bottle of water, please. ⇒ {1} a bottle of water, please.
+  {1} free text
+Q 5153 [gaps] Where do you want to go? ⇒ Where {1} ?
+  {1} free text
+Q 5155 [gaps] I want to learn French. ⇒ {1} French.
+  {1} free text
+Q 5156 [gaps] What do you want for dessert? ⇒ What {1} for dessert?
+  {1} free text
+Q 5154 [gaps] I want to stay with you today. ⇒ {1} with you today.
+  {1} free text
+Q 5157 [gaps] Do you want to meet my family? ⇒ {1} my family?
+  {1} free text
+Q 5158 [gaps] I want an answer. ⇒ I {1} an answer.
+  {1} free text
+
+=== PAGE /grammar-points/a1/would-like/ | Would you like…? I’d like… | level a1
+--- QUIZ 602
+CONTEXT:
+Exercise 2
+ Choose the correct forms to complete the following sentences.
+Q 5159 [radio] I _____ travel to Spain one day.
+ 8099) A. 'd like
+ 8100) B. like
+ 8101) C. would like to
+Q 5160 [radio] I _____ playing computer games with my friends.
+ 8102) A. like
+ 8103) B. 'd like
+ 8104) C. 'd like to
+Q 5161 [radio] A: _____ a glass of water? B: Yes, please. I'm thirsty.
+ 8105) A. Do you like
+ 8106) B. Would you like
+ 8107) C. I'd like
+Q 5162 [radio] Susan _____ to work in our school next year.
+ 8108) A. would like
+ 8109) B. likes
+ 8110) C. like
+Q 5163 [radio] What time would you like _____ this evening?
+ 8111) A. to have dinner
+ 8112) B. having dinner
+ 8113) C. have dinner
+Q 5164 [radio] I'm tired. I'd like _____ early today.
+ 8114) A. going to bed
+ 8115) B. go to bed
+ 8116) C. to go to bed
+Q 5165 [radio] We _____ watching TV during dinner.
+ 8117) A. 'd like
+ 8118) B. like
+ 8119) C. 'd like to
+Q 5166 [radio] A: _____ your new job? B: Yes, it's fantastic.
+ 8120) A. Do you like
+ 8121) B. Would you like
+ 8122) C. I'd like
+Q 5167 [radio] A: _____ something to eat? B: No, thanks. I'm not hungry.
+ 8123) A. Do you like
+ 8124) B. I'd like
+ 8125) C. Would you like
+Q 5168 [radio] I _____ to travel more often.
+ 8126) A. 'd like
+ 8127) B. like
+ 8128) C. enjoy
+
+=== PAGE /grammar-points/a1/would-like/ | Would you like…? I’d like… | level a1
+--- QUIZ 603
+CONTEXT:
+Exercise 3
+ Fill in the gaps using ‘d like or like(s), do you like or would you like.
+Q 5169 [gaps] I {1} to help her, but I can't.
+  {1} free text
+Q 5170 [gaps] A: {1} ice cream? B: Yes, I love it.
+  {1} free text
+Q 5171 [gaps] I {1} going on holiday with my family.
+  {1} free text
+Q 5172 [gaps] I {1} to go on holiday with my family this summer.
+  {1} free text
+Q 5173 [gaps] What {1} to watch tonight?
+  {1} free text
+Q 5174 [gaps] A: {1} some coffee? B: Yes, please.
+  {1} free text
+Q 5175 [gaps] A: {1} coffee? B: Not really. I prefer tea.
+  {1} free text
+Q 5176 [gaps] When {1} to visit us?
+  {1} free text
+Q 5177 [gaps] I think he {1} asking questions.
+  {1} free text
+Q 5178 [gaps] We {1} to ask you a few questions.
+  {1} free text
+
+=== PAGE /grammar-points/a1/imperative-sit-dont-talk/ | The imperative: Sit down! Don’t talk! | level a1
+--- QUIZ 592
+CONTEXT:
+Exercise 1
+ Look at the pictures and complete the sentences using an imperative in positive or negative form. Use the verbs in the box.
+ be – drink – drive – fish – smoke – stop – talk – turn – turn off – wash – write
+ EXAMPLE: Stop the car.
+Q 5059 [gaps] Please, {1} .
+  {1} free text
+Q 5060 [gaps] {1} in this area.
+  {1} free text
+Q 5061 [gaps] {1} your mobile phone.
+  {1} free text
+Q 5062 [gaps] {1} right.
+  {1} free text
+Q 5063 [gaps] Please, {1} in this area.
+  {1} free text
+Q 5064 [gaps] {1} your name here.
+  {1} free text
+Q 5065 [gaps] {1} careful. The floor is wet.
+  {1} free text
+Q 5066 [gaps] {1} your hands.
+  {1} free text
+Q 5067 [gaps] {1} slowly.
+  {1} free text
+Q 5068 [gaps] {1} this water.
+  {1} free text
+
+=== PAGE /grammar-points/a1/imperative-sit-dont-talk/ | The imperative: Sit down! Don’t talk! | level a1
+--- QUIZ 593
+CONTEXT:
+Exercise 2
+ Choose the correct forms to complete the following sentences.
+Q 5069 [radio] _____ to the cinema. There is a good film today.
+ 8019) A. You go
+ 8020) B. Don't go
+ 8021) C. Let's go
+Q 5070 [radio] _____ candy. It's bad for your teeth.
+ 8022) A. You don't eat
+ 8023) B. Let's eat
+ 8024) C. Don't eat
+Q 5071 [radio] _____ to the party. I'm very tired and I want to go to bed.
+ 8025) A. Let's don't go
+ 8026) B. You don't go
+ 8027) C. Let's not go
+Q 5072 [radio] _____ here, please.
+ 8028) A. Come
+ 8029) B. You come
+ 8030) C. Let's come
+Q 5073 [radio] _____ this book. It's horrible.
+ 8031) A. Let's read
+ 8032) B. Don't read
+ 8033) C. You don't read
+Q 5074 [radio] _____ the window, please. It's very cold outside.
+ 8034) A. You don't open
+ 8035) B. Open
+ 8036) C. Don't open
+Q 5075 [radio] _____ the light, please. It's very dark.
+ 8037) A. Let's turn on
+ 8038) B. Don't turn
+ 8039) C. Turn on
+Q 5076 [radio] _____ sad for me. I'm OK.
+ 8040) A. Aren't
+ 8041) B. Don't be
+ 8042) C. You not be
+Q 5077 [radio] The fridge is empty. _____ to a restaurant today.
+ 8043) A. Let's go
+ 8044) B. You go
+ 8045) C. Don't go
+Q 5078 [radio] A: '_____ a piece of cake.' B: 'Thanks.'
+ 8046) A. Let's have
+ 8047) B. Have
+ 8048) C. Don't have
+
+=== PAGE /grammar-points/a1/imperative-sit-dont-talk/ | The imperative: Sit down! Don’t talk! | level a1
+--- QUIZ 594
+CONTEXT:
+Exercise 3
+ Write the correct imperative form or let’s + verb forms to complete the following sentences. Use the same verb used in the previous sentence.
+ EXAMPLE: A: ‘Let’s play tennis.’ B:’No, let’s not play tennis.
+Q 5079 [gaps] A: 'I'll turn off the TV.' B: 'No, {1} the TV, please.
+  {1} free text
+Q 5080 [gaps] A: 'I'll call you this evening.' B: 'Yes, {1} me this evening, please.'
+  {1} free text
+Q 5081 [gaps] A: 'Do you want to listen to music.' B: 'Yes, {1} to music.'
+  {1} free text
+Q 5082 [gaps] A: 'Let's go to the cinema.' B: 'No, {1} to the cinema. Let's stay home and watch TV.'
+  {1} free text
+Q 5083 [gaps] A: 'I will wake you up at 7.' B: 'No, {1} me up at 7. It's too early.
+  {1} free text
+Q 5084 [gaps] A: 'I will clean the fridge.' B: 'Yes, {1} the fridge, please. It's very dirty.
+  {1} free text
+Q 5085 [gaps] A: 'I will open a bottle of wine.' B: 'No, {1} a bottle of wine, please. I prefer beer.
+  {1} free text
+Q 5086 [gaps] A: 'Would you like to have a picnic in the park?' B: 'Yes, {1} a picnic in the park. What a great idea!'
+  {1} free text
+Q 5087 [gaps] A: 'I will order some pizza.' B:'Yes, {1} some pizza, please. I am too tired to cook.
+  {1} free text
+Q 5088 [gaps] A: 'Do you want to talk about work?' B: 'No, {1} about work. Let's talk about something different.'
+  {1} free text
+
+=== PAGE /grammar-points/a1/next-to-under-between-in-front-behind-etc/ | Next to, under, between, in front of, behind, over, etc. | level a1
+--- QUIZ 589
+CONTEXT:
+Exercise 1
+ Look at the pictures and choose the correct prepositions of place.
+Q 5030 [gaps] There is a cat {1} the table.
+  {1} options: next to | under | above | between | behind
+Q 5031 [gaps] The woman is sleeping {1} the books.
+  {1} options: above | next to | behind | in front of | under
+Q 5032 [gaps] There are some clouds {1} the building.
+  {1} options: beside | above | behind | under | opposite
+Q 5033 [gaps] Janet is sitting {1} Tom.
+  {1} options: next to | in front of | behind | between | opposite
+Q 5034 [gaps] There is a cat {1} the dogs.
+  {1} options: between | beside | above | in front of | under
+Q 5035 [gaps] Janet is sitting {1} Tom.
+  {1} options: in front of | behind | next to | between | opposite
+Q 5036 [gaps] Janet is sitting {1} a blond woman.
+  {1} options: in front of | beside | above | opposite | behind
+Q 5037 [gaps] Linda is sitting {1} Jack and Harry.
+  {1} options: between | behind | opposite | next to | above
+Q 5038 [gaps] The ball is {1} the net.
+  {1} options: under | over | behind | beside | in front of
+Q 5039 [gaps] The dog is standing {1} the cat.
+  {1} options: behind | next to | between | in front of | opposite

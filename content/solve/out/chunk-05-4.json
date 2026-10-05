@@ -1,0 +1,1075 @@
+{
+ "8975": {
+  "choices": [
+   15853
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because a <strong>blouse</strong> has buttons; the other options are plural."
+ },
+ "8976": {
+  "choices": [
+   15856
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because when hot, we <strong>take off</strong> a jacket."
+ },
+ "8977": {
+  "choices": [
+   15860
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because we wear <strong>socks</strong> on our feet."
+ },
+ "8978": {
+  "choices": [
+   15863
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because a <strong>skirt</strong> shows your legs."
+ },
+ "8979": {
+  "choices": [
+   15869
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because <strong>shoes</strong> can hurt your feet."
+ },
+ "8980": {
+  "choices": [
+   15873
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because a <strong>sweater</strong> is warm and worn over a T-shirt."
+ },
+ "8981": {
+  "choices": [
+   15875
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>take off</strong> your hat before entering."
+ },
+ "8982": {
+  "choices": [
+   15880
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because shoes that are too big are the wrong <strong>size</strong>."
+ },
+ "8983": {
+  "choices": [
+   15886
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because we wear <strong>shorts</strong> in summer instead of trousers."
+ },
+ "8984": {
+  "choices": [
+   15889
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because <strong>getting dressed</strong> needs no object."
+ },
+ "8985": {
+  "gaps": [
+   [
+    "shirt"
+   ]
+  ],
+  "feedback": "Correct answer: shirt<br>‣ A white <strong>shirt</strong> with a suit."
+ },
+ "8986": {
+  "gaps": [
+   [
+    "jeans"
+   ]
+  ],
+  "feedback": "Correct answer: jeans<br>‣ A pair of blue <strong>jeans</strong>."
+ },
+ "8987": {
+  "gaps": [
+   [
+    "put on"
+   ]
+  ],
+  "feedback": "Correct answer: put on<br>‣ <strong>Put on</strong> your jacket."
+ },
+ "8988": {
+  "gaps": [
+   [
+    "underpants"
+   ]
+  ],
+  "feedback": "Correct answer: underpants<br>‣ <strong>Underpants</strong> go under trousers."
+ },
+ "8989": {
+  "gaps": [
+   [
+    "boots"
+   ]
+  ],
+  "feedback": "Correct answer: boots<br>‣ We wear <strong>boots</strong> on rainy days."
+ },
+ "8990": {
+  "gaps": [
+   [
+    "get dressed"
+   ]
+  ],
+  "feedback": "Correct answer: get dressed<br>‣ <strong>Get dressed</strong> after a shower."
+ },
+ "8991": {
+  "gaps": [
+   [
+    "fit"
+   ]
+  ],
+  "feedback": "Correct answer: fit<br>‣ Shoes that are too small don't <strong>fit</strong>."
+ },
+ "8992": {
+  "gaps": [
+   [
+    "gloves"
+   ]
+  ],
+  "feedback": "Correct answer: gloves<br>‣ <strong>Gloves</strong> keep hands warm."
+ },
+ "8993": {
+  "gaps": [
+   [
+    "tie"
+   ]
+  ],
+  "feedback": "Correct answer: tie<br>‣ A black <strong>tie</strong> with a suit."
+ },
+ "8994": {
+  "gaps": [
+   [
+    "suits"
+   ]
+  ],
+  "feedback": "Correct answer: suits<br>‣ Men at conferences wear <strong>suits</strong>."
+ },
+ "8995": {
+  "gaps": [
+   [
+    "pants"
+   ]
+  ],
+  "feedback": "Correct answer: pants<br>‣ A new pair of <strong>pants</strong>."
+ },
+ "8996": {
+  "gaps": [
+   [
+    "scarf"
+   ]
+  ],
+  "feedback": "Correct answer: scarf<br>‣ A <strong>scarf</strong> goes around the neck."
+ },
+ "8997": {
+  "gaps": [
+   [
+    "take off"
+   ]
+  ],
+  "feedback": "Correct answer: take off<br>‣ <strong>Take off</strong> your shoes."
+ },
+ "8998": {
+  "gaps": [
+   [
+    "dress"
+   ]
+  ],
+  "feedback": "Correct answer: dress<br>‣ A long <strong>dress</strong>."
+ },
+ "8999": {
+  "gaps": [
+   [
+    "hat"
+   ]
+  ],
+  "feedback": "Correct answer: hat<br>‣ A <strong>hat</strong> goes on the head."
+ },
+ "9000": {
+  "gaps": [
+   [
+    "try on"
+   ]
+  ],
+  "feedback": "Correct answer: try on<br>‣ <strong>Try on</strong> clothes before buying."
+ },
+ "9001": {
+  "gaps": [
+   [
+    "size"
+   ]
+  ],
+  "feedback": "Correct answer: size<br>‣ A larger <strong>size</strong>."
+ },
+ "9002": {
+  "gaps": [
+   [
+    "hang up"
+   ]
+  ],
+  "feedback": "Correct answer: hang up<br>‣ <strong>Hang up</strong> your coat."
+ },
+ "9003": {
+  "gaps": [
+   [
+    "wear"
+   ]
+  ],
+  "feedback": "Correct answer: wear<br>‣ <strong>Wear</strong> a uniform."
+ },
+ "9004": {
+  "gaps": [
+   [
+    "the laundry"
+   ]
+  ],
+  "feedback": "Correct answer: the laundry<br>‣ <strong>Do the laundry</strong> = wash clothes."
+ },
+ "9459": {
+  "gaps": [
+   [
+    "like"
+   ],
+   [
+    "lays"
+   ],
+   [
+    "spends"
+   ],
+   [
+    "where"
+   ],
+   [
+    "Although",
+    "Though",
+    "While",
+    "Whilst"
+   ],
+   [
+    "most"
+   ],
+   [
+    "However"
+   ],
+   [
+    "out",
+    "out carefully"
+   ]
+  ],
+  "feedback": "Correct answers: 1. like, 2. lays, 3. spends, 4. where, 5. Although, 6. most, 7. However, 8. out<br>‣ Key points: 'look like', 'lay eggs', 'spend time', relative 'where', 'although' for contrast, superlative 'most', 'watch out for'."
+ },
+ "9460": {
+  "choices": [
+   16624
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>turn up</strong> = be found or appear."
+ },
+ "9461": {
+  "choices": [
+   16627
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because we say something <strong>gives clues</strong> about something."
+ },
+ "9462": {
+  "choices": [
+   16634
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because <strong>suggests that</strong> = indicates."
+ },
+ "9463": {
+  "choices": [
+   16635
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>remarkable</strong> = impressive, worth noticing; it fits the positive context."
+ },
+ "9464": {
+  "choices": [
+   16641
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because we say <strong>spark interest</strong>."
+ },
+ "9465": {
+  "choices": [
+   16643
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>provide insights into</strong> is the correct collocation."
+ },
+ "9466": {
+  "choices": [
+   16650
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because <strong>a sign of</strong> = evidence of."
+ },
+ "9467": {
+  "choices": [
+   16653
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because <strong>Despite</strong> + noun shows contrast."
+ },
+ "9468": {
+  "gaps": [
+   [
+    "talented"
+   ],
+   [
+    "abilities",
+    "ability"
+   ],
+   [
+    "musical"
+   ],
+   [
+    "development"
+   ],
+   [
+    "regularly"
+   ],
+   [
+    "persistent"
+   ],
+   [
+    "simply"
+   ],
+   [
+    "difficulties",
+    "difficulty"
+   ]
+  ],
+  "feedback": "Correct answers: 1. talented, 2. abilities, 3. musical, 4. development, 5. regularly, 6. persistent, 7. simply, 8. difficulties<br>‣ Word formation: adjective (talented, musical, persistent), noun (abilities, development, difficulties), adverb (regularly, simply)."
+ },
+ "9469": {
+  "gaps": [
+   [
+    "haven't been",
+    "have not been",
+    "haven't ever been"
+   ]
+  ],
+  "feedback": "Correct answer: haven't been<br>‣ Present perfect negative for a period up to now: 'I <strong>haven't been</strong> to New York in over two years'."
+ },
+ "9470": {
+  "gaps": [
+   [
+    "even though there",
+    "even if there"
+   ]
+  ],
+  "feedback": "Correct answer: even though there<br>‣ <strong>even though</strong> + clause replaces 'in spite of' + noun."
+ },
+ "9471": {
+  "gaps": [
+   [
+    "if he had played the",
+    "if he played the",
+    "if he'd played the"
+   ]
+  ],
+  "feedback": "Correct answer: if he had played the<br>‣ Reported yes/no questions use <strong>if</strong> + backshift (past simple → past perfect)."
+ },
+ "9472": {
+  "gaps": [
+   [
+    "is believed to"
+   ]
+  ],
+  "feedback": "Correct answer: is believed to<br>‣ Passive reporting structure: <strong>is believed to</strong> + infinitive."
+ },
+ "9473": {
+  "gaps": [
+   [
+    "turned down",
+    "has turned down"
+   ]
+  ],
+  "feedback": "Correct answer: turned down<br>‣ <strong>turn down</strong> = reject."
+ },
+ "9474": {
+  "gaps": [
+   [
+    "come by",
+    "stop by",
+    "drop by",
+    "swing by",
+    "pop by"
+   ]
+  ],
+  "feedback": "Correct answer: come by<br>‣ <strong>come/stop/drop by</strong> = visit briefly."
+ },
+ "9475": {
+  "choices": [
+   16658
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because the first paragraph explains why he longed to leave the city for the mountains."
+ },
+ "9476": {
+  "choices": [
+   16661
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because he lists his compass, map, tent, sleeping bag, water and food, and starts at the perfect time."
+ },
+ "9477": {
+  "choices": [
+   16666
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because after realising the bear was outraged, he voices what the bear seems to be thinking."
+ },
+ "9478": {
+  "choices": [
+   16668
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because he crept forward without sudden moves, then picked up the pace because bears can run fast."
+ },
+ "9479": {
+  "choices": [
+   16671
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because something was rummaging outside – the bear was going through his backpack."
+ },
+ "9480": {
+  "choices": [
+   16677
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because the bear came back and ate the food he had left outside, so he says he'll never leave food out again."
+ },
+ "9481": {
+  "choices": [
+   16681
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because it describes what the Paris Agreement is, which follows the mention of its signing."
+ },
+ "9482": {
+  "choices": [
+   16686
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because 'Additionally' adds to the reporting requirement: their data must show reduced emissions."
+ },
+ "9483": {
+  "choices": [
+   16698
+  ],
+  "feedback": "‣ <strong>F</strong> is correct because 'First and foremost' introduces the first of the 'several key steps', followed by 'Furthermore'."
+ },
+ "9484": {
+  "choices": [
+   16701
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because 'This' refers to education about natural resources, which should include alternative energy."
+ },
+ "9485": {
+  "choices": [
+   16711
+  ],
+  "feedback": "‣ <strong>E</strong> is correct because 'in this area' refers to energy-efficient building design."
+ },
+ "9486": {
+  "choices": [
+   16717
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because 'This sector' refers to the automotive industry developing electric vehicles."
+ },
+ "9497": {
+  "choices": [
+   16763
+  ],
+  "feedback": "‣ <strong>Section C</strong> is correct because 'Gaining confidence and accumulating experience was immensely satisfying'."
+ },
+ "9498": {
+  "choices": [
+   16769
+  ],
+  "feedback": "‣ <strong>Section D</strong> is correct because competition conditions can never be predicted, 'leading to a lot of waiting and anticipation'."
+ },
+ "9499": {
+  "choices": [
+   16771
+  ],
+  "feedback": "‣ <strong>Section A</strong> is correct because his father decided to move closer to the mountains."
+ },
+ "9500": {
+  "choices": [
+   16777
+  ],
+  "feedback": "‣ <strong>Section B</strong> is correct because he climbed all year, braving the cold winters."
+ },
+ "9501": {
+  "choices": [
+   16785
+  ],
+  "feedback": "‣ <strong>Section E</strong> is correct because 'Seeing the excitement on my students' faces… is priceless'."
+ },
+ "9502": {
+  "choices": [
+   16788
+  ],
+  "feedback": "‣ <strong>Section C</strong> is correct because 'Convincing them that I was a serious climber was a gradual process'."
+ },
+ "9503": {
+  "choices": [
+   16791
+  ],
+  "feedback": "‣ <strong>Section A</strong> is correct because his father, realising his thirst for climbing, moved the family closer to the mountains."
+ },
+ "9504": {
+  "choices": [
+   16800
+  ],
+  "feedback": "‣ <strong>Section E</strong> is correct because he breaks down every move he has made instinctively for years."
+ },
+ "9505": {
+  "choices": [
+   16802
+  ],
+  "feedback": "‣ <strong>Section B</strong> is correct because he never let being the youngest climber deter him."
+ },
+ "9506": {
+  "choices": [
+   16809
+  ],
+  "feedback": "‣ <strong>Section D</strong> is correct because he earned the respect of fellow climbers, who began to acknowledge his skill."
+ },
+ "9507": {
+  "choices": [
+   16811
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because the writer says Trevex had everything available so employees could work without interference from the outside world."
+ },
+ "9508": {
+  "choices": [
+   16814
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because Trevex offered excellent vacation time, a gym, a spa and subsidised excursions."
+ },
+ "9509": {
+  "choices": [
+   16816
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because the writer says the criticism was not fair and saw nothing wrong with the company's approach."
+ },
+ "9510": {
+  "choices": [
+   16817
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because staff turnover was high, with many experiencing burnout."
+ },
+ "9511": {
+  "choices": [
+   16819
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because no one was forced to work overtime, 'although most chose to do so'."
+ },
+ "9512": {
+  "choices": [
+   16822
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because the changes were a '180-degree turnaround', not slight changes."
+ },
+ "9513": {
+  "choices": [
+   16824
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because mental health care was something they had overlooked in the past."
+ },
+ "9514": {
+  "choices": [
+   16826
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because they now have more people on the payroll than ever before."
+ },
+ "9515": {
+  "choices": [
+   16828
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because the writer says 'I don't think people want different things now'."
+ },
+ "9516": {
+  "choices": [
+   16829
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because the pandemic gave people a chance to reflect on what is important, so they no longer assume work is the only option."
+ },
+ "9517": {
+  "choices": [
+   16832
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because he felt loved by four people, which made him very self-confident."
+ },
+ "9518": {
+  "choices": [
+   16837
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because his grandparents' stricter views influenced his parents."
+ },
+ "9519": {
+  "choices": [
+   16841
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because it got easier when both mums became active in the school community."
+ },
+ "9520": {
+  "choices": [
+   16843
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because the girl was used to gay couples and found a straight couple kissing confusing."
+ },
+ "9521": {
+  "choices": [
+   16848
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because her dad worked long hours and was often too tired to spend time with her."
+ },
+ "9522": {
+  "choices": [
+   16851
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because as she got older, she realised how hard he worked and was inspired by him."
+ },
+ "9561": {
+  "gaps": [
+   [
+    "make"
+   ]
+  ],
+  "feedback": "Correct answer: make<br>‣ <strong>make</strong> someone do something = cause them to do it."
+ },
+ "9562": {
+  "gaps": [
+   [
+    "is made"
+   ]
+  ],
+  "feedback": "Correct answer: is made<br>‣ <strong>be made from</strong> = produced from a material."
+ },
+ "9563": {
+  "gaps": [
+   [
+    "do"
+   ]
+  ],
+  "feedback": "Correct answer: do<br>‣ <strong>do</strong> something to help (general activity)."
+ },
+ "9564": {
+  "gaps": [
+   [
+    "did"
+   ]
+  ],
+  "feedback": "Correct answer: did<br>‣ <strong>do errands</strong>."
+ },
+ "9565": {
+  "gaps": [
+   [
+    "do"
+   ]
+  ],
+  "feedback": "Correct answer: do<br>‣ <strong>do someone good</strong> = benefit them."
+ },
+ "9566": {
+  "gaps": [
+   [
+    "made"
+   ]
+  ],
+  "feedback": "Correct answer: made<br>‣ <strong>make a complaint</strong>."
+ },
+ "9567": {
+  "gaps": [
+   [
+    "made"
+   ]
+  ],
+  "feedback": "Correct answer: made<br>‣ <strong>make someone do</strong> something = force them."
+ },
+ "9568": {
+  "gaps": [
+   [
+    "haven’t done"
+   ]
+  ],
+  "feedback": "Correct answer: haven’t done<br>‣ <strong>do the laundry</strong>."
+ },
+ "9569": {
+  "gaps": [
+   [
+    "made"
+   ]
+  ],
+  "feedback": "Correct answer: made<br>‣ <strong>make an offer</strong>."
+ },
+ "9570": {
+  "gaps": [
+   [
+    "do"
+   ]
+  ],
+  "feedback": "Correct answer: do<br>‣ <strong>do someone a favour</strong>."
+ },
+ "9593": {
+  "choices": [
+   17015
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>made of</strong> gold (material)."
+ },
+ "9594": {
+  "choices": [
+   17016
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>do anything</strong> for general activities."
+ },
+ "9595": {
+  "choices": [
+   17018
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>do chores</strong>."
+ },
+ "9596": {
+  "choices": [
+   17021
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>make a decision</strong>."
+ },
+ "9597": {
+  "choices": [
+   17022
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>make someone sleepy</strong> = cause a feeling."
+ },
+ "9598": {
+  "choices": [
+   17024
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>do well</strong> in tests."
+ },
+ "9599": {
+  "choices": [
+   17027
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>do your nails</strong>."
+ },
+ "9600": {
+  "choices": [
+   17029
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>made in</strong> a country (produced)."
+ },
+ "9601": {
+  "choices": [
+   17030
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>make a fortune</strong>."
+ },
+ "9602": {
+  "choices": [
+   17032
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>make a fuss</strong>."
+ },
+ "9635": {
+  "choices": [
+   17109
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because we say <strong>keen on</strong> + -ing."
+ },
+ "9636": {
+  "choices": [
+   17114
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because we <strong>play</strong> tennis."
+ },
+ "9637": {
+  "choices": [
+   17119
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because <strong>enjoyed</strong> + -ing; the other options need 'was' before them."
+ },
+ "9638": {
+  "choices": [
+   17121
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>for fun</strong> = for enjoyment."
+ },
+ "9639": {
+  "choices": [
+   17126
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because <strong>be into</strong> something = be very interested in it."
+ },
+ "9640": {
+  "choices": [
+   17128
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because we <strong>take</strong> photos."
+ },
+ "9641": {
+  "choices": [
+   17135
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because we <strong>do</strong> crafts."
+ },
+ "9642": {
+  "choices": [
+   17139
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because growing flowers is <strong>gardening</strong>."
+ },
+ "9643": {
+  "choices": [
+   17141
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because you catch fish when <strong>fishing</strong>."
+ },
+ "9644": {
+  "gaps": [
+   [
+    "collecting"
+   ]
+  ],
+  "feedback": "Correct answer: collecting<br>‣ We <strong>collect</strong> stamps."
+ },
+ "9645": {
+  "gaps": [
+   [
+    "going"
+   ]
+  ],
+  "feedback": "Correct answer: going<br>‣ <strong>Go to</strong> the cinema."
+ },
+ "9646": {
+  "gaps": [
+   [
+    "playing"
+   ]
+  ],
+  "feedback": "Correct answer: playing<br>‣ <strong>Play</strong> the piano."
+ },
+ "9647": {
+  "gaps": [
+   [
+    "keen"
+   ]
+  ],
+  "feedback": "Correct answer: keen<br>‣ <strong>Keen on</strong> + noun/-ing."
+ },
+ "9648": {
+  "gaps": [
+   [
+    "about"
+   ]
+  ],
+  "feedback": "Correct answer: about<br>‣ <strong>Crazy about</strong>."
+ },
+ "9649": {
+  "gaps": [
+   [
+    "doing"
+   ]
+  ],
+  "feedback": "Correct answer: doing<br>‣ <strong>Do</strong> pottery."
+ },
+ "9650": {
+  "gaps": [
+   [
+    "play"
+   ]
+  ],
+  "feedback": "Correct answer: play<br>‣ <strong>used to</strong> + base form."
+ },
+ "9651": {
+  "gaps": [
+   [
+    "working out"
+   ]
+  ],
+  "feedback": "Correct answer: working out<br>‣ <strong>Work out</strong> at the gym."
+ },
+ "9652": {
+  "gaps": [
+   [
+    "of"
+   ]
+  ],
+  "feedback": "Correct answer: of<br>‣ <strong>Fond of</strong>."
+ },
+ "9653": {
+  "gaps": [
+   [
+    "singing"
+   ]
+  ],
+  "feedback": "Correct answer: singing<br>‣ People sing in a choir."
+ },
+ "9654": {
+  "gaps": [
+   [
+    "into"
+   ],
+   [
+    "playing"
+   ],
+   [
+    "keen"
+   ],
+   [
+    "learning"
+   ],
+   [
+    "crazy"
+   ],
+   [
+    "doing"
+   ],
+   [
+    "of"
+   ],
+   [
+    "watching"
+   ],
+   [
+    "taking"
+   ],
+   [
+    "cooking"
+   ]
+  ],
+  "feedback": "Correct answers: 1. into, 2. playing, 3. keen, 4. learning, 5. crazy, 6. doing, 7. of, 8. watching, 9. taking, 10. cooking<br>‣ Key phrases: 'into swimming', 'keen on singing', 'crazy about painting', 'doing crafts', 'fond of playing', 'taking photos', 'keen on cooking'."
+ },
+ "9655": {
+  "choices": [
+   17144
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>crazy about</strong> = very enthusiastic about."
+ },
+ "9677": {
+  "choices": [
+   17194
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because the main verb is past simple 'had' (possession), so the tag uses <strong>didn't he</strong>."
+ },
+ "9678": {
+  "choices": [
+   17196
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because we use <strong>their</strong> to refer to 'someone' when the gender is unknown."
+ },
+ "9679": {
+  "choices": [
+   17200
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>cut himself</strong> needs a reflexive pronoun, but 'shave' normally doesn't."
+ },
+ "9680": {
+  "choices": [
+   17205
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because past perfect continuous for the duration up to a past moment, and past simple <strong>realised</strong> (a stative verb)."
+ },
+ "9681": {
+  "choices": [
+   17207
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>get someone to do</strong> something."
+ },
+ "9682": {
+  "choices": [
+   17214
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because <strong>might have said</strong> expresses possibility about the past."
+ },
+ "9683": {
+  "choices": [
+   17216
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because perfect infinitive <strong>to have forgotten</strong> refers to an earlier action."
+ },
+ "9684": {
+  "choices": [
+   17220
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>whether or not</strong> = in either case."
+ },
+ "9685": {
+  "choices": [
+   17223
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because mixed conditional: past condition, present result → <strong>would be</strong>."
+ },
+ "9686": {
+  "choices": [
+   17227
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>'d better not</strong> gives strong advice."
+ },
+ "9687": {
+  "choices": [
+   17234
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because <strong>appear to be</strong> = seem to be."
+ },
+ "9688": {
+  "choices": [
+   17236
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because after 'neither' we invert: <strong>neither will you</strong>."
+ },
+ "9689": {
+  "choices": [
+   17239
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>a friend of yours</strong> uses a possessive pronoun."
+ },
+ "9690": {
+  "choices": [
+   17246
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because future perfect <strong>will have prepared</strong> for an action completed before a future time."
+ },
+ "9691": {
+  "choices": [
+   17249
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because the past participle clause <strong>Left in the sun</strong> has a passive meaning (the paint was left)."
+ },
+ "9985": {
+  "gaps": [
+   [
+    "who"
+   ],
+   [
+    "was"
+   ],
+   [
+    "where"
+   ],
+   [
+    "was given"
+   ],
+   [
+    "However"
+   ],
+   [
+    "until"
+   ],
+   [
+    "has acted"
+   ],
+   [
+    "both"
+   ],
+   [
+    "Due to"
+   ],
+   [
+    "has had"
+   ],
+   [
+    "cheating"
+   ],
+   [
+    "so"
+   ],
+   [
+    "was filming"
+   ],
+   [
+    "were killed"
+   ],
+   [
+    "been played"
+   ]
+  ],
+  "feedback": "Correct answers: 1. who, 2. was, 3. where, 4. was given, 5. However, 6. until, 7. has acted, 8. both, 9. Due to, 10. has had, 11. cheating, 12. so, 13. was filming, 14. were killed, 15. been played<br>‣ Key points: relative 'who' for people, 'where' for places, passive 'was given', 'not… until', present perfect 'has acted/has had', 'both… and', 'apologise for + -ing', 'so + adjective + that', past perfect passive 'had been played'."
+ }
+}

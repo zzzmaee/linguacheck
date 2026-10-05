@@ -1,0 +1,1736 @@
+
+=== PAGE /exams/ielts/ielts-exam-1-general-training-reading/
+Q 10060 [radio] 35 Maria Wilson fears that...
+ 18209) A. US legislation to protect us from AI is wrong.
+ 18210) B. she will be unable to keep up with AI.
+ 18211) C. the way she works will have to change.
+ 18212) D. she will be made redundant.
+  SITE FEEDBACK: ‣ This is reflected in Maria Wilson's comment in paragraph B that AI can now create illustrations similar to hers, such as a double-page spread for children's books, in much less time than it takes her. Her concern is specifically about AI's ability to do what she does, thereby potentially rendering her role unnecessary or redundant. /  ‣ Option A is incorrect because Maria Wilson points out that the guidelines in the USA are not law, and that they don't go far enough. So, she doesn't say the legislation in the US is wrong; she says that there is no actual law, and that the guidelines that exist are insufficient. /  ‣ Option B is incorrect because Maria Wilson does not explicitly express fear about her inability to keep up with AI. Her concern is more about the existential threat AI poses to her profession due to its ability to quickly and efficiently produce similar artistic works. The fear is not about keeping pace with AI in terms of productivity or learning but rather about the redundancy of her job role because AI can replicate her work rapidly.
+Q 10061 [radio] 36 The author thinks AI's visual creations...
+ 18213) A. save considerable time.
+ 18214) B. should be clearly labelled.
+ 18215) C. can spark armed conflict.
+ 18216) D. need better laws to avoid confusion.
+  SITE FEEDBACK: ‣ The author complains that AI-generated images are 'flooding the internet' and 'are not always labelled "AI-generated" or simply "fake"', which suggests the author thinks they should be clearly labelled.
+Q 10062 [gaps] Since its introduction, AI has transformed various industries by enhancing 37 {1} and reshaping technology, with its capabilities expanding from text generation to creating realistic voice-overs, although it also raises significant concerns despite its 38 {2} . One major fear is its impact on jobs. Another is the ability of AI to generate fake visual content in light of the way we 39 {3} and the rapidity with which misinformation spreads. AIs are also subject to bias and diminishing accuracy because the data we input into them come from limited 40 {4} . Efforts to address such concerns through legislation are laudable, but it is doubtful that the law can keep up with technology.
+  {1} free text
+  {2} free text
+  {3} free text
+  {4} free text
+  SITE FEEDBACK: Feedback /  37 Correct answer: productivity /  ‣ This fits the context as the text in Paragraph A mentions that AI has been revolutionizing industry and upping productivity. /  38 Correct answer: benefits /  ‣ The text in Paragraph A states "While the benefits are remarkable, there is a real fear of AI," making "benefits" the appropriate word to fill this blank. /  39 Correct answer: process images /  ‣ In Paragraph C, the text discusses issues related to AI-generated visual content and how our brains process images much faster than text, hence "process images" is suitable. /  40 Correct answer: sources /  ‣ As discussed in Paragraph D, the data AI learns from comes from limited sources, which leads to biases and diminished accuracy.
+
+=== PAGE /reading/b1-b2/the-alcohol-free-month-challenge-b1-english-reading-test/
+Q 10041 [radio] Gap 1
+ 18101) A. Other studies show positive effects on physical health of drinking less.
+ 18102) B. Its goal is to reduce any form of damage caused by alcohol.
+ 18103) C. In the U.S., 15% of the adult population, which totals more than 260 million, committed to participating.
+ 18104) D. And for some people, stopping drinking for a while might just make them drink even more later.
+ 18105) E. Later, Alcohol Change UK turned her idea into an official campaign in 2013.
+ 18106) F. However, for those who struggle with alcohol, it might not be helpful and could even be harmful.
+ 18107) G. The initiative is also gaining popularity internationally, especially among young folks, as a common New Year's resolution.
+  SITE FEEDBACK: ‣ In this sentence, the term "later" refers to the year "2013", when Alcohol Change UK officially adopted Emily Robinson's initiative. The use of "her" clearly connects back to Emily Robinson, linking the development of the campaign directly to her initial idea introduced earlier in "2011".
+Q 10042 [radio] Gap 2
+ 18108) A. Other studies show positive effects on physical health of drinking less.
+ 18109) B. Its goal is to reduce any form of damage caused by alcohol.
+ 18110) C. In the U.S., 15% of the adult population, which totals more than 260 million, committed to participating.
+ 18111) D. And for some people, stopping drinking for a while might just make them drink even more later.
+ 18112) E. Later, Alcohol Change UK turned her idea into an official campaign in 2013.
+ 18113) F. However, for those who struggle with alcohol, it might not be helpful and could even be harmful.
+ 18114) G. The initiative is also gaining popularity internationally, especially among young folks, as a common New Year's resolution.
+  SITE FEEDBACK: ‣ This sentence expands on the idea that Dry January "gained popularity", specifically noting it as a common New Year's resolution, which was introduced in the previous sentence. It seamlessly connects to the following sentence through the mention of "this time of the year," clarifying that New Year's is traditionally a time for setting goals, thus contextualizing why Dry January has become popular.
+Q 10043 [radio] Gap 3
+ 18115) A. Other studies show positive effects on physical health of drinking less.
+ 18116) B. Its goal is to reduce any form of damage caused by alcohol.
+ 18117) C. In the U.S., 15% of the adult population, which totals more than 260 million, committed to participating.
+ 18118) D. And for some people, stopping drinking for a while might just make them drink even more later.
+ 18119) E. Later, Alcohol Change UK turned her idea into an official campaign in 2013.
+ 18120) F. However, for those who struggle with alcohol, it might not be helpful and could even be harmful.
+ 18121) G. The initiative is also gaining popularity internationally, especially among young folks, as a common New Year's resolution.
+  SITE FEEDBACK: ‣ This sentence effectively links to the discussion of Dry January's rising popularity in the UK by introducing similar trends in the US. It shows that the initiative's popularity is not limited to the UK but is also increasing significantly in the US. This expansion sets the stage for the following sentence, which mentions "This increase in interest across the globe," further emphasizing the worldwide appeal and adoption of Dry January.
+Q 10044 [radio] Gap 4
+ 18122) A. Other studies show positive effects on physical health of drinking less.
+ 18123) B. Its goal is to reduce any form of damage caused by alcohol.
+ 18124) C. In the U.S., 15% of the adult population, which totals more than 260 million, committed to participating.
+ 18125) D. And for some people, stopping drinking for a while might just make them drink even more later.
+ 18126) E. Later, Alcohol Change UK turned her idea into an official campaign in 2013.
+ 18127) F. However, for those who struggle with alcohol, it might not be helpful and could even be harmful.
+ 18128) G. The initiative is also gaining popularity internationally, especially among young folks, as a common New Year's resolution.
+  SITE FEEDBACK: ‣ This sentence referring to "other studies" logically follows the mention of "One study" in the previous sentence, creating a cohesive argument about the benefits of Dry January. It transitions from the specific findings of a single study, which observed reduced drinking habits post-Dry January, to broader research outcomes. By highlighting "other studies", it reinforces and broadens the evidence base, suggesting that the positive effects on physical health are consistent and well-supported across multiple studies.
+Q 10045 [radio] Gap 5
+ 18129) A. Other studies show positive effects on physical health of drinking less.
+ 18130) B. Its goal is to reduce any form of damage caused by alcohol.
+ 18131) C. In the U.S., 15% of the adult population, which totals more than 260 million, committed to participating.
+ 18132) D. And for some people, stopping drinking for a while might just make them drink even more later.
+ 18133) E. Later, Alcohol Change UK turned her idea into an official campaign in 2013.
+ 18134) F. However, for those who struggle with alcohol, it might not be helpful and could even be harmful.
+ 18135) G. The initiative is also gaining popularity internationally, especially among young folks, as a common New Year's resolution.
+  SITE FEEDBACK: ‣ This sentence introduces a contrast by shifting the focus from the likely benefits for "people who usually drink in moderation," mentioned in the previous sentence, to the challenges faced by "those who struggle with alcohol." This contrast effectively links the general effectiveness of Dry January for moderate drinkers to its potential drawbacks for those with more severe alcohol issues. The discussion is then expanded in the following sentence, which further explains how Dry January might not be beneficial and could even be harmful for this latter group.
+Q 10046 [radio] Gap 6
+ 18136) A. Other studies show positive effects on physical health of drinking less.
+ 18137) B. Its goal is to reduce any form of damage caused by alcohol.
+ 18138) C. In the U.S., 15% of the adult population, which totals more than 260 million, committed to participating.
+ 18139) D. And for some people, stopping drinking for a while might just make them drink even more later.
+ 18140) E. Later, Alcohol Change UK turned her idea into an official campaign in 2013.
+ 18141) F. However, for those who struggle with alcohol, it might not be helpful and could even be harmful.
+ 18142) G. The initiative is also gaining popularity internationally, especially among young folks, as a common New Year's resolution.
+  SITE FEEDBACK: ‣ This sentence provides a specific example of the potential negative effects mentioned in the previous sentence, where it was noted that Dry January "might not do much good in the long run". It illustrates the scenario where stopping drinking temporarily could lead some individuals to "drink even more later." This detail effectively exemplifies one of the complex outcomes for those who may struggle with deeper issues related to alcohol, thus providing a concrete example of how Dry January could inadvertently contribute to unhealthy drinking patterns in the long term.
+
+=== PAGE /grammar-points/b2/comparative-structures-modifying-comparatives/
+Q 10102 [radio] That car isn't nearly as safe as people think. = That car is...
+ 18241) A. safer than people think.
+ 18242) B. much more dangerous than people think.
+ 18243) C. a little more dangerous than people think.
+  SITE FEEDBACK: ‣ We can modify the comparative form as + adjective + as to describe a big difference. To do this, we can add nowhere near, not nearly, or not at all before the first as. /  ‣ We can also use quite, much, a lot, far, or a good deal with comparative adjectives to describe a big difference.
+Q 10103 [radio] The movie was nowhere near as entertaining as I expected. = The movie was...
+ 18244) A. more entertaining than I expected.
+ 18245) B. much less entertaining than I expected.
+ 18246) C. a little less entertaining than I expected.
+  SITE FEEDBACK: ‣ We can modify the comparative form as + adjective + as to describe a big difference. To do this, we can add nowhere near, not nearly, or not at all before the first as. /  ‣ We can also use quite, much, a lot, far, or a good deal with comparative adjectives to describe a big difference.
+Q 10111 [radio] The workload is not much heavier than it was last week. = The workload is...
+ 18268) A. slightly lighter than it was last week.
+ 18269) B. a bit heavier than it was last week.
+ 18270) C. almost as heavy as it was last week.
+  SITE FEEDBACK: ‣ We can use a bit, a little, slightly, not much with comparative adjectives to describe small differences.
+Q 10104 [radio] She's far more talented than her peers realise. = She is...
+ 18247) A. nowhere near as talented as her peers realise.
+ 18248) B. a good deal more talented than her peers realise.
+ 18249) C. nearly as talented as her peers realise.
+  SITE FEEDBACK: ‣ We can use quite, much, a lot, far, or a good deal with comparative adjectives to describe a big difference.
+Q 10105 [radio] The journey to the summit was roughly as challenging as we anticipated. = The journey to the summit was...
+ 18250) A. slightly less challenging than we anticipated.
+ 18251) B. not nearly as challenging than we anticipated.
+ 18252) C. almost as challenging as we anticipated.
+  SITE FEEDBACK: ‣ We can use the modifiers almost, nearly, not quite, roughly, more or less, just, or exactly before the structure as + adjective + as or before the same as to describe an (almost) inexistent difference.
+Q 10106 [radio] The party was not at all as fun as last year's. = The party was...
+ 18253) A. much less fun than last year's.
+ 18254) B. far more fun than last year's.
+ 18255) C. a bit less fun than last year's.
+  SITE FEEDBACK: ‣ We can modify the comparative form as + adjective + as to describe a big difference. To do this, we can add nowhere near, not nearly, or not at all before the first as. /  ‣ We can also use quite, much, a lot, far, or a good deal with comparative adjectives to describe a big difference.
+Q 10110 [radio] The temperature outside is slightly more comfortable than yesterday. = The temperature outside is...
+ 18265) A. a bit less comfortable than yesterday.
+ 18266) B. not quite as comfortable as yesterday.
+ 18267) C. not much more comfortable than yesterday.
+  SITE FEEDBACK: ‣ We can use a bit, a little, slightly, not much with comparative adjectives to describe small differences.
+Q 10107 [radio] This task is by far the simplest. = This task is...
+ 18256) A. nowhere near as complex as the others.
+ 18257) B. a bit simpler than the others.
+ 18258) C. not nearly as simple as the others
+  SITE FEEDBACK: ‣ We can use by far with superlative adjectives to emphasise the greatest difference among a group.
+Q 10108 [radio] His presentation was just as captivating as hers. = His presentation was...
+ 18259) A. slightly more captivating than hers.
+ 18260) B. nearly as captivating as hers.
+ 18261) C. exactly as captivating as hers.
+  SITE FEEDBACK: ‣ We can use the modifiers almost, nearly, not quite, roughly, more or less, just, or exactly before the structure as + adjective + as or before the same as to describe an (almost) inexistent difference. /  ‣ The form just as means exactly as.
+Q 10109 [radio] The new laptop is a bit less powerful than I anticipated. = The new laptop is...
+ 18262) A. slightly less powerful than I anticipated.
+ 18263) B. not nearly as powerful as I anticipated.
+ 18264) C. roughly as powerful as I anticipated.
+  SITE FEEDBACK: ‣ We can use a bit, a little, slightly, not much with comparative adjectives to describe small differences.
+
+=== PAGE /vocabulary/b1/news-and-media-b1-english-vocabulary/
+Q 9963 [radio] She bought the car after seeing a cool _____ in the newspaper.
+ 17903) A. ad
+ 17904) B. commercial
+ 17905) C. headline
+ 17906) D. broadcast
+  SITE FEEDBACK: ‣ An advertisement, or ad, is a message in a newspaper, online, on TV, or on a poster that tells people about a product, event, or job. A commercial is the American word for ads broadcast on television or radio.
+
+=== PAGE /reading/b1/actors-who-died-on-set-b1-english-reading-test/
+Q 9939 [radio] _____ kept on working after being badly hurt.
+ 17806) A. Brandon Lee
+ 17807) B. Vic Morrow
+ 17808) C. Jon-Erik Hexum
+ 17809) D. Roy Kinnear
+ 17810) E. Steve Irwin
+  SITE FEEDBACK: ‣ The text says, "Kinnear was determined to continue filming and completed his scenes." This shows us he kept working even after he got hurt.
+Q 9942 [radio] _____ died in a tragic accident that affected other actors.
+ 17821) A. Brandon Lee
+ 17822) B. Vic Morrow
+ 17823) C. Jon-Erik Hexum
+ 17824) D. Roy Kinnear
+ 17825) E. Steve Irwin
+  SITE FEEDBACK: ‣ It says, "Morrow and the two young actors lost their lives immediately," meaning his accident also affected others.
+Q 9943 [radio] _____ officially died almost a week after his accident.
+ 17826) A. Brandon Lee
+ 17827) B. Vic Morrow
+ 17828) C. Jon-Erik Hexum
+ 17829) D. Roy Kinnear
+ 17830) E. Steve Irwin
+  SITE FEEDBACK: ‣ The text explains, "despite emergency surgery, he was pronounced brain dead six days later," which tells us he died almost a week after the accident.
+Q 9944 [radio] _____ died as a result of his careless behavior with a dangerous object.
+ 17831) A. Brandon Lee
+ 17832) B. Vic Morrow
+ 17833) C. Jon-Erik Hexum
+ 17834) D. Roy Kinnear
+ 17835) E. Steve Irwin
+  SITE FEEDBACK: ‣ The text says he "was playing with a gun used in one of the scenes... as a joke." This was careless behaviour with a dangerous object.
+Q 9946 [radio] _____ was killed in an accident that showed behaviors against the law.
+ 17841) A. Brandon Lee
+ 17842) B. Vic Morrow
+ 17843) C. Jon-Erik Hexum
+ 17844) D. Roy Kinnear
+ 17845) E. Steve Irwin
+  SITE FEEDBACK: ‣ The text mentions, "the film director was found guilty of having children working near explosives illegally," which shows the accident involved illegal actions.
+
+=== PAGE /reading/b2/am-i-in-a-toxic-relationship-b2-english-reading-test/
+Q 9933 [radio] The writer describes a toxic relationship as...
+ 17782) A. a long-term relationship where the people involved feel unappreciated.
+ 17783) B. a connection which is constantly dominated by negative experiences.
+ 17784) C. a romantic bond in which each party feels threatened by the other.
+ 17785) D. a family that lacks support and understanding between members.
+  SITE FEEDBACK: ‣ In this question, the text mentions negative experiences such as feeling unsupported, misunderstood, demeaned, or attacked within a toxic relationship. It also refers to the dynamics where "the bad consistently outweighs the good," indicating that these negative experiences are not one-off occurrences but are persistent and dominate the relationship. These are the types of experiences that lead to the undermining of one's well-being, both emotionally and psychologically, and sometimes even physically, which supports the choice of Option B.
+Q 9934 [radio] According to the writer, one of the most obvious signs of psychological abuse is...
+ 17786) A. a constant feeling of loneliness and isolation.
+ 17787) B. an intense fear of being physically harmed.
+ 17788) C. repeated occurrences that show lack of respect and appreciation.
+ 17789) D. continuous unjust accusations of being at fault in any situation.
+  SITE FEEDBACK: ‣ The text identifies that "according to many, however, what makes toxicity apparent in a relationship are frequent situations of consistent disrespect, where you don't feel appreciated or are even insulted." This clearly indicates that consistent disrespect and a lack of appreciation are not just signs of toxicity but are among the most obvious and recognisable signs, thus directly correlating with Option C.
+Q 9935 [radio] Which mental effects of a toxic relationship does the writer mention?
+ 17790) A. The inability to have a good night’s sleep.
+ 17791) B. The gradual loss of confidence in oneself.
+ 17792) C. The lack of financial independence.
+ 17793) D. The need to avoid emotional connections.
+  SITE FEEDBACK: ‣ The writer mentions that toxic relationships can lead to "a steady decrease of self-worth and self-esteem," which directly corresponds to losing confidence in oneself. Option A is mentioned in the text, but not as a mental but a physical effect, and options C, and D are not specifically mentioned in the passage as mental effects.
+Q 9936 [radio] What is the purpose of ‘gaslighting’?
+ 17794) A. To influence an individual by making them doubt their own perceptions.
+ 17795) B. To control someone’s behavior by using threats.
+ 17796) C. To dominate a relationship by reacting in an aggressive manner.
+ 17797) D. To manipulate people’s thoughts and feelings by making them feel guilty.
+  SITE FEEDBACK: ‣ "Gaslighting" is described in the text as a manipulative technique where facts are altered or withheld, causing the victim to question their own senses and thoughts, aligning directly with option A.
+Q 9938 [radio] What does the writer imply about the issue of toxic interactions online?
+ 17802) A. Despite their efforts, digital platforms are unable to deal with it effectively.
+ 17803) B. Introducing boundaries as protection against it is as effective as in the real world.
+ 17804) C. Relevant mindful content is more accessible and widespread nowadays.
+ 17805) D. Their impact on the victim’s well-being is equal to that in real-life relationships.
+  SITE FEEDBACK: ‣ The text states that toxic behaviour through digital mediums can affect mental and emotional health just as profoundly as face-to-face interactions, indicating that the impact is considered equal, as stated in option D.
+
+=== PAGE /vocabulary/a2/say-tell-speak-talk-etc-a2-english-vocabulary/
+Q 9905 [radio] I raised my hand to ______ the teacher's question.
+ 17718) A. ask
+ 17719) B. answer
+ 17720) C. reply
+ 17721) D. tell
+  SITE FEEDBACK: ‣ When you answer a person, or you answer a question, you provide a response to someone’s question, request or problem. /  ‣ The verb reply is used to indicate a response to any form of communication, not just questions, and it is followed by to: reply to an email, a letter, a comment, etc.
+Q 9906 [radio] Our boss has ______ a meeting this afternoon.
+ 17722) A. asked
+ 17723) B. answered
+ 17724) C. complained
+ 17725) D. requested
+  SITE FEEDBACK: ‣ Request is similar to ask for but much more formal, so when you request something, you ask for it in an official or formal context.
+Q 9907 [radio] He was so angry that he started ______ at us.
+ 17726) A. yelling
+ 17727) B. complaining
+ 17728) C. screaming
+ 17729) D. saying
+  SITE FEEDBACK: ‣ When you yell or shout, you talk very loudly. If you yell, it is usually because you are angry or very upset. But shout can be for many reasons, like if someone is far away and can’t hear you. Scream is different. When people scream, they are usually scared or hurt. It is a very loud and high sound.
+Q 9908 [radio] I rang the reception desk to ______ some clean towels.
+ 17730) A. ask
+ 17731) B. ask for
+ 17732) C. beg for
+ 17733) D. suggest
+  SITE FEEDBACK: ‣ When you ask for something, you ask someone to give you something or do something for you. Request has the same meaning, although it is more formal. /  ‣ When you beg (someone) for something, you ask for something in an insistent, desperate manner, and you don't normally do this when you call the reception of a hotel.
+Q 9909 [radio] Aki's mother is from Japan, so he can ______ Japanese very well.
+ 17734) A. talk
+ 17735) B. tell
+ 17736) C. speak
+ 17737) D. yell
+  SITE FEEDBACK: ‣ When you speak or talk to someone, you communicate with them using words. The two verbs are often interchangeable; however, speak is used in more formal contexts, and it is the verb we use in reference to languages: “She speaks English.”
+Q 9910 [radio] Sam ______ he was feeling tired.
+ 17738) A. said
+ 17739) B. told
+ 17740) C. suggested
+ 17741) D. requested
+  SITE FEEDBACK: ‣ You tell somebody (something), or you say something (to somebody).
+Q 9911 [radio] "Why don't we open the window?" Mary ______.
+ 17742) A. complained
+ 17743) B. suggested
+ 17744) C. screamed
+ 17745) D. requested
+  SITE FEEDBACK: ‣ When you complain about something, you say you are not happy with something. For example, if you get bad food or service at a restaurant, you might complain. When you suggest something or doing something, you give an idea or a plan to someone. You might suggest going to a different restaurant next time.
+Q 9913 [radio] The man ______ me that he was going to visit his sister.
+ 17750) A. said
+ 17751) B. spoke
+ 17752) C. talked
+ 17753) D. told
+  SITE FEEDBACK: ‣ You tell somebody (something), or you say something (to somebody).
+Q 9914 [radio] When she saw the snake, she _____ in terror.
+ 17754) A. shouted
+ 17755) B. screamed
+ 17756) C. yelled
+ 17757) D. whispered
+  SITE FEEDBACK: ‣ When you yell or shout, you talk very loudly. If you yell, it is usually because you are mad or very upset. But shout can be for many reasons, like if someone is far away and can’t hear you. Scream is different. When people scream, they are usually scared or hurt. It is a very loud and high sound.
+
+=== PAGE /grammar-points/a2/may-and-might-whats-the-difference/
+Q 9855 [radio] If you’ve finished your test, you ______ leave the classroom.
+ 17648) A. may
+ 17649) B. might
+ 17650) C. Both A and B are correct.
+  SITE FEEDBACK: ‣ We can use may and may not (but NOT might/might not) to give and deny someone permission to do something.
+Q 9856 [radio] They say it ______ rain this evening, so I’m bringing an umbrella.
+ 17651) A. may
+ 17652) B. might
+ 17653) C. Both A and B are correct.
+  SITE FEEDBACK: ‣ Both may and might can be used to indicate the possibility of something happening in the future.
+Q 9857 [radio] No, you ______ have another biscuit. You’ve already had six!
+ 17654) A. may not
+ 17655) B. might not
+ 17656) C. Both A and B are correct.
+  SITE FEEDBACK: ‣ We can use may and may not (but NOT might/might not) to give and deny someone permission to do something.
+Q 9858 [radio] I think she ______ be married. She’s wearing a ring.
+ 17657) A. might
+ 17658) B. may
+ 17659) C. Both A and B are correct.
+  SITE FEEDBACK: ‣ Both may and might can be used to speculate about the present: to say that maybe something is true.
+Q 9859 [radio] The boys are hungry, so I ______ give them their lunch early.
+ 17660) A. might
+ 17661) B. may
+ 17662) C. Both A and B are correct.
+  SITE FEEDBACK: ‣ Both may and might can be used to indicate the possibility of something happening in the future.
+Q 9860 [radio] He ______ go out until he's tidied his room.
+ 17663) A. may not
+ 17664) B. might not
+ 17665) C. Both A and B are correct.
+  SITE FEEDBACK: ‣ We can use may and may not (but NOT might/might not) to give and deny someone permission to do something.
+Q 9861 [radio] I think my mother ______ be angry when I tell her what happened.
+ 17666) A. might
+ 17667) B. may
+ 17668) C. Both A and B are correct.
+  SITE FEEDBACK: ‣ Both may and might can be used to speculate about the present: to say that maybe something is true.
+Q 9862 [radio] You ______ choose any of these options.
+ 17669) A. may
+ 17670) B. might
+ 17671) C. Both A and B are correct.
+  SITE FEEDBACK: ‣ We can use may and may not (but NOT might/might not) to give and deny someone permission to do something.
+Q 9863 [radio] Lucy didn’t have any wine with her dinner. I think she ______ be pregnant.
+ 17672) A. might
+ 17673) B. may
+ 17674) C. Both A and B are correct.
+  SITE FEEDBACK: ‣ Both may and might can be used to speculate about the present: to say that maybe something is true.
+Q 9864 [radio] Sara ______ be a bit late for the party because she must visit her mother first.
+ 17675) A. may
+ 17676) B. might
+ 17677) C. Both A and B are correct.
+  SITE FEEDBACK: ‣ Both may and might can be used to indicate the possibility of something happening in the future.
+
+=== PAGE /vocabulary/a1/the-house-rooms-parts-and-things-a1-english-vocabulary/
+Q 9825 [radio] I keep all the clean dishes on a _____ over the sink.
+ 17568) A. wardrobe
+ 17569) B. bookshelf
+ 17570) C. shelf
+ 17571) D. fridge
+  SITE FEEDBACK: ‣ Some people have shelves on their kitchen walls, and they store plates, glasses glasses, or dishes on those shelves.
+Q 9834 [radio] They use an old _____ to cook their meals.
+ 17604) A. fridge
+ 17605) B. stove
+ 17606) C. kitchen
+ 17607) D. sink
+  SITE FEEDBACK: ‣ A stove (US) or cooker (UK) is a kitchen appliance used for cooking or heating food.
+
+=== PAGE /reading/b1/a-town-that-lives-in-one-building-b1-english-reading/
+Q 9808 [radio] Which adjective would better describe Whittier?
+ 17550) A. remote
+ 17551) B. reachable
+ 17552) C. mountainous
+  SITE FEEDBACK: The text describes Whittier as a "hidden gem" that is "challenging to access," with the only ways to reach or leave the town being by ferry or through a one-lane tunnel. These descriptions suggest that Whittier is not easily accessible, implying a sense of seclusion or distance from other places.
+Q 9809 [radio] If you are going to Whittier through the tunnel...
+ 17553) A. your only option is to take a train.
+ 17554) B. you can't use the tunnel while other people are leaving.
+ 17555) C. you can go by car at any time.
+  SITE FEEDBACK: According to the text, the tunnel to Whittier is single-laned and supports one-way traffic at a time. The schedule dictates when cars and trains can use the tunnel, meaning at any given time, only one mode of transportation or direction is permitted.
+Q 9810 [radio] According to the text,...
+ 17556) A. having a town in one building is not ideal.
+ 17557) B. the school is in the same building.
+ 17558) C. the town's church is in the Begich Towers.
+  SITE FEEDBACK: The Begich Towers is the name of the building, and the text mentions that residents "don't have to brave the cold weather every time they need to run an errand or go to church," which means they don't have to go outside to do those things.
+Q 9811 [radio] The towers were built...
+ 17559) A. to protect the soldiers from the weather.
+ 17560) B. to accommodate an expanding population.
+ 17561) C. to mark Whittier's transformation.
+  SITE FEEDBACK: The text explicitly states, "Initially, wooden camps housed the soldiers, but as the need for more permanent structures grew with the increasing population, two significant buildings were erected: the once largest building in Alaska, the Buckner Building, and the Begich Towers." This sentence directly links the construction of the Begich Towers (and the Buckner Building) to the need for more permanent accommodations due to a growing population.
+
+=== PAGE /vocabulary/b1-b2/fears-and-phobias-b1-english-vocabulary/
+Q 9725 [radio] Matt tried to ______ his younger brother by reading him a scary ghost story.
+ 17334) A. fright
+ 17335) B. overcome
+ 17336) C. spook
+ 17337) D. fear
+  SITE FEEDBACK: ‣ If something spooks you, it makes you feel scared in a ghostly way.
+Q 9727 [radio] My sister’s feather ______ means we can’t have a pet bird.
+ 17342) A. terror
+ 17343) B. fright
+ 17344) C. arachnophobia
+ 17345) D. phobia
+  SITE FEEDBACK: ‣ A phobia is an irrational fear of a particular thing or concept.
+Q 9729 [radio] I wanted to tell my boss what I really thought, but I ______ and kept quiet.
+ 17350) A. freaked out
+ 17351) B. lost my nerve
+ 17352) C. overcame
+ 17353) D. startled
+  SITE FEEDBACK: ‣ If you lose your nerve, you lose the courage or confidence to do something difficult or unpleasant.
+Q 9733 [radio] Oh gosh! You ______! I didn’t know you were at home.
+ 17366) A. gave me the creeps
+ 17367) B. made me jump
+ 17368) C. conquered
+ 17369) D. overcame
+  SITE FEEDBACK: ‣ When something startles you or makes you jump, it happens unexpectedly and gives you a fright.
+Q 9736 [gaps] The idea of a global pandemic became the {1} that worried governments and citizens alike.
+  {1} options: scared to death | conquer | bogey | give me the creeps | horrified | fright | frightening | chills | haunted | startled
+  SITE FEEDBACK: Correct answer: scary /  ‣ A bogey, or bogie is something that many people are scared or worried about, often without reason. The word bogeyman, which is an imaginary evil spirit oten used to scare children, comes from this term.
+
+=== PAGE /vocabulary/b1/the-body-parts-and-actions-b1-english-vocabulary/
+Q 9660 [radio] Ben ______ the last biscuit off the plate before anyone else could take it.
+ 17164) A. held
+ 17165) B. grabbed
+ 17166) C. yawned
+ 17167) D. tasted
+  SITE FEEDBACK: ‣ When you grab something, you take it in your hand or pick it up suddenly or forcefully.
+Q 9662 [radio] I knew the child was tired because he couldn’t stop ______.
+ 17172) A. smelling
+ 17173) B. yawning
+ 17174) C. sweating
+ 17175) D. bending down
+  SITE FEEDBACK: ‣ When you yawn, you involuntarily open your mouth because you are tired.
+Q 9663 [radio] My ______ were hurting after wearing uncomfortable shoes all day.
+ 17176) A. cheeks
+ 17177) B. pecs
+ 17178) C. thighs
+ 17179) D. heels
+  SITE FEEDBACK: ‣ Your heel is the bottom part of your foot, just below your ankle.
+
+=== PAGE /grammar-points/a1/the-difference-between-this-and-it/
+Q 9706 [radio] I’m cold because _____ is windy.
+ 17261) A. this
+ 17262) B. it
+  SITE FEEDBACK: ‣ It is used to talk about times, dates, weather, and distances.
+Q 9709 [radio] _____ is ten miles from my house to the nearest train station.
+ 17267) A. This
+ 17268) B. It
+  SITE FEEDBACK: ‣ It is used to talk about times, dates, weather, and distances.
+Q 9708 [radio] _____ was a surprise to see my cousin at the party.
+ 17265) A. This
+ 17266) B. It
+  SITE FEEDBACK: ‣ We use It’s + adjective + to-infinitive.
+Q 9707 [radio] _____ is time for dinner.
+ 17263) A. This
+ 17264) B. It
+  SITE FEEDBACK: ‣ It is used to talk about times, dates, weather, and distances.
+Q 9705 [radio] _____ is the best ice cream in town.
+ 17259) A. This
+ 17260) B. It
+  SITE FEEDBACK: ‣ You can use this to talk about something near you. It is like pointing your finger at something in front of you.
+Q 9710 [radio] This is my new guitar. My wife got _____ for my last birthday.
+ 17269) A. this
+ 17270) B. it
+  SITE FEEDBACK: ‣ We use it to talk about something that we mentioned, or that is known. It this sentence, it refers to the guitar.
+Q 9711 [radio] _____ cat is so friendly!
+ 17271) A. This
+ 17272) B. It
+  SITE FEEDBACK: ‣ You can use this to talk about something near you. It is like pointing your finger at something in front of you.
+
+=== PAGE /vocabulary/a2/hobbies-and-free-time-a2-english-vocabulary/
+Q 9635 [radio] I was keen _____ learning languages when I was at college.
+ 17108) A. of
+ 17109) B. on
+ 17110) C. about
+ 17111) D. in
+  SITE FEEDBACK: ‣ If you are fond of something, or if you are keen on something, you like it and enjoy doing it.
+Q 9636 [radio] Peter enjoys _____ tennis with his colleagues after work.
+ 17112) A. going
+ 17113) B. doing
+ 17114) C. playing
+ 17115) D. making
+  SITE FEEDBACK: ‣ We use the verb play both with sports and musical instruments.
+Q 9637 [radio] When I was a child, I really _____ painting.
+ 17116) A. fond of
+ 17117) B. keen on
+ 17118) C. crazy about
+ 17119) D. enjoyed
+  SITE FEEDBACK: ‣ We can use the verbs like, love and enjoy to talk about the hobbies and free-time activities we like.
+Q 9641 [radio] Nora loves _____ crafts and making homemade presents.
+ 17132) A. making
+ 17133) B. playing
+ 17134) C. going
+ 17135) D. doing
+  SITE FEEDBACK: ‣ Doing crafts involves creating handmade items as a hobby, like knitting, making jewelry, or scrapbooking.
+Q 9638 [radio] Although I used to be a chef, nowadays I just cook for ____.
+ 17120) A. enjoy
+ 17121) B. fun
+ 17122) C. crazy
+ 17123) D. enjoying
+  SITE FEEDBACK: ‣ When you do something for fun, you do it purely for enjoyment and not for payment or professional reasons.
+
+=== PAGE /reading/b2/the-most-sought-after-company-benefits-b2-english-reading-test/
+Q 9507 [radio] Before the pandemic, Trevex aimed to provide everything that staff needed.
+ 16811) A. True
+ 16812) B. False
+  SITE FEEDBACK: ‣ Before the pandemic, Trevex aimed to provide everything that staff needed, as indicated by the extensive list of perks and facilities mentioned.
+Q 9508 [radio] Before the pandemic, Trevex's benefits paid no attention to employees' leisure time.
+ 16813) A. True
+ 16814) B. False
+  SITE FEEDBACK: ‣ Trevex did pay attention to employees' leisure time before the pandemic, offering excellent vacation time, the option to buy extra days, a gym, a spa, and subsidized excursions.
+Q 9509 [radio] The writer somewhat agreed with the criticism of Trevex's employee benefits policy before the pandemic.
+ 16815) A. True
+ 16816) B. False
+  SITE FEEDBACK: ‣ The writer defends Trevex's employee benefits policy and does not show agreement with the criticism. She argues that wanting to get the most out of employees is not wrong, suggesting that she do not agree with the criticism that the company was turning employees into machines.
+Q 9510 [radio] Before the pandemic, staff often left Trevex despite its perks.
+ 16817) A. True
+ 16818) B. False
+  SITE FEEDBACK: ‣ Staff often left Trevex despite its perks, as indicated by the mention of high staff turnover and employees experiencing burnout.
+Q 9511 [radio] Before the pandemic, most people at Trevex worked more hours than they had to.
+ 16819) A. True
+ 16820) B. False
+  SITE FEEDBACK: ‣ Most people at Trevex worked more hours than they had to, as suggested by the text stating that no one was forced to work overtime, although most chose to do so.
+Q 9512 [radio] Trevex had to introduce some slight changes during the pandemic to avoid losing valuable staff members.
+ 16821) A. True
+ 16822) B. False
+  SITE FEEDBACK: ‣ The text describes the changes Trevex made during the pandemic as a "180-degree turnaround," which indicates a complete reversal or substantial change in their approach to work and employee benefits, not just slight changes.
+Q 9513 [radio] Trevex noticed it was essential to improve the mental healthcare they were offering before the pandemic.
+ 16823) A. True
+ 16824) B. False
+  SITE FEEDBACK: ‣ The text implies that Trevex overlooked the importance of mental healthcare before the pandemic. It was only after employees expressed the need for it during the pandemic that Trevex recognized mental health care as a high priority and implemented wellbeing and counselling initiatives.
+Q 9514 [radio] The number of staff employed at Trevex has decreased since the pandemic.
+ 16825) A. True
+ 16826) B. False
+  SITE FEEDBACK: ‣ The number of staff employed at Trevex has increased since the pandemic, not decreased. The text states that they have more people on the payroll than ever before, many working part-time or flexible hours.
+Q 9515 [radio] The writer thinks people's needs have changed since the pandemic.
+ 16827) A. True
+ 16828) B. False
+  SITE FEEDBACK: ‣ The writer does not believe that people's needs have changed since the pandemic. They express the view that people's desires have remained the same, but the pandemic has allowed for a reflection on what is truly important in life, leading to changes in company practices.
+Q 9516 [radio] According to the writer, the pandemic has changed people's attitudes to the role of work in their lives.
+ 16829) A. True
+ 16830) B. False
+  SITE FEEDBACK: ‣ According to the writer, the pandemic has changed people's attitude to the role of work in their lives, as indicated by the final paragraph discussing how the pandemic gave people a chance to reflect on what is important in life.
+
+=== PAGE /use-of-english/b2/b2-english-test-10-multiple-choice-questions/
+Q 9677 [radio] He had a big house by the beach, _____?
+ 17191) A. had he not
+ 17192) B. wouldn't he
+ 17193) C. hadn't he
+ 17194) D. didn't he
+  SITE FEEDBACK: ‣ Have is a main verb, NOT an auxiliary verb, when it means 'own' or 'possess'. This means that we need the verb do or another auxiliary verb to make questions, negatives, short answers, tag questions, etc. /  ‣ To review this grammar lesson, go to Grammar » B2 » "Have" – auxiliary or main verb
+Q 9678 [radio] Someone left _____ wallet in my taxi.
+ 17195) A. one's
+ 17196) B. their
+ 17197) C. its
+ 17198) D. theirs
+  SITE FEEDBACK: ‣ Someone is a singular word. /  ‣ In informal English, we use they, them or their to refer to a singular generic person who could be male or female. /  ‣ To review this grammar lesson, go to Grammar » B2 » Generic pronouns – common-gender pronouns.
+Q 9679 [radio] He cut _____ while he was shaving _____.
+ 17199) A. - / -
+ 17200) B. himself / -
+ 17201) C. - / himself
+ 17202) D. himself / himself
+  SITE FEEDBACK: ‣ Reflexive pronouns are normally used when a subject and an object are the same person: "He cut himself." /  ‣ Students of English often make mistakes when they use some verbs which are used reflexively in their language but not in English. Some of these verbs are dress, shave, wash, relax, hurry, or open. /  ‣ To review this grammar lesson, go to Grammar » B2 » Reflexive and reciprocal pronouns.
+Q 9680 [radio] He _____ for an hour when he _____ he was lost.
+ 17203) A. had been walking / was realising
+ 17204) B. had walked / was realising
+ 17205) C. had been walking / realised
+ 17206) D. had been walking / had realised
+  SITE FEEDBACK: ‣ In the first gap, we use the past perfect continuous because are describing a continuous action that had started earlier in the past and had not finished, or had just finished. /  ‣ In the second gap, We use the past simple to talk about a past event in chronological order. /  ‣ To review this grammar lesson, go to Grammar » B2 » Narrative tenses, used to, would
+Q 9681 [radio] You should ____ someone to fix this broken window.
+ 17207) A. get
+ 17208) B. have
+ 17209) C. make
+ 17210) D. be
+  SITE FEEDBACK: ‣ We can use get + someone + to do something to mean 'make or persuade someone to do something'. /  ‣ We could also say "have someone fix" (without to). /  ‣ To review this grammar lesson, go to Grammar » B2 » Get – different meanings.
+Q 9682 [radio] I'm not sure what I told him, but I _____ something wrong
+ 17211) A. 'm bound to say
+ 17212) B. might be saying
+ 17213) C. might say
+ 17214) D. might have said
+  SITE FEEDBACK: ‣ We use might/may have + past participle to say that it’s possible that something was true or happened in the past. /  ‣ The other forms are not used to talk about the past. /  ‣ To review this grammar lesson, go to Grammar » B2 » Speculation and deduction – modal verbs and expressions.
+Q 9684 [radio] I don't care if I'm not invited. I'll attend the event _____ I'm invited.
+ 17219) A. if
+ 17220) B. whether or not
+ 17221) C. provided
+ 17222) D. unless
+  SITE FEEDBACK: ‣ We use whether or not when there are two alternatives and we want to say that something will happen or will be true in any of those two alternatives. /  ‣ The meaning of this sentence is that it doesn't matter if I'm invited or not because I'll attend the event anyway. /  ‣ To review this grammar lesson, go to Grammar » B2 » Unless, even if, provided, as long as, etc. – other expressions in conditionals.
+Q 9686 [radio] You _____ forget to bring your passport to the airport tomorrow.
+ 17227) A. 'd better not
+ 17228) B. don't have to
+ 17229) C. 're not supposed
+ 17230) D. arent' allowed to
+  SITE FEEDBACK: ‣ We use had better + infinitive (without to) to talk about actions we think someone should or shouldn’t do. There is often a negative result if the action is carried out. /  ‣ To review this grammar lesson, go to Grammar » B2 » Modal verbs – permission, obligation, prohibition, necessity
+Q 9688 [radio] I won't listen to what he has to say, and neither ____.
+ 17235) A. won't you
+ 17236) B. will you
+ 17237) C. do you
+ 17238) D. you will
+  SITE FEEDBACK: ‣ We can use so/neither + auxiliary + subject to avoid repeating a clause when agreeing with someone. /  ‣ We use so to agree to a previous positive sentence and neither to a negative one. /  ‣ To review this grammar lesson, go to Grammar » B2 » Ellipsis and substitution
+Q 9689 [radio] Is she a friend of _____?
+ 17239) A. yours
+ 17240) B. Laura
+ 17241) C. yourself
+ 17242) D. their
+  SITE FEEDBACK: ‣ We use of + possessive 's or a possessive pronoun (mine, yours, his, etc.) if after a determiner (a, some, this, etc.) + nouns, e.g. a friend of mine. /  ‣ Possible correct answers for this sentence would be: /  a friend of yours /  a friend of Laura's /  a friend of theirs /  ‣ To review this grammar lesson, go to Grammar » B2 » Compound nouns and possessive forms.
+Q 9690 [radio] By the time you arrive, I _____ a delicious dinner, and it will be on the table with two candles.
+ 17243) A. 'm going to prepare
+ 17244) B. 'll prepare
+ 17245) C. 'll be preparing
+ 17246) D. 'll have prepared
+  SITE FEEDBACK: ‣ We use the future perfect for actions that will be completed before a specific time in the future. /  ‣ In this sentence, the action of preparing dinner will be completed before you arrive. /  ‣ To review this grammar lesson, go to Grammar » B2 » Future forms – expressing future time.
+Q 9691 [radio] _____ in the sun, the paint dried faster than expected.
+ 17247) A. We left it
+ 17248) B. Leaving it
+ 17249) C. Left
+ 17250) D. Leave it
+  SITE FEEDBACK: ‣ "Left in the sun" is a participle clause that means 'When the paint is left in the sun.' /  ‣ The subject of the verb in a participle clause and the subject of the verb in the main clause must be the same; in this case the subject is the paint. /  ‣ To review this grammar lesson, go to Grammar » B2 » Participle clauses.
+
+=== PAGE /reading/b1/different-family-types-b1-english-reading-test/
+Q 9517 [radio] Why does Jordan think he became a self-confident person?
+ 16831) A. He was the only child in the house.
+ 16832) B. He received a lot of love.
+ 16833) C. He learned from many different ideas and points of view.
+ 16834) D. Living with his family was comfortable.
+  SITE FEEDBACK: ‣ Jordan explicitly mentions the love and care from both his parents and grandparents, contributing to his self-confidence.
+Q 9518 [radio] According to Jordan, ...
+ 16835) A. he had enough privacy and alone time as a child.
+ 16836) B. he hated his grandparents' strict views.
+ 16837) C. his parents were more strict because of his grandparents.
+ 16838) D. he would have preferred to grow up in a normal family.
+  SITE FEEDBACK: ‣ Jordan notes that his grandparents' stricter views influenced his parents, affecting their flexibility towards him.
+Q 9519 [radio] What made life easier for Ashley at school?
+ 16839) A. His parents promised not to kiss in public.
+ 16840) B. His parents allowed him to have a friend to stay.
+ 16841) C. His parents participated in events at school.
+ 16842) D. His parents complained when he was teased.
+  SITE FEEDBACK: ‣ Ashley's experience at school improved as his parents became more involved in the school community, helping other parents to become more accepting of their family.
+Q 9520 [radio] Ashley mentions a little girl who got upset because…
+ 16843) A. she wasn’t used to seeing men and women being affectionate.
+ 16844) B. her parents wouldn’t let her spend time with straight families.
+ 16845) C. she'd never seen people kiss in front of her before.
+ 16846) D. she thought gay couples were confusing.
+  SITE FEEDBACK: ‣ The little girl was surprised because she normally saw same-sex couples, so seeing a man and woman being affectionate was new and confusing for her.
+Q 9521 [radio] What was Leah’s main experience of growing up in a single-parent family?
+ 16847) A. Her father gave her plenty of attention.
+ 16848) B. Her father spent little time with her.
+ 16849) C. She was teased for not having a mum.
+ 16850) D. She didn't have time for playing.
+  SITE FEEDBACK: ‣ Leah's narrative focuses on the absence of her father and because he had to work long work hours and how this made her always feel lonely.
+Q 9522 [radio] How has Leah changed over time?
+ 16851) A. She has become more appreciative of her father.
+ 16852) B. She has become more comfortable being by herself.
+ 16853) C. She has become less angry towards her mother.
+ 16854) D. She has become more responsible.
+  SITE FEEDBACK: ‣ Leah's perspective changed as she grew older, recognizing and valuing the effort her father put into raising her.
+
+=== PAGE /vocabulary/a1/clothes-a1-english-vocabulary/
+Q 8984 [radio] Anna is _____ in her bedroom.
+ 15887) A. putting on
+ 15888) B. taking off
+ 15889) C. getting dressed
+ 15890) D. fitting
+  SITE FEEDBACK: ‣ When you get dressed, you put on clothes.
+
+=== PAGE /exams/b2-first/b2-first-fce-exam-1-reading-and-use-of-english/
+Q 9460 [radio] Gap 1
+ 16623) A. about
+ 16624) B. up
+ 16625) C. on
+ 16626) D. over
+  SITE FEEDBACK: ‣ Turn up is a phrasal verb meaning to appear or be found, which is suitable in this context.
+Q 9461 [radio] Gap 2
+ 16627) A. gives
+ 16628) B. keeps
+ 16629) C. carries
+ 16630) D. brings
+  SITE FEEDBACK: ‣ Give clues is a common collocation that means to provide information or hints, fitting for describing how the composition of the inks reveals information about ancient methods and materials.
+Q 9464 [radio] Gap 5
+ 16639) A. produced
+ 16640) B. created
+ 16641) C. sparked
+ 16642) D. generated
+  SITE FEEDBACK: ‣ Spark interest is a very common phrase that means to create or generate interest.
+Q 9465 [radio] Gap 6
+ 16643) A. insights
+ 16644) B. views
+ 16645) C. visions
+ 16646) D. glimpses
+  SITE FEEDBACK: ‣ If you gain an insight into a complex situation or question, you gain an accurate and deep understanding of it.
+Q 9459 [gaps] The platypus is an unusual creature because it looks 9 {1} a bird, and it can swim, but it also lives on land. /  The platypus has soft brown fur, feet like a duck, a tail, and a bill. /  The platypus 10 {2} eggs and keeps them in a nest. It belongs to a species called 'Monotremes'. /  The platypus lives on an island called Tasmania, which is just south of Australia. It 11 {3} time in small rivers and streams 12 {4} it builds a home just above the water. 13 {5} the platypus can live on land, it prefers the water and spends about 12 hours per day swimming in the river. /  One of the 14 {6} interesting features of the platypus is its special electric sense. That means a platypus can locate its victim using an electric field in its bill. Only the dolphin shares this same ability. The platypus is a meat-eater, so it likes to eat fish and worms in the river. 15 {7} , the platypus has predators, too. It is a delicious meal for crocodiles and owls, so it must watch 16 {8} for these animals.
+  {1} free text
+  {2} free text
+  {3} free text
+  {4} free text
+  {5} free text
+  {6} free text
+  {7} free text
+  {8} free text
+  SITE FEEDBACK: 9 Correct answer: like /  ‣ The phrase look like is a common collocation used to describe similarity in appearance between two or more entities. In the context of this text, look like connects the platypus with the appearance of a bird. This phrasing implies a comparison or resemblance, suggesting that the platypus has certain features or qualities that are similar to a bird. /  10 Correct answer: lays /  ‣ Lays eggs is the right collocation for describing the reproduction process of certain animals, including the platypus. It's a specific phrase used in biology and natural sciences. /  11 Correct answer: spends /  ‣ The verb phrase spend time is a common collocation used to describe how an individual or animal uses their time. In this context, it refers to the platypus spending time in rivers and streams. /  12 Correct answer: where /  ‣ Where is a relative adverb used to refer to the place in which the platypus builds its home. /  13 Correct answer: Although /  ‣ Although is a conjunction used to introduce a contrast or exception; here, it contrasts the platypus's ability to live on land with its preference for water. /  14 Correct answer: most /  ‣ The phrase "one of the most" is a common collocation used when comparing multiple items or features and singling out a few as being at the highest degree of a particular quality. In this context, the word most is part of this collocative phrase. /  15 Correct answer: However /  ‣ However is used at the beginning of a sentence and before a comma to indicate contrast. /  16 Correct answer: out /  ‣ Out completes the phrasal verb "watch out," which means to be vigilant or careful, indicating the platypus must be cautious of predators.
+Q 9468 [gaps] Do you know how to play an instrument? Some people think you need to be very 17 {1} (TALENT) to play well. While that may be true, the best musicians are people who have dedicated a lot of practice to developing their 18 {2} (ABLE). The first step is to choose an instrument you really like to play. Then, it’s a good idea to find a good tutor who can show you the basic rules of music. Once you learn 19 {3} (MUSIC) theory, you can start to practice songs and pieces. It’s important to remember that ninety percent of your 20 {4} (DEVELOP) is practice, so put aside time to play your instrument 21 {5} (REGULAR). If you have a difficult technical part, go very slowly and repeat that part several times until you have mastered it. Never despair, and remain 22 {6} (PERSIST)! Rome wasn’t built in a day. Good musicians are 23 {7} (SIMPLE) people who love music so much that they devote their time and efforts to conquering the 24 {8} (DIFFICULT) of playing an instrument.
+  {1} free text
+  {2} free text
+  {3} free text
+  {4} free text
+  {5} free text
+  {6} free text
+  {7} free text
+  {8} free text
+  SITE FEEDBACK: Feedback /  17 Correct answer: talented /  ‣ An adjective is needed here. Talented describes someone who has natural aptitude or skill, which is appropriate in the context of playing an instrument. /  18 Correct answer: ability/abilities /  ‣ A noun is required. Abilities refers to the skills or competencies one possesses, fitting in the context of the development of a musician. /  19 Correct answer: musical /  ‣ An adjective form is needed, since it is used here to modify the word "theory." /  20 Correct answer: development /  ‣ A noun form is appropriate. Development refers to the process of developing or improving skills, suitable for describing progress in learning an instrument. /  21 Correct answer: regularly /  ‣ An adverb is required to describe the frequency of the action. Regularly means doing something frequently or at consistent intervals, crucial for effective practice. /  22 Correct answer: persistent /  ‣ An adjective form is needed, since this word is used after the verb remain, which means 'to continue to be'. /  23 Correct answer: simply /  ‣ An adverb form is appropriate here. Simply is used to emphasize the basic nature of musicians as individuals who love music, without any complexities. /  24 Correct answer: difficulty/difficulties /  ‣ A noun is needed. Difficulties refers to challenges or obstacles, fitting the context of learning and mastering the technical aspects of an instrument.
+Q 9475 [radio] 31 What is the writer’s purpose in the first paragraph?
+ 16655) A. to explain why he was having problems in the city.
+ 16656) B. to describe the beauty of the mountains.
+ 16657) C. to compare the city and the countryside.
+ 16658) D. to explain his motivation for his trip to Yellowstone park
+  SITE FEEDBACK: ‣ In this paragraph, the writer talks about feeling the need for a change from city life and expresses a longing for the tranquility and beauty of the mountains, which leads to the decision to visit Yellowstone Park. This sets the context for the rest of the narrative and establishes the writer's primary motivation for the journey.
+Q 9476 [radio] 32 What does the writer suggest about his knowledge of hiking and camping?
+ 16659) A. He’s a little inexperienced.
+ 16660) B. It’s his first time to Yellowstone Park.
+ 16661) C. He’s well-prepared for this trip.
+ 16662) D. He’s done detailed research of the region.
+  SITE FEEDBACK: ‣ The writer mentions gathering essential gear for the hike, including a compass and map, tent and sleeping bag, and sufficient water and food. This level of preparation indicates a good understanding of what is required for such an adventure, suggesting that the writer is well-prepared for the trip.
+Q 9477 [radio] 33 Why does the writer say in the third paragraph, ‘How dare I approach her family area!’
+ 16663) A. He’s angry the bear is approaching them.
+ 16664) B. He should have known better than to get into the bear's territory.
+ 16665) C. He walked near to a family of young bears.
+ 16666) D. He’s imagining what the bear is thinking.
+  SITE FEEDBACK: ‣ This statement reflects the writer's attempt to empathize with the bear and understand the situation from the bear's perspective. It suggests the writer is considering that the bear might be protective of its territory, particularly if it's an area where her family might be. This line indicates a moment of insight or reflection, rather than a statement of fact about the bear's motivations.
+Q 9478 [radio] 34 How did the writer react to the encounter with the bear?
+ 16667) A. He remained still and quiet for a while.
+ 16668) B. He moved away slowly and then quickly fled.
+ 16669) C. He let the dog guide him away from the scene.
+ 16670) D. He immediately ran as fast as he could.
+  SITE FEEDBACK: ‣ The writer describes initially creeping (=moving slowly) forward to avoid startling the bear, demonstrating a slow and cautious initial movement. Then, as concern about the bear possibly chasing them grows, the writer picks up the pace, indicating a quicker movement away from the bear. This sequence of actions aligns with option B, moving away slowly at first and then quickly fleeing the scene.
+Q 9479 [radio] 35 Why did the writer wake up in the middle of the night?
+ 16671) A. Something was touching his belongings.
+ 16672) B. His phone woke him.
+ 16673) C. Something touched the tent's fabric.
+ 16674) D. The sound of the crickets woke him.
+  SITE FEEDBACK: ‣ The writer describes awakening to the sound of something rummaging outside, getting closer to the tent, which implies that it was the disturbance of his belongings that woke him.
+Q 9480 [radio] 36 What do we learn about bears in the last paragraph?
+ 16675) A. They can follow you to your campsite.
+ 16676) B. They are afraid of dogs.
+ 16677) C. They are attracted to food left out by campers.
+ 16678) D. They prefer to eat at night.
+  SITE FEEDBACK: ‣ The writer mentions the bear going through his backpack and eating the sandwiches and treats, indicating that the bear was attracted to the food that was left outside.
+
+=== PAGE /grammar-points/b1-b2/do-or-make-which-is-it/
+Q 9593 [radio] The nice necklace he got me for my birthday _____ of gold.
+ 17014) A. is done
+ 17015) B. is made
+  SITE FEEDBACK: ‣ Make is used to indicate the materials that are used to make something or the origin of a product. In such cases, it is often used in the passive voice.
+Q 9594 [radio] We _____ anything interesting recently.
+ 17016) A. haven’t done
+ 17017) B. haven’t made
+  SITE FEEDBACK: ‣ We sometimes use do to refer to general activities without being too specific.
+Q 9595 [radio] Alice always _____ her chores after school.
+ 17018) A. does
+ 17019) B. makes
+  SITE FEEDBACK: ‣ We say do chores.
+Q 9597 [radio] The relaxing music _____ me sleepy.
+ 17022) A. was making
+ 17023) B. was doing
+  SITE FEEDBACK: ‣ We use make when talking about to someone or something that produces a reaction.
+Q 9598 [radio] Clara usually _____ well in tests and exams.
+ 17024) A. does
+ 17025) B. makes
+  SITE FEEDBACK: ‣ We say do well or do badly.
+Q 9599 [radio] Last night, the girls _____ their nails in front of the television.
+ 17026) A. were making
+ 17027) B. were doing
+  SITE FEEDBACK: ‣ We use do to talk about self-care: do your nails, do your hair, etc.
+Q 9600 [radio] This carpet _____ in Morocco
+ 17028) A. was done
+ 17029) B. was made
+  SITE FEEDBACK: ‣ We use make in collocations referring to the creation, building, or production of something.
+Q 9601 [radio] The businessman _____ a fortune by investing in property.
+ 17030) A. made
+ 17031) B. did
+  SITE FEEDBACK: ‣ We use make in collocations with nouns meaning money: make money, make a profit, make a fortune, etc.
+Q 9602 [radio] Why _____ such a fuss?
+ 17032) A. are you making
+ 17033) B. are you doing
+  SITE FEEDBACK: ‣ We say make a fuss.
+
+=== PAGE /reading/b2/finding-calm-in-cities-b2-english-reading-test/
+Q 8604 [radio] The city has no attractive outdoor features.
+ 15170) Trinka
+ 15171) Kampela
+ 15172) Pokamarka
+ 15173) Melwick
+  SITE FEEDBACK: ‣ Kampela's streets are described as being "devoid of any aesthetic attributes, like statues or old decorative features."
+Q 8606 [radio] The city has many popular historical monuments.
+ 15178) Trinka
+ 15179) Kampela
+ 15180) Pokamarka
+ 15181) Melwick
+  SITE FEEDBACK: ‣ Melwick's outdoor spaces are "always heaving with tourists trying to take selfies against the statues and memorials," implying the presence of many historical monuments.
+Q 8609 [radio] Areas that used to be busy are now peaceful.
+ 15190) Trinka
+ 15191) Kampela
+ 15192) Pokamarka
+ 15193) Melwick
+  SITE FEEDBACK: ‣ Saint Catherine’s Square was once "a bustling area used for markets and public gatherings" in medieval times, but now it's "a little haven of calm."
+
+=== PAGE /reading/b1/adopting-a-child-b1-english-reading-test/
+Q 8581 [radio] Why did the writer choose to adopt a child?
+ 15080) A. She hadn't been able to have a baby with IVF.
+ 15081) B. Her mother-in-law persuaded her to adopt.
+ 15082) C. She didn't want her relationship to change.
+ 15083) D. She was concerned about the number of kids in care.
+  SITE FEEDBACK: ‣ The writer mentions that she and her husband could have tried IVF (in vitro fertilisation), but she was worried it would affect their relationship, indicating this concern influenced their decision to adopt.
+Q 8582 [radio] What does the writer most likely think about the pre-adoption training?
+ 15084) A. Talking about emotional past issues was unnecessary.
+ 15085) B. She learned a lot about the life of the child she adopted.
+ 15086) C. She benefited more from the training than her partner.
+ 15087) D. All parents would benefit from doing a course like that.
+  SITE FEEDBACK: ‣ The writer reflects positively on the training, stating it prepared them more to deal with family issues compared to those who become parents naturally, suggesting she believes all parents could benefit from such training.
+Q 8583 [radio] How did the couple select a child to adopt?
+ 15088) A. They made a list of criteria that they wanted.
+ 15089) B. They accepted any child who needed a home.
+ 15090) C. They chose a child whose earlier adoption had failed.
+ 15091) D. They let the agency choose a suitable child for them.
+  SITE FEEDBACK: ‣ Although they were initially uncomfortable with the idea, the couple followed the agency's advice and made a list of criteria for the child they wanted to adopt.
+Q 8584 [radio] What happened after the couple's first interview?
+ 15092) A. They volunteered with a local youth group.
+ 15093) B. They shortlisted potential children to adopt.
+ 15094) C. They spent time with several different kids in care.
+ 15095) D. They got parenting advice from their social worker.
+  SITE FEEDBACK: ‣ After being accepted as potential parents post-interview, the couple was presented with files of children in care, which they then sorted into "yes", "no", and "maybe" piles.
+Q 8585 [radio] The boy the couple adopted was…
+ 15096) A. older than they originally intended to adopt.
+ 15097) B. older than most children chosen by adopters.
+ 15098) C. younger than they originally intended to adopt.
+ 15099) D. younger than most children chosen by adopters.
+  SITE FEEDBACK: ‣ The text specifies that their adopted son was six years old, which is considered "quite old" among children up for adoption, as many parents prefer to adopt toddlers.
+Q 8586 [radio] Which of these events was the last to occur?
+ 15100) A. The couple met the boy.
+ 15101) B. The couple had a second interview.
+ 15102) C. The couple met the boy's teacher.
+ 15103) D. The adoption was finalised.
+  SITE FEEDBACK: ‣ The passage specifies, "However, parents only meet the child they're going to adopt once the adoption has been finalized." This implies that the final step in the process, after all interviews, meetings, and the formal finalization of the adoption, was the actual meeting with the boy. Therefore, the last event to occur was the couple meeting their adoptive son.
+
+=== PAGE /vocabulary/b2/work-and-jobs-b2-english-vocabulary/
+Q 9430 [radio] Sara _____ because the company no longer required an assistant receptionist.
+ 16551) A. was made redundant
+ 16552) B. was sacked
+ 16553) C. got promoted
+ 16554) D. clocked in
+  SITE FEEDBACK: ‣ When you’re made redundant, you lose your job because a person is no longer needed to fill your position.
+Q 9431 [radio] Gary and his colleagues are always _____, even when they’re not at work.
+ 16555) A. clock in
+ 16556) B. being laid off
+ 16557) C. being snowed under
+ 16558) D. talking shop
+  SITE FEEDBACK: ‣ When people talk shop, they talk about work outside working hours or when they are not at their workplace.
+Q 9434 [radio] The doctor was tired because he’d just finished a 12-hour _____.
+ 16567) A. bonus
+ 16568) B. leave
+ 16569) C. shift
+ 16570) D. apprenticeship
+  SITE FEEDBACK: ‣ If someone works shifts, they work during different scheduled periods in the day or night.
+Q 9435 [radio] We were surprised when Tom _____, as we’d thought he was happy working here.
+ 16571) A. handed in his notice
+ 16572) B. met deadlines
+ 16573) C. switched off
+ 16574) D. was snowed under
+  SITE FEEDBACK: ‣ When you hand in your notice, you inform your employer in advance of your intention to leave your job.
+Q 9438 [radio] With robots replacing many jobs these days, lots of people worry about _____.
+ 16583) A. being sacked
+ 16584) B. being made redundant
+ 16585) C. getting promoted
+ 16586) D. meeting deadlines
+  SITE FEEDBACK: ‣ When you’re made redundant, you lose your job because a person is no longer needed to fill your position.
+
+=== PAGE /vocabulary/b2/health-and-sickness-b2-english-vocabulary/
+Q 9420 [radio] After several tests, the patient ___ a rare condition that needed immediate attention.
+ 16511) A. contracted
+ 16512) B. came down with
+ 16513) C. was diagnosed with
+ 16514) D. prescribed
+  SITE FEEDBACK: ‣ To be diagnosed with a condition means a doctor has identified that you have it.
+Q 9421 [radio] Doctors often ___ medications to help patients manage their symptoms.
+ 16515) A. come down with
+ 16516) B. die of
+ 16517) C. prescribe
+ 16518) D. develop
+  SITE FEEDBACK: ‣ If a doctor prescribes medication for you, they authorize you to use it for treatment.
+Q 9422 [radio] Sadly, many people ___ serious illnesses due to lack of early detection.
+ 16519) A. die from
+ 16520) B. come down with
+ 16521) C. contract
+ 16522) D. are diagnosed with
+  SITE FEEDBACK: ‣ To die of/from a condition means to lose your life because of it.
+Q 9423 [radio] Some patients prefer using ___ instead of or alongside standard treatments.
+ 16523) A. conventional medicine
+ 16524) B. alternative medicine
+ 16525) C. mental health
+ 16526) D. healthcare
+  SITE FEEDBACK: ‣ Alternative medicine includes various healing approaches not typically part of conventional medicine.
+Q 9424 [radio] Unlike ___ which relies on pharmaceuticals, alternative treatments may include herbal remedies.
+ 16527) A. healthcare
+ 16528) B. mental health
+ 16529) C. conventional medicine
+ 16530) D. alternative medicine
+  SITE FEEDBACK: ‣ Conventional medicine refers to mainstream medical treatments used by healthcare professionals.
+
+=== PAGE /reading/b2/second-hand-fashion-b2-english-reading-test/
+Q 8614 [radio] The clothes that Amy is wearing to the interview…
+ 15210) A. were purchased brand new for the interview.
+ 15211) B. are smart but visibly second-hand.
+ 15212) C. are in better condition than the interviewer expected.
+ 15213) D. are second-hand, casual clothes in good condition.
+  SITE FEEDBACK: ‣ When the interviewer first saw Amy, they assumed she was wearing brand-new clothes because they looked sharp and in good condition. However, Amy clarified that the clothes were second-hand. This means that the second-hand clothes Amy was wearing were in much better condition than what the interviewer had anticipated.
+Q 8615 [radio] As a child, Amy…
+ 15214) A. never wore the second-hand clothes she was given.
+ 15215) B. wore second-hand clothes but didn’t tell anyone.
+ 15216) C. was made fun of for wearing second-hand clothes.
+ 15217) D. made wearing second-hand clothes trendy among her peers.
+  SITE FEEDBACK: ‣ Amy mentioned that when she was a child, she would refuse to wear any second-hand clothes her mother brought home for her, even if they looked trendy. She was afraid someone would recognize the clothes or judge her for wearing them.
+Q 8616 [radio] According to Amy, what is the main reason why young people buy second-hand clothes?
+ 15218) A. Second-hand clothes are better quality than most cheap, new clothes.
+ 15219) B. Young people want to reduce the environmental issues of new clothes.
+ 15220) C. Many of the high street shops that sell new clothes have closeD.
+ 15221) D. Buying second-hand clothes is cheaper than buying brand-new clothes.
+  SITE FEEDBACK: ‣ Amy states that while affordability of second-hand clothes is a benefit, the main motivation for young people is to counteract the environmental impact of new, mass-produced clothes that generate a lot of polluting waste.
+Q 8617 [radio] The way Amy runs her business means that she…
+ 15222) A. attracts more customers than her competitors.
+ 15223) B. spends a lot of time looking for the right clothes to sell.
+ 15224) C. avoids problems that some of her competitors experience.
+ 15225) D. has recently lost trade due to growing competition.
+  SITE FEEDBACK: ‣ Amy explained that some sellers specialize in particular niches like designer labels or clothing from specific eras. While these sellers might face challenges with changing trends, Amy sells a variety of items, ensuring that she doesn’t put all her "eggs in one basket." This diversified approach can help her sidestep certain challenges her competitors might face.
+Q 8619 [radio] Amy believes that in future…
+ 15230) A. more people will make or redesign their clothes.
+ 15231) B. companies like hers will sell more homemade clothes.
+ 15232) C. chain stores that sell new clothes will close down.
+ 15233) D. chain stores will sell second-hand clothes.
+  SITE FEEDBACK: ‣ Amy believes that the interest in second-hand clothing has rejuvenated the trend of adapting, redesigning, or creating clothes from scratch. She anticipates that in the future, her store will likely stock more of these kinds of clothes.
+
+=== PAGE /vocabulary/b2/car-b2-english-vocabulary/
+Q 9385 [radio] He was drunk at the wheel and was arrested for _____.
+ 16415) A. get pulled over
+ 16416) B. reverse
+ 16417) C. DUI
+ 16418) D. change gears
+  SITE FEEDBACK: ‣ DUI (US) or drink-driving (UK) is the act of driving a vehicle while under the influence of alcohol or drugs.
+Q 9388 [radio] If a car's engine suddenly _____ while driving, it might cause a hazardous situation.
+ 16427) A. merges
+ 16428) B. reverses
+ 16429) C. stalls
+ 16430) D. gets pulled over
+  SITE FEEDBACK: ‣ To stall means the engine stops running, often due to a mistake in gear changing.
+
+=== PAGE /vocabulary/b1-b2/houses-and-home-words-b1-english-vocabulary/
+Q 9370 [radio] _____ are getting worried about rising costs of insurance and property taxes.
+ 16399) A. Real estate agents
+ 16400) B. Homeowners
+ 16401) C. Tenants
+ 16402) D. Cracks
+  SITE FEEDBACK: ‣ A property owner is an individual or entity that legally owns a piece of property.
+
+=== PAGE /vocabulary/b1-b2/business-b1-english-vocabulary/
+Q 9321 [radio] Business was poor for the company, and Sam _____ on his investment.
+ 16291) A. expanded
+ 16292) B. diversified
+ 16293) C. made a profit
+ 16294) D. made a loss
+  SITE FEEDBACK: ‣ If a business makes a loss, it earns less than invested.
+Q 9325 [radio] After considerable negotiation, the CEO finally _____ with the advertising firm.
+ 16307) A. made a loss
+ 16308) B. diversified
+ 16309) C. struck a deal
+ 16310) D. manufactured
+  SITE FEEDBACK: ‣ When someone closes or strikes a deal, they negotiate and reach an agreement with someone else.
+Q 9328 [radio] Unfortunately, the start-up was unsuccessful, and _____ after just a year.
+ 16319) A. made a profit
+ 16320) B. produced
+ 16321) C. went bankrupt
+ 16322) D. merged
+  SITE FEEDBACK: ‣ If a business goes bankrupt, it runs out of money and cannot pay its debts.
+
+=== PAGE /vocabulary/b1/sport-b1-english-vocabulary/
+Q 9318 [radio] The baseball player tried to _____ the ball as far as possible.
+ 16279) A. kick
+ 16280) B. catch
+ 16281) C. pass
+ 16282) D. hit
+  SITE FEEDBACK: ‣ When you hit a ball, you make contact with it, typically with a bat or racket.
+Q 9316 [radio] During the match, the player _____ and had to stop playing.
+ 16271) A. scored
+ 16272) B. got injured
+ 16273) C. drew
+ 16274) D. beat
+  SITE FEEDBACK: ‣ If you get injured, you hurt yourself while playing or practicing a sport.
+Q 9319 [radio] He _____ the ball with his left foot and scored the third goal.
+ 16283) A. threw
+ 16284) B. hit
+ 16285) C. kicked
+ 16286) D. passed
+  SITE FEEDBACK: ‣ When you kick a ball, you strike it with your foot.
+Q 9320 [radio] The baseball player managed to _____ the ball in his glove.
+ 16287) A. kick
+ 16288) B. pass
+ 16289) C. hit
+ 16290) D. catch
+  SITE FEEDBACK: ‣ When you catch a ball, you stop and hold a ball that has been thrown, kicked, or hit towards you.
+Q 9317 [radio] Just before the race, the runners _____ to prepare their muscles.
+ 16275) A. warmed up
+ 16276) B. got fit
+ 16277) C. passed
+ 16278) D. kicked
+  SITE FEEDBACK: ‣ When you warm up, you do exercises to prepare your body for more intense physical activity.
+
+=== PAGE /vocabulary/b1/houses-and-buildings-b1-english-vocabulary/
+Q 9275 [radio] The old chair leg is loose; I need to _____ it before someone falls off.
+ 16195) A. put in
+ 16196) B. insulate
+ 16197) C. fix
+ 16198) D. decorate
+  SITE FEEDBACK: ‣ When you fix, repair, or mend something that is broken, you work on it so that it is no longer broken.
+
+=== PAGE /vocabulary/b1-b2/personality-b1-english-vocabulary/
+Q 9255 [radio] His _____ behavior at the dinner table, like talking with his mouth full, embarrassed his family.
+ 16159) A. ill-mannered
+ 16160) B. ambitious
+ 16161) C. innocent
+ 16162) D. sociable
+  SITE FEEDBACK: ‣ Rude or lacking in good manners.
+Q 9248 [radio] She was very _____. She could play the piano, violin, and guitar with equal skill.
+ 16131) A. ambitious
+ 16132) B. talented
+ 16133) C. honest
+ 16134) D. sociable
+  SITE FEEDBACK: ‣ Having a natural ability to do something well.
+Q 9254 [radio] His tendency to speak without thinking led some students to call him '_____' unfairly.
+ 16155) A. bossy
+ 16156) B. tight-fisted
+ 16157) C. half-witted
+ 16158) D. ambitious
+  SITE FEEDBACK: ‣ Lacking intelligence or common sense; not very bright.
+Q 9249 [radio] He was very _____ and never doubted his abilities.
+ 16135) A. self-confident
+ 16136) B. innocent
+ 16137) C. sociable
+ 16138) D. talented
+  SITE FEEDBACK: ‣ Believing in one’s own abilities and qualities.
+Q 9250 [radio] At parties, she was always the center of attention, her _____ personality making her well-liked and popular.
+ 16139) A. honest
+ 16140) B. sociable
+ 16141) C. ambitious
+ 16142) D. talented
+  SITE FEEDBACK: ‣ Liking to meet and spend time with others.
+Q 9257 [radio] Known for his absolute reluctance to spend money, he was often called _____ by his friends.
+ 16167) A. ambitious
+ 16168) B. bossy
+ 16169) C. sociable
+ 16170) D. tight-fisted
+  SITE FEEDBACK: ‣ Reluctant to spend money; stingy.
+Q 9251 [radio] He always spoke the truth, even when it was difficult, which made him very _____ in the eyes of his peers.
+ 16143) A. honest
+ 16144) B. ambitious
+ 16145) C. sociable
+ 16146) D. self-confident
+  SITE FEEDBACK: ‣ Truthful and meaning what one says.
+Q 9252 [radio] At his young age, he still had a very _____ outlook on life, unaware of the world's complexities.
+ 16147) A. innocent
+ 16148) B. bossy
+ 16149) C. ill-mannered
+ 16150) D. self-confident
+  SITE FEEDBACK: ‣ Not knowing about the more complex or negative parts of life.
+Q 9253 [radio] Her _____ nature pushed her to achieve great success in her career.
+ 16151) A. sociable
+ 16152) B. honest
+ 16153) C. ambitious
+ 16154) D. innocent
+  SITE FEEDBACK: ‣ Having a strong desire for success or achievement.
+Q 9256 [radio] In group projects, she often took over, giving orders to everyone, which showed how _____ she was.
+ 16163) A. bossy
+ 16164) B. talented
+ 16165) C. innocent
+ 16166) D. sociable
+  SITE FEEDBACK: ‣ Inclined to domineer or tell other people what to do.
+
+=== PAGE /vocabulary/b1-b2/technology-b1-english-vocabulary/
+Q 9217 [radio] I’ve had this phone for years; it’s time I _____ to a more modern version.
+ 16099) A. backed up
+ 16100) B. upgraded
+ 16101) C. browsed
+ 16102) D. signed in
+  SITE FEEDBACK: ‣ If you upgrade software or devices, you replace them with more modern or useful alternatives.
+
+=== PAGE /vocabulary/b2/money-and-finance-b2-english-vocabulary/
+Q 9199 [radio] I am currently ______ to buy a new washing machine.
+ 16071) A. making a loss
+ 16072) B. investing
+ 16073) C. saving up
+ 16074) D. living off
+  SITE FEEDBACK: ‣ When you save up money, you accumulate it for a specific future purpose.
+
+=== PAGE /vocabulary/a2/in-a-hotel-a2-english-vocabulary/
+Q 9171 [radio] When we checked out of the hotel, we had to _____ the bill.
+ 16039) A. check in
+ 16040) B. pay
+ 16041) C. request
+ 16042) D. book
+  SITE FEEDBACK: ‣ When you check out, you return your room key and pay the bill for your stay. The bill is a written piece of paper showing the money you owe for the room and services.
+
+=== PAGE /vocabulary/a1/parts-of-the-body-a1-english-vocabulary/
+Q 9008 [radio] Your hands are at the end of your ______.
+ 15903) A. arms
+ 15904) B. legs
+ 15905) C. shoulders
+ 15906) D. eyes
+  SITE FEEDBACK: ‣ Your arms go from your shoulders to your hands.
+Q 9011 [radio] Dan is holding a pencil in his ______.
+ 15915) A. head
+ 15916) B. nose
+ 15917) C. stomach
+ 15918) D. hand
+  SITE FEEDBACK: ‣ You grab and hold things with your hands.
+
+=== PAGE /vocabulary/a2/the-weather-a2-english-vocabulary/
+Q 9144 [radio] Take an umbrella. The weather is _____ today.
+ 15971) A. cloudy
+ 15972) B. wet
+ 15973) C. humid
+ 15974) D. rainy
+  SITE FEEDBACK: ‣ Rainy means there are regular periods of rain, making everything wet.
+Q 9151 [radio] It is very _____ in the desert because it rarely rains.
+ 15999) A. dry
+ 16000) B. wet
+ 16001) C. cloudy
+ 16002) D. warm
+  SITE FEEDBACK: ‣ Dry is the opposite of wet, so dry weather means there is no rain or that it hasn’t rained in a long time.
+
+=== PAGE /vocabulary/a2/common-phrasal-verbs-a2-english-vocabulary/
+Q 9045 [radio] Tom _____ his old trainers because they were full of holes.
+ 15931) A. brought back
+ 15932) B. threw away
+ 15933) C. worked out
+ 15934) D. picked up
+  SITE FEEDBACK: ‣ When you throw away something, you discard it, usually putting it in a rubbish container because you don’t need it anymore.
+Q 9046 [radio] The party _____ until 5:30 a.m.
+ 15935) A. brought back
+ 15936) B. turned on
+ 15937) C. took off
+ 15938) D. went on
+  SITE FEEDBACK: ‣ If you go on doing something, you continue doing something. Similarly, if a situation goes on, it continues to happen.
+Q 9047 [radio] I don’t like _____ my little brother; he always misbehaves.
+ 15939) A. looking for
+ 15940) B. looking after
+ 15941) C. giving back
+ 15942) D. running out
+  SITE FEEDBACK: ‣ If you look after someone or something, you take care of them. For example, parents look after their children.
+Q 9049 [radio] You would feel much better if you _____ smoking.
+ 15947) A. brought back
+ 15948) B. gave up
+ 15949) C. got up
+ 15950) D. turned off
+  SITE FEEDBACK: ‣ If you give up something or doing something, you stop doing it or having it completely. For example, doctors often tell patients to give up smoking.
+Q 9054 [radio] Tara _____ the keys from the table and put them in her bag.
+ 15967) A. gave back
+ 15968) B. picked up
+ 15969) C. threw away
+ 15970) D. worked out
+  SITE FEEDBACK: ‣ If you pick up something, you lift it from the floor or surface, usually with your hand.
+
+=== PAGE /vocabulary/a1/countries-and-nationalities-a1-english-vocabulary/
+Q 8926 [radio] The _____ capital, Dublin, is a lovely place to visit.
+ 15775) A. English
+ 15776) B. Italian
+ 15777) C. French
+ 15778) D. Irish
+  SITE FEEDBACK: ‣ Something or someone from Ireland is called Irish, and the people in this country speak English.
+Q 8928 [radio] Canberra, the _____ capital, is beautiful in the spring.
+ 15783) A. English
+ 15784) B. Australia
+ 15785) C. Brazilian
+ 15786) D. Australian
+  SITE FEEDBACK: ‣ Something or someone from Australia is called Australian, and the people in this country speak English.
+Q 8929 [radio] Tequila is a _____ drink that is famous all over the world.
+ 15787) A. Mexico
+ 15788) B. Portuguese
+ 15789) C. Mexican
+ 15790) D. Spanish
+  SITE FEEDBACK: ‣ Something or someone from Mexico is called Mexican, and the people in this country speak Spanish.
+Q 8925 [radio] My favourite part of _____ was Athens, where we stayed for a month last year.
+ 15771) A. Greek
+ 15772) B. Greece
+ 15773) C. Arabic
+ 15774) D. Portugal
+  SITE FEEDBACK: ‣ Something or someone from Greece is called Greek, and the people in this country speak Greek.
+Q 8931 [radio] I love _____ food, especially pizza and pasta.
+ 15795) A. Egyptian
+ 15796) B. Italy
+ 15797) C. Italian
+ 15798) D. Egyptian
+  SITE FEEDBACK: ‣ Something or someone from Italy is called Italian, and the people in this country speak Italian.
+Q 8934 [radio] Cairo is the capital city of _____.
+ 15807) A. Egyptian
+ 15808) B. Arab
+ 15809) C. Italian
+ 15810) D. Egypt
+  SITE FEEDBACK: ‣ Something or someone from Egypt is called Egyptian, and the people in this country speak Arabic.
+
+=== PAGE /vocabulary/a1/food-and-meals-a1-english-vocabulary/
+Q 8807 [radio] I was hungry in the middle of the afternoon, so I had a _____.
+ 15558) A. breakfast
+ 15559) B. lunch
+ 15560) C. snack
+ 15561) D. dinner
+  SITE FEEDBACK: ‣ A snack is a small meal that people sometimes eat between lunch and dinner.
+Q 8809 [radio] I don't drink coffee, but I drink five cups of _____ a day.
+ 15566) A. beer
+ 15567) B. tea
+ 15568) C. coffee
+ 15569) D. salad
+  SITE FEEDBACK: ‣ Tea is a hot drink, and in the UK, people often drink it in the afternoon.
+Q 8813 [radio] My sister and I had sandwiches and cakes for _____.
+ 15582) A. tea
+ 15583) B. coffee
+ 15584) C. butter
+ 15585) D. cereal
+  SITE FEEDBACK: ‣ In the UK, people often use the word tea to mean 'snack'.
+
+=== PAGE /vocabulary/b2/pollution-and-the-environment-b2-english-vocabulary/
+Q 8802 [radio] The beach cleanup initiative focused on removing _____, which is harmful to marine life.
+ 15538) A. waste management
+ 15539) B. pollution control
+ 15540) C. plastic waste
+ 15541) D. rising sea levels
+  SITE FEEDBACK: ‣ Used plastic items that are discarded and can harm the environment because they take a long time to break down.
+Q 8803 [radio] The city has implemented new _____ measures to improve air quality.
+ 15542) A. plastic waste
+ 15543) B. pollution control
+ 15544) C. waste management
+ 15545) D. eco-friendly products
+  SITE FEEDBACK: ‣ Strategies and technologies used to reduce the release of harmful substances into the environment.
+Q 8804 [radio] A good _____ system is crucial to reduce landfill use and increase recycling rates.
+ 15546) A. carbon footprint
+ 15547) B. pollution control
+ 15548) C. waste management
+ 15549) D. forest protection
+  SITE FEEDBACK: ‣ The process of treating and disposing of trash in ways that are safe and do not hurt the environment, like recycling.
+Q 8805 [radio] We should choose _____ made from recycled or natural materials to minimize their impact on the environment.
+ 15550) A. sustainable practices
+ 15551) B. renewable energy
+ 15552) C. plastic waste
+ 15553) D. eco-friendly products
+  SITE FEEDBACK: ‣ Items made using recycled materials or natural materials that are not harmful to the environment.
+Q 8799 [radio] In nature, organic material will naturally _____ into simpler substances over time.
+ 15526) A. break down
+ 15527) B. dump
+ 15528) C. cut down
+ 15529) D. harm
+  SITE FEEDBACK: ‣ If something breaks down, it decays or decomposes into smaller parts.
+Q 8806 [radio] Local communities are actively engaged in _____ to preserve habitats, maintain biodiversity and combat climate change.
+ 15554) A. waste management
+ 15555) B. pollution control
+ 15556) C. eco-friendly products
+ 15557) D. forest protection
+  SITE FEEDBACK: ‣ Efforts to preserve forests from deforestation and promote biodiversity.
+
+=== PAGE /reading/b1-b2/extreme-weather-b1-english-reading-test/
+Q 8598 [radio] Gap 1
+ 15128) A. The best-case scenario is that countries manage to keep global temperatures to less than 2ºC above preindustrial levels.
+ 15129) B. How much so depends hugely on our ability to reduce carbon emissions in the next few years.
+ 15130) C. The weather across the globe has always been variable, but those variations are becoming more extreme.
+ 15131) D. This event is due to the lakes that supply the hydroelectric power stations drying up.
+ 15132) E. Although humans sometimes are the cause of these fires, climate plays a large part in the extent of their damage.
+ 15133) F. This is because more moisture evaporates into the atmosphere, resulting in more and heavier drops that fall in a shorter space of time.
+ 15134) G. These countries claim they are bearing the brunt of climate change caused by richer nations.
+  SITE FEEDBACK: ‣ The previous sentence talks about wildfires destroying vegetation and sometimes houses or entire towns. While the sentence preceding the gap mentions the role of scorching temperatures and lightning in wildfires, the chosen sentence complements this by adding that although humans can sometimes start these fires, the extent of their damage is majorly influenced by the climate.
+Q 8599 [radio] Gap 2
+ 15135) A. The best-case scenario is that countries manage to keep global temperatures to less than 2ºC above preindustrial levels.
+ 15136) B. How much so depends hugely on our ability to reduce carbon emissions in the next few years.
+ 15137) C. The weather across the globe has always been variable, but those variations are becoming more extreme.
+ 15138) D. This event is due to the lakes that supply the hydroelectric power stations drying up.
+ 15139) E. Although humans sometimes are the cause of these fires, climate plays a large part in the extent of their damage.
+ 15140) F. This is because more moisture evaporates into the atmosphere, resulting in more and heavier drops that fall in a shorter space of time.
+ 15141) G. These countries claim they are bearing the brunt of climate change caused by richer nations.
+  SITE FEEDBACK: ‣ The context mentions power cuts in China due to the heatwave. The chosen sentence provides a direct cause for these power cuts by attributing them to the drying up of lakes that are essential for hydroelectric power generation.
+Q 8600 [radio] Gap 3
+ 15142) A. The best-case scenario is that countries manage to keep global temperatures to less than 2ºC above preindustrial levels.
+ 15143) B. How much so depends hugely on our ability to reduce carbon emissions in the next few years.
+ 15144) C. The weather across the globe has always been variable, but those variations are becoming more extreme.
+ 15145) D. This event is due to the lakes that supply the hydroelectric power stations drying up.
+ 15146) E. Although humans sometimes are the cause of these fires, climate plays a large part in the extent of their damage.
+ 15147) F. This is because more moisture evaporates into the atmosphere, resulting in more and heavier drops that fall in a shorter space of time.
+ 15148) G. These countries claim they are bearing the brunt of climate change caused by richer nations.
+  SITE FEEDBACK: ‣ The text talks about increased temperatures leading to more floods in countries like New Zealand and Pakistan. The chosen sentence gives a scientific explanation for the increase in floods, connecting increased temperatures to more evaporation and, subsequently, heavier rainfall.
+Q 8601 [radio] Gap 4
+ 15149) A. The best-case scenario is that countries manage to keep global temperatures to less than 2ºC above preindustrial levels.
+ 15150) B. How much so depends hugely on our ability to reduce carbon emissions in the next few years.
+ 15151) C. The weather across the globe has always been variable, but those variations are becoming more extreme.
+ 15152) D. This event is due to the lakes that supply the hydroelectric power stations drying up.
+ 15153) E. Although humans sometimes are the cause of these fires, climate plays a large part in the extent of their damage.
+ 15154) F. This is because more moisture evaporates into the atmosphere, resulting in more and heavier drops that fall in a shorter space of time.
+ 15155) G. These countries claim they are bearing the brunt of climate change caused by richer nations.
+  SITE FEEDBACK: ‣ The paragraph emphasizes the connection between human-induced climate change and extreme weather events. After mentioning that extreme temperatures are now ten times more likely due to climate change, the chosen sentence stresses the impact of our immediate actions, specifically carbon emissions reduction, on the future climate.
+Q 8602 [radio] Gap 5
+ 15156) A. The best-case scenario is that countries manage to keep global temperatures to less than 2ºC above preindustrial levels.
+ 15157) B. How much so depends hugely on our ability to reduce carbon emissions in the next few years.
+ 15158) C. The weather across the globe has always been variable, but those variations are becoming more extreme.
+ 15159) D. This event is due to the lakes that supply the hydroelectric power stations drying up.
+ 15160) E. Although humans sometimes are the cause of these fires, climate plays a large part in the extent of their damage.
+ 15161) F. This is because more moisture evaporates into the atmosphere, resulting in more and heavier drops that fall in a shorter space of time.
+ 15162) G. These countries claim they are bearing the brunt of climate change caused by richer nations.
+  SITE FEEDBACK: ‣ This paragraph delves into the potential future if global temperatures rise. The sentence outlines the optimal outcome we should be aiming for, making it the best-fit given the context of potential temperature changes and their effects on human life.
+Q 8603 [radio] Gap 6
+ 15163) A. The best-case scenario is that countries manage to keep global temperatures to less than 2ºC above preindustrial levels.
+ 15164) B. How much so depends hugely on our ability to reduce carbon emissions in the next few years.
+ 15165) C. The weather across the globe has always been variable, but those variations are becoming more extreme.
+ 15166) D. This event is due to the lakes that supply the hydroelectric power stations drying up.
+ 15167) E. Although humans sometimes are the cause of these fires, climate plays a large part in the extent of their damage.
+ 15168) F. This is because more moisture evaporates into the atmosphere, resulting in more and heavier drops that fall in a shorter space of time.
+ 15169) G. These countries claim they are bearing the brunt of climate change caused by richer nations.
+  SITE FEEDBACK: ‣ The paragraph highlights the struggles of poorer countries like Bangladesh, Pakistan, and Afghanistan in dealing with extreme weather events and their appeal for financial aid from richer nations. The chosen sentence explains the stance of these countries, emphasizing that they are disproportionately affected by climate change primarily caused by the actions of wealthier nations.
+
+=== PAGE /vocabulary/b1-b2/clothes-b1-b2-english-vocabulary/
+Q 8776 [radio] After I'd _____ my shirt, I hung it up in my wardrobe.
+ 15482) A. suited
+ 15483) B. ironed
+ 15484) C. folded
+ 15485) D. zipped up
+  SITE FEEDBACK: ‣ Iron means to press clothes to remove lines and creases. Many people iron shirts after washing them, so that they are ready to wear to work.
+Q 8777 [radio] You should wear blue more often. It really _____ you.
+ 15486) A. suits
+ 15487) B. fits
+ 15488) C. matches
+ 15489) D. hangs
+  SITE FEEDBACK: ‣ Clothes that suit you look good on you.
+Q 8784 [radio] My jeans were really _____ because I had lost so much weight.
+ 15514) A. tight
+ 15515) B. formal
+ 15516) C. loose
+ 15517) D. classic
+  SITE FEEDBACK: ‣ Loose is used to talk about clothes that offer a comfortable fit that is not tight.
+
+=== PAGE /grammar-points/b2/50-common-noun-preposition-collocations/
+Q 8746 [radio] We hope to come up with a solution _____ this problem.
+ 15442) A. to
+ 15443) B. in
+ 15444) C. of
+ 15445) D. about
+  SITE FEEDBACK: ‣ Say solution to.
+Q 8747 [radio] I have no interest _____ local politics.
+ 15446) A. for
+ 15447) B. in
+ 15448) C. at
+ 15449) D. of
+  SITE FEEDBACK: ‣ Say interest in.
+Q 8749 [radio] There has been great demand _____ this product.
+ 15454) A. on
+ 15455) B. at
+ 15456) C. for
+ 15457) D. about
+  SITE FEEDBACK: ‣ Say demand for.
+Q 8750 [radio] Anna had a strange reaction _____ her new medication.
+ 15458) A. to
+ 15459) B. with
+ 15460) C. at
+ 15461) D. between
+  SITE FEEDBACK: ‣ Say reaction to.
+Q 8751 [radio] I asked the guide for information _____ the building.
+ 15462) A. in
+ 15463) B. on
+ 15464) C. for
+ 15465) D. to
+  SITE FEEDBACK: ‣ Say information on or about.
+Q 8753 [radio] We don't have room _____ any more furniture in here.
+ 15470) A. of
+ 15471) B. about
+ 15472) C. between
+ 15473) D. for
+  SITE FEEDBACK: ‣ ‣ Say room for.
+
+=== PAGE /vocabulary/a1/days-months-seasons-a1-english-vocabulary/
+Q 8645 [radio] It’s _____ right now. Christmas is next month.
+ 15318) A. September
+ 15319) B. October
+ 15320) C. November
+ 15321) D. December
+  SITE FEEDBACK: ‣ Christmas is in December, and it is the next month after November.
+Q 8648 [radio] We have school from _____ to Friday, but not on weekends.
+ 15330) A. Tuesday
+ 15331) B. Wednesday
+ 15332) C. Monday
+ 15333) D. Friday
+  SITE FEEDBACK: ‣ The school week starts on Monday and finishes on Friday.
+Q 8653 [radio] Today is Saturday, my birthday is in two days, on _____.
+ 15350) A. Friday
+ 15351) B. Saturday
+ 15352) C. Sunday
+ 15353) D. Monday
+  SITE FEEDBACK: ‣ Two days after Saturday, it's Monday.
+
+=== PAGE /vocabulary/a2/housework-a2-english-vocabulary/
+Q 8675 [radio] Matt is _____ the kitchen floor.
+ 15358) A. sweeping
+ 15359) B. taking out
+ 15360) C. making
+ 15361) D. ironing
+  SITE FEEDBACK: ‣ To sweep the floor means to clear the floor of dust and other matter using a broom
+Q 8676 [radio] I couldn’t hear the television because Dad was _____ the carpet.
+ 15362) A. mopping
+ 15363) B. dusting
+ 15364) C. ironing
+ 15365) D. vacuuming
+  SITE FEEDBACK: ‣ To vacuum (US) or to hoover (UK) means to clear the floor of dust, hair, and other particles using a machine called a vacuum cleaner.
+Q 8678 [radio] Mum was in the laundry room, _____ our school uniforms.
+ 15370) A. ironing
+ 15371) B. sweeping
+ 15372) C. dusting
+ 15373) D. doing
+  SITE FEEDBACK: ‣ To iron means to remove lines and wrinkles from clothing using a hot implement called an iron.
+Q 8679 [radio] Joe _____ the shopping at the market in the centre of town.
+ 15374) A. makes
+ 15375) B. does
+ 15376) C. takes out
+ 15377) D. mops
+  SITE FEEDBACK: ‣ To do the shopping means to go to a store or shop to purchase items like groceries, household goods, or other necessary products.
+Q 8681 [radio] I couldn’t _____ the laundry because the washing machine was broken.
+ 15382) A. make
+ 15383) B. do
+ 15384) C. wash
+ 15385) D. dust
+  SITE FEEDBACK: ‣ To do the laundry means to wash dirty clothes, usually in a washing machine.
+Q 8682 [radio] Sara _____ breakfast for her family every morning.
+ 15386) A. does
+ 15387) B. washes
+ 15388) C. makes
+ 15389) D. takes out
+  SITE FEEDBACK: ‣ To make breakfast/lunch/dinner means to cook or prepare food for those meals. We also say to make tea, coffee, etc.
+Q 8684 [radio] After I’ve _____ the bed, I’ll have a shower.
+ 15394) A. made
+ 15395) B. washed
+ 15396) C. dusted
+ 15397) D. swept
+  SITE FEEDBACK: ‣ To make the bed means to pull up the sheets and blankets on the bed after it has been used.
+
+=== PAGE /writing/b1-b2/writing-a-how-to-article-for-a-blog-or-magazine/
+Q 8636 [radio] Not drinking enough water during sports can lead to _____ tired more quickly.
+ 15294) A. feeling
+ 15295) B. feel
+ 15296) C. felt
+  SITE FEEDBACK: ‣ Say lead to + noun/-ing verb
+Q 8637 [radio] Another thing you could do is _____ a compost bin for organic waste in your backyard.
+ 15297) A. started
+ 15298) B. start
+ 15299) C. starting
+  SITE FEEDBACK: ‣ When we use a verb after do + is, we use the infinitive (with or without to): /  All we did was (to) sing a song. /  What you can do is (to) ask your teacher.
+Q 8638 [radio] If you're going to the beach, it would be advisable _____ sunscreen to protect your skin.
+ 15300) A. wear
+ 15301) B. to wear
+ 15302) C. wearing
+  SITE FEEDBACK: ‣ The word advisable is an adjective. When an adjective is followed by a verb, the verb is typically in the to infinitive form.
+Q 8639 [radio] Taking short breaks every hour can make a big difference _____ your performance.
+ 15303) A. in
+ 15304) B. to
+ 15305) C. for
+  SITE FEEDBACK: ‣ We say make a difference + in.
+Q 8640 [radio] We can reduce the amount of waste that goes to landfills _____ recycling regularly.
+ 15306) A. from
+ 15307) B. with
+ 15308) C. by
+  SITE FEEDBACK: ‣ We often use by + -ing verb to describe what needs to be done to achieve a result.
+Q 8641 [radio] Opening the windows can allow fresh air to circulate, _____ improving indoor air quality.
+ 15309) A. by
+ 15310) B. so
+ 15311) C. thereby
+  SITE FEEDBACK: ‣ The word thereby is used before a noun or an -ing verb to introduce the result or effect of an action previously mentioned. In this sentence, the action is "Opening the windows," and the result is "improving indoor air quality." Thus, thereby appropriately connects the action and its result.
+Q 8642 [radio] You should consider _____ deep breathing exercises to further relax the mind.
+ 15312) A. incorporating
+ 15313) B. incorporate
+ 15314) C. to incorporate
+  SITE FEEDBACK: ‣ Use consider + -ing verb.
+Q 8643 [radio] You may want to think about _____ up a small herb garden on your balcony.
+ 15315) A. set
+ 15316) B. to set
+ 15317) C. setting
+  SITE FEEDBACK: ‣ The word about is a preposition, and if you use a verb after a preposition, it takes the -ing form.
+
+=== PAGE /reading/b1/the-unhealthiest-places-in-the-world-b1-english-reading-test/
+Q 8592 [radio] Residents of the Czech Republic…
+ 15104) A. consume more alcohol than any other country in the world.
+ 15105) B. have the highest combined rates of smoking, obesity and drinking alcohol.
+ 15106) C. smoke more than any other country in Eastern Europe.
+ 15107) D. are more obese than people in both the USA and the rest of Europe.
+  SITE FEEDBACK: ‣ The article states that the Czech Republic residents are among the world's heaviest drinkers and they also have high obesity levels. Smoking is more common in Eastern Europe, of which Czech Republic is a part.
+Q 8593 [radio] The writer of this article thinks that the Clinic Compare study…
+ 15108) A. accurately identified the healthiest and least healthy nations.
+ 15109) B. did not include enough countries in its study.
+ 15110) C. failed to identify the healthiest countries accurately.
+ 15111) D. is inaccurate because health issues have changed since the study.
+  SITE FEEDBACK: ‣ The writer emphasizes that while some countries were ranked healthy by Clinic Compare, they were considered unhealthier in another study. This suggests a discrepancy in the Clinic Compare study's accuracy.
+Q 8594 [radio] According to the article,
+ 15112) A. there is more malnutrition than obesity in Mozambique.
+ 15113) B. there are more diseases of affluence in DR Congo than in the USA.
+ 15114) C. life expectancy in DR Congo is the lowest in the world.
+ 15115) D. access to medical facilities and doctors in Malawi is gradually rising.
+  SITE FEEDBACK: ‣ The article clearly mentions that in Mozambique, lack of nutrients in the diet is a more common medical problem than overeating.
+Q 8595 [radio] The text indicates that…
+ 15116) A. Nepal has more pollution from vehicles and industries than Afghanistan.
+ 15117) B. Fewer people die as a result of air pollution in Nepal than in Afghanistan.
+ 15118) C. 2.4 billion people are currently suffering from diseases associated with air pollution.
+ 15119) D. People put their health at risk when cooking on kerosene, wood, dung and coal.
+  SITE FEEDBACK: ‣ The article highlights that around 2.4 billion people worldwide are exposed to dangerous levels of household air pollution while using these fuels for cooking.
+Q 8596 [radio] According to the text, the USA is higher than Spain with regards to…
+ 15120) A. the number of people who walk to work.
+ 15121) B. the amount of air pollution
+ 15122) C. the affordability of its health care.
+ 15123) D. its ability to respond to disease outbreaks.
+  SITE FEEDBACK: ‣ The article notes that the USA can detect and respond to pandemics more effectively due to its high standards in research, safety, and communication.
+Q 8597 [radio] According to the text, what is the reason for high obesity rates in the Pacific Islands?
+ 15124) A. The traditional diet is high in fat.
+ 15125) B. People prefer to buy imported food.
+ 15126) C. Fresh food is no longer grown locally.
+ 15127) D. People do not get enough exercise.
+  SITE FEEDBACK: ‣ The article points out that since the 1950s, increased incomes have made imported convenience foods more affordable in the Pacific Islands, which has made people to choose more unhealthy foods despite the availability of healthier local options.
+
+=== PAGE /use-of-english/b1-b2/b1-english-test-10-multiple-choice-questions/
+Q 8621 [radio] "Didn't you finish your work?" "_____"
+ 15238) A. I did finish my work!
+ 15239) B. I of course finished my work!
+ 15240) C. I was finish my work!
+ 15241) D. I yes finished my work!
+  SITE FEEDBACK: ‣ When we want to add emphasis to a verb, we often stress the auxiliary verb, if there is one, when we speak. /  A: ‘Why aren’t you going to the party?’ B: ‘I am going to the party.’ (We stress am) /  ‣ With affirmative present or past simple verbs, where we don't have an auxiliary verb to stress, we use do/does (present) or did (past) before the main verb. /  A: ‘Why didn’t you go to the party?’ B: ‘I did go to the party.’ /  ‣ To review this grammar lesson, go to Grammar » B1+ » Auxiliary verbs – different uses.
+Q 8623 [radio] It was ________ interesting book that I couldn't put it down.
+ 15246) A. so
+ 15247) B. such
+ 15248) C. such an
+ 15249) D. so much
+  SITE FEEDBACK: ‣ We use so + adjective or adverb (not followed by a noun). /  ‣ We use use such + (adjective) + uncountable noun or plural noun, and we use such a + (adjective) + countable singular noun. In the sentence above, book is a countable singular noun, that's why we need to use such an. /  ‣ To review this grammar lesson, go to Grammar » B1+ » So, such, so much, so many.
+Q 8624 [radio] By the time she finally arrived at the concert, the band ________ for over an hour.
+ 15250) A. was played
+ 15251) B. was playing
+ 15252) C. had been playing
+ 15253) D. played
+  SITE FEEDBACK: ‣ We use the past perfect continuous to emphasize the duration of an action that was ongoing before (and possibly until) a certain moment in the past. In this narrative, the action of the band playing had been happening before and until "she" arrived; therefore, the past perfect continuous tense is appropriate. /  ‣ To review this grammar lesson, go to Grammar » B1+ » Narrative tenses – all past tenses
+Q 8625 [radio] By the end of the year, she ________ in Spain for two years.
+ 15254) A. will live
+ 15255) B. is going to live
+ 15256) C. will have lived
+ 15257) D. is living
+  SITE FEEDBACK: ‣ The future perfect tense is used to describe an action that will be completed before some point in the future. In this sentence, it indicates that by a specific future time (the end of the year), the duration of her stay in Spain will have reached two years. /  ‣ To review this grammar lesson, go to Grammar » B1+ » Future continuous and future perfect.
+Q 8626 [radio] If he ________ the advice, he wouldn't have had that accident.
+ 15258) A. had followed
+ 15259) B. would have followed
+ 15260) C. followed
+ 15261) D. would follow
+  SITE FEEDBACK: ‣ The third conditional is used for situations in the past that did not happen and their hypothetical outcomes. In a third conditional sentence, we use past perfect in the if clause, and we can use would, could or might + have + past participle in the main clause. /  ‣ To review this grammar lesson, go to Grammar » B1+ » Second and third conditionals – unreal conditionals.
+Q 8627 [radio] Everyone was relieved to see the ________ cat finally climb down from the tree.
+ 15262) A. amuse
+ 15263) B. amused
+ 15264) C. amuses
+ 15265) D. amusing
+  SITE FEEDBACK: ‣ When we use -ing participles as adjectives, they describe the effect that something has on someone’s feelings. In this case, amusing describes the cat's behavior as it is perceived by the observers, implying it is entertaining or funny. On the other hand, -ed participles (like amused) describe a feeling, so amused would suggest the cat feels entertained, which doesn't fit the context. Amuse and amuses are incorrect because they're not in the adjective form. /  ‣ To review this grammar lesson, go to Grammar » B1+ » Participles as adjectives (-ed/-ing adjectives)
+Q 8628 [radio] Every summer, we ________ visit my grandparents in the countryside and explore the woods near their home.
+ 15266) A. have
+ 15267) B. would
+ 15268) C. used
+ 15269) D. did
+  SITE FEEDBACK: ‣ In this context, would is used to describe a repeated action or habit in the past, typically something that occurred regularly and was part of a routine or tradition. Used to + infinitive could also describe past habits, so we could also say "used to visit" (with to). /  ‣ To review this grammar lesson, go to Grammar » B1+ » Would and used to – past habits and repeated actions.
+Q 8629 [radio] Given the choice, he ________ walk in the park than spend time indoors.
+ 15270) A. prefers to
+ 15271) B. would prefer to
+ 15272) C. used to
+ 15273) D. would rather
+  SITE FEEDBACK: ‣ Would rather is used to indicate a specific preference between two options. Would rather is followed by an infinitive form and can be used with than to show the less preferred activity or situation. The options A) and B) would be correct if we used the word rather before than. /  Given the choice, he prefers/would prefer to walk in the park rather than spend time indoors. /  ‣ To review this grammar lesson, go to Grammar » B1+ » Would rather, would prefer – expressing preference.
+Q 8630 [radio] What happened to the cake? It _______ someone has eaten half of it!
+ 15274) A. looks as though
+ 15287) B. looks
+ 15288) C. looks as
+ 15289) D. is looking
+  SITE FEEDBACK: ‣ We can use feel, smell, taste, sound, and feel + as if/as though + clause (subject + verb) to talk about something that appears to be true based on visual evidence or general impression. /  ‣ In informal or spoken English we often also use feel, smell, taste, sound, and feel + like + clause. /  What happened to the cake? It looks like someone has eaten half of it! /  ‣ To review this grammar lesson, go to Grammar » B1+ » Verbs of the senses
+Q 8631 [radio] The secret recipe _____ to have been discovered by an unknown chef in Italy.
+ 15275) A. is thought
+ 15276) B. thought
+ 15277) C. is thinking
+ 15278) D. believed
+  SITE FEEDBACK: ‣ In the passive form with reporting verbs, we use be + past participle (thought). Here, is thought indicates that people in general believe that the statement is true. /  ‣ To review this grammar lesson, go to Grammar » B1+ » The passive with reporting verbs – It is said that…
+Q 8632 [radio] I don't have my car. I'm having _____ at the garage.
+ 15279) A. repaired
+ 15280) B. repairing
+ 15281) C. it repair
+ 15282) D. it repaired
+  SITE FEEDBACK: ‣ We use have + object + past participle when we want to talk about something that someone else does for us, usually because we pay them or because we persuade or ask them to do it. /  ‣ To review this grammar lesson, go to Grammar » B1+ » Have something done.
+Q 8633 [radio] I'm flexible with the schedule. We can meet _____ is most convenient for you.
+ 15283) A. however
+ 15284) B. whenever
+ 15285) C. whichever
+ 15286) D. whatever
+  SITE FEEDBACK: ‣ Whenever means 'at any time when,' 'no matter when,' or 'at any time that suits you,' indicating flexibility regarding the time of the meeting. "Whenever is most convenient for you" means 'at any time that is most convenient for you'. /  ‣ To review this grammar lesson, go to Grammar » B1+ » Whatever, whenever, wherever, whoever, however.
+Q 8634 [radio] Of all these movies, ______ of them are suitable for children under 12.
+ 15290) A. either
+ 15291) B. neither
+ 15292) C. none
+ 15293) D. any
+  SITE FEEDBACK: ‣ We can use none of + noun/pronoun to mean 'not one, or not any of a group of people or things'. /  ‣ We use neither of + noun/pronoun with the same meaning, but when talking about two people or things. /  ‣ We use any with negative verbs, that's why it is incorrect here. /  ‣ To review this grammar lesson, go to Grammar » B1+ » Quantifiers – all, most, both, either, neither, any, no, none.
+
+=== PAGE /vocabulary/a2/clothes-a2-english-vocabulary/
+Q 8409 [radio] I was wearing a _____ to protect my face from the sun.
+ 14794) A. cardigan
+ 14795) B. blazer
+ 14796) C. cap
+ 14797) D. skirt
+  SITE FEEDBACK: ‣ A cap is a soft, flat hat with a curved part at the front to protect your face from the sun.
+
+=== PAGE /vocabulary/b2/tourism-b2-english-vocabulary/
+Q 8521 [radio] We decided to _____ the shops and buy some new clothes.
+ 14956) A. sample
+ 14957) B. hit
+ 14958) C. go on
+ 14959) D. unwind
+  SITE FEEDBACK: ‣ If you hit the shops, you go shopping, usually for clothes, presents, or souvenirs. People often hit the shops when on holiday to buy things that they can’t get at home.
+Q 8522 [radio] We visited a _____ where we saw many protected plant species.
+ 14960) A. seafront
+ 14961) B. crafts fair
+ 14962) C. nature reserve
+ 14963) D. backstreet
+  SITE FEEDBACK: ‣ Nature reserves are parks, forests, or other outdoor areas that are managed to protect their plants and wildlife. Many people visit nature reserves to enjoy the flowers, trees, and views.
+Q 8525 [radio] Soon it was time for us to _____ and go home.
+ 14972) A. pack our bags
+ 14973) B. go off track
+ 14974) C. chill out
+ 14975) D. take a detour
+  SITE FEEDBACK: ‣ If you pack your bags, you put your clothes and belongings in a suitcase or rucksack. People pack their bags when preparing to go on or return from a trip or holiday.
+Q 8526 [radio] I _____ down the city streets, admiring the stunning architecture.
+ 14976) A. unwinded
+ 14977) B. strolled
+ 14978) C. packed my bags
+ 14979) D. went off track
+  SITE FEEDBACK: ‣ To stroll means to walk at a leisurely pace, with no particular aim. You can through the streets of a town, taking in the buildings and sights, or you can stroll down a country lane and enjoy the natural surroundings
+
+=== PAGE /writing/a2/how-to-write-an-email-to-book-a-hotel-room/
+Q 8470 [radio] _____ you tell me if breakfast is included?
+ 14877) A. Could
+ 14878) B. Would
+ 14879) C. Will
+  SITE FEEDBACK: ‣ You can make questions more formal by adding an introductory phrase: /  Can/Could you tell me if…? /  Can/Could you let me know if…? /  I would (also) like to know if…
+Q 8471 [radio] I will accept a twin room _____ one available.
+ 14880) A. if there is
+ 14881) B. if there will be
+ 14882) C. if there
+  SITE FEEDBACK: ‣ In a first conditional sentence, there are two parts. Use if in one part, and after it, use a verb in the present simple tense. In the other part of the sentence, you can use will + verb (infinitive) or a question with can/could I/you…?
+Q 8472 [radio] I’d like a room _____ the ground floor.
+ 14883) A. on
+ 14884) B. from
+ 14885) C. with
+  SITE FEEDBACK: ‣ Use on to talk about floors. /  I’d like a room on the ground floor.
+Q 8474 [radio] I’d like a double room _____ 4 nights.
+ 14889) A. on
+ 14890) B. from
+ 14891) C. for
+  SITE FEEDBACK: ‣ Use for before the number of nights. /  I would like to book a room for three nights.
+Q 8477 [radio] If there aren’t any double rooms available, _____ have a twin room?
+ 14898) A. could I
+ 14899) B. I can
+ 14900) C. I
+  SITE FEEDBACK: ‣ In a first conditional sentence, there are two parts. Use if in one part, and after it, use a verb in the present simple tense. In the other part of the sentence, you can use will + verb (infinitive) or a question with can/could I/you…? /  ‣ In this sentence we are using a question.
+
+=== PAGE /grammar-points/b1/would-rather-would-sooner/
+Q 7803 [radio] We’d rather_____ pizza than curry.
+ 13824) A. to have
+ 13825) B. have
+ 13826) C. had
+  SITE FEEDBACK: ‣ Use would rather/sooner + infinitive without to.
+Q 7804 [radio] I would rather _____ tomorrow night instead of tonight.
+ 13827) A. you came
+ 13828) B. came
+ 13829) C. you to come
+  SITE FEEDBACK: ‣ We use would rather/would sooner + subject + past simple to express that we would like someone else to do something.
+Q 7806 [radio] "Would you like any dessert?" "Thanks, but I'd sooner _____ a coffee."
+ 13833) A. have
+ 13834) B. having
+ 13835) C. to have
+  SITE FEEDBACK: ‣ Use would rather/sooner + infinitive without to.
+Q 7807 [radio] Would you rather _____ this film or that one?
+ 13836) A. to watch
+ 13837) B. watch
+ 13838) C. watched
+  SITE FEEDBACK: ‣ Use would rather/sooner + infinitive without to. /  ‣ In questions, use would + subject + rather/sooner + infinitive.
+Q 7808 [radio] We would rather _____ in the garden.
+ 13839) A. the dogs stay
+ 13840) B. the dogs to stay
+ 13841) C. the dogs stayed
+  SITE FEEDBACK: ‣ We use would rather/would sooner + subject + past simple to express that we would like someone else to do something.
+Q 7809 [radio] I'd sooner _____ this one than that one.
+ 13842) A. get
+ 13843) B. got
+ 13844) C. you get
+  SITE FEEDBACK: ‣ Use would rather/sooner + infinitive without to.
+Q 7810 [radio] "Would you like the children to keep you company?" "Thanks, but I _____."
+ 13845) A. didn't rather
+ 13846) B. wouldn't rather
+ 13847) C. 'd rather they didn't
+  SITE FEEDBACK: ‣ We can use would rather/sooner + subject + didn't in short answers.
+Q 7811 [radio] We _____ swimming than sailing.
+ 13848) A. 'd sooner go
+ 13849) B. 'd rather gone
+ 13850) C. 'd sooner to go
+  SITE FEEDBACK: ‣ Use would rather/sooner + infinitive without to.
+Q 7812 [radio] I would rather _____ the window.
+ 13851) A. you not open
+ 13852) B. didn't open
+ 13853) C. you didn't open
+  SITE FEEDBACK: ‣ We use would rather/would sooner + subject + past simple to express that we would like someone else to do something. /  ‣ To make the negative form, we use would rather/would sooner + subject + didn’t…
+
+=== PAGE /reading/b2/fatphobia-the-stigma-of-being-fat-b2-english-reading-test/
+Q 7714 [radio] What did Ellen find difficult about being overweight as a young child?
+ 13626) A. Her mother was overly concerned about Ellen’s appearance.
+ 13627) B. She felt undesirable in comparison to the other children.
+ 13628) C. People avoided talking to her naturally about her weight.
+ 13629) D. She was often bullied as a result of her weight.
+  SITE FEEDBACK: ‣ Ellen mentions that people didn't talk out loud about her weight, which made her feel as if they were tiptoeing around the issue (=avoiding to deal about the issue) rather than accepting her.
+Q 7715 [radio] What common attitude does Ellen want to change?
+ 13630) A. Being slim is more important than good mental health.
+ 13631) B. Fat people should pay extra for public transport.
+ 13632) C. Being thin is healthier than being fat.
+ 13633) D. It is acceptable to encourage someone to lose weight.
+  SITE FEEDBACK: ‣ Ellen is concerned about society's unhealthy attitude toward weight, using her friend's experience as an example. Her friend resorted to drugs to lose weight, and people complimented her on her appearance without noticing her struggle.
+Q 7716 [radio] Regarding health, Ellen says that fat people...
+ 13634) A. usually seek medical attention later than slim people.
+ 13635) B. often require different treatment to slim people.
+ 13636) C. are frequently spoken to rudely by medical professionals.
+ 13637) D. tend to have no more health problems than slim people.
+  SITE FEEDBACK: ‣ Ellen discusses the discrimination fat people face in medicine, and how they often delay seeking medical help due to this bias.
+Q 7717 [radio] Ellen believes that...
+ 13638) A. being overweight is as healthy as being an ‘ideal’ weight.
+ 13639) B. the number of overweight people worldwide must be reduced.
+ 13640) C. it is socially acceptable to see fat people as inferior.
+ 13641) D. mistreatment of fat people is as serious a as racism.
+  SITE FEEDBACK: ‣ Ellen expresses her worry about overweight people being seen as a "problem" in society, which she believes gives others the perceived right to judge them as substandard (=inferior).
+Q 7718 [radio] Ellen gives the example of the person who received two promotions to illustrate that...
+ 13642) A. fat people are only judged favourably once people know them well.
+ 13643) B. fat people are often judged to be less competent than thinner people.
+ 13644) C. losing weight can improve someone’s performance at work.
+ 13645) D. fat people must work harder to prove they are not lazy and undisciplined.
+  SITE FEEDBACK: ‣ Ellen uses her friend's experience, who after losing weight, received promotions and was congratulated for improved performance despite always having given her best.
+Q 7719 [radio] What is Ellen’s recommendation for dealing with fatphobia?
+ 13646) A. The issues that cause obesity should be addressed across various industries.
+ 13647) B. There should be more penalties to prevent stigma towards fat people.
+ 13648) C. Industries should develop a more positive attitude towards fat people.
+ 13649) D. Support should be made available for fat people with mental health issues.
+  SITE FEEDBACK: ‣ Ellen emphasizes the importance of presenting overweight people in a positive light and believes that industries, from media to medicine, should play a role in creating change.
+
+=== PAGE /use-of-english/b1/b1-english-test-10-multiple-choice-questions/
+Q 6945 [radio] I can't find my keys. _____ them?
+ 12042) A. Did you see
+ 12043) B. Have you seen
+ 12044) C. You saw
+ 12045) D. You have seen
+  SITE FEEDBACK: ‣ We use the present perfect to talk about past recent events. /  ‣ In questions, the present perfect is: have + subject + past participle of the main verb. /  ‣ To review this grammar lesson, go to Grammar » B1 » Past simple or present perfect?
+Q 6966 [radio] He _____ four novels. In my opinion, the last one is the best.
+ 12100) A. has written
+ 12101) B. writes
+ 12102) C. writing
+ 12103) D. has been writing
+  SITE FEEDBACK: ‣ We use the present perfect simple to talk about how many things or how much of something we have done (how many novels). /  ‣ To review this grammar lesson, go to Grammar » B1 » Present perfect simple and present perfect continuous.
+Q 6967 [radio] I came _____ I could.
+ 12104) A. faster as
+ 12105) B. as faster as
+ 12106) C. as fast as
+ 12107) D. so fast that
+  SITE FEEDBACK: ‣ We can use the form (not) as + adjective + as to say that one thing is the same as another. /  ‣ To review this grammar lesson, go to Grammar » B1 » Comparative and superlative adjectives and adverbs.
+Q 6968 [radio] We visited Florence, Venice, and _____ Italian cities.
+ 12108) A. other
+ 12109) B. others
+ 12110) C. another
+ 12111) D. one other
+  SITE FEEDBACK: ‣ We use another or the other + singular noun, and other + plural noun. /  ‣ Others is never followed by a noun. /  ‣ To review this grammar lesson, go to Grammar » B1 » another, other, others, the other, the others
+Q 6969 [radio] I _____ go for a run in the morning.
+ 12112) A. use to
+ 12113) B. get used to
+ 12114) C. usually
+ 12115) D. am used to
+  SITE FEEDBACK: ‣ The form used to only has a past form. To talk about present habits, we can use usually or normally with the present simple tense. /  ‣ Be/get used to are followed by a noun or a gerund (be/get used to doing). /  ‣ To review this grammar lesson, go to Grammar » B1 » usually, used to, be used to, get used to.

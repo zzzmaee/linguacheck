@@ -1,0 +1,1251 @@
+{
+"4867": {
+"choices": [
+7448
+],
+"feedback": "‣ <strong>B</strong> is correct because the past perfect continuous describes the duration of an activity before another past event."
+},
+"4868": {
+"choices": [
+7453
+],
+"feedback": "‣ <strong>C</strong> is correct because the past continuous describes an action in progress at that moment in the past."
+},
+"4869": {
+"choices": [
+7455
+],
+"feedback": "‣ <strong>A</strong> is correct because the future continuous describes a situation in progress at a time in the future."
+},
+"4870": {
+"choices": [
+7462
+],
+"feedback": "‣ <strong>D</strong> is correct because we use <strong>be going to</strong> for a plan already decided before speaking."
+},
+"4871": {
+"choices": [
+7463,
+7465
+],
+"feedback": "‣ <strong>A</strong> and <strong>C</strong> are correct because the present continuous and the future continuous are both used for future arrangements."
+},
+"4872": {
+"choices": [
+7470
+],
+"feedback": "‣ <strong>D</strong> is correct because the present perfect continuous with <strong>since</strong> describes an activity that started in the past and continues now."
+},
+"4873": {
+"gaps": [
+[
+"Shall we have",
+"Are we having",
+"Are we going to have"
+],
+[
+"'ll order",
+"will order"
+]
+],
+"feedback": "Correct answer: 1 Shall we have, 2 'll order<br>‣ <strong>Shall we</strong> for suggestions; <strong>will</strong> for a decision made at the moment of speaking."
+},
+"4874": {
+"gaps": [
+[
+"have been playing",
+"'ve been playing"
+],
+[
+"will have won",
+"'ll have won"
+]
+],
+"feedback": "Correct answer: 1 have been playing, 2 will have won<br>‣ Present perfect continuous with <strong>recently</strong>; future perfect with <strong>by the end of the season</strong>."
+},
+"4875": {
+"gaps": [
+[
+"'ve been looking",
+"have been looking"
+],
+[
+"'ve been",
+"have been"
+]
+],
+"feedback": "Correct answer: 1 've been looking, 2 've been<br>‣ Present perfect continuous for an activity up to now; present perfect for a state up to now."
+},
+"4876": {
+"gaps": [
+[
+"had been flying"
+],
+[
+"told"
+]
+],
+"feedback": "Correct answer: 1 had been flying, 2 told<br>‣ Past perfect continuous for duration before a past event; past simple for the event."
+},
+"4877": {
+"gaps": [
+[
+"will be eating",
+"'ll be eating"
+],
+[
+"won't have finished",
+"will not have finished"
+]
+],
+"feedback": "Correct answer: 1 will be eating, 2 won't have finished<br>‣ Future continuous for an action in progress at 3 p.m.; future perfect for something not completed by then."
+},
+"4878": {
+"gaps": [
+[
+"Have you ever travelled",
+"Have you ever traveled",
+"Have you ever been"
+],
+[
+"went"
+]
+],
+"feedback": "Correct answer: 1 Have you ever travelled, 2 went<br>‣ Present perfect with <strong>ever</strong> for experiences; past simple with <strong>a few years ago</strong>."
+},
+"4879": {
+"gaps": [
+[
+"had visited",
+"'d visited",
+"had been visiting"
+],
+[
+"had never seen",
+"'d never seen"
+]
+],
+"feedback": "Correct answer: 1 had visited, 2 had never seen<br>‣ Past perfect for experiences before a moment in the past."
+},
+"4880": {
+"gaps": [
+[
+"are you doing",
+"are you going to do"
+],
+[
+"'ve just found",
+"have just found",
+"just found"
+]
+],
+"feedback": "Correct answer: 1 are you doing, 2 've just found<br>‣ Present continuous for now; present perfect with <strong>just</strong>."
+},
+"4881": {
+"gaps": [
+[
+"Will you turn on",
+"Could you turn on",
+"Can you turn on"
+],
+[
+"'ll do",
+"will do"
+]
+],
+"feedback": "Correct answer: 1 Will you turn on, 2 'll do<br>‣ <strong>Will you</strong> for requests; <strong>will</strong> for an instant decision or promise."
+},
+"4882": {
+"gaps": [
+[
+"does the train arrive",
+"is the train arriving",
+"will the train arrive"
+],
+[
+"'ll check",
+"will check"
+]
+],
+"feedback": "Correct answer: 1 does the train arrive, 2 'll check<br>‣ Present simple for timetables; <strong>will</strong> for a decision made at the moment of speaking."
+},
+"4841": {
+"gaps": [
+[
+"do you do"
+],
+[
+"'m not working"
+]
+],
+"feedback": "Correct answer: 1 do you do, 2 'm not working<br>‣ <strong>What do you do?</strong> asks about jobs; present continuous for a temporary situation."
+},
+"4842": {
+"gaps": [
+[
+"went"
+],
+[
+"stayed"
+]
+],
+"feedback": "Correct answer: 1 went, 2 stayed<br>‣ Past simple for finished actions with <strong>last Saturday</strong>."
+},
+"4843": {
+"gaps": [
+[
+"are you going to cook"
+],
+[
+"'ll check"
+]
+],
+"feedback": "Correct answer: 1 are you going to cook, 2 'll check<br>‣ <strong>Going to</strong> for plans; <strong>will</strong> for a decision made at the moment of speaking."
+},
+"4844": {
+"gaps": [
+[
+"is behaving"
+],
+[
+"'m going to call"
+]
+],
+"feedback": "Correct answer: 1 is behaving, 2 'm going to call<br>‣ Present continuous for temporary behaviour; <strong>going to</strong> for an intention."
+},
+"4845": {
+"gaps": [
+[
+"Are you going to eat"
+],
+[
+"'ll eat"
+]
+],
+"feedback": "Correct answer: 1 Are you going to eat, 2 'll eat<br>‣ <strong>Going to</strong> asks about intentions; <strong>will</strong> for an instant decision."
+},
+"4846": {
+"gaps": [
+[
+"Have you written"
+],
+[
+"did"
+]
+],
+"feedback": "Correct answer: 1 Have you written, 2 did<br>‣ Present perfect with <strong>yet</strong>; past simple with <strong>last night</strong>."
+},
+"4847": {
+"gaps": [
+[
+"Were you"
+],
+[
+"was working"
+]
+],
+"feedback": "Correct answer: 1 Were you, 2 was working<br>‣ Past continuous for an action in progress when something else happened."
+},
+"4848": {
+"gaps": [
+[
+"will win"
+],
+[
+"am going to vote"
+]
+],
+"feedback": "Correct answer: 1 will win, 2 am going to vote<br>‣ <strong>Will</strong> for predictions based on opinion; <strong>going to</strong> for intentions."
+},
+"4849": {
+"gaps": [
+[
+"did you finish"
+],
+[
+"did"
+],
+[
+"was travelling"
+]
+],
+"feedback": "Correct answer: 1 did you finish, 2 did, 3 was travelling<br>‣ Past simple for finished actions; past continuous for the background action."
+},
+"4850": {
+"gaps": [
+[
+"'ll call"
+]
+],
+"feedback": "Correct answer: 'll call<br>‣ <strong>Will</strong> for a decision made at the moment of speaking."
+},
+"4851": {
+"gaps": [
+[
+"were finishing"
+],
+[
+"Do you still live"
+],
+[
+"moved"
+],
+[
+"finished"
+],
+[
+"Do you like"
+],
+[
+"have"
+],
+[
+"have you been"
+],
+[
+"Have you ever won"
+],
+[
+"have won"
+],
+[
+"’m representing"
+],
+[
+"are you doing"
+],
+[
+"finished"
+],
+[
+"’m looking"
+],
+[
+"have applied"
+],
+[
+"will find"
+],
+[
+"was filling"
+],
+[
+"’m going to start"
+],
+[
+"are you going to do"
+],
+[
+"’m meeting"
+],
+[
+"'ll have"
+]
+],
+"feedback": "Correct answer: 1 were finishing, 2 Do you still live, 3 moved, 4 finished, 5 Do you like, 6 have, 7 have you been, 8 Have you ever won, 9 have won, 10 ’m representing, 11 are you doing, 12 finished, 13 ’m looking, 14 have applied, 15 will find, 16 was filling, 17 ’m going to start, 18 are you going to do, 19 ’m meeting, 20 'll have<br>‣ Past simple for finished past time, present perfect for experiences, present continuous for arrangements and <strong>will</strong> for instant decisions."
+},
+"4852": {
+"gaps": [
+[
+"’m calling"
+],
+[
+"happened"
+],
+[
+"needed"
+],
+[
+"went"
+],
+[
+"was taking"
+],
+[
+"noticed"
+],
+[
+"opened"
+],
+[
+"Are you joking"
+],
+[
+"is he going to do"
+],
+[
+"doesn’t know"
+],
+[
+"will go"
+],
+[
+"is going to give"
+],
+[
+"will reclaim"
+],
+[
+"’ll tell"
+],
+[
+"were you doing"
+],
+[
+"was cleaning"
+],
+[
+"Are you doing"
+],
+[
+"went"
+],
+[
+"was still going out"
+],
+[
+"’ll pick"
+]
+],
+"feedback": "Correct answer: 1 ’m calling, 2 happened, 3 needed, 4 went, 5 was taking, 6 noticed, 7 opened, 8 Are you joking, 9 is he going to do, 10 doesn’t know, 11 will go, 12 is going to give, 13 will reclaim, 14 ’ll tell, 15 were you doing, 16 was cleaning, 17 Are you doing, 18 went, 19 was still going out, 20 ’ll pick<br>‣ Past simple for the sequence of events, past continuous for background actions, <strong>going to</strong> for plans and <strong>will</strong> for predictions and instant decisions."
+},
+"4839": {
+"choices": [
+7424
+],
+"feedback": "‣ <strong>D</strong> is correct because the crash and the driver's death are the most important event; the other events lead to it or follow it."
+},
+"4835": {
+"choices": [
+7381,
+7382,
+7383
+],
+"feedback": "‣ <strong>A</strong>, <strong>B</strong> and <strong>C</strong> are correct because seeing the car, looking at the driver and not stopping at the light all happened before the crash."
+},
+"4840": {
+"choices": [
+7430
+],
+"feedback": "‣ <strong>E</strong> is correct because telling the police about the accident happened after the crash."
+},
+"4829": {
+"choices": [
+7336,
+7337,
+7339,
+7340,
+7341,
+7343
+],
+"feedback": "‣ <strong>2</strong>, <strong>3</strong>, <strong>5</strong>, <strong>6</strong>, <strong>7</strong> and <strong>9</strong> are correct because these past simple verbs narrate the main events in the order they happened."
+},
+"4830": {
+"choices": [
+7352,
+7354
+],
+"feedback": "‣ <strong>8</strong> and <strong>10</strong> are correct because the past perfect (<strong>had happened</strong>, <strong>hadn't seen</strong>) refers to events before the main event."
+},
+"4832": {
+"choices": [
+7365
+],
+"feedback": "‣ <strong>1</strong> is correct because the past continuous <strong>was walking</strong> describes the background situation at the start of the story."
+},
+"4831": {
+"choices": [
+7358
+],
+"feedback": "‣ <strong>4</strong> is correct because the past continuous <strong>was talking</strong> describes an action in progress when the narrator looked at the driver."
+},
+"4833": {
+"gaps": [
+[
+"was travelling",
+"was traveling",
+"travelled",
+"traveled"
+],
+[
+"had been travelling",
+"had been traveling"
+],
+[
+"arrived"
+],
+[
+"showed"
+],
+[
+"told"
+],
+[
+"hadn't seen",
+"had not seen"
+],
+[
+"had visited",
+"visited"
+],
+[
+"begged"
+],
+[
+"were standing",
+"had been standing"
+],
+[
+"said"
+]
+],
+"feedback": "Correct answer: 1 was travelling, 2 had been travelling, 3 arrived, 4 showed, 5 told, 6 hadn't seen, 7 had visited, 8 begged, 9 were standing, 10 said<br>‣ Past continuous for background, past perfect continuous for duration before a past event, past perfect for earlier actions and past simple for the main events."
+},
+"4828": {
+"gaps": [
+[
+"reference"
+],
+[
+"grateful"
+],
+[
+"First of all"
+],
+[
+"know"
+],
+[
+"appreciate"
+],
+[
+"also"
+],
+[
+"Finally"
+],
+[
+"further"
+],
+[
+"mind"
+],
+[
+"forward"
+]
+],
+"feedback": "Correct answer: 1 reference, 2 grateful, 3 First of all, 4 know, 5 appreciate, 6 also, 7 Finally, 8 further, 9 mind, 10 forward<br>‣ Typical formal expressions: <strong>in reference to</strong>, <strong>I would be grateful if</strong>, <strong>Would you mind</strong>, <strong>I look forward to</strong>."
+},
+"4815": {
+"gaps": [
+[
+"volunteers can stay"
+]
+],
+"feedback": "Correct answer: volunteers can stay<br>‣ In indirect questions we use statement word order: subject + verb."
+},
+"4816": {
+"gaps": [
+[
+"third-year students can apply"
+]
+],
+"feedback": "Correct answer: third-year students can apply<br>‣ In indirect questions we use statement word order: subject + verb."
+},
+"4817": {
+"gaps": [
+[
+"how much accommodation costs",
+"how much the accommodation costs"
+]
+],
+"feedback": "Correct answer: how much accommodation costs<br>‣ Indirect questions use statement word order and no auxiliary <strong>does</strong>."
+},
+"4818": {
+"gaps": [
+[
+"it is possible to stay",
+"it's possible to stay"
+]
+],
+"feedback": "Correct answer: it is possible to stay<br>‣ In indirect questions we use statement word order: subject + verb."
+},
+"4819": {
+"gaps": [
+[
+"when I should apply for the programme",
+"when I should apply for the program",
+"when I should apply",
+"when to apply for the programme"
+]
+],
+"feedback": "Correct answer: when I should apply for the programme<br>‣ Indirect questions use statement word order: <strong>when I should apply</strong>."
+},
+"4820": {
+"gaps": [
+[
+"when the programme starts",
+"when the program starts",
+"when it starts"
+]
+],
+"feedback": "Correct answer: when the programme starts<br>‣ Indirect questions use statement word order and no auxiliary <strong>does</strong>."
+},
+"4821": {
+"gaps": [
+[
+"has been advertised"
+]
+],
+"feedback": "Correct answer: has been advertised<br>‣ Present perfect passive: <strong>has been</strong> + past participle."
+},
+"4822": {
+"gaps": [
+[
+"is not mentioned",
+"isn't mentioned"
+]
+],
+"feedback": "Correct answer: is not mentioned<br>‣ Present simple passive: <strong>is not</strong> + past participle."
+},
+"4823": {
+"gaps": [
+[
+"can be accepted"
+]
+],
+"feedback": "Correct answer: can be accepted<br>‣ Modal passive: <strong>can be</strong> + past participle."
+},
+"4824": {
+"gaps": [
+[
+"I can be considered"
+]
+],
+"feedback": "Correct answer: I can be considered<br>‣ Modal passive: <strong>can be</strong> + past participle; <strong>me</strong> becomes the subject <strong>I</strong>."
+},
+"4825": {
+"gaps": [
+[
+"Volunteers are offered"
+]
+],
+"feedback": "Correct answer: Volunteers are offered<br>‣ Passive with two objects: the person becomes the subject: <strong>Volunteers are offered</strong>."
+},
+"4826": {
+"gaps": [
+[
+"are provided"
+]
+],
+"feedback": "Correct answer: are provided<br>‣ Present simple passive with a plural subject: <strong>are</strong> + past participle."
+},
+"4827": {
+"choices": [
+7324,
+7328,
+7330,
+7332
+],
+"feedback": "‣ <strong>1</strong>, <strong>5</strong>, <strong>7</strong> and <strong>9</strong> are correct because formal language prefers the passive voice, indirect questions, specific verbs and full forms."
+},
+"4814": {
+"gaps": [
+[
+"touch"
+],
+[
+"know"
+],
+[
+"treating"
+],
+[
+"doing"
+],
+[
+"to hear"
+],
+[
+"reason"
+],
+[
+"wondering if"
+],
+[
+"should"
+],
+[
+"'d like",
+"‘d like",
+"would like"
+],
+[
+"my regards"
+]
+],
+"feedback": "Correct answer: 1 touch, 2 know, 3 treating, 4 doing, 5 to hear, 6 reason, 7 wondering if, 8 should, 9 'd like, 10 my regards<br>‣ Informal phrases: <strong>been in touch</strong>, <strong>How's life treating you?</strong>, <strong>I was wondering if</strong>, <strong>Give my regards to</strong>."
+},
+"4804": {
+"gaps": [
+[
+"for"
+],
+[
+"to hear"
+]
+],
+"feedback": "Correct answer: 1 for, 2 to hear<br>‣ Common informal openings: <strong>Thanks for</strong> your email, it was great <strong>to hear</strong> from you."
+},
+"4805": {
+"gaps": [
+[
+"writing"
+]
+],
+"feedback": "Correct answer: writing<br>‣ <strong>Sorry for not writing</strong> earlier: <strong>for</strong> + -ing."
+},
+"4808": {
+"gaps": [
+[
+"while"
+]
+],
+"feedback": "Correct answer: while<br>‣ <strong>It has been a while</strong> means it has been some time."
+},
+"4807": {
+"gaps": [
+[
+"things"
+]
+],
+"feedback": "Correct answer: things<br>‣ <strong>How are things?</strong> is an informal way to ask how someone is."
+},
+"4806": {
+"gaps": [
+[
+"hope"
+]
+],
+"feedback": "Correct answer: hope<br>‣ <strong>I hope you are well</strong> is a common informal opening."
+},
+"4809": {
+"gaps": [
+[
+"glad"
+]
+],
+"feedback": "Correct answer: glad<br>‣ <strong>I'm glad to hear</strong> is used for good news."
+},
+"4810": {
+"gaps": [
+[
+"Sorry"
+]
+],
+"feedback": "Correct answer: Sorry<br>‣ <strong>Sorry to hear</strong> is used for bad news."
+},
+"4811": {
+"gaps": [
+[
+"let"
+]
+],
+"feedback": "Correct answer: let<br>‣ <strong>let someone know</strong> means tell someone."
+},
+"4812": {
+"gaps": [
+[
+"forward"
+]
+],
+"feedback": "Correct answer: forward<br>‣ <strong>look forward to</strong> + -ing."
+},
+"4813": {
+"gaps": [
+[
+"for now"
+]
+],
+"feedback": "Correct answer: for now<br>‣ <strong>That's all for now</strong> is used to close an informal email."
+},
+"4802": {
+"choices": [
+7306,
+7309,
+7311,
+7314
+],
+"feedback": "‣ <strong>A</strong>, <strong>D</strong>, <strong>F</strong> and <strong>I</strong> are correct because <strong>Hi</strong>, <strong>Hello</strong>, <strong>Hi there</strong> and <strong>Dear Mum</strong> are informal greetings; the others are formal."
+},
+"4803": {
+"choices": [
+7315,
+7317,
+7318,
+7320,
+7322,
+7323
+],
+"feedback": "‣ <strong>A</strong>, <strong>C</strong>, <strong>D</strong>, <strong>F</strong>, <strong>H</strong> and <strong>I</strong> are correct because these closings are friendly; <strong>Yours sincerely/faithfully/truly</strong> are formal."
+},
+"4742": {
+"gaps": [
+[
+"receiving"
+]
+],
+"feedback": "Correct answer: receiving<br>‣ <strong>Love</strong> is often followed by the -ing form."
+},
+"4743": {
+"gaps": [
+[
+"to go"
+]
+],
+"feedback": "Correct answer: to go<br>‣ <strong>Plan</strong> is followed by <strong>to</strong> + infinitive."
+},
+"4744": {
+"gaps": [
+[
+"to have"
+]
+],
+"feedback": "Correct answer: to have<br>‣ <strong>Would like</strong> is followed by <strong>to</strong> + infinitive."
+},
+"4745": {
+"gaps": [
+[
+"to go"
+]
+],
+"feedback": "Correct answer: to go<br>‣ <strong>Want</strong> is followed by <strong>to</strong> + infinitive."
+},
+"4746": {
+"gaps": [
+[
+"washing"
+]
+],
+"feedback": "Correct answer: washing<br>‣ <strong>Don't mind</strong> is followed by the -ing form."
+},
+"4747": {
+"gaps": [
+[
+"to call"
+]
+],
+"feedback": "Correct answer: to call<br>‣ <strong>Forget</strong> + <strong>to</strong> + infinitive means not remember to do something."
+},
+"4748": {
+"gaps": [
+[
+"driving"
+]
+],
+"feedback": "Correct answer: driving<br>‣ <strong>Like</strong> is followed by the -ing form to talk about enjoyment."
+},
+"4749": {
+"gaps": [
+[
+"to send"
+]
+],
+"feedback": "Correct answer: to send<br>‣ <strong>Remember</strong> + <strong>to</strong> + infinitive is used for something you must do."
+},
+"4750": {
+"gaps": [
+[
+"to ask"
+]
+],
+"feedback": "Correct answer: to ask<br>‣ <strong>Would like</strong> is followed by <strong>to</strong> + infinitive."
+},
+"4751": {
+"gaps": [
+[
+"to play"
+]
+],
+"feedback": "Correct answer: to play<br>‣ <strong>Learn</strong> is followed by <strong>to</strong> + infinitive."
+},
+"4752": {
+"choices": [
+7247
+],
+"feedback": "‣ <strong>B</strong> is correct because <strong>hate</strong> is often followed by the -ing form."
+},
+"4753": {
+"choices": [
+7250
+],
+"feedback": "‣ <strong>B</strong> is correct because <strong>hope</strong> is followed by <strong>to</strong> + infinitive."
+},
+"4754": {
+"choices": [
+7252
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>need</strong> is followed by <strong>to</strong> + infinitive."
+},
+"4755": {
+"choices": [
+7257
+],
+"feedback": "‣ <strong>C</strong> is correct because <strong>would like</strong> takes <strong>to</strong> + infinitive, while <strong>like</strong> takes the -ing form for enjoyment."
+},
+"4756": {
+"choices": [
+7258
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>like</strong> takes the -ing form and <strong>need</strong> takes <strong>to</strong> + infinitive."
+},
+"4757": {
+"choices": [
+7263
+],
+"feedback": "‣ <strong>C</strong> is correct because <strong>don't mind</strong> is followed by the -ing form."
+},
+"4758": {
+"choices": [
+7265
+],
+"feedback": "‣ <strong>B</strong> is correct because <strong>learn</strong> is followed by <strong>to</strong> + infinitive."
+},
+"4759": {
+"choices": [
+7267
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>offer</strong> is followed by <strong>to</strong> + infinitive."
+},
+"4760": {
+"choices": [
+7271
+],
+"feedback": "‣ <strong>B</strong> is correct because <strong>love</strong> is followed by the -ing form."
+},
+"4761": {
+"choices": [
+7273
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>plan</strong> is followed by <strong>to</strong> + infinitive."
+},
+"4762": {
+"gaps": [
+[
+"to watch"
+]
+],
+"feedback": "Correct answer: to watch<br>‣ <strong>Want</strong> is followed by <strong>to</strong> + infinitive."
+},
+"4763": {
+"gaps": [
+[
+"doing"
+]
+],
+"feedback": "Correct answer: doing<br>‣ <strong>Don't mind</strong> is followed by the -ing form; we say <strong>do homework</strong>."
+},
+"4764": {
+"gaps": [
+[
+"to water"
+]
+],
+"feedback": "Correct answer: to water<br>‣ <strong>Remember</strong> + <strong>to</strong> + infinitive for a task you have to do."
+},
+"4765": {
+"gaps": [
+[
+"working",
+"to work"
+]
+],
+"feedback": "Correct answer: working<br>‣ <strong>Like</strong> is followed by the -ing form."
+},
+"4766": {
+"gaps": [
+[
+"to see"
+]
+],
+"feedback": "Correct answer: to see<br>‣ <strong>Hope</strong> is followed by <strong>to</strong> + infinitive."
+},
+"4767": {
+"gaps": [
+[
+"to cook"
+]
+],
+"feedback": "Correct answer: to cook<br>‣ <strong>Learn</strong> is followed by <strong>to</strong> + infinitive."
+},
+"4768": {
+"gaps": [
+[
+"to get up"
+]
+],
+"feedback": "Correct answer: to get up<br>‣ <strong>Need</strong> is followed by <strong>to</strong> + infinitive."
+},
+"4769": {
+"gaps": [
+[
+"to close"
+]
+],
+"feedback": "Correct answer: to close<br>‣ <strong>Forget</strong> + <strong>to</strong> + infinitive means not remember to do something."
+},
+"4770": {
+"gaps": [
+[
+"playing",
+"to play"
+]
+],
+"feedback": "Correct answer: playing<br>‣ <strong>Like</strong> is followed by the -ing form."
+},
+"4771": {
+"gaps": [
+[
+"to play"
+]
+],
+"feedback": "Correct answer: to play<br>‣ <strong>Would like</strong> is followed by <strong>to</strong> + infinitive."
+},
+"4772": {
+"gaps": [
+[
+"for a walk"
+]
+],
+"feedback": "Correct answer: for a walk<br>‣ We say <strong>go for a walk</strong>."
+},
+"4773": {
+"gaps": [
+[
+"shopping"
+]
+],
+"feedback": "Correct answer: shopping<br>‣ We say <strong>go</strong> + -ing for activities: <strong>go shopping</strong>."
+},
+"4774": {
+"gaps": [
+[
+"on an"
+]
+],
+"feedback": "Correct answer: on an<br>‣ We say <strong>go on an excursion</strong>."
+},
+"4775": {
+"gaps": [
+[
+"for a swim"
+]
+],
+"feedback": "Correct answer: for a swim<br>‣ We say <strong>go for a swim</strong>."
+},
+"4776": {
+"gaps": [
+[
+"skiing"
+]
+],
+"feedback": "Correct answer: skiing<br>‣ We say <strong>go</strong> + -ing for sports: <strong>go skiing</strong>."
+},
+"4777": {
+"gaps": [
+[
+"for a drink"
+]
+],
+"feedback": "Correct answer: for a drink<br>‣ We say <strong>go for a drink</strong>."
+},
+"4778": {
+"gaps": [
+[
+"on a cruise"
+]
+],
+"feedback": "Correct answer: on a cruise<br>‣ We say <strong>go on a cruise</strong>."
+},
+"4779": {
+"gaps": [
+[
+"go"
+]
+],
+"feedback": "Correct answer: go<br>‣ We say <strong>go home</strong> without <strong>to</strong>."
+},
+"4780": {
+"gaps": [
+[
+"to the gym"
+]
+],
+"feedback": "Correct answer: to the gym<br>‣ We say <strong>go to the gym</strong>."
+},
+"4781": {
+"gaps": [
+[
+"to"
+]
+],
+"feedback": "Correct answer: to<br>‣ We say <strong>go to work</strong> without an article."
+},
+"4792": {
+"choices": [
+7278
+],
+"feedback": "‣ <strong>C</strong> is correct because we say <strong>go to school</strong> without an article when we talk about studying there."
+},
+"4793": {
+"choices": [
+7281
+],
+"feedback": "‣ <strong>C</strong> is correct because we use <strong>go</strong> + -ing for activities: <strong>go running</strong>."
+},
+"4794": {
+"choices": [
+7284
+],
+"feedback": "‣ <strong>C</strong> is correct because we use <strong>go</strong> + -ing for activities: <strong>go fishing</strong>."
+},
+"4795": {
+"choices": [
+7285
+],
+"feedback": "‣ <strong>A</strong> is correct because we say <strong>go to the supermarket</strong>."
+},
+"4796": {
+"choices": [
+7289
+],
+"feedback": "‣ <strong>B</strong> is correct because we say <strong>go on a trip</strong>."
+},
+"4797": {
+"choices": [
+7291
+],
+"feedback": "‣ <strong>A</strong> is correct because we say <strong>go to the post office</strong>."
+},
+"4798": {
+"choices": [
+7296
+],
+"feedback": "‣ <strong>C</strong> is correct because we say <strong>go to bed</strong> without an article."
+},
+"4799": {
+"choices": [
+7298
+],
+"feedback": "‣ <strong>B</strong> is correct because we use <strong>go</strong> + -ing for activities: <strong>go swimming</strong>."
+},
+"4800": {
+"choices": [
+7300
+],
+"feedback": "‣ <strong>A</strong> is correct because we say <strong>go on a tour</strong>."
+},
+"4801": {
+"choices": [
+7305
+],
+"feedback": "‣ <strong>C</strong> is correct because we use <strong>go</strong> + -ing for activities: <strong>go clubbing</strong>."
+},
+"4783": {
+"gaps": [
+[
+"on a safari",
+"on safari"
+]
+],
+"feedback": "Correct answer: on a safari<br>‣ We say <strong>go on (a) safari</strong>."
+},
+"4782": {
+"gaps": [
+[
+"to school",
+"to work"
+]
+],
+"feedback": "Correct answer: to school<br>‣ We say <strong>go to school</strong> without an article."
+},
+"4784": {
+"gaps": [
+[
+"for a walk"
+]
+],
+"feedback": "Correct answer: for a walk<br>‣ We say <strong>go for a walk</strong>."
+},
+"4787": {
+"gaps": [
+[
+"to the doctor",
+"to the doctor's"
+]
+],
+"feedback": "Correct answer: to the doctor<br>‣ We say <strong>go to the doctor</strong>."
+},
+"4785": {
+"gaps": [
+[
+"running"
+]
+],
+"feedback": "Correct answer: running<br>‣ We use <strong>go</strong> + -ing for activities: <strong>go running</strong>."
+},
+"4786": {
+"gaps": [
+[
+"for a beer"
+]
+],
+"feedback": "Correct answer: for a beer<br>‣ We say <strong>go for a beer</strong>."
+},
+"4788": {
+"gaps": [
+[
+"to a conference"
+]
+],
+"feedback": "Correct answer: to a conference<br>‣ We say <strong>go to a conference</strong>."
+},
+"4789": {
+"gaps": [
+[
+"to prison",
+"to jail"
+]
+],
+"feedback": "Correct answer: to prison<br>‣ We say <strong>go to prison</strong> without an article."
+},
+"4790": {
+"gaps": [
+[
+"on a trip"
+]
+],
+"feedback": "Correct answer: on a trip<br>‣ We say <strong>go on a trip</strong>."
+},
+"4791": {
+"gaps": [
+[
+"for a ride",
+"for a bike ride"
+]
+],
+"feedback": "Correct answer: for a ride<br>‣ We say <strong>go for a ride</strong>."
+},
+"4735": {
+"choices": [
+7225
+],
+"feedback": "‣ <strong>A</strong> is correct because the writer says most people, whether believers or sceptics, find paranormal experiences captivating."
+},
+"4736": {
+"choices": [
+7229
+],
+"feedback": "‣ <strong>B</strong> is correct because the writer, a sceptic, says you could go on and on listening to these kinds of stories."
+}
+}

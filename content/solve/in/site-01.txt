@@ -1,0 +1,1750 @@
+
+=== PAGE /grammar-points/c1/subject-verb-agreement-advanced-rules/
+Q 13794 [radio] Neither of the proposed amendments ___ likely to receive sufficient support. (Choose the form preferred in careful formal writing.)
+ 27023) A. are
+ 27024) B. is
+  SITE FEEDBACK: ‣ Both forms occur, but neither of + plural noun generally takes a singular verb in careful formal writing. A plural verb is common in informal English.
+Q 13795 [radio] The council ___ approved its revised housing plan. (Choose the form that presents the council as a single decision-making body.)
+ 27025) A. have
+ 27026) B. has
+  SITE FEEDBACK: ‣ When a collective noun refers to a group acting as one body, we use a singular verb. The singular pronoun its also shows that the council is being treated as one unit.
+Q 13796 [radio] The orchestra ___ taking their seats one by one. (Choose the form that focuses on the individual members of the orchestra.)
+ 27027) A. are
+ 27028) B. is
+  SITE FEEDBACK: ‣ The phrases their seats and one by one focus on the musicians as individuals, so plural agreement is appropriate in British English.
+Q 13797 [radio] The data collected during the second trial ___ consistent with the hypothesis. (Choose the form traditionally preferred in formal scientific writing.)
+ 27029) A. is
+ 27030) B. are
+  SITE FEEDBACK: ‣ In formal scientific writing, data is traditionally treated as the plural of datum and therefore takes the plural verb are. Singular agreement is also widely used when data is treated as an uncountable noun.
+Q 13799 [radio] None of the witnesses ___ willing to identify the suspect. (Choose the form that emphasises the meaning 'not one'.)
+ 27033) A. was
+ 27034) B. were
+  SITE FEEDBACK: ‣ Both forms are possible. The singular verb was emphasises that not one individual witness was willing and is more characteristic of formal usage.
+Q 13800 [radio] The media ___ already contacted both families. (Choose the form that presents the media as separate news organisations or their representatives.)
+ 27035) A. have
+ 27036) B. has
+  SITE FEEDBACK: ‣ When the media refers to different news organisations or their representatives, it is treated as plural. Singular agreement is possible when media is understood as a general field or system.
+Q 13801 [radio] Which sentence is incorrect?
+ 27037) A. Mathematics is included in every version of the course.
+ 27038) B. The latest news has caused considerable concern.
+ 27039) C. These binoculars needs adjusting before the expedition.
+ 27040) D. This means of payment is no longer accepted.
+  SITE FEEDBACK: ‣ Binoculars is a plural-only noun, so it requires the plural verb need. Mathematics and news are singular, while this means refers to one method.
+Q 13802 [radio] Which sentence is incorrect?
+ 27041) A. Neither the inspectors nor the supervisor was aware of the change.
+ 27042) B. Neither the supervisor nor the inspectors were aware of the change.
+ 27043) C. Every window and door was checked before the building reopened.
+ 27044) D. The finance officer and the legal adviser has signed the agreement.
+  SITE FEEDBACK: ‣ In D, two distinct people are joined by and, so the verb must be plural: have signed. In A and B, the verb agrees with the nearer subject; every makes the compound subject in C singular.
+
+=== PAGE /grammar-points/c1/prepositions-position-and-advanced-patterns/
+Q 13720 [radio] Which question is most appropriate in a formal written enquiry?
+ 26714) A. Who should I address my request to?
+ 26715) B. Whom should I address my request to?
+ 26716) C. To whom should I address my request?
+ 26717) D. To who should I address my request?
+  SITE FEEDBACK: ‣ Options A, B and C are grammatically possible. Option A is neutral, while option B uses the more formal whom but leaves the preposition at the end. Option C uses the formal pattern preposition + whom, so it is the most appropriate choice in a formal written enquiry. We do not normally use who immediately after a fronted preposition, as in option D.
+Q 13721 [checkbox, pick 2] Which TWO questions are grammatically correct?
+ 26718) A. What does the final decision depend?
+ 26719) B. On what does the final decision depend?
+ 26720) C. What on does the final decision depend?
+ 26721) D. What does the final decision depend on?
+  SITE FEEDBACK: ‣ The verb depend requires the preposition on. It can come before what in a formal question, as in option B, or remain at the end in a neutral question, as in option D. It cannot be omitted or placed immediately after what in the structure used in option C.
+Q 13722 [radio] Which sentence is grammatically incorrect?
+ 26722) A. The analyst who we spoke to raised serious concerns.
+ 26723) B. The analyst whom we spoke to raised serious concerns.
+ 26724) C. The analyst that we spoke to raised serious concerns.
+ 26725) D. The analyst to who we spoke raised serious concerns.
+  SITE FEEDBACK: ‣ With the preposition at the end of a defining relative clause, we can use who, whom or that for people. When the preposition comes before the relative pronoun, we must use whom, not who: the analyst to whom we spoke.
+Q 13723 [checkbox, pick 2] Which TWO sentences are grammatically correct?
+ 26726) A. The specialists with whom the agency collaborated proved invaluable.
+ 26727) B. The specialists with who the agency collaborated proved invaluable.
+ 26728) C. The specialists who the agency collaborated with proved invaluable.
+ 26729) D. The specialists whom the agency collaborated proved invaluable.
+  SITE FEEDBACK: ‣ We can use the formal pattern preposition + whom, as in option A, or leave the preposition at the end and use who, as in option C. The verb collaborate requires with, so the preposition cannot be omitted.
+Q 13724 [checkbox, pick 2] Which TWO sentences are grammatically correct?
+ 26730) A. The criteria by that applications are assessed may change next year.
+ 26731) B. The criteria by which applications are assessed may change next year.
+ 26732) C. The criteria that applications are assessed by may change next year.
+ 26733) D. The criteria which applications are assessed may change next year.
+  SITE FEEDBACK: ‣ For things, we can use preposition + which in formal English, as in option B, or use that with the preposition at the end, as in option C. We cannot place a preposition immediately before that, and by cannot be omitted from this passive structure.
+Q 13725 [radio] Which sentence is grammatically correct?
+ 26734) A. The architect in whose studio the model was constructed later won an award.
+ 26735) B. The architect in who's studio the model was constructed later won an award.
+ 26736) C. The architect whose studio the model was constructed in it later won an award.
+ 26737) D. The architect in whom studio the model was constructed later won an award.
+  SITE FEEDBACK: ‣ In formal relative clauses, we can use preposition + whose + noun: in whose studio. Whose expresses possession, whereas who's is the contracted form of who is or who has. We must not repeat the object with it.
+Q 13726 [radio] The review examines the extent _____ remote workers remain connected to their organisations.
+ 26738) A. to which
+ 26739) B. at which
+ 26740) C. to that
+ 26741) D. which
+  SITE FEEDBACK: ‣ The extent to which is a common formal pattern used to describe how much something is true or happens. The preposition must be followed by which, not that.
+Q 13727 [radio] Which sentence is NOT grammatically possible?
+ 26742) A. The device which the signal was transmitted through failed during the test.
+ 26743) B. The device that the signal was transmitted through failed during the test.
+ 26744) C. The device the signal was transmitted through failed during the test.
+ 26745) D. The device through that the signal was transmitted failed during the test.
+  SITE FEEDBACK: ‣ When the preposition comes at the end of a defining relative clause, we can use which or that for things, or omit the relative pronoun. If the preposition comes before the relative pronoun, we must use which: the device through which the signal was transmitted.
+Q 13728 [checkbox, pick 2] Which TWO questions are grammatically correct?
+ 26746) A. Which department was the complaint forwarded to?
+ 26747) B. Which department to was the complaint forwarded?
+ 26748) C. To that department was the complaint forwarded?
+ 26749) D. To which department was the complaint forwarded?
+  SITE FEEDBACK: ‣ The preposition can remain at the end in a neutral question, as in option A, or come before which + noun in a more formal question, as in option D. Option B places the preposition incorrectly, while option C is not a question asking which department received the complaint.
+
+=== PAGE /reading/c1/when-1-5-million-balloons-fell-c1-english-reading-test/
+Q 13740 [radio] What is the main purpose of the text?
+ 26750) A. To give a balanced account of a notorious event.
+ 26751) B. To assign responsibility for a public disaster.
+ 26752) C. To investigate the failure of a rescue operation.
+ 26753) D. To condemn a publicity-driven charity campaign.
+  SITE FEEDBACK: ‣ The text presents both the event's consequences and the uncertainty surrounding its later reputation, giving a balanced account rather than assigning blame or condemning the campaign.
+Q 13741 [radio] What can be inferred about the organisers' response to the approaching storm?
+ 26754) A. They didn't think the storm would influence the success of the event.
+ 26755) B. They inflated fewer balloons to cut the preparations short and get ahead of the storm.
+ 26756) C. They had been expecting poor conditions throughout the preparations.
+ 26757) D. They considered setting the record more important than public safety.
+  SITE FEEDBACK: ‣ The original target was two million balloons, but the organisers stopped at 1,429,643 and released them earlier than planned. This suggests that they shortened the preparations so that the event could take place before the weather deteriorated.
+Q 13742 [radio] What does the writer imply by saying, 'They could not have been more right'?
+ 26758) A. The organisers had predicted how the weather would affect the event.
+ 26759) B. The event proved even more spectacular than the organisers had anticipated.
+ 26760) C. Cleveland became famous for its record-breaking achievement.
+ 26761) D. The event was remembered for the wrong reasons.
+  SITE FEEDBACK: ‣ The organisers expected Cleveland to be remembered for a successful spectacle, but Balloonfest instead became notorious for its unintended consequences. The statement is therefore ironic.
+Q 13743 [radio] Why does the writer describe how helium balloons normally behave?
+ 26762) A. To show that the organisers used the balloons incorrectly.
+ 26763) B. To argue that nobody could have predicted the outcome of the release.
+ 26764) C. To contrast their expected dispersal with their sudden return to the ground.
+ 26765) D. To explain how some of the balloons eventually reached Canada.
+  SITE FEEDBACK: ‣ The balloons were expected to rise and disperse gradually. Explaining this normal behaviour highlights how the cool air and rain caused them to remain together and descend much sooner than expected.
+Q 13744 [radio] What does the writer mean by saying that the incidents transformed 'a publicity triumph into a growing liability'?
+ 26766) A. The publicity became increasingly difficult to control as news spread beyond Cleveland.
+ 26767) B. An apparent success gradually became a source of problems and potential costs.
+ 26768) C. The organisers' achievement was overshadowed by the magnitude of the storm.
+ 26769) D. Each new incident caused more serious damage than the one before it.
+  SITE FEEDBACK: ‣ The release initially appeared to be a successful record-breaking spectacle, but the accumulating disruptions, environmental effects and legal claims turned it into a liability: something for which the organisers might be held responsible.
+Q 13745 [radio] Which statement best reflects the writer's conclusion about Balloonfest and the fishermen's deaths?
+ 26770) A. The balloons probably prevented the Coast Guard from finding the fishermen in time.
+ 26771) B. The private settlement showed that the organisers accepted responsibility for the deaths.
+ 26772) C. The balloons hindered the search, but their effect on its outcome cannot be established.
+ 26773) D. The later expert evidence proved that the original rescue crews had been mistaken.
+  SITE FEEDBACK: ‣ The balloons made the search more difficult, but the text does not say that they prevented the Coast Guard from finding the fishermen in time, so A is too definite. A private settlement does not show that the organisers accepted responsibility, so B is unsupported. The later specialist questioned whether the balloons changed the outcome, not whether they hindered the search, so D is also incorrect.
+Q 13746 [radio] What concern does the writer express about some internet accounts of Balloonfest?
+ 26774) A. They may favour drama over factual accuracy.
+ 26775) B. They ignore how the event was perceived at the time.
+ 26776) C. They give too much attention to its legal and environmental effects.
+ 26777) D. They fail to report how extraordinary the event was.
+  SITE FEEDBACK: ‣ The causal link between Balloonfest and the fishermen's deaths remains uncertain. The writer suggests that some online accounts may present this unproven connection as fact because it makes the story more dramatic.
+
+=== PAGE /vocabulary/c1/cause-and-effect-c1-english-vocabulary/
+Q 13708 [radio] The lack of affordable housing has ____ the increase in homelessness in many cities.
+ 26670) A. contributed to
+ 26671) B. stemmed from
+ 26672) C. arisen from
+ 26673) D. been attributed to
+  SITE FEEDBACK: ‣ Contributed to means 'helped cause something'. It is used when something is one of several factors behind a result. Stemmed from and arisen from mean 'been caused by something', so they would reverse the relationship. Been attributed to means 'been believed to be caused by something'. It is normally used with the result, for example The increase in homelessness has been attributed to a lack of affordable housing, not with the cause itself.
+Q 13709 [radio] The new policy ____ major improvements in the way the company operates.
+ 26674) A. stemmed from
+ 26675) B. brought about
+ 26676) C. arose from
+ 26677) D. was attributed to
+  SITE FEEDBACK: ‣ Bring about means ‘cause something to happen’, especially a change, improvement, or development. Stem from, arise from, and be attributed to all present the subject as the result, so they would suggest that the improvements caused the policy, reversing the relationship.
+Q 13710 [radio] The sudden power outage ____ a wave of complaints from customers.
+ 26678) A. had repercussions
+ 26679) B. stemmed from
+ 26680) C. triggered
+ 26681) D. was attributed to
+  SITE FEEDBACK: ‣ Trigger means ‘cause something to start suddenly’, so the outage caused the wave of complaints. Stem from and be attributed to would reverse the relationship. Have repercussions means ‘have further, usually negative, consequences’ and cannot take a wave of complaints as a direct object.
+Q 13711 [radio] The decision to close the factory ____ growing concern among the employees.
+ 26682) A. spelled disaster for
+ 26683) B. stemmed from
+ 26684) C. was attributed to
+ 26685) D. fuelled
+  SITE FEEDBACK: ‣ Fuel means 'make a problem, feeling, or situation stronger', so the decision increased the employees’ concern. Stem from and be attributed to would reverse the relationship. Spell disaster for means 'be likely to cause a disastrous result for someone or something', not make a concern stronger.
+Q 13712 [radio] The report's findings ____ a debate about the future of artificial intelligence.
+ 26686) A. sparked
+ 26687) B. had far-reaching consequences for
+ 26688) C. arose from
+ 26689) D. were attributed to
+  SITE FEEDBACK: ‣ Spark means 'cause something to begin', especially a debate or discussion. Arise from and be attributed to would reverse the relationship. Have far-reaching consequences for means 'have important, long-lasting effects on something', not cause a debate to begin.
+Q 13713 [radio] Many of the current economic difficulties ____ decisions made several years ago.
+ 26690) A. contributed to
+ 26691) B. brought about
+ 26692) C. stemmed from
+ 26693) D. triggered
+  SITE FEEDBACK: ‣ Stemmed from means 'were caused by or originated from something'. It is used to explain the source of a problem or situation. Triggered, contributed to and brought about would describe something causing a result, not the origin of the difficulties.
+Q 13714 [radio] The sudden resignation of the director ____ widespread speculation that there were problems within the organisation.
+ 26694) A. wreaked havoc on
+ 26695) B. gave rise to
+ 26696) C. stemmed from
+ 26697) D. was attributed to
+  SITE FEEDBACK: ‣ Give rise to means 'cause something to happen or exist', especially a problem, concern, reaction, or situation. Stem from and be attributed to would reverse the relationship. Wreak havoc on means 'cause serious damage or disruption to something', not cause speculation to begin.
+Q 13715 [radio] Although it is not the only cause, excessive screen time can ____ health problems in young people.
+ 26698) A. arise from
+ 26699) B. contribute to
+ 26700) C. be attributed to
+ 26701) D. prompt speculation about
+  SITE FEEDBACK: ‣ Contribute to means 'help cause something', which matches the phrase although not the only cause. Arise from and be attributed to would reverse the relationship. Prompt speculation about means 'cause people to start guessing about something', not help cause health problems.
+Q 13716 [radio] The discovery ____ a series of investigations that continued for several years.
+ 26702) A. had a knock-on effect
+ 26703) B. set in motion
+ 26704) C. spelled disaster
+ 26705) D. stemmed from
+  SITE FEEDBACK: ‣ Set in motion means 'started a process or series of events'. It is used when one event causes a sequence of actions or developments to begin. Had a knock-on effect means 'caused an indirect effect that led to further effects', but it is used for consequences rather than for starting a process. Spelled disaster means 'was likely to lead to a disastrous result', so it does not fit with a series of investigations. Finally, stemmed from means 'was caused by something', so it would reverse the cause and effect relationship.
+Q 13717 [radio] The false information online has ____ public fears about the safety of the new technology.
+ 26706) A. accounted for
+ 26707) B. been attributed to
+ 26708) C. had repercussions
+ 26709) D. fuelled
+  SITE FEEDBACK: ‣ Fuel means 'make a problem, feeling, or situation stronger' and is commonly used with fears. Account for means 'explain why something happened', not make a feeling stronger. Be attributed to would reverse the relationship. Have repercussions means 'have further, usually negative, consequences' and cannot take public fears as a direct object.
+
+=== PAGE /reading/c1/good-winners-sore-losers-c1-english-reading-test/
+Q 13662 [radio] What is the main purpose of the text?
+ 26585) A. To explain why concession speeches are so important
+ 26586) B. To compare Trump's reactions to his victories and his loss
+ 26587) C. To examine what politicians' responses to victory and defeat reveal about democracy
+ 26588) D. To talk about the general psychology of victory and defeat.
+  SITE FEEDBACK: ‣ The text uses Trump's reactions to electoral victory and defeat as a case study, but its broader purpose is to examine what politicians' behaviour reveals about democratic values and the peaceful transfer of power. Therefore, C best expresses the text's main purpose.
+Q 13664 [radio] What does the writer mean by saying that 'the handover followed the familiar script' in 2016?
+ 26592) A. The transfer of power included the traditional concession speech.
+ 26593) B. Trump emulated previous presidents when giving his victory speech.
+ 26594) C. The incoming administration agreed to continue its predecessor's policies.
+ 26595) D. Clinton was required to participate formally in the transfer of power.
+  SITE FEEDBACK: ‣ The phrase 'followed the familiar script' refers to the traditional democratic process described in the paragraph, including Clinton's concession and the orderly transfer of power. Although Trump's victory speech used conciliatory language, the text does not say that he emulated previous presidents when giving it, so B is incorrect.
+Q 13665 [radio] Trump's legal challenges identified some electoral irregularities, although these were not serious enough to alter the certified outcome.
+ 26596) A. True
+ 26597) B. False
+ 26598) C. Not given
+  SITE FEEDBACK: ‣ The text states that none of Trump's legal challenges altered the certified outcome, but it does not say whether they identified any irregularities. We cannot assume that they did simply because legal challenges were pursued.
+Q 13666 [radio] What does the sentence 'Defeat he treated not as a verdict but as an opening bid in a negotiation' imply about Trump's response to the 2020 result?
+ 26599) A. He viewed defeat as the beginning of a longer political comeback.
+ 26600) B. He regarded the outcome as something that could still be challenged or changed.
+ 26601) C. He believed the election should be decided through negotiations between the parties.
+ 26602) D. He used the legal challenges mainly to obtain concessions from Joe Biden.
+  SITE FEEDBACK: ‣ The contrast between a verdict, which is final, and an opening bid, which begins a negotiation, implies that Trump did not treat the result as conclusive. Instead, he behaved as though it could still be challenged or changed.
+Q 13668 [radio] What can be inferred from the final paragraph about the writer's view of democracy?
+ 26603) A. Election results should never be challenged, even when irregularities are suspected.
+ 26604) B. Losing an election reveals more about a politician than governing successfully.
+ 26605) C. Political disagreements should end as soon as an election result is announced.
+ 26606) D. Democratic stability depends partly on both winners and losers exercising restraint.
+  SITE FEEDBACK: ‣ The final sentence states that power changes hands safely only when political rivals accept that victories are temporary and public offices do not belong to their occupants. This implies that democratic stability depends partly on both winners and losers exercising restraint.
+Q 13669 [radio] What does the writer mean by saying that 'the goalposts move whenever the score is inconvenient'?
+ 26607) A. Politicians change the standards by which an outcome is judged when it does not favour them.
+ 26608) B. Election regulations are frequently amended after an unexpected result.
+ 26609) C. Candidates concentrate on different political objectives after losing an election.
+ 26610) D. Disputed results cause politicians to reconsider their campaign strategies.
+  SITE FEEDBACK: ‣ To 'move the goalposts' means to change the rules or standards unfairly after something has already begun. Here, it refers to politicians changing the criteria for accepting an election result when the outcome does not favour them.
+
+=== PAGE /writing/c1/how-to-write-a-c1-advanced-review/
+Q 13774 [radio] One of the film's greatest strengths is the convincing performance given by its lead actor.
+ 26963) Engaging introduction
+ 26964) Describing a feature
+ 26965) Highlighting a strength
+ 26966) Mentioning a weakness
+ 26967) Suggesting an improvement
+ 26968) Giving a recommendation
+  SITE FEEDBACK: The expression one of the film's greatest strengths explicitly introduces a positive evaluation.
+Q 13775 [radio] The museum contains six galleries, an interactive laboratory and a rooftop garden.
+ 26969) Engaging introduction
+ 26970) Describing a feature
+ 26971) Highlighting a strength
+ 26972) Mentioning a weakness
+ 26973) Suggesting an improvement
+ 26974) Giving a recommendation
+  SITE FEEDBACK: The sentence gives factual information about what the museum contains without expressing a positive or negative opinion.
+Q 13776 [radio] Are you tired of language-learning apps that give every user exactly the same exercises?
+ 26975) Engaging introduction
+ 26976) Describing a feature
+ 26977) Highlighting a strength
+ 26978) Mentioning a weakness
+ 26979) Suggesting an improvement
+ 26980) Giving a recommendation
+  SITE FEEDBACK: The direct question addresses the reader and introduces the subject in an engaging way.
+Q 13777 [radio] The main drawback is that several of the app's most useful tools are available only to paying users.
+ 26981) Engaging introduction
+ 26982) Describing a feature
+ 26983) Highlighting a strength
+ 26984) Mentioning a weakness
+ 26985) Suggesting an improvement
+ 26986) Giving a recommendation
+  SITE FEEDBACK: The expression the main drawback clearly introduces a negative aspect of the app.
+Q 13778 [radio] The developers should make the weekly reports available offline so that users can consult them while travelling.
+ 26987) Engaging introduction
+ 26988) Describing a feature
+ 26989) Highlighting a strength
+ 26990) Mentioning a weakness
+ 26991) Suggesting an improvement
+ 26992) Giving a recommendation
+  SITE FEEDBACK: The writer proposes a specific change that would make the app better. This is an improvement to the product, not a recommendation to the reader.
+Q 13779 [radio] I would strongly recommend the exhibition to anyone with an interest in modern design.
+ 26993) Engaging introduction
+ 26994) Describing a feature
+ 26995) Highlighting a strength
+ 26996) Mentioning a weakness
+ 26997) Suggesting an improvement
+ 26998) Giving a recommendation
+  SITE FEEDBACK: The writer directly advises a particular group of readers to visit the exhibition.
+Q 13780 [radio] At first glance, the novel appears to be a conventional detective story; within a few chapters, however, it becomes something far more ambitious.
+ 26999) Engaging introduction
+ 27000) Describing a feature
+ 27001) Highlighting a strength
+ 27002) Mentioning a weakness
+ 27003) Suggesting an improvement
+ 27004) Giving a recommendation
+  SITE FEEDBACK: The sentence introduces the novel while creating curiosity about how it develops. Its main purpose is to attract the reader's attention.
+Q 13781 [radio] Where the restaurant really excels is in transforming simple local ingredients into remarkably original dishes.
+ 27005) Engaging introduction
+ 27006) Describing a feature
+ 27007) Highlighting a strength
+ 27008) Mentioning a weakness
+ 27009) Suggesting an improvement
+ 27010) Giving a recommendation
+  SITE FEEDBACK: The verb excels and the adjective remarkably original show that the writer is positively evaluating the food rather than merely describing it.
+Q 13782 [radio] Anyone hoping to use the service while travelling may find the lack of an offline mode rather frustrating.
+ 27011) Engaging introduction
+ 27012) Describing a feature
+ 27013) Highlighting a strength
+ 27014) Mentioning a weakness
+ 27015) Suggesting an improvement
+ 27016) Giving a recommendation
+  SITE FEEDBACK: The writer identifies a limitation indirectly through the expressions lack of and rather frustrating.
+Q 13783 [radio] For families looking for an entertaining and educational day out, it would be difficult to find a better option.
+ 27017) Engaging introduction
+ 27018) Describing a feature
+ 27019) Highlighting a strength
+ 27020) Mentioning a weakness
+ 27021) Suggesting an improvement
+ 27022) Giving a recommendation
+  SITE FEEDBACK: The writer does not use the verb recommend, but the sentence still advises a particular group of readers to choose this option.
+Q 13765 [radio] What immediately _____ this app apart from similar products is its ability to adapt to each user.
+ 26927) A. places
+ 26928) B. keeps
+ 26929) C. sets
+ 26930) D. makes
+  SITE FEEDBACK: ‣ Set something apart means to make it different from or better than similar alternatives.
+Q 13766 [radio] Having recently visited the exhibition, I was curious to see whether it _____ its reputation.
+ 26931) A. achieved
+ 26932) B. lived up to
+ 26933) C. reached
+ 26934) D. stood by
+  SITE FEEDBACK: ‣ Live up to its reputation means to be as good as people expect it to be.
+Q 13768 [radio] Not only _____, but it also displays weekly progress in a clear visual format.
+ 26939) A. the interface is easy to navigate
+ 26940) B. is the interface easy to navigate
+ 26941) C. does the interface easy to navigate
+ 26942) D. the easy interface is to navigate
+  SITE FEEDBACK: ‣ When not only begins a sentence, we use inversion: the auxiliary verb comes before the subject.
+Q 13773 [radio] If you are looking for a practical introduction to photography, this course is well _____ considering.
+ 26959) A. worthy
+ 26960) B. worthwhile
+ 26961) C. valued
+ 26962) D. worth
+  SITE FEEDBACK: ‣ The fixed expression is well worth considering. Worth is followed by a noun or an -ing form.
+
+=== PAGE /grammar-points/c1/advanced-word-order/
+Q 13644 [radio] ______ was a detailed breakdown of the projected costs.
+ 26553) A. All the panel requested
+ 26554) B. What did the panel request
+ 26555) C. It was all the panel requested
+ 26556) D. All what the panel requested
+  SITE FEEDBACK: ‣ We can form a cleft sentence with all. The pattern is all + clause + be + emphasised element: All the panel requested was a detailed breakdown of the projected costs.
+Q 13645 [radio] The revised schedule ______; the original one, however, remains unacceptable.
+ 26557) A. can approve I
+ 26558) B. can I approve
+ 26559) C. I can approve
+ 26560) D. I can approve it
+  SITE FEEDBACK: ‣ We can place an object at the beginning to make it the topic of the sentence or contrast it with something else. This does not normally cause inversion, and we do not repeat the object with a pronoun: The revised schedule I can approve.
+Q 13647 [radio] The actors had been waiting behind the curtain. When the music began, onto the stage ______.
+ 26565) A. walked they
+ 26566) B. did they walked
+ 26567) C. did walk they
+ 26568) D. they walked
+  SITE FEEDBACK: ‣ After a fronted expression of place or direction, we do not use inversion when the subject is a pronoun. We retain normal subject–verb order: Onto the stage they walked.
+Q 13650 [radio] Which sentence is correct?
+ 26577) A. It was a faulty valve what caused the leak.
+ 26578) B. What caused the leak was a faulty valve.
+ 26579) C. All what caused the leak was a faulty valve.
+ 26580) D. What the cause of the leak was a faulty valve.
+  SITE FEEDBACK: ‣ A wh-cleft begins with what followed by a clause, the verb be and the emphasised element: What caused the leak was a faulty valve.
+
+=== PAGE /writing/c1/how-to-write-a-formal-email-or-letter-for-c1-advanced/
+Q 13608 [radio] ______ the evening course I attended last month. I would like to offer some feedback on several aspects of the programme.
+ 26476) A. Speaking about
+ 26477) B. I am writing with regard to
+ 26478) C. I'm getting in touch about
+  SITE FEEDBACK: ‣ I am writing with regard to is an appropriate formal expression for introducing the subject of an email. Speaking about is not grammatically suitable here, while I'm getting in touch about is less formal and contains a contraction.
+Q 13613 [radio] ____ send me further information about the programme.
+ 26491) A. I would appreciate it if you could
+ 26492) B. I want you to
+ 26493) C. Could you maybe
+  SITE FEEDBACK: ‣ I would appreciate it if you could is a polite formal expression for making a request. I want you to is too direct, while Could you maybe is too informal.
+Q 13615 [radio] You began your email with Dear Mr Bennett. Which sign-off should you use?
+ 26497) A. Yours faithfully,
+ 26498) B. Yours sincerely,
+ 26499) C. Best wishes,
+  SITE FEEDBACK: ‣ Use Yours sincerely when you know the recipient's name. Yours faithfully is used after Dear Sir or Madam, while Best wishes is less formal.
+Q 13616 [radio] Why is the second sentence of paragraph A important?
+ 26500) A. It prepares the reader for the writer's request for financial compensation.
+ 26501) B. It provides detailed evidence of the organisational problems experienced during the course.
+ 26502) C. It addresses the first point of the task and establishes the expectations against which the course is later evaluated.
+  SITE FEEDBACK: ‣ The second sentence directly addresses the first task point and identifies the advertised features that influenced the writer's decision. These expectations provide a clear basis for the complaints developed later in the email.
+Q 13617 [radio] Which sentence could be added to paragraph A to develop the first task point most effectively?
+ 26503) A. As I was preparing to take on additional digital responsibilities at work, the practical focus of the course seemed particularly relevant.
+ 26504) B. I had also heard positive comments about the training centre from several colleagues in my department.
+ 26505) C. The course dates fitted conveniently around my existing work commitments.
+  SITE FEEDBACK: ‣ All three options give possible reasons for choosing the course. However, option A develops the point most effectively because it connects the writer's professional needs with one of the course's advertised features, which the email later explains was not provided as expected.
+Q 13618 [radio] Where would the following sentence fit most naturally? / As a result, some participants spent much of the session waiting for an opportunity to use a computer. / .
+ 26506) A. After the first sentence of paragraph B
+ 26507) B. After the second sentence of paragraph C
+ 26508) C. After the first sentence of paragraph D
+  SITE FEEDBACK: ‣ The sentence describes a direct consequence of the technical problems mentioned in the second sentence of paragraph C. It also provides a logical link to the following sentence, which explains that participants had to share devices.
+Q 13619 [radio] What makes paragraph B well developed?
+ 26509) A. It uses several advanced expressions to make the complaint sound more serious.
+ 26510) B. It describes the problem before immediately demanding that the centre provide compensation.
+ 26511) C. It contrasts what was advertised with what occurred and explains the consequences for participants.
+  SITE FEEDBACK: ‣ Paragraph B does not merely state that the course was overcrowded. It compares the promised group size with the actual number of participants and explains how this affected the level of individual support available.
+Q 13620 [radio] Would the email be improved by combining paragraphs B and C?
+ 26512) A. Yes, because both paragraphs describe problems and should therefore form a single paragraph.
+ 26513) B. No, because each paragraph develops a distinct problem and explains its particular consequences.
+ 26514) C. Yes, because a formal email should contain no more than four paragraphs.
+  SITE FEEDBACK: ‣ The number of participants and the faulty equipment are separate issues. Giving each one its own paragraph makes the email easier to follow and allows both problems to be developed clearly.
+Q 13621 [radio] Which sentence best completes the gap at the beginning of paragraph D?
+ 26515) A. The timetable was another aspect of the course that failed to match the information provided.
+ 26516) B. Another matter that deserves consideration is the organisation of the timetable.
+ 26517) C. I would also like to draw your attention to several problems concerning the timetable.
+  SITE FEEDBACK: ‣ All three options are suitable for a formal email, but option A creates the clearest link with the writer's main complaint that the course differed from what had been advertised. It also introduces the specific timetable problems described in the following sentences.
+Q 13622 [radio] Which sentence would express the request in paragraph E in an appropriately firm but polite way?
+ 26518) A. You must provide a full refund immediately, as the course was clearly unacceptable.
+ 26519) B. I therefore believe that offering participants some form of compensation would be a reasonable way to resolve the matter.
+ 26520) C. Perhaps you could do something about the situation if it is not too inconvenient.
+  SITE FEEDBACK: ‣ Option B states the writer's position clearly while maintaining an appropriate professional tone. Option A is unnecessarily confrontational, while option C is too vague and hesitant.
+Q 13623 [radio] Which statement best describes the overall organisation of the email?
+ 26521) A. It alternates between positive and negative aspects before presenting several unrelated suggestions.
+ 26522) B. It describes the problems in order of importance before explaining why the writer originally enrolled.
+ 26523) C. It states the purpose and expectations, develops each problem and its effects, requests action and ends with a polite closing.
+  SITE FEEDBACK: ‣ The email follows a clear progression: purpose and context, specific problems and their consequences, requested action and an appropriate closing. This organisation allows all three task points to be addressed logically.
+
+=== PAGE /reading/c1/where-did-our-meeting-places-go-c1-english-reading-test/
+Q 13595 [radio] Gap 1
+ 26406) A. That sense of familiarity, however, cannot be created overnight.
+ 26407) B. Yet they performed a quiet social function: they gave people somewhere to exist without needing a reason.
+ 26408) C. Nobody has to announce, 'I am lonely and would like some company.'
+ 26409) D. Sociologists sometimes call them 'third places' - spaces that are neither home nor work, but something in between.
+ 26410) E. A place may be full of people and still feel empty.
+ 26411) F. Perhaps the answer has been under our noses all along.
+ 26412) G. Our social lives are permanently available, but often remain trapped behind glass screens.
+  SITE FEEDBACK: ‣ The sentence before the gap describes the places negatively: the chairs did not match, the coffee was disappointing and the heating was poor. Yet introduces a contrast between their unimpressive appearance and their important social function. The pronoun they also clearly refers to the cafés, libraries and squares mentioned earlier.
+Q 13596 [radio] Gap 2
+ 26413) A. That sense of familiarity, however, cannot be created overnight.
+ 26414) B. Yet they performed a quiet social function: they gave people somewhere to exist without needing a reason.
+ 26415) C. Nobody has to announce, 'I am lonely and would like some company.'
+ 26416) D. Sociologists sometimes call them 'third places' - spaces that are neither home nor work, but something in between.
+ 26417) E. A place may be full of people and still feel empty.
+ 26418) F. Perhaps the answer has been under our noses all along.
+ 26419) G. Our social lives are permanently available, but often remain trapped behind glass screens.
+  SITE FEEDBACK: ‣ This sentence works as the topic sentence of the new paragraph because it introduces and defines the central concept of third places. The following sentence begins Once regarded... and uses the pronoun they, which refers back to these places.
+Q 13597 [radio] Gap 3
+ 26420) A. That sense of familiarity, however, cannot be created overnight.
+ 26421) B. Yet they performed a quiet social function: they gave people somewhere to exist without needing a reason.
+ 26422) C. Nobody has to announce, 'I am lonely and would like some company.'
+ 26423) D. Sociologists sometimes call them 'third places' - spaces that are neither home nor work, but something in between.
+ 26424) E. A place may be full of people and still feel empty.
+ 26425) F. Perhaps the answer has been under our noses all along.
+ 26426) G. Our social lives are permanently available, but often remain trapped behind glass screens.
+  SITE FEEDBACK: ‣ The previous sentence contrasts communicating with people far away with not knowing nearby neighbours. This sentence develops that idea by describing social relationships as constantly accessible online but trapped behind glass screens. The following sentence continues the same argument by explaining the contradictory effect of technology on human connection.
+Q 13598 [radio] Gap 4
+ 26427) A. That sense of familiarity, however, cannot be created overnight.
+ 26428) B. Yet they performed a quiet social function: they gave people somewhere to exist without needing a reason.
+ 26429) C. Nobody has to announce, 'I am lonely and would like some company.'
+ 26430) D. Sociologists sometimes call them 'third places' - spaces that are neither home nor work, but something in between.
+ 26431) E. A place may be full of people and still feel empty.
+ 26432) F. Perhaps the answer has been under our noses all along.
+ 26433) G. Our social lives are permanently available, but often remain trapped behind glass screens.
+  SITE FEEDBACK: ‣ The previous sentence says that activities such as run clubs and repair cafés provide socially acceptable excuses to be around other people. This sentence explains why such an excuse is useful: people can seek company without openly admitting that they feel lonely. The following sentence contrasts making such an announcement with simply turning up for an activity.
+Q 13599 [radio] Gap 5
+ 26434) A. That sense of familiarity, however, cannot be created overnight.
+ 26435) B. Yet they performed a quiet social function: they gave people somewhere to exist without needing a reason.
+ 26436) C. Nobody has to announce, 'I am lonely and would like some company.'
+ 26437) D. Sociologists sometimes call them 'third places' - spaces that are neither home nor work, but something in between.
+ 26438) E. A place may be full of people and still feel empty.
+ 26439) F. Perhaps the answer has been under our noses all along.
+ 26440) G. Our social lives are permanently available, but often remain trapped behind glass screens.
+  SITE FEEDBACK: ‣ The café described before the gap is crowded, noisy and designed to move customers on quickly. The sentence summarises the irony that physical closeness does not necessarily create genuine connection. The following statement, Crowds alone do not create belonging, directly develops the contrast between being full and feeling empty.
+Q 13600 [radio] Gap 6
+ 26441) A. That sense of familiarity, however, cannot be created overnight.
+ 26442) B. Yet they performed a quiet social function: they gave people somewhere to exist without needing a reason.
+ 26443) C. Nobody has to announce, 'I am lonely and would like some company.'
+ 26444) D. Sociologists sometimes call them 'third places' - spaces that are neither home nor work, but something in between.
+ 26445) E. A place may be full of people and still feel empty.
+ 26446) F. Perhaps the answer has been under our noses all along.
+ 26447) G. Our social lives are permanently available, but often remain trapped behind glass screens.
+  SITE FEEDBACK: ‣ The paragraph discusses attempts to solve loneliness through apps, campaigns and carefully branded initiatives. This sentence suggests that the real solution may be simple and already close at hand. The idiom under our noses means that something is obvious or nearby but has been overlooked. The following sentence explains what that answer is: ordinary, affordable places where people can spend time regularly.
+
+=== PAGE /grammar-points/c1/advanced-participle-clauses/
+Q 13575 [radio] ____ the figures carefully, the accountant noticed several inconsistencies.
+ 26366) A. Having examined
+ 26367) B. Having been examined
+ 26368) C. Examined
+ 26369) D. With examining
+  SITE FEEDBACK: ‣ Having examined is a perfect participle clause. It shows that the accountant examined the figures before noticing the inconsistencies.
+Q 13576 [radio] ____ in the nineteenth century, the building now requires extensive restoration.
+ 26370) A. Constructing
+ 26371) B. Constructed
+ 26372) C. Having constructed
+ 26373) D. The builders having constructed
+  SITE FEEDBACK: ‣ Constructed is a past participle clause with passive meaning. It refers to the building: the building was constructed in the nineteenth century.
+Q 13577 [radio] On ____ the final document, please send it directly to the legal department.
+ 26374) A. completed
+ 26375) B. being completed
+ 26376) C. having been completed
+ 26377) D. having completed
+  SITE FEEDBACK: ‣ After the preposition on, we can use having + past participle to show that one action is completed before another. On having completed means when you have completed.
+Q 13582 [radio] ____ the evidence available, the investigators could not reach a definite conclusion.
+ 26394) A. Considered
+ 26395) B. Having been considered
+ 26396) C. Considering
+ 26397) D. The evidence considering
+  SITE FEEDBACK: ‣ Considering the evidence available is a sentence-commenting participle expression. It means taking the available evidence into account.
+Q 13584 [radio] ____ repeated delays throughout the previous phase, the team revised the schedule before starting the next one.
+ 26402) A. Having been
+ 26403) B. There having been
+ 26404) C. Being there
+ 26405) D. There have been
+  SITE FEEDBACK: ‣ There having been is a perfect absolute participle clause. It shows that the delays occurred before the team revised the schedule.
+
+=== PAGE /vocabulary/c1/time-and-place-idioms-c1-english-vocabulary/
+Q 13331 [radio] Tom started telling jokes ______ while waiting for his presentation to load.
+ 25824) A. to jump the gun
+ 25825) B. to buy time
+ 25826) C. in the blink of an eye
+ 25827) D. on the spot
+  SITE FEEDBACK: ‣ Buy time means to delay something to get more time.
+
+=== PAGE /writing/c1/how-to-write-a-c1-advanced-report/
+Q 13548 [radio] The objective of this report is to evaluate the social spaces available to students.
+ 26268) A. Introduction / purpose
+ 26269) B. Current state of facilities
+ 26270) C. Factors affecting usage (analysis)
+ 26271) D. Recommendations
+ 26272) E. Conclusion
+  SITE FEEDBACK: ‣ The sentence states the objective of the report, so it belongs in the introduction or purpose section.
+Q 13549 [radio] It is recommended that the college launch a social media campaign.
+ 26273) A. Introduction / purpose
+ 26274) B. Current state of facilities
+ 26275) C. Factors affecting usage (analysis)
+ 26276) D. Recommendations
+ 26277) E. Conclusion
+  SITE FEEDBACK: ‣ The phrase It is recommended that... introduces a suggested course of action.
+Q 13550 [radio] The tennis courts are currently in an excellent state of repair.
+ 26278) A. Introduction / purpose
+ 26279) B. Current state of facilities
+ 26280) C. Factors affecting usage (analysis)
+ 26281) D. Recommendations
+ 26282) E. Conclusion
+  SITE FEEDBACK: ‣ The sentence provides factual information about the present condition of a facility.
+Q 13552 [radio] One significant factor contributing to underuse is the lack of staff during evening hours.
+ 26288) A. Introduction / purpose
+ 26289) B. Current state of facilities
+ 26290) C. Factors affecting usage (analysis)
+ 26291) D. Recommendations
+ 26292) E. Conclusion
+  SITE FEEDBACK: ‣ The sentence identifies a reason why the facilities are underused, so it forms part of the analysis.
+Q 13553 [radio] This report outlines the findings of a recent facilities audit.
+ 26293) A. Introduction / purpose
+ 26294) B. Current state of facilities
+ 26295) C. Factors affecting usage (analysis)
+ 26296) D. Recommendations
+ 26297) E. Conclusion
+  SITE FEEDBACK: ‣ The sentence explains what the report presents, which is a typical function of the introduction.
+Q 13554 [radio] The most effective course of action would be to extend opening hours until 10 p.m.
+ 26298) A. Introduction / purpose
+ 26299) B. Current state of facilities
+ 26300) C. Factors affecting usage (analysis)
+ 26301) D. Recommendations
+ 26302) E. Conclusion
+  SITE FEEDBACK: ‣ The phrase The most effective course of action would be... introduces a recommendation.
+Q 13555 [radio] While the gym is modern, the equipment in the social hall is ageing.
+ 26303) A. Introduction / purpose
+ 26304) B. Current state of facilities
+ 26305) C. Factors affecting usage (analysis)
+ 26306) D. Recommendations
+ 26307) E. Conclusion
+  SITE FEEDBACK: ‣ The sentence compares the current condition of two facilities.
+Q 13556 [radio] It appears that the main reason for low attendance is the high cost of membership.
+ 26308) A. Introduction / purpose
+ 26309) B. Current state of facilities
+ 26310) C. Factors affecting usage (analysis)
+ 26311) D. Recommendations
+ 26312) E. Conclusion
+  SITE FEEDBACK: ‣ The sentence explains the cause of low attendance, so it belongs in the analysis section.
+Q 13557 [radio] Implementation of these suggestions will ensure the facilities remain competitive.
+ 26313) A. Introduction / purpose
+ 26314) B. Current state of facilities
+ 26315) C. Factors affecting usage (analysis)
+ 26316) D. Recommendations
+ 26317) E. Conclusion
+  SITE FEEDBACK: ‣ The sentence summarises the expected outcome if the recommendations are implemented, making it suitable for the conclusion.
+Q 13558 [radio] Gap 1
+ 26318) A. Recommendations
+ 26319) B. Accommodation and campus life
+ 26320) C. Introduction
+ 26321) D. Evaluation of the University Exchange Programme
+ 26322) E. Conclusion
+ 26323) F. Analysis of underused services
+ 26324) G. Report on Student Support at the Partner University
+ 26325) H. Academic quality
+  SITE FEEDBACK: ‣ This is the title of the complete report. It reflects the overall focus on evaluating the exchange programme, whereas option G is too narrowly focused on student support.
+Q 13561 [radio] Gap 4
+ 26342) A. Recommendations
+ 26343) B. Accommodation and campus life
+ 26344) C. Introduction
+ 26345) D. Evaluation of the University Exchange Programme
+ 26346) E. Conclusion
+ 26347) F. Analysis of underused services
+ 26348) G. Report on Student Support at the Partner University
+ 26349) H. Academic quality
+  SITE FEEDBACK: ‣ This section explains why students did not fully use certain support services, including the mentoring scheme, language clinics and career counselling.
+
+=== PAGE /reading/c1/being-30-then-now-and-tomorrow-c1-english-reading-test/
+Q 13535 [radio] How does the text depict 30-year-olds from past generations?
+ 26221) A. As being certain about their true ambitions.
+ 26222) B. As being naturally more loyal to their employers.
+ 26223) C. As working harder than people from later generations.
+ 26224) D. As not being very inquisitive about social expectations.
+  SITE FEEDBACK: ‣ The text says that almost everyone followed the expected path through life and that hardly anyone questioned who had created it. This suggests that people were not especially inquisitive about the social expectations placed on them.
+Q 13536 [radio] What does the metaphor of a 'script' suggest about adulthood in the past?
+ 26225) A. People were encouraged to plan every stage of life carefully.
+ 26226) B. Most people followed a socially established sequence of milestones.
+ 26227) C. Adults often felt they were pretending to be more confident than they were.
+ 26228) D. Society expected people to avoid having personal ambitions.
+  SITE FEEDBACK: ‣ The 'script' represents a fixed sequence that society expected people to follow: leaving school, finding a job, buying a home, settling down and starting a family.
+Q 13537 [radio] Why does the writer introduce Jasmine in paragraph 2?
+ 26229) A. To show that traditional milestones are now unachievable.
+ 26230) B. To contrast one unusual lifestyle with the choices most people make.
+ 26231) C. To suggest that young people today can't keep jobs or relationships.
+ 26232) D. To show how ideas about adulthood have changed today.
+  SITE FEEDBACK: ‣ Jasmine provides a personal example of how expectations surrounding adulthood have changed. Her life does not follow the traditional pattern described in the previous paragraph, but the writer presents her choices as increasingly common rather than unusual.
+Q 13538 [radio] What can be inferred about Jasmine's attitude towards parenthood?
+ 26233) A. She wouldn't mind being a single mum.
+ 26234) B. She wants to become a parent but would like to find the right person first.
+ 26235) C. She has only considered having a child because one of her friends recently became a mum.
+ 26236) D. She's unsure that becoming a parent is important to her.
+  SITE FEEDBACK: ‣ Jasmine hopes to have a child and says she would be prepared to 'fly solo' if she never found the right partner. This suggests that she would not mind becoming a single mum.
+Q 13539 [radio] What does the writer mean by 'treat adulthood as a checklist'?
+ 26237) A. To judge adulthood according to a fixed series of expected achievements.
+ 26238) B. To plan every important life decision well in advance.
+ 26239) C. To compare personal progress with that of other people.
+ 26240) D. To complete adult responsibilities as quickly as possible.
+  SITE FEEDBACK: ‣ The expression refers to viewing adulthood as a set of milestones that must be completed, such as finding a stable job, buying a home, getting married and having children.
+Q 13540 [radio] What does the writer suggest about some people's attitude towards traditional goals?
+ 26241) A. They have failed to understand why those goals matter.
+ 26242) B. They reject them because they lack ambition.
+ 26243) C. They do not feel motivated to pursue socially imposed goals.
+ 26244) D. They believe such goals have become impossible to achieve.
+  SITE FEEDBACK: ‣ The writer suggests that some people are unwilling to pursue traditional milestones because those ambitions were never truly their own.
+Q 13541 [checkbox, pick 2] Choose the TWO main ideas in paragraph 4.
+ 26245) A. Future adults may lead more home-based lives.
+ 26246) B. Human relationships will become irrelevant.
+ 26247) C. Future adults will have become more accustomed to change.
+ 26248) D. Climate change will affect people's behaviour.
+ 26249) E. AI will replace education.
+  SITE FEEDBACK: ‣ Paragraph 4 mainly suggests that future adults may spend much more of their lives at home and will regard frequent changes in work and relationships as normal. Climate change and AI partners are mentioned as supporting details or possibilities, not as the paragraph's main ideas.
+
+=== PAGE /vocabulary/c1/eating-and-drinking-c1-english-vocabulary/
+Q 12726 [radio] Although Tom ______ a lot of food, he never seems to gain any weight.
+ 24422) A. goes off
+ 24423) B. tucks in
+ 24424) C. digs in
+ 24425) D. puts away
+  SITE FEEDBACK: ‣ To put away food means to eat a large amount of it.
+Q 12727 [radio] The hungry boys ______ the whole cake, leaving none for anyone else.
+ 24426) A. dug in
+ 24427) B. polished off
+ 24428) C. overdid
+ 24429) D. lived on
+  SITE FEEDBACK: ‣ To polish off food means to finish it completely.
+Q 12729 [radio] ______ must be refrigerated or else they will go off.
+ 24434) A. Food additives
+ 24435) B. Perishable foods
+ 24436) C. Hearty meals
+ 24437) D. Square meals
+  SITE FEEDBACK: ‣ Perishable food is food that goes bad quickly.
+Q 12731 [radio] Emma ______ a cracker as she corrected the homework.
+ 24442) A. nibbled on
+ 24443) B. dug in
+ 24444) C. overdid
+ 24445) D. guzzled
+  SITE FEEDBACK: ‣ To nibble means to eat small amounts of food slowly.
+Q 12735 [radio] I think I ______ it at the buffet last night because I'm not feeling great today.
+ 24458) A. devoured
+ 24459) B. went off
+ 24460) C. overdid
+ 24461) D. dug in
+  SITE FEEDBACK: ‣ If you overdo it, you eat or drink more than is sensible.
+
+=== PAGE /writing/a2/my-favourite-photograph-a2-english-writing/
+Q 13048 [radio] Sentence 2
+ 25076) In the photo, I was walking along the river while my mum and my brother were eating ice cream.
+ 25077) It was a family holiday, and we were spending the day walking around the city.
+ 25078) The Eiffel Tower was behind us, and the weather was warm and sunny.
+ 25079) When I look at it, it makes me feel good.
+ 25080) My father took this photo when we went to Paris last summer.
+ 25081) This photo is very special to me because it reminds me of a lovely holiday with my family.
+  SITE FEEDBACK: Check the complete text:  /  My father took this photo when we went to Paris last summer. It was a family holiday, and we were spending the day walking around the city. /  In the photo, I was walking along the river while my mum and my brother were eating ice cream. The Eiffel Tower was behind us, and it was warm and sunny. /  This photo is very special to me because it reminds me of a lovely holiday with my family. When I look at it, it makes me feel happy.
+
+=== PAGE /reading/a2/should-i-tell-my-neighbour-a2-english-reading-test/
+Q 12967 [radio] Dan...
+ 24908) A. lives one floor below Maria.
+ 24909) B. turns on the music at midnight.
+ 24910) C. sometimes plays music very late.
+  SITE FEEDBACK: ‣ The text says Dan moved into the flat upstairs, so he does not live below Maria. It also says the music sometimes goes on until midnight, not that it starts at midnight.
+Q 12968 [radio] Maria knocked on Dan's door, but he didn't hear it.
+ 24911) A. True
+ 24912) B. False
+ 24913) C. Not mentioned
+  SITE FEEDBACK: ‣ The text says Maria knocked on the door and nobody answered, but it does not say whether Dan heard the knock or not.
+Q 12969 [radio] Maria is worried that if she talks to Dan in person...
+ 24914) A. she might not be able to control herself.
+ 24915) B. he might get angry.
+ 24916) C. she will complain too much.
+  SITE FEEDBACK: ‣ Maria says, 'What if he gets angry?' which shows she is worried about Dan's reaction.
+Q 12970 [radio] How does Maria feel about her friends' advice?
+ 24917) A. She prefers the idea of leaving a note.
+ 24918) B. She agrees that she should speak in person.
+ 24919) C. She isn't sure.
+  SITE FEEDBACK: ‣ Maria says, 'I don't know what to do,' which shows she feels uncertain about their advice.
+Q 12971 [radio] What should Maria do, according to Karen?
+ 24920) A. control her anger when she talks to Dan.
+ 24921) B. calmly let him know how she feels.
+ 24922) C. ignore the problem and see if it stops.
+  SITE FEEDBACK: ‣ Karen says Maria should choose the right moment, stay calm and friendly, and explain how the noise makes her feel, and she also says not to ignore the problem.
+
+=== PAGE /grammar-points/shorts/try-to-do-vs-try-doing-grammar-shorts/
+Q 13242 [radio] If your laptop's not working, try ______ it off and on again.
+ 25538) A. to turn
+ 25539) B. turning
+  SITE FEEDBACK: ‣ We use try doing when we test a possible solution to see if it helps us achieve something.
+Q 13243 [radio] I tried ______ the leaking tap but ended up calling the plumber.
+ 25540) A. to fix
+ 25541) B. fixing
+  SITE FEEDBACK: ‣ We use try to do when we make an effort to achieve something.
+Q 13244 [radio] I try ______ alcohol during the week as it makes me feel very tired.
+ 25542) A. not to drink
+ 25543) B. not drinking
+  SITE FEEDBACK: ‣ We use try not to do when we make an effort not to do something.
+Q 13245 [radio] I tried ______ the cake without eggs to see if it would rise.
+ 25544) A. to bake
+ 25545) B. baking
+  SITE FEEDBACK: ‣ We use try doing when we test a possible solution to see if it helps us achieve something.
+Q 13246 [radio] Your hair's really dry. You should try ______ it less often.
+ 25546) A. to wash
+ 25547) B. washing
+  SITE FEEDBACK: ‣ We use try doing when we test a possible solution to see if it helps us achieve something.
+Q 13247 [radio] Tom is trying ______ money, so he hasn't been going out recently.
+ 25548) A. to save
+ 25549) B. saving
+  SITE FEEDBACK: ‣ We use try to do when we make an effort to achieve something.
+Q 13248 [radio] I tried ______ the piano, but it was too heavy to lift on my own.
+ 25550) A. to move
+ 25551) B. moving
+  SITE FEEDBACK: ‣ We use try to do when we make an effort to achieve something.
+Q 13249 [radio] I tried ______ dairy products for a week to see if it would help my stomach problems.
+ 25552) A. not to eat
+ 25553) B. not eating
+  SITE FEEDBACK: ‣ We use try not doing when we stop doing something to see if it helps us achieve something or improve a situation.
+Q 13250 [radio] I tried ______ the dog but unfortunately it ran away.
+ 25554) A. to catch
+ 25555) B. catching
+  SITE FEEDBACK: ‣ We use try to do when we make an effort to achieve something.
+Q 13251 [radio] I didn't have any flour, so I tried ______ oats instead.
+ 25556) A. to use
+ 25557) B. using
+  SITE FEEDBACK: ‣ We use try doing when we test a possible solution to see if it helps us achieve something.
+
+=== PAGE /vocabulary/b1-b2/b1-plus-phrasal-verbs-i-b1-plus-english-vocabulary/
+Q 13366 [radio] After years of training, all his hard work finally ____.
+ 25976) A. paid off
+ 25977) B. backed down
+ 25978) C. looked around
+ 25979) D. held on to
+  SITE FEEDBACK: ‣ If something pays off, it produces good results after a lot of effort.
+Q 13369 [radio] The project ____ much better than anyone had expected.
+ 25988) A. blew up
+ 25989) B. came up with
+ 25990) C. turned out
+ 25991) D. looked back on
+  SITE FEEDBACK: ‣ If something turns out a particular way, that is the way it happens or develops.
+Q 13371 [radio] Everyone noticed her because she really seemed to ____ from the rest of the group.
+ 25996) A. stand out
+ 25997) B. back down
+ 25998) C. get over
+ 25999) D. make up for
+  SITE FEEDBACK: ‣ If something or someone stands out, they are easy to notice because they are different from others.
+
+=== PAGE /writing/a1/my-weekend-plans-a1-english-writing/
+Q 12422 [radio] Paragraph 1
+ 23884) A. On Saturday morning, I’m going to clean my room and do my homework. Then, I’m going to meet my friend for lunch at 1 pm. After that, I’m going to go shopping with my sister.
+ 23885) B. It’s going to be a great weekend!
+ 23886) C. This weekend is going to be very busy.
+ 23887) D. On Sunday morning, I’m going to sleep late and have a big breakfast. Then, I’m going to visit my grandparents in the afternoon and help them at home.
+  SITE FEEDBACK: ‣ Start your essay with this paragraph. It gives a general idea about your weekend.
+Q 12423 [radio] Paragraph 2
+ 23888) A. On Saturday morning, I’m going to clean my room and do my homework. Then, I’m going to meet my friend for lunch at 1 pm. After that, I’m going to go shopping with my sister.
+ 23889) B. It’s going to be a great weekend!
+ 23890) C. This weekend is going to be very busy.
+ 23891) D. On Sunday morning, I’m going to sleep late and have a big breakfast. Then, I’m going to visit my grandparents in the afternoon and help them at home.
+  SITE FEEDBACK: ‣ This paragraph is next. It tells us about your plans for Saturday.
+Q 12424 [radio] Paragraph 3
+ 23892) A. On Saturday morning, I’m going to clean my room and do my homework. Then, I’m going to meet my friend for lunch at 1 pm. After that, I’m going to go shopping with my sister.
+ 23893) B. It’s going to be a great weekend!
+ 23894) C. This weekend is going to be very busy.
+ 23895) D. On Sunday morning, I’m going to sleep late and have a big breakfast. Then, I’m going to visit my grandparents in the afternoon and help them at home.
+  SITE FEEDBACK: ‣ After writing about Saturday, write about Sunday. This paragraph talks about your plans for that day.
+Q 12425 [radio] Paragraph 4
+ 23896) A. On Saturday morning, I’m going to clean my room and do my homework. Then, I’m going to meet my friend for lunch at 1 pm. After that, I’m going to go shopping with my sister.
+ 23897) B. It’s going to be a great weekend!
+ 23898) C. This weekend is going to be very busy.
+ 23899) D. On Sunday morning, I’m going to sleep late and have a big breakfast. Then, I’m going to visit my grandparents in the afternoon and help them at home.
+  SITE FEEDBACK: ‣ Finish your essay with this paragraph. It's the conclusion.
+
+=== PAGE /reading/c1/are-we-becoming-dumber-c1-english-reading-test/
+Q 13180 [radio] What did the author's grandfather mean by his words?
+ 25397) A. There are more fools than intelligent people.
+ 25398) B. There is a downward trend in human intelligence.
+ 25399) C. Human intelligence appears to be at a standstill.
+ 25400) D. People no longer make an effort to think carefully.
+  SITE FEEDBACK: ‣ The grandfather's words 'put intelligence into reverse' suggest a belief that human intelligence is declining over time, which is best expressed by option B. Option A focuses only on the number of fools, not a trend. Option C suggests no change (a standstill), which contradicts the idea of going backwards. Option D reflects a later idea in the text about effort and thinking habits, not the grandfather's original claim.
+Q 13181 [radio] In paragraph 2, what is the author 'not so sure' about?
+ 25401) A. That his grandfather's view was completely correct.
+ 25402) B. That such complaints are justified.
+ 25403) C. That people today are less intelligent than before.
+ 25404) D. That his grandfather's comments were overstated.
+  SITE FEEDBACK: ‣ The author says that at the time his grandfather's comment sounded like an 'exaggerated' remark, but later adds 'I'm not so sure', meaning he now questions whether it really was exaggerated. Option D reflects this idea directly. Option A is too strong and not explicitly stated. Option B refers to general complaints, not the grandfather's specific comment. Option C introduces a conclusion that is not clearly made in paragraph 2.
+Q 13182 [radio] Why is his grandfather mentioned again in paragraph 3?
+ 25405) A. To highlight the timeless nature of the main claim.
+ 25406) B. To suggest that his grandfather’s view still applies today.
+ 25407) C. To reinforce his grandfather's personal influence on his thinking.
+ 25408) D. To disprove that he was right.
+  SITE FEEDBACK: ‣ The grandfather is mentioned again to show that his view was not unique, but part of a long-standing pattern of similar concerns across generations, which supports option A. Option B suggests the grandfather's view is still valid today, which is not directly stated. Option C focuses on personal influence, which is not the purpose here. Option D is incorrect because the paragraph does not attempt to disprove his view.
+Q 13183 [radio] What does the Flynn Effect suggest?
+ 25409) A. That our thought process changed during the 20th century.
+ 25410) B. That the increase in human intelligence has now come to an end.
+ 25411) C. That human intelligence increased over the years.
+ 25412) D. That humans simply learned to perform better on IQ tests.
+  SITE FEEDBACK: ‣ The Flynn Effect refers to the observed rise in average IQ scores during the 20th century, meaning that people were becoming better at certain types of thinking, which matches option C. Option A is too vague and not clearly supported. Option B refers to a later apparent trend, not the Flynn Effect itself. Option D is a common interpretation but not stated in the text, which focuses on improved thinking abilities rather than test performance alone.
+Q 13184 [radio] What's the main idea in paragraph 5?
+ 25413) A. That we are less intelligent than a few years back.
+ 25414) B. That the apparent drop in intelligence may not reflect reality.
+ 25415) C. That we read differently and are losing the ability to focus.
+ 25416) D. That IQ tests are an unreliable way of measuring intelligence.
+  SITE FEEDBACK: ‣ Paragraph 5 presents a mixed and uncertain picture: while some evidence suggests a decline in certain cognitive skills, other researchers argue that IQ tests do not fully capture real thinking ability. Therefore, option B best reflects the idea that the apparent decline may not reflect the full reality. Option A presents a definite conclusion, which the text avoids. Options C and D each focus on one argument in the paragraph but do not capture the overall main idea.
+Q 13185 [radio] What does the phrase 'it has become easier to react than to reflect' imply?
+ 25417) A. People tend to express their opinions impulsively.
+ 25418) B. People tend to respond quickly instead of thinking things through.
+ 25419) C. People are no longer capable of careful thought.
+ 25420) D. People react emotionally because they lack information.
+  SITE FEEDBACK: ‣ The phrase 'it has become easier to react than to reflect' suggests that people tend to respond quickly rather than think carefully, which is best expressed in option B. Option A is too narrow, focusing only on opinions. Option C is an overgeneralisation, suggesting loss of ability rather than change in behaviour. Option D introduces a cause (lack of information) that is not mentioned in the text.
+
+=== PAGE /writing/b2/writing-an-email-cover-letter-b2-english-writing/
+Q 13225 [radio] I have developed strong cooking techniques and the ability to work effectively under pressure.
+ 25494) A. Paragraph 1 (Introduction)
+ 25495) B. Paragraph 2 (Experience and skills)
+ 25496) C. Paragraph 3 (Motivation and availability)
+ 25497) D. Paragraph 4 (Closing)
+  SITE FEEDBACK: ‣ This sentence presents specific skills and abilities, so it fits in the experience and skills paragraph.
+Q 13226 [radio] I would like to apply for the Kitchen Assistant role advertised on your restaurant window.
+ 25498) A. Paragraph 1 (Introduction)
+ 25499) B. Paragraph 2 (Experience and skills)
+ 25500) C. Paragraph 3 (Motivation and availability)
+ 25501) D. Paragraph 4 (Closing)
+  SITE FEEDBACK: ‣ This sentence clearly states the purpose of the email and the position applied for, so it belongs in the introduction.
+Q 13227 [radio] Your restaurant's focus on local ingredients and traditional recipes appeals to me.
+ 25502) A. Paragraph 1 (Introduction)
+ 25503) B. Paragraph 2 (Experience and skills)
+ 25504) C. Paragraph 3 (Motivation and availability)
+ 25505) D. Paragraph 4 (Closing)
+  SITE FEEDBACK: ‣ This sentence explains why the candidate is interested in the company, so it belongs in the motivation paragraph.
+Q 13228 [radio] Having worked as a chef assistant in a restaurant, I understand the fast pace of a professional kitchen.
+ 25506) A. Paragraph 1 (Introduction)
+ 25507) B. Paragraph 2 (Experience and skills)
+ 25508) C. Paragraph 3 (Motivation and availability)
+ 25509) D. Paragraph 4 (Closing)
+  SITE FEEDBACK: ‣ This sentence describes previous experience using a participle clause, so it belongs in the experience and skills paragraph.
+Q 13229 [radio] I would be grateful if you considered my application.
+ 25510) A. Paragraph 1 (Introduction)
+ 25511) B. Paragraph 2 (Experience and skills)
+ 25512) C. Paragraph 3 (Motivation and availability)
+ 25513) D. Paragraph 4 (Closing)
+  SITE FEEDBACK: ‣ This is a polite closing sentence asking the employer to consider the application, so it belongs in the closing paragraph.
+Q 13230 [radio] I am ready to start from next month on a full-time basis.
+ 25514) A. Paragraph 1 (Introduction)
+ 25515) B. Paragraph 2 (Experience and skills)
+ 25516) C. Paragraph 3 (Motivation and availability)
+ 25517) D. Paragraph 4 (Closing)
+  SITE FEEDBACK: ‣ This sentence gives information about availability, which is typically included in the motivation and availability paragraph.
+
+=== PAGE /reading/a1/future-retirement-plans-a1-english-reading-test/
+Q 13057 [checkbox, pick 2] Who would like to learn something new?
+ 25109) A. Maria
+ 25110) B. George
+ 25111) C. Linda
+ 25112) D. Ahmed
+  SITE FEEDBACK: ‣ Maria would like to learn to cook better, so she wants to learn something new. Ahmed is going to take guitar lessons, so he is also going to learn something new. George wants to travel, not learn something new, and Linda wants to stay at home and work in her garden.
+Q 13060 [radio] Who would like to stay at home?
+ 25121) A. Maria
+ 25122) B. George
+ 25123) C. Linda
+ 25124) D. Ahmed
+  SITE FEEDBACK: ‣ Maria is going to visit her children in another city, and George is going to visit different countries in Europe. Linda says she is not going to travel very much, and Ahmed is going to stay in his town.
+Q 13062 [radio] Who is going to travel abroad?
+ 25129) A. Maria
+ 25130) B. George
+ 25131) C. Linda
+ 25132) D. Ahmed
+  SITE FEEDBACK: ‣ George is going to visit different countries in Europe, so he is travelling abroad. Maria is going to another city, not another country, Linda says she is not going to travel very much, and Ahmed is going to stay in his town.
+Q 13058 [checkbox, pick 2] Who is going to spend time with their family?
+ 25113) A. Maria
+ 25114) B. George
+ 25115) C. Linda
+ 25116) D. Ahmed
+  SITE FEEDBACK: ‣ Maria says she wants to spend more time with her family and visit her children and grandchildren. George is going to travel with his wife, and his wife is part of his family. Linda and Ahmed do not talk about their family.
+Q 13059 [radio] Who is going to take care of plants?
+ 25117) A. Maria
+ 25118) B. George
+ 25119) C. Linda
+ 25120) D. Ahmed
+  SITE FEEDBACK: ‣ Linda says she has a small garden and she is going to grow fruit and vegetables, so she is going to take care of plants. Maria wants to spend time with her family, George wants to travel, and Ahmed wants to do sport and learn to play the guitar.
+Q 13061 [radio] Who wants to stay busy after retirement?
+ 25125) A. Maria
+ 25126) B. George
+ 25127) C. Linda
+ 25128) D. Ahmed
+  SITE FEEDBACK: ‣ Ahmed says he would like to stay busy doing different things. Maria wants a more relaxed life, George wants to travel, and Linda wants a quiet life at home.
+
+=== PAGE /grammar-points/c1/the-subjunctive-in-english-present-and-past/
+Q 12988 [radio] It is essential that every student ___ their ID card.
+ 24971) A. brings
+ 24972) B. bring
+ 24973) C. bringing
+  SITE FEEDBACK: ‣ The present subjunctive is used after adjectives such as essential. In this structure, we use the base form of the verb, so bring is correct. In informal English, the present simple (brings) may also be used instead of the subjunctive.
+Q 12990 [radio] They recommended that the report ___ before publication.
+ 24977) A. be checked
+ 24978) B. is checked
+ 24979) C. checked
+  SITE FEEDBACK: ‣ After verbs such as recommend, the present subjunctive is often used in that-clauses. The verb appears in the base form, so be checked is correct. In informal English, the present simple (is checked) may also be used instead of the subjunctive.
+Q 12995 [radio] I'd rather you ___ here tonight.
+ 24992) A. stay
+ 24993) B. stayed
+ 24994) C. staying
+  SITE FEEDBACK: ‣ After would rather, we use past forms when referring to another person’s actions. This expresses a preference about a present or future situation, so stayed is correct.
+Q 12987 [radio] The manager insisted that everyone ___ the meeting on time.
+ 24968) A. attends
+ 24969) B. attending
+ 24970) C. attend
+  SITE FEEDBACK: ‣ The present subjunctive is mainly used in that-clauses after verbs such as insist. In the subjunctive, we use the base form of the verb, so attend is correct. In informal English, the present simple (attends) is also sometimes used instead of the subjunctive.
+Q 12996 [radio] It’s time we ___ the meeting.
+ 24995) A. start
+ 24996) B. started
+ 24997) C. starting
+  SITE FEEDBACK: ‣ After it's time, we use past forms to say that something should happen now or very soon. This is another use of the unreal past, so started is correct.
+Q 12989 [radio] The doctor suggested that she ___ a few days off work.
+ 24974) A. takes
+ 24975) B. took
+ 24976) C. take
+  SITE FEEDBACK: ‣ The present subjunctive is commonly used after verbs such as suggest. In the subjunctive, the verb appears in the base form, so take is correct. In informal English, the present simple (takes) is sometimes used instead.
+Q 12997 [radio] If only she ___ here now.
+ 24998) A. is
+ 24999) B. were
+ 25000) C. was
+  SITE FEEDBACK: ‣ After If only, past forms are used to talk about unreal or hypothetical present situations. With the verb be, the past subjunctive form were is traditionally used with all persons. In informal English, was is also sometimes used instead.
+Q 13001 [radio] The teacher asked that the students ___ quiet during the test.
+ 25010) A. be
+ 25011) B. are
+ 25012) C. were
+  SITE FEEDBACK: ‣ The present subjunctive is used in that-clauses after verbs such as ask. In the subjunctive, we use the base form of the verb, so be is correct. In informal English, the present simple (are) may also be used instead of the subjunctive.
+
+=== PAGE /vocabulary/b1/pollution-and-how-to-stop-it-b1-english-vocabulary/
+Q 12018 [radio] Most of the rubbish we throw away is dumped into _____.
+ 23350) A. landfills
+ 23351) B. oil spills
+ 23352) C. wind power
+ 23353) D. natural resources
+  SITE FEEDBACK: ‣ A landfill is a place where a lot of waste or rubbish is buried under the ground.
+
+=== PAGE /writing/b2/writing-an-article-for-the-first-exam-b2-english-writing/
+Q 12478 [radio] Which would be the best introduction for the article?
+ 23965) A. Have you ever wondered how to keep learning English after class?
+ 23966) B. Nowadays there are a lot of things you can do to learn English.
+ 23967) C. Many people are trying to learn English on their own.
+  SITE FEEDBACK: ‣ This question immediately catches the reader's attention and introduces the topic in a friendly, conversational way — perfect for an article. /  ‣ Option B is grammatically correct but too plain and impersonal, and option C sounds more like the start of an essay than a magazine article.
+Q 12479 [checkbox] Which TWO of these sentences would be the best for the body of the article?
+ 23968) A. In my view, watching films and series in English is one of the best ways to learn new words naturally.
+ 23969) B. Use your free time to study English, and never stop doing it if you want to improve.
+ 23970) C. For example, listening to podcasts in English can help you improve your understanding and pronunciation.
+ 23971) D. I'm going to tell you things you can do to improve your English.
+  SITE FEEDBACK: ‣ Options A and C are the best because they sound natural and personal, using opinions and examples typical of a good article. /  ‣ Option B is too direct and sounds like giving instructions, and option D is too mechanical — it tells the reader what the article will do instead of starting to develop ideas.
+Q 12483 [checkbox] Which TWO of these sentences would be the best for the body of the article?
+ 23981) A. I'm going to describe the places you can visit, and activities you can do in my town.
+ 23982) B. The weekend is a period of rest for most people, but you should be active.
+ 23983) C. For example, you can try one of the cafés by the river — they have great views and delicious food.
+ 23984) D. In my view, visiting the old town is one of the best ways to spend a Saturday morning.
+  SITE FEEDBACK: ‣ Options C and D are the best because they sound natural and include opinions and examples, which are typical of a good article. /  ‣ Option A is too mechanical, and option B is too formal and gives instructions rather than sharing ideas naturally.
+
+=== PAGE /reading/b2/is-overtourism-pricing-locals-out-b2-english-reading-test/
+Q 13050 [radio] According to the author, graffiti against tourism is...
+ 25082) A. not a pleasant view to experience.
+ 25083) B. an unmistakable sign of overtourism.
+ 25084) C. a serious offence.
+ 25085) D. unavoidable nowadays in tourist areas.
+  SITE FEEDBACK: ‣ The text says, 'If you have ever seen graffiti reading "Tourists go home", you have definitely seen how serious the issue has become.' This shows that graffiti is presented as a clear sign that overtourism has become a serious problem. The text does not say that graffiti is unpleasant to see (A), that it is a crime (C), or that it is unavoidable in tourist areas (D).
+Q 13051 [radio] Why does the author include the Amsterdam anecdote?
+ 25086) A. To compare current prices with those 20 years ago.
+ 25087) B. To share an interesting personal experience.
+ 25088) C. To provide evidence of how tourism is changing cities.
+ 25089) D. To suggest that Amsterdam is a popular destination.
+  SITE FEEDBACK: ‣ The author says that Amsterdam was 'a city I had lived in 20 years earlier as an exchange student, but which I now barely recognised', showing how much the city has changed. The metro worker then explains, 'We can't afford to live here anymore,', which shows that tourism has made the city too expensive for local residents. The anecdote is included to illustrate how tourism is changing cities, not just to show that Amsterdam is popular (B), to compare prices directly (C), or simply to tell a personal story (D).
+Q 13052 [radio] According to paragraph 2, which of the following is NOT true?
+ 25090) A. Residents miss the sense of community.
+ 25091) B. They move out because they no longer like living there.
+ 25092) C. They are priced out of their neighbourhoods.
+ 25093) D. Tourists can't have an authentic experience.
+  SITE FEEDBACK: ‣ Paragraph 2 explains that many locals are forced to leave because prices rise and they can no longer afford to live in the city centre, not because they simply dislike living there. The text also says that neighbourhoods no longer feel like home (A), that residents are pushed out as rents increase (C), and that tourists often see places where the local atmosphere has disappeared (D).
+Q 13054 [radio] What title would best represent the main idea in paragraph 3?
+ 25098) A. Growing protests
+ 25099) B. Tourists are to blame
+ 25100) C. Banning tourism is the only way
+ 25101) D. Too little too late
+  SITE FEEDBACK: ‣ Paragraph 3 describes how protests against overtourism have become common, but it also explains that many residents believe authorities reacted too late, after tourism had already caused serious problems. The sentence 'by the time officials reacted, the damage had already been done' shows that the main idea is that action came too late. Option A is mentioned but does not express the main point, while B and C are not stated in the text.
+Q 13055 [radio] According to paragraph 3, we can infer that tourism is...
+ 25102) A. avoidable
+ 25103) B. beneficial
+ 25104) C. unstoppable
+ 25105) D. necessary
+  SITE FEEDBACK: ‣ Paragraph 3 says that tourism brings jobs and money and refers to it as 'the industry that keeps the city alive'. This suggests that tourism is essential for the economy, even if it also causes problems. The text does not say tourism can be avoided (A), that it cannot be controlled at all (C), or that it is only described as beneficial (B). The idea is that tourism is needed, so the best answer is necessary.
+
+=== PAGE /vocabulary/a2/everyday-problems-and-solutions-a2-english-vocabulary/
+Q 11849 [radio] Sam _____ with his sister because she was playing her music too loudly.
+ 22904) A. had an argument
+ 22905) B. ran out of
+ 22906) C. missed
+ 22907) D. fixed
+  SITE FEEDBACK: ‣ If you have an argument with someone, you don't agree and may speak angrily to each other.
+Q 11850 [radio] We _____ milk this morning, so I need to buy some more.
+ 22908) A. fixed
+ 22909) B. had an argument
+ 22910) C. ran out of
+ 22911) D. missed
+  SITE FEEDBACK: ‣ If you run out of something, you don't have any left, so you need to get some more.
+Q 11854 [radio] Fortunately, the mechanic was able to _____ my car.
+ 22924) A. run out of
+ 22925) B. fix
+ 22926) C. miss
+ 22927) D. wipe up
+  SITE FEEDBACK: ‣ If something is broken, you need to fix it (repair it).
+
+=== PAGE /grammar-points/shorts/last-vs-the-last-next-vs-the-next-grammar-shorts/
+Q 13089 [radio] I saw him ___ week at the gym.
+ 25179) A. last
+ 25180) B. the last
+ 25181) C. the next
+  SITE FEEDBACK: ‣ We use last with day, week, month, year, etc. to refer to the day, week, month, etc. immediately before the present one. So last week is correct.
+Q 13090 [radio] I'll see you ___ month at the conference in Berlin.
+ 25182) A. the next
+ 25183) B. next
+ 25184) C. the last
+  SITE FEEDBACK: ‣ We use next with day, week, month, year, etc. to refer to the day, week, month, etc. immediately after the present one. So next month is correct.
+Q 13091 [radio] We're getting married ___ October.
+ 25185) A. last
+ 25186) B. the next
+ 25187) C. next
+  SITE FEEDBACK: ‣ We use next with month, year, season, etc. to refer to the one immediately after the present one. So next October is correct.
+Q 13092 [radio] ___ train leaves in five minutes.
+ 25188) A. Next
+ 25189) B. The next
+ 25190) C. Last
+  SITE FEEDBACK: ‣ We use the next to talk about a specific thing that is the next item in a series, not in relation to the present time. Here we mean the next train in the schedule, so the next is correct.
+Q 13093 [radio] She's been very busy for ___ few days.
+ 25191) A. next
+ 25192) B. last
+ 25193) C. the last
+  SITE FEEDBACK: ‣ We use for the last to talk about a period of time that continues until now. It is often used with the present perfect. Here She's been is present perfect, so for the last few days is correct.
+Q 13094 [radio] We first met during ___ week of summer camp 2023.
+ 25194) A. next
+ 25195) B. last
+ 25196) C. the last
+  SITE FEEDBACK: ‣ We use the last to talk about a specific thing that is the final item in a series. Here it means the final week of the camp, so the last is correct.
+Q 13095 [radio] I missed ___ bus, so I had to walk home.
+ 25197) A. next
+ 25198) B. last
+ 25199) C. the last
+  SITE FEEDBACK: ‣ We use the last to talk about a specific thing that is the final item in a series. Here it means the final bus of the night, so the last is correct.
+Q 13096 [radio] We'll be away for ___ two weeks.
+ 25200) A. last
+ 25201) B. next
+ 25202) C. the next
+  SITE FEEDBACK: ‣ We use for the next to talk about a period of time that will continue into the future. So for the next two weeks is correct.
+Q 13097 [radio] I spoke to her ___ night about the problem.
+ 25203) A. last
+ 25204) B. the last
+ 25205) C. the next
+  SITE FEEDBACK: ‣ We use last with day, week, month, year, etc. to refer to the one immediately before the present one. So last night is correct.
+Q 13098 [radio] ___ stop is the city centre.
+ 25206) A. Next
+ 25207) B. The next
+ 25208) C. Last
+  SITE FEEDBACK: ‣ We use the next to talk about a specific thing that is the next item in a series. Here it means the next stop on the route, so the next is correct.
+
+=== PAGE /reading/b1-b2/why-we-cant-stop-lying-b1-english-reading-test/
+Q 13162 [radio] What is the writer's main point in the first paragraph?
+ 25305) A. People tend to lie more often than they realise.
+ 25306) B. Liars usually feel guilty about their behaviour.
+ 25307) C. Scientists are unable to explain why people lie.
+ 25308) D. Research shows what people usually lie about.
+  SITE FEEDBACK: ‣ The paragraph says 'Everyone lies' and that people 'underestimate' how often they lie. So the main point is that people lie more than they realise.
+Q 13163 [radio] What does 'this' refer to in the second paragraph?
+ 25309) A. The most common reason for lying in everyday situations.
+ 25310) B. The result of previous research into human behaviour.
+ 25311) C. The experiment that asks people about their habits.
+ 25312) D. The difference between people's answers and data.
+  SITE FEEDBACK: ‣ The previous paragraph explains that people lie and underestimate how often they do it. Paragraph 2 shows that people say one thing but the data shows something different. So 'this' refers to the difference between what people say and what is true.
+Q 13164 [radio] What does paragraph 2 suggest about the participants in the experiment?
+ 25313) A. They were unaware that their answers were incorrect.
+ 25314) B. They preferred to talk about what they planned to do.
+ 25315) C. They became annoyed when scientists doubted them.
+ 25316) D. They avoided answering questions about their habits.
+  SITE FEEDBACK: ‣ The paragraph says participants claimed they were responsible, but when confronted, some said they had 'intended to behave better'. This shows they focused on what they planned to do rather than what they actually did.
+Q 13165 [radio] In paragraph 3, why does the writer include the example of missing a deadline?
+ 25317) A. To explain that lying in a work environment is sometimes necessary.
+ 25318) B. To show that lying is acceptable when the truth can upset others.
+ 25319) C. To suggest that a negative environment can cause dishonesty.
+ 25320) D. To prove that people lie to avoid negative consequences.
+  SITE FEEDBACK: ‣ The example shows someone lying about missing a deadline to avoid getting into trouble. This supports the idea that people lie to protect themselves from criticism or embarrassment.
+Q 13166 [radio] Why does the writer talk about social media in paragraph 4?
+ 25321) A. To show that people tend to be more honest online than in real life.
+ 25322) B. To suggest that dishonest behaviours can spread quickly online.
+ 25323) C. To illustrate how people hide some aspects of their lives.
+ 25324) D. To explain why people find it easy to talk about themselves online.
+  SITE FEEDBACK: ‣ The paragraph uses social media as an example and even says 'Social media is the perfect example'. This shows the writer is illustrating how people present a 'polished version' of their lives and hide certain aspects of reality.
+Q 13167 [radio] What does paragraph 5 suggest about repeated lying?
+ 25325) A. It causes strong feelings against people who lie.
+ 25326) B. It is likely that the truth will eventually come out.
+ 25327) C. It can turn into a habit that is difficult to control.
+ 25328) D. It makes people less aware that they are lying.
+  SITE FEEDBACK: ‣ The paragraph says that the more you lie, the easier it becomes and that the brain may start to see lying as normal. This suggests that lying can become a habit over time.
+Q 13168 [radio] What does the writer imply in paragraph 6?
+ 25329) A. People often lie to conceal personal issues.
+ 25330) B. People struggling with personal difficulties are better liars.
+ 25331) C. People sometimes lie because they are trying to avoid dealing with reality.
+ 25332) D. People who lie often find it difficult to socialise.
+  SITE FEEDBACK: ‣ The paragraph links lying to anxiety, low self-esteem and fear of rejection. It also says people create a 'safer version of reality' to protect themselves. This suggests they lie to hide or cope with personal difficulties.
+Q 13169 [radio] What is the writer's overall attitude towards lying?
+ 25333) A. It is a useful tool that people use in everyday situations.
+ 25334) B. It is a natural behaviour that people should reflect on.
+ 25335) C. It should be completely removed from people's behaviour.
+ 25336) D. It should be avoided unless it is strictly necessary.
+  SITE FEEDBACK: ‣ The writer explains that lying is normal and cannot be completely eliminated, but suggests becoming more aware of it and reflecting on why we do it. This shows a balanced view.
+
+=== PAGE /vocabulary/a1/basic-phrasal-verbs-a1-english-vocabulary/
+Q 12236 [radio] She _____ at seven o'clock every morning and has breakfast.
+ 23725) A. gets on
+ 23726) B. wakes up
+ 23727) C. goes away
+  SITE FEEDBACK: ‣ When you wake up, you stop sleeping.
+Q 12239 [radio] They _____ the taxi quickly.
+ 23734) A. got into
+ 23735) B. went up
+ 23736) C. went away
+  SITE FEEDBACK: ‣ When you get in/into a car, taxi, etc., you enter it.
+
+=== PAGE /writing/b1-b2/giving-your-opinion-b1-english-writing/
+Q 12460 [radio] In which paragraph should you give your main reasons?
+ 23938) A. Paragraph 1
+ 23939) B. Paragraph 2
+ 23940) C. Paragraph 3
+ 23941) D. Paragraph 4
+  SITE FEEDBACK: ‣ The second paragraph explains your main reasons to support your opinion. It develops your argument with clear ideas.
+Q 12462 [radio] In which paragraph should you introduce a contrasting view?
+ 23946) A. Paragraph 1
+ 23947) B. Paragraph 2
+ 23948) C. Paragraph 3
+ 23949) D. Paragraph 4
+  SITE FEEDBACK: ‣ The third paragraph is where you show balance by mentioning an opposite opinion or a different point of view.
+Q 12458 [radio] In which paragraph should you introduce the topic?
+ 23930) A. Paragraph 1
+ 23931) B. Paragraph 2
+ 23932) C. Paragraph 3
+ 23933) D. Paragraph 4
+  SITE FEEDBACK: ‣ You introduce the topic at the beginning of your essay to tell the reader what it is about and prepare them for your opinion.
+Q 12464 [radio] In which paragraph should you summarise your ideas?
+ 23954) A. Paragraph 1
+ 23955) B. Paragraph 2
+ 23956) C. Paragraph 3
+ 23957) D. Paragraph 4
+  SITE FEEDBACK: ‣ The last paragraph summarises your main points and shows that your essay is coming to an end.
+Q 12459 [radio] In which paragraph should you give your opinion for the first time?
+ 23934) A. Paragraph 1
+ 23935) B. Paragraph 2
+ 23936) C. Paragraph 3
+ 23937) D. Paragraph 4
+  SITE FEEDBACK: ‣ You should give your opinion in the first paragraph so the reader knows your point of view from the start.
+Q 12461 [radio] In which paragraph should you add facts or examples?
+ 23942) A. Paragraph 1
+ 23943) B. Paragraph 2
+ 23944) C. Paragraph 3
+ 23945) D. Paragraph 4
+  SITE FEEDBACK: ‣ In the second paragraph, you give examples or facts to make your reasons stronger and more convincing.
+Q 12465 [radio] In which paragraph should you restate your opinion?
+ 23958) A. Paragraph 1
+ 23959) B. Paragraph 2
+ 23960) C. Paragraph 3
+ 23961) D. Paragraph 4
+  SITE FEEDBACK: ‣ You restate your opinion in the final paragraph using different words to remind the reader of your main message.
+Q 12463 [radio] In which paragraph should you respond to an opposite opinion?
+ 23950) A. Paragraph 1
+ 23951) B. Paragraph 2
+ 23952) C. Paragraph 3
+ 23953) D. Paragraph 4
+  SITE FEEDBACK: ‣ In the third paragraph, you explain why you disagree with the opposite opinion and defend your own ideas.
+
+=== PAGE /reading/c1/kidfluencers-growing-up-online-c1-english-reading/
+Q 12817 [radio] What can we infer from the author's description of kidfluencers in paragraph 1?
+ 24650) A. Kidfluencers are an essential component of a profit-driven system.
+ 24651) B. Kidfluencers bring in money and unity in the families.
+ 24652) C. Money is the sole motivator behind kidfluencers' online presence.
+ 24653) D. Children are the main beneficiaries of the influencer industry.
+  SITE FEEDBACK: ‣ The author describes children as 'a cog in that commercial machine', which implies they function as part of a larger profit-driven system. The text does not suggest that families become more united (B), that money is the only motivation (C), or that children benefit the most (D).
+Q 12818 [radio] Why does the author mention that some parents insist their children enjoy making videos in paragraph 2?
+ 24654) A. To acknowledge a common argument before challenging it.
+ 24655) B. To prove that not everything is about money in kidfluencing.
+ 24656) C. To imply that parental involvement provides protection to their children.
+ 24657) D. To argue that family vlogging can be mainly harmless.
+  SITE FEEDBACK: ‣ The author presents parents' claims to show one side of the debate and then questions this optimistic view by introducing the risks and problems associated with kidfluencing.
+Q 12819 [radio] According to paragraph 3, why do kidfluencers often fall into a legal grey area?
+ 24658) A. Because children refuse to be treated as professional workers.
+ 24659) B. Because kidfluencing is not officially recognised as work.
+ 24660) C. Because their activity is framed as family-based content.
+ 24661) D. Because labour regulations don't apply if there is parental consent.
+  SITE FEEDBACK: ‣ The paragraph explains that kidfluencers' activity takes place at home under parental supervision, making it appear like family life rather than formal employment. The text does not mention children refusing professional status (A), official recognition as the main reason (B), or parental consent cancelling labour laws (D).
+Q 12820 [radio] The verb rein in in paragraph 5 is closest in meaning to:
+ 24662) A. predict
+ 24663) B. control
+ 24664) C. admit
+ 24665) D. notice
+  SITE FEEDBACK: ‣ Rein in means to limit or restrain something. The other options do not express the idea of controlling or restricting.
+Q 12821 [radio] Why does the author mention hidden advertising in paragraph 6?
+ 24666) A. To explain how kidfluencers deliberately deceive their audiences.
+ 24667) B. To illustrate how young audiences may be manipulated.
+ 24668) C. To report the need to ban advertising on social media.
+ 24669) D. To suggest that children inadvertently sponsor content.
+  SITE FEEDBACK: ‣ The paragraph says that sponsored content is woven into everyday videos, meaning it is blended in or mixed with normal content so it is hard to recognise. This shows how young viewers may be manipulated without realising they are watching advertising. The author does not claim deliberate deception (A), call for a ban (C), or focus on children's intentions (D).
+Q 12822 [radio] According to paragraph 7, all of the following are true EXCEPT:
+ 24670) A. Most family influencers prioritise profit over their children's well-being.
+ 24671) B. Individual responsible behaviour is no substitute for wider legal protections.
+ 24672) C. Responsibility lies in the hands of all actors involved.
+ 24673) D. Good practice by some families may be key to solving the problem.
+  SITE FEEDBACK: ‣ The author states that although some parents behave responsibly, 'isolated good practice' (responsible behaviour by a small number of families) cannot replace systemic safeguards such as laws and regulation. This means good practice alone is not enough to solve the problem, so D is false.
+
+=== PAGE /vocabulary/b2/phrasal-verbs-ii-b2-english-vocabulary/
+Q 12517 [radio] Anna has always ______ people who don't have a high education.
+ 24058) A. let off
+ 24059) B. kept up with
+ 24060) C. looked down on
+ 24061) D. looked into
+  SITE FEEDBACK: ‣ If you look down on somebody, you think they are less important or not as good.
+Q 12518 [radio] We're ______ moving to a larger home in the future.
+ 24062) A. trying out
+ 24063) B. looking into
+ 24064) C. looking up to
+ 24065) D. going over
+  SITE FEEDBACK: ‣ If you look into something, you investigate it.
+Q 12519 [radio] Sam has always ______ his big brother.
+ 24066) A. looked up to
+ 24067) B. given away
+ 24068) C. used up
+ 24069) D. passed out
+  SITE FEEDBACK: ‣ If you look up to someone, you admire and respect them.
+Q 12520 [radio] Fred ______ an excuse to get out of the school reunion.
+ 24070) A. put off
+ 24071) B. tore up
+ 24072) C. picked up
+ 24073) D. made up
+  SITE FEEDBACK: ‣ If you make something up, you invent a story, excuse, or explanation.
+Q 12521 [radio] The twins are so alike; I'm not surprised you ______.
+ 24074) A. made them up
+ 24075) B. mixed them up
+ 24076) C. used them up
+ 24077) D. stayed them up
+  SITE FEEDBACK: ‣ If you mix things up, you confuse them with each other.
+Q 12522 [radio] Sadly, Harry ______ last week after a short illness.
+ 24078) A. grew apart
+ 24079) B. gave away
+ 24080) C. passed out
+ 24081) D. passed away
+  SITE FEEDBACK: ‣ If someone passes away, they die (polite).
+Q 12523 [radio] After drinking a bottle of wine, Anna ______ on the sofa.
+ 24082) A. gave away
+ 24083) B. passed out
+ 24084) C. tore up
+ 24085) D. stayed up
+  SITE FEEDBACK: ‣ If someone passes out, they faint or become unconscious.
+Q 12524 [radio] During her trip to Italy, she ______ some basic Italian phrases.
+ 24086) A. took away
+ 24087) B. picked up
+ 24088) C. tore up
+ 24089) D. put off
+  SITE FEEDBACK: ‣ If you pick up something (a skill or language), you learn it gradually.
+Q 12525 [radio] I usually ______ doing my homework until the very last minute.
+ 24090) A. take away
+ 24091) B. put off
+ 24092) C. think over
+ 24093) D. show off
+  SITE FEEDBACK: ‣ If you put something off, you delay or postpone it.
+
+=== PAGE /writing/b1/describing-your-home-b1-english-writing/
+Q 12489 [radio] The flat is _____ because it's near the university.
+ 23997) A. ideal for shopping
+ 23998) B. great for families
+ 23999) C. perfect for students
+  SITE FEEDBACK: ‣ Perfect for is used to say who something is suitable for — here, students who live near the university.
+Q 12493 [radio] It was built in the 1950s, but the building is _____ and looks modern inside.
+ 24009) A. good condition
+ 24010) B. fully furnished
+ 24011) C. well maintained
+  SITE FEEDBACK: ‣ Well maintained means something is cared for and kept in good condition.
+Q 12496 [radio] I live in a bright two-storey house in a quiet area near the city centre.
+ 24018) Paragraph 1 – Introduction
+ 24019) Paragraph 2 – Inside the house or flat
+ 24020) Paragraph 3 – The neighbourhood
+ 24021) Paragraph 4 – Suitability
+  SITE FEEDBACK: ‣ This sentence introduces the type of home and its location, which belong in the introduction.
+Q 12497 [radio] The house has a cosy living room, a spacious kitchen, and a small study next to the patio.
+ 24022) Paragraph 1 – Introduction
+ 24023) Paragraph 2 – Inside the house or flat
+ 24024) Paragraph 3 – The neighbourhood
+ 24025) Paragraph 4 – Suitability
+  SITE FEEDBACK: ‣ This sentence describes the main rooms and features inside the house, so it belongs in the paragraph about the interior.
+Q 12498 [radio] It’s in a great location, close to shops, cafés, and public transport.
+ 24026) Paragraph 1 – Introduction
+ 24027) Paragraph 2 – Inside the house or flat
+ 24028) Paragraph 3 – The neighbourhood
+ 24029) Paragraph 4 – Suitability
+  SITE FEEDBACK: ‣ This describes where the home is located, which is part of the introduction.
+Q 12499 [radio] The neighbourhood is peaceful and friendly, with a park within walking distance.
+ 24030) Paragraph 1 – Introduction
+ 24031) Paragraph 2 – Inside the house or flat
+ 24032) Paragraph 3 – The neighbourhood
+ 24033) Paragraph 4 – Suitability
+  SITE FEEDBACK: ‣ This sentence describes the surroundings and what it’s like to live there, so it belongs in the neighbourhood paragraph.
+Q 12500 [radio] This flat would be perfect for a couple or a small family.
+ 24034) Paragraph 1 – Introduction
+ 24035) Paragraph 2 – Inside the house or flat
+ 24036) Paragraph 3 – The neighbourhood
+ 24037) Paragraph 4 – Suitability
+  SITE FEEDBACK: ‣ It explains who the home is suitable for, so it belongs in the suitability paragraph.
+Q 12501 [radio] Upstairs, there are three bedrooms and a bathroom that leads to a small balcony.
+ 24038) Paragraph 1 – Introduction
+ 24039) Paragraph 2 – Inside the house or flat
+ 24040) Paragraph 3 – The neighbourhood
+ 24041) Paragraph 4 – Suitability
+  SITE FEEDBACK: ‣ This sentence describes the layout and rooms inside the house, so it belongs in the paragraph about the interior.
+Q 12502 [radio] There’s also a basement that could be renovated in the future.
+ 24042) Paragraph 1 – Introduction
+ 24043) Paragraph 2 – Inside the house or flat
+ 24044) Paragraph 3 – The neighbourhood
+ 24045) Paragraph 4 – Suitability
+  SITE FEEDBACK: ‣ It mentions a feature inside the home and a possible improvement, so it fits in the paragraph about the interior.
+Q 12503 [radio] It’s in a convenient location, near the supermarket and bus stop.
+ 24046) Paragraph 1 – Introduction
+ 24047) Paragraph 2 – Inside the house or flat
+ 24048) Paragraph 3 – The neighbourhood
+ 24049) Paragraph 4 – Suitability
+  SITE FEEDBACK: ‣ This sentence describes the area and its accessibility, so it belongs in the neighbourhood paragraph.
+Q 12504 [radio] Outside, there’s a patio where we often have dinner in summer.
+ 24050) Paragraph 1 – Introduction
+ 24051) Paragraph 2 – Inside the house or flat
+ 24052) Paragraph 3 – The neighbourhood
+ 24053) Paragraph 4 – Suitability
+  SITE FEEDBACK: ‣ It describes an outdoor feature that is part of the home, so it fits in the paragraph about the interior.
+Q 12505 [radio] It’s suitable for people who like peaceful surroundings and need extra space.
+ 24054) Paragraph 1 – Introduction
+ 24055) Paragraph 2 – Inside the house or flat
+ 24056) Paragraph 3 – The neighbourhood
+ 24057) Paragraph 4 – Suitability
+  SITE FEEDBACK: ‣ It explains who would enjoy living there, so it belongs in the suitability paragraph.
+
+=== PAGE /reading/b1-b2/your-mental-health-starts-in-your-gut-b1-english-reading/
+Q 11708 [radio] What point does the writer want to make in the first paragraph?
+ 22388) A. Modern science is unable to show exactly why our diet affects our emotions
+ 22389) B. People have believed in a relation between food and mood for a long time
+ 22390) C. Different foods have been used to improve mental health in the UK since the 20th century
+ 22391) D. Doctors have been recommending specific diets to improve mental health for centuries
+  SITE FEEDBACK: ‣ The paragraph gives examples from different historical periods, including Ancient Greece, Shakespeare, and Dr Porter-Phillips, to show that ‘people have believed in a relation between food and mood for a long time.’
+Q 11709 [radio] In paragraph two, what scientists’ discovery supports Dr Porter-Phillips' idea?
+ 22392) A. The impact of our daily habits on our general health is greater than expected
+ 22393) B. Our diet is the most important part of our lives for our mental health
+ 22394) C. A healthy vagus nerve keeps the balance between physical and mental health
+ 22395) D. The brain receives messages from the gut carried by the vagus nerve
+  SITE FEEDBACK: ‣ The paragraph says: ‘The vagus nerve sends signals from the stomach to the brain and can affect mood, stress, and even sleep.’ This directly supports the idea that gut health affects how we feel.
+Q 11710 [radio] In paragraph three, what effect do ultra-processed foods have on our gut?
+ 22396) A. They have dangerous ingredients that kill healthy bacteria
+ 22397) B. They increase the population of harmful bacteria
+ 22398) C. They stay longer in our body affecting how we sleep
+ 22399) D. They damage bacteria useful to break down our food
+  SITE FEEDBACK: ‣ The text says: ‘eating too much of these foods can be harmful to our healthy bacteria.’ This shows they damage good bacteria.
+Q 11712 [radio] What is the main message in the fifth paragraph?
+ 22404) A. Communities should have more information about the effects of our diets on our emotions
+ 22405) B. Patients affected by specific disorders should set an example for the local community
+ 22406) C. Social factors should be considered when studying the effects of diet on mental health
+ 22407) D. Existing research on the gut-brain connection should require more data to be trusted
+  SITE FEEDBACK: ‣ The paragraph says that results in Sub-Saharan Africa were ‘not always the same... possibly due to the lack of a strong family or community support system.’ This shows social factors matter.
+Q 11713 [radio] In the last paragraph, what do scientists hope to achieve?
+ 22408) A. A simple way to make healthy food cheaper and easier to find
+ 22409) B. A natural process to eliminate harmful bacteria from our guts
+ 22410) C. A combination of healthy bacteria to support mental health
+ 22411) D. A routine of daily habits to improve our general well-being
+  SITE FEEDBACK: ‣ The paragraph says scientists want ‘to create a brain-friendly pill... with special bacteria to boost your mood or reduce stress.’ So the goal is a mix of bacteria to help mental health.
+
+=== PAGE /writing/a2/a-biography-of-someone-you-know-a2-english-writing/
+Q 12434 [gaps] They {1} to Canada more than ten years ago.
+  {1} options: moved | have moved | move
+  SITE FEEDBACK: Correct answer: met /  ‣ Use the past simple with time expressions like ago for actions that are finished.
+Q 12446 [radio] I admire her because she never gives up.
+ 23927) A. Introduction and early life (Paragraph 1)
+ 23928) B. Past achievements or important events (Paragraph 2)
+ 23929) C. Present life and why you admire them (Paragraph 3)
+  SITE FEEDBACK: ‣ It directly expresses admiration, which goes in the last paragraph.
+Q 12439 [radio] She grew up in a small village near the mountains.
+ 23906) A. Introduction and early life (Paragraph 1)
+ 23907) B. Past achievements or important events (Paragraph 2)
+ 23908) C. Present life and why you admire them (Paragraph 3)
+  SITE FEEDBACK: ‣ Growing up is part of early life, so it belongs in the first paragraph.
+Q 12437 [radio] She was born in Madrid in 1995.
+ 23900) A. Introduction and early life (Paragraph 1)
+ 23901) B. Past achievements or important events (Paragraph 2)
+ 23902) C. Present life and why you admire them (Paragraph 3)
+  SITE FEEDBACK: ‣ This sentence gives basic information about birth, which belongs to the introduction and early life.
+Q 12443 [radio] She has worked as a nurse for more than ten years.
+ 23918) A. Introduction and early life (Paragraph 1)
+ 23919) B. Past achievements or important events (Paragraph 2)
+ 23920) C. Present life and why you admire them (Paragraph 3)
+  SITE FEEDBACK: ‣ The present perfect shows an action that started in the past and continues now, so it belongs to the paragraph about present life.
+Q 12440 [radio] He studied computer science at university.
+ 23909) A. Introduction and early life (Paragraph 1)
+ 23910) B. Past achievements or important events (Paragraph 2)
+ 23911) C. Present life and why you admire them (Paragraph 3)
+  SITE FEEDBACK: ‣ This sentence describes something that happened in the past, so it fits past achievements or important events.
+Q 12444 [radio] She has helped many people learn English.
+ 23921) A. Introduction and early life (Paragraph 1)
+ 23922) B. Past achievements or important events (Paragraph 2)
+ 23923) C. Present life and why you admire them (Paragraph 3)
+  SITE FEEDBACK: ‣ The present perfect describes something she continues to do, so it fits the paragraph about present life and admiration.
+Q 12445 [radio] He works for an international company in London.
+ 23924) A. Introduction and early life (Paragraph 1)
+ 23925) B. Past achievements or important events (Paragraph 2)
+ 23926) C. Present life and why you admire them (Paragraph 3)
+  SITE FEEDBACK: ‣ This sentence describes his current job and situation, so it belongs to the paragraph about present life.
+Q 12441 [radio] He moved to Canada when he was twenty-five.
+ 23912) A. Introduction and early life (Paragraph 1)
+ 23913) B. Past achievements or important events (Paragraph 2)
+ 23914) C. Present life and why you admire them (Paragraph 3)
+  SITE FEEDBACK: ‣ It describes a completed action in the past, which belongs to the paragraph about past achievements or important events.
+Q 12442 [radio] After that, she started her own business in 2012.
+ 23915) A. Introduction and early life (Paragraph 1)
+ 23916) B. Past achievements or important events (Paragraph 2)
+ 23917) C. Present life and why you admire them (Paragraph 3)
+  SITE FEEDBACK: ‣ Starting her own business is part of her past achievements.
+Q 12438 [radio] He was the second of three children.
+ 23903) A. Introduction and early life (Paragraph 1)
+ 23904) B. Past achievements or important events (Paragraph 2)
+ 23905) C. Present life and why you admire them (Paragraph 3)
+  SITE FEEDBACK: ‣ This sentence gives information about the person’s family and background, so it belongs to the paragraph about early life.
+
+=== PAGE /grammar-points/a2/auxiliary-verbs-do-be-and-have/
+Q 12923 [radio] Tom ___ already left the office.
+ 24820) A. has
+ 24821) B. is
+ 24822) C. does
+ 24823) D. was
+  SITE FEEDBACK: ‣ We use have/has + past participle to form the present perfect. The subject Tom takes has.
+Q 12924 [radio] The cake ___ made this morning.
+ 24824) A. did
+ 24825) B. has
+ 24826) C. was
+ 24827) D. is
+  SITE FEEDBACK: ‣ We use was/were + past participle to form the past simple passive. The subject cake is singular, so we use was.
+Q 12925 [radio] Let them play. They ___ doing anything wrong.
+ 24828) A. hadn't
+ 24829) B. don't
+ 24830) C. haven't
+ 24831) D. aren't
+  SITE FEEDBACK: ‣ We use am/is/are + -ing to form the present continuous. The subject children is plural, so we use are.
+Q 12927 [radio] The results ___ announced on the radio.
+ 24836) A. are
+ 24837) B. have
+ 24838) C. did
+ 24839) D. were
+  SITE FEEDBACK: ‣ We use am/is/are + past participle to form the present simple passive. The subject results is plural, so we use are.
+Q 12928 [radio] ___ she ever tried sushi?
+ 24840) A. Has
+ 24841) B. Is
+ 24842) C. Does
+ 24843) D. Did
+  SITE FEEDBACK: ‣ We use have/has + past participle to form the present perfect. With she, we use has.
+Q 12930 [radio] At 8 p.m., I ___ still working.
+ 24848) A. have
+ 24849) B. was
+ 24850) C. am
+ 24851) D. did
+  SITE FEEDBACK: ‣ We use was/were + -ing to form the past continuous. The subject I takes was.
+Q 12932 [radio] The museum ___ closed today.
+ 24856) A. isn't
+ 24857) B. hasn't
+ 24858) C. didn't
+ 24859) D. wasn't
+  SITE FEEDBACK: ‣ We use am/is/are + past participle to form the present simple passive. The subject museum is singular, so we use is.
+
+=== PAGE /writing/a1/writing-an-email-giving-instructions-a1-english-writing/
+Q 12172 [radio] Could _____ lock the door when you leave.
+ 23571) A. you please
+ 23572) B. please you
+ 23573) C. please
+  SITE FEEDBACK: ‣ The polite request is Could you please.
+Q 12173 [radio] Thanks for _____ me while I'm away.
+ 23574) A. help
+ 23575) B. helping
+ 23576) C. to help
+  SITE FEEDBACK: ‣ After Thanks for we use a verb with -ing.
+Q 12174 [radio] Don't _____ close the windows at night.
+ 23577) A. remember to
+ 23578) B. forget
+ 23579) C. forget to
+  SITE FEEDBACK: ‣ The correct phrase is Don't forget to do something.
+Q 12176 [radio] Please _____ the curtains every morning.
+ 23583) A. open
+ 23584) B. you open
+ 23585) C. to open
+  SITE FEEDBACK: ‣ Imperatives use the verb without you or to.
+Q 12177 [radio] _____ give the dog too much food.
+ 23586) A. Not
+ 23587) B. You don't
+ 23588) C. Do not
+  SITE FEEDBACK: ‣ Negative imperatives use Do not or Don't + verb.
+Q 12180 [radio] _____ you soon.
+ 23595) A. Talk
+ 23596) B. See
+ 23597) C. Thanks
+  SITE FEEDBACK: ‣ The common expression is See you soon. /  ‣ You can also say Talk TO you soon
+Q 12181 [radio] ____ call my sister if there is a problem?
+ 23598) A. Remember to
+ 23599) B. Can you
+ 23600) C. You
+  SITE FEEDBACK: ‣ We use Can you for polite questions.
+
+=== PAGE /grammar-points/c1/advanced-modal-verbs-will-would-and-should/
+Q 12750 [radio] She _____ ever apologise, even when she’s clearly in the wrong.
+ 24471) A. won't
+ 24472) B. wouldn't
+ 24473) C. shouldn't
+  SITE FEEDBACK: ‣ We can use will criticise someone’s annoying habits or common behaviour.
+Q 12754 [radio] You _____ me you were going to be late. I've been waiting for 30 minutes.
+ 24483) A. will have told
+ 24484) B. would have told
+ 24485) C. should have told
+  SITE FEEDBACK: ‣ We use should have + past participle to express regret or to criticise past behaviour.
+Q 12755 [radio] I _____ say we still need to make some improvements, don't you think?
+ 24486) A. 'll
+ 24487) B. 'd
+ 24488) C. should
+  SITE FEEDBACK: ‣ We can use would to be more tactful or polite or when we are not sure of something when expressing opinions.
+
+=== PAGE /vocabulary/b2/phrasal-verbs-i-b2-english-vocabulary/
+Q 12272 [radio] After a few days of tension, things finally _____ between them.
+ 23766) A. dropped by
+ 23767) B. brought down
+ 23768) C. come up against
+ 23769) D. cooled off
+  SITE FEEDBACK: ‣ If you cool off, you become calmer or less angry. /  ‣ If things cool off between people, they become calmer and less tense after a conflict.
+Q 12275 [radio] The company tried to _____ the scandal by deleting all the emails.
+ 23778) A. bring about
+ 23779) B. come across
+ 23780) C. bring down
+ 23781) D. cover up
+  SITE FEEDBACK: ‣ If you cover something up, you try to hide the truth about it, especially if it's bad or illegal.
+Q 12278 [radio] The electricity company _____ our power because we hadn't been paying our bills.
+ 23790) A. got by
+ 23791) B. cut off
+ 23792) C. got away
+ 23793) D. fell apart
+  SITE FEEDBACK: ‣ If you cut something off, you stop its supply or connection.
+Q 12277 [radio] They've ___ the training programme ___ from six months to three.
+ 23786) A. checked … out
+ 23787) B. cut … down
+ 23788) C. fell … apart
+ 23789) D. figured … out
+  SITE FEEDBACK: ‣ If you cut something down, you reduce its length or amount.
+
+=== PAGE /reading/b1/travel-around-europe-in-5-stops-b1-english-reading-test/
+Q 11821 [radio] Which country's diet is famous worldwide?
+ 22785) A. Spain
+ 22786) B. Italy
+ 22787) C. Germany
+ 22788) D. The Czech Republic
+ 22789) E. Poland
+  SITE FEEDBACK: ‣ The text says, ‘Italy is known internationally for its delicious food, elegant fashion, and fast cars…’ So, Italy’s diet is famous worldwide.
+Q 11825 [radio] Which country has a similar climate to a nearby country?
+ 22805) A. Spain
+ 22806) B. Italy
+ 22807) C. Germany
+ 22808) D. The Czech Republic
+ 22809) E. Poland
+  SITE FEEDBACK: ‣ The text says, ‘Like Germany, its neighbouring country, Poland has a mild climate, with warm summers and cold winters.’ So, Poland has a similar climate to Germany.
+Q 11826 [radio] Which country has a similar diet to that of other cold countries?
+ 22810) A. Spain
+ 22811) B. Italy
+ 22812) C. Germany
+ 22813) D. The Czech Republic
+ 22814) E. Poland
+  SITE FEEDBACK: ‣ The text says, ‘Like in nearby countries, the food here is rich and filling, perfect for cold weather.’ So, Germany’s diet is similar to other cold countries.
+
+=== PAGE /writing/c1/an-advanced-essay-c1-english-writing/
+Q 12779 [radio] By comparison, social media campaigns can also be a powerful tool for shaping attitudes.
+ 24498) A. Support with reasons/examples
+ 24499) B. State the most effective option
+ 24500) C. Introduce an idea with a topic sentence
+ 24501) D. Set the context
+ 24502) E. Acknowledge strengths and limitations
+  SITE FEEDBACK: ‣ It shifts to a new idea and introduces it clearly with a comparison phrase.
+Q 12780 [radio] A recent seminar suggested several strategies for encouraging environmentally responsible behaviour.
+ 24503) A. Support with reasons/examples
+ 24504) B. State the most effective option
+ 24505) C. Introduce an idea with a topic sentence
+ 24506) D. Set the context
+ 24507) E. Acknowledge strengths and limitations
+  SITE FEEDBACK: ‣ It introduces the background and frames the text as a response to a discussion/seminar.
+Q 12781 [radio] This is particularly evident in countries where high taxes on plastic bags led to a 90% decrease in use.
+ 24508) A. Support with reasons/examples
+ 24509) B. State the most effective option
+ 24510) C. Introduce an idea with a topic sentence
+ 24511) D. Set the context
+ 24512) E. Acknowledge strengths and limitations
+  SITE FEEDBACK: ‣ It gives a concrete example to prove the point.
+Q 12782 [radio] For these reasons, education appears to be the more effective long-term strategy.
+ 24513) A. Support with reasons/examples
+ 24514) B. State the most effective option
+ 24515) C. Introduce an idea with a topic sentence
+ 24516) D. Set the context
+ 24517) E. Acknowledge strengths and limitations
+  SITE FEEDBACK: ‣ It gives a clear evaluation and decision based on earlier arguments.
+Q 12783 [radio] While financial incentives offer clear benefits, they also have certain limitations regarding budget.
+ 24518) A. Support with reasons/examples
+ 24519) B. State the most effective option
+ 24520) C. Introduce an idea with a topic sentence
+ 24521) D. Set the context
+ 24522) E. Acknowledge strengths and limitations
+  SITE FEEDBACK: ‣ It balances an advantage with a drawback using contrast language ('while… also…').
+Q 12784 [radio] Education is a powerful tool for shaping attitudes, but it often takes years before its impact becomes visible.
+ 24523) A. Support with reasons/examples
+ 24524) B. State the most effective option
+ 24525) C. Introduce an idea with a topic sentence
+ 24526) D. Set the context
+ 24527) E. Acknowledge strengths and limitations
+  SITE FEEDBACK: ‣ It highlights a strength and then a limitation ('but…').
+Q 12785 [radio] It is often argued that the most lasting change comes from classroom intervention.
+ 24528) A. Support with reasons/examples
+ 24529) B. State the most effective option
+ 24530) C. Introduce an idea with a topic sentence
+ 24531) D. Set the context
+ 24532) E. Acknowledge strengths and limitations
+  SITE FEEDBACK: ‣ It introduces a key argument and sets up the paragraph's main idea.
+Q 12786 [radio] Following a recent panel discussion on the need to adopt more sustainable lifestyles, this essay will…
+ 24533) A. Support with reasons/examples
+ 24534) B. State the most effective option
+ 24535) C. Introduce an idea with a topic sentence
+ 24536) D. Set the context
+ 24537) E. Acknowledge strengths and limitations
+  SITE FEEDBACK: ‣ It clearly signals the focus of the essay.
+Q 12787 [radio] On balance, although financial incentives can provide a useful starting point, social media appears to be more effective overall.
+ 24538) A. Support with reasons/examples
+ 24539) B. State the most effective option
+ 24540) C. Introduce an idea with a topic sentence
+ 24541) D. Set the context
+ 24542) E. Acknowledge strengths and limitations
+  SITE FEEDBACK: ‣ It makes a final judgement while acknowledging the other option ('although…').
+Q 12788 [radio] This can be seen in cities where discounted public transport has encouraged thousands of commuters to leave their cars at home.
+ 24543) A. Support with reasons/examples
+ 24544) B. State the most effective option
+ 24545) C. Introduce an idea with a topic sentence
+ 24546) D. Set the context
+ 24547) E. Acknowledge strengths and limitations
+  SITE FEEDBACK: ‣ It supports the argument with a real-world illustration.
+Q 12799 [radio] Gap 1
+ 24548) A. As a result, subsidies for eco-friendly products or significant discounts on public transport could make sustainable choices more affordable
+ 24549) B. By presenting sustainability as both normal and socially desirable, such campaigns may lead to a genuine change in values
+ 24550) C. It is often argued that one of the quickest ways to change behaviour is through economic motivation
+ 24551) D. Financial rewards may influence short-term choices, whereas digital engagement has the potential to transform mindsets
+ 24552) E. In today's world, the need to adopt more sustainable lifestyles has never been more pressing
+ 24553) F. By comparison, the influence of digital communication cannot be overlooked
+  SITE FEEDBACK: ‣ This sentence works because it introduces the topic in a general way and provides background before the essay explains what it will focus on.
+Q 12800 [radio] Gap 2
+ 24554) A. As a result, subsidies for eco-friendly products or significant discounts on public transport could make sustainable choices more affordable
+ 24555) B. By presenting sustainability as both normal and socially desirable, such campaigns may lead to a genuine change in values
+ 24556) C. It is often argued that one of the quickest ways to change behaviour is through economic motivation
+ 24557) D. Financial rewards may influence short-term choices, whereas digital engagement has the potential to transform mindsets
+ 24558) E. In today's world, the need to adopt more sustainable lifestyles has never been more pressing
+ 24559) F. By comparison, the influence of digital communication cannot be overlooked
+  SITE FEEDBACK: ‣ This sentence clearly introduces the first main idea and signals what the paragraph will discuss, using neutral and formal language.
+Q 12801 [radio] Gap 3
+ 24560) A. As a result, subsidies for eco-friendly products or significant discounts on public transport could make sustainable choices more affordable
+ 24561) B. By presenting sustainability as both normal and socially desirable, such campaigns may lead to a genuine change in values
+ 24562) C. It is often argued that one of the quickest ways to change behaviour is through economic motivation
+ 24563) D. Financial rewards may influence short-term choices, whereas digital engagement has the potential to transform mindsets
+ 24564) E. In today's world, the need to adopt more sustainable lifestyles has never been more pressing
+ 24565) F. By comparison, the influence of digital communication cannot be overlooked
+  SITE FEEDBACK: ‣ This sentence explains the consequence of the previous point and gives a concrete reason to support the argument.
+Q 12802 [radio] Gap 4
+ 24566) A. As a result, subsidies for eco-friendly products or significant discounts on public transport could make sustainable choices more affordable
+ 24567) B. By presenting sustainability as both normal and socially desirable, such campaigns may lead to a genuine change in values
+ 24568) C. It is often argued that one of the quickest ways to change behaviour is through economic motivation
+ 24569) D. Financial rewards may influence short-term choices, whereas digital engagement has the potential to transform mindsets
+ 24570) E. In today's world, the need to adopt more sustainable lifestyles has never been more pressing
+ 24571) F. By comparison, the influence of digital communication cannot be overlooked
+  SITE FEEDBACK: ‣ This sentence is effective because it signals a shift to a new idea and clearly contrasts it with what was discussed earlier.
+Q 12803 [radio] Gap 5
+ 24572) A. As a result, subsidies for eco-friendly products or significant discounts on public transport could make sustainable choices more affordable
+ 24573) B. By presenting sustainability as both normal and socially desirable, such campaigns may lead to a genuine change in values
+ 24574) C. It is often argued that one of the quickest ways to change behaviour is through economic motivation
+ 24575) D. Financial rewards may influence short-term choices, whereas digital engagement has the potential to transform mindsets
+ 24576) E. In today's world, the need to adopt more sustainable lifestyles has never been more pressing
+ 24577) F. By comparison, the influence of digital communication cannot be overlooked
+  SITE FEEDBACK: ‣ This sentence develops the argument by explaining how the measure works and why it can be effective.
+Q 12804 [radio] Gap 6
+ 24578) A. As a result, subsidies for eco-friendly products or significant discounts on public transport could make sustainable choices more affordable
+ 24579) B. By presenting sustainability as both normal and socially desirable, such campaigns may lead to a genuine change in values
+ 24580) C. It is often argued that one of the quickest ways to change behaviour is through economic motivation
+ 24581) D. Financial rewards may influence short-term choices, whereas digital engagement has the potential to transform mindsets
+ 24582) E. In today's world, the need to adopt more sustainable lifestyles has never been more pressing
+ 24583) F. By comparison, the influence of digital communication cannot be overlooked
+  SITE FEEDBACK: ‣ This sentence summarises the key comparison and reinforces the final judgement by contrasting short-term effects with long-term impact.
+
+=== PAGE /vocabulary/c1/vague-language-imprecision-c1-english-vocabulary/
+Q 12690 [radio] There were 20-______ students in each class.
+ 24366) A. in the region of
+ 24367) B. thereabouts
+ 24368) C. in excess of
+ 24369) D. odd
+  SITE FEEDBACK: ‣ Odd is used after a number to mean ‘approximately' or ‘a little more than'.
+
+=== PAGE /grammar-points/shorts/until-vs-by-grammar-shorts/
+Q 12203 [radio] Please finish the project _____ Monday.
+ 23643) A. until
+ 23644) B. by
+  SITE FEEDBACK: ‣ Monday is the deadline: the last day when you can finish the project ⇒ by.
+Q 12205 [radio] I need the payment _____ the end of this week.
+ 23647) A. until
+ 23648) B. by
+  SITE FEEDBACK: ‣ The end of this week is the latest possible time ⇒ by.
+Q 12207 [radio] You must arrive at the airport _____ 7 a.m. tomorrow.
+ 23651) A. until
+ 23652) B. by
+  SITE FEEDBACK: ‣ 7 a.m. is the latest arrival time ⇒ by.

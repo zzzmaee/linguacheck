@@ -1,0 +1,1210 @@
+{
+ "9875": {
+  "choices": [
+   17678
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because an <strong>avenue</strong> is a wide street with traffic."
+ },
+ "9876": {
+  "choices": [
+   17683
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because a <strong>square</strong> is an open area, often in front of a church."
+ },
+ "9877": {
+  "choices": [
+   17688
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because we watch a play at the <strong>theatre</strong>."
+ },
+ "9878": {
+  "choices": [
+   17693
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because a popular place visitors go to is a <strong>tourist attraction</strong>."
+ },
+ "9879": {
+  "choices": [
+   17697
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because we have a meal at a <strong>restaurant</strong>."
+ },
+ "9880": {
+  "choices": [
+   17700
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because people walk their dogs in the <strong>park</strong>."
+ },
+ "9881": {
+  "choices": [
+   17705
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because you catch a bus at a <strong>bus stop</strong>."
+ },
+ "9882": {
+  "choices": [
+   17707
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because we borrow books from a <strong>library</strong>."
+ },
+ "9883": {
+  "choices": [
+   17711
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because we watch films at the <strong>cinema</strong>."
+ },
+ "9884": {
+  "choices": [
+   17717
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because trains leave from a train <strong>station</strong>."
+ },
+ "9885": {
+  "gaps": [
+   [
+    "neighbourhood"
+   ]
+  ],
+  "feedback": "Correct answer: neighbourhood<br>‣ A <strong>neighbourhood</strong> is the area where you live."
+ },
+ "9886": {
+  "gaps": [
+   [
+    "cafe"
+   ]
+  ],
+  "feedback": "Correct answer: cafe<br>‣ We meet for coffee in a <strong>cafe</strong>."
+ },
+ "9887": {
+  "gaps": [
+   [
+    "downtown"
+   ]
+  ],
+  "feedback": "Correct answer: downtown<br>‣ <strong>Downtown</strong> is the centre where the main stores and businesses are."
+ },
+ "9888": {
+  "gaps": [
+   [
+    "school"
+   ]
+  ],
+  "feedback": "Correct answer: school<br>‣ Teachers teach in a <strong>school</strong>."
+ },
+ "9889": {
+  "gaps": [
+   [
+    "post office"
+   ]
+  ],
+  "feedback": "Correct answer: post office<br>‣ We send letters at the <strong>post office</strong>."
+ },
+ "9890": {
+  "gaps": [
+   [
+    "village"
+   ]
+  ],
+  "feedback": "Correct answer: village<br>‣ A <strong>village</strong> is a small place in the countryside."
+ },
+ "9891": {
+  "gaps": [
+   [
+    "hospital"
+   ]
+  ],
+  "feedback": "Correct answer: hospital<br>‣ Doctors work at a <strong>hospital</strong>."
+ },
+ "9892": {
+  "gaps": [
+   [
+    "hotel"
+   ]
+  ],
+  "feedback": "Correct answer: hotel<br>‣ We stay in a <strong>hotel</strong> on holiday."
+ },
+ "9893": {
+  "gaps": [
+   [
+    "bank"
+   ]
+  ],
+  "feedback": "Correct answer: bank<br>‣ We get money from a <strong>bank</strong>."
+ },
+ "9894": {
+  "gaps": [
+   [
+    "cinema"
+   ]
+  ],
+  "feedback": "Correct answer: cinema<br>‣ We watch films at the <strong>cinema</strong>."
+ },
+ "9895": {
+  "gaps": [
+   [
+    "town"
+   ]
+  ],
+  "feedback": "Correct answer: town<br>‣ A place with about 6,000 people is a small <strong>town</strong>."
+ },
+ "9896": {
+  "gaps": [
+   [
+    "theatre"
+   ]
+  ],
+  "feedback": "Correct answer: theatre<br>‣ We see plays at the <strong>theatre</strong>."
+ },
+ "9897": {
+  "gaps": [
+   [
+    "park"
+   ]
+  ],
+  "feedback": "Correct answer: park<br>‣ A <strong>park</strong> has trees and grass."
+ },
+ "9898": {
+  "gaps": [
+   [
+    "airport"
+   ]
+  ],
+  "feedback": "Correct answer: airport<br>‣ Planes fly over houses near an <strong>airport</strong>."
+ },
+ "9899": {
+  "gaps": [
+   [
+    "street"
+   ]
+  ],
+  "feedback": "Correct answer: street<br>‣ Houses are on a <strong>street</strong>."
+ },
+ "9900": {
+  "gaps": [
+   [
+    "hospital"
+   ]
+  ],
+  "feedback": "Correct answer: hospital<br>‣ Nurses work at a <strong>hospital</strong>."
+ },
+ "9901": {
+  "gaps": [
+   [
+    "museum"
+   ]
+  ],
+  "feedback": "Correct answer: museum<br>‣ Old rocks and bones are shown in a <strong>museum</strong>."
+ },
+ "9902": {
+  "gaps": [
+   [
+    "city centre",
+    "city center"
+   ]
+  ],
+  "feedback": "Correct answer: city centre<br>‣ Shops and restaurants are in the <strong>city centre</strong>."
+ },
+ "9903": {
+  "gaps": [
+   [
+    "tourist attraction"
+   ]
+  ],
+  "feedback": "Correct answer: tourist attraction<br>‣ Sagrada Familia is a famous <strong>tourist attraction</strong>."
+ },
+ "9904": {
+  "gaps": [
+   [
+    "bank"
+   ]
+  ],
+  "feedback": "Correct answer: bank<br>‣ We put money in an account at a <strong>bank</strong>."
+ },
+ "10071": {
+  "gaps": [
+   [
+    "on the verge"
+   ],
+   [
+    "so"
+   ],
+   [
+    "may have found"
+   ],
+   [
+    "would rather"
+   ],
+   [
+    "far"
+   ],
+   [
+    "being made"
+   ],
+   [
+    "What’s more"
+   ],
+   [
+    "whose"
+   ],
+   [
+    "may be"
+   ],
+   [
+    "would have loved"
+   ],
+   [
+    "low-paid"
+   ],
+   [
+    "could they"
+   ],
+   [
+    "having to"
+   ],
+   [
+    "be done"
+   ],
+   [
+    "otherwise"
+   ]
+  ],
+  "feedback": "Correct answers: 1. on the verge, 2. so, 3. may have found, 4. would rather, 5. far, 6. being made, 7. What’s more, 8. whose, 9. may be, 10. would have loved, 11. low-paid, 12. could they, 13. having to, 14. be done, 15. otherwise<br>‣ Key points: 'on the verge of + -ing', 'would rather + infinitive', 'far more', passive 'being made redundant', inversion after 'Not until', 'resent + -ing', 'otherwise' = if not."
+ },
+ "10139": {
+  "choices": [
+   18417
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because she usually works during the week (Monday to Friday) and has weekends off."
+ },
+ "10140": {
+  "choices": [
+   18419
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because at 4.30 she has cereal with milk and a coffee – her breakfast."
+ },
+ "10141": {
+  "choices": [
+   18422
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because the text says 'They talk about the weather'."
+ },
+ "10142": {
+  "choices": [
+   18425
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because she tells them how long the flight is, how fast and how high they fly, but nothing about the destination."
+ },
+ "10143": {
+  "choices": [
+   18427
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because when they land, Carole says goodbye to the passengers."
+ },
+ "10144": {
+  "choices": [
+   18432
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because she does yoga when she gets home and then cooks some food."
+ },
+ "10145": {
+  "choices": [
+   18435
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because she sometimes reads a book for one hour (60 minutes)."
+ },
+ "10146": {
+  "choices": [
+   18437
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because the text says the clothes are good quality and not expensive."
+ },
+ "10147": {
+  "choices": [
+   18438
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because the shop opens at 9 am every day and closes at 3 pm on Sundays."
+ },
+ "10148": {
+  "choices": [
+   18441
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because Maria is going to the pet shop 'this afternoon'; the shop is next to the school."
+ },
+ "10149": {
+  "choices": [
+   18442
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because the grocery store is very close to the pet shop, which is next to the school."
+ },
+ "10150": {
+  "choices": [
+   18445
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because the toy shop is at the end of town."
+ },
+ "10151": {
+  "choices": [
+   18447
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because they are going to the bakery tomorrow, after the toy shop."
+ },
+ "10152": {
+  "choices": [
+   18449
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because she is going to buy a present at the toy shop; the cakes are not for the birthday."
+ },
+ "10153": {
+  "choices": [
+   18450
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because Maria is busy in the morning but free on Tuesday afternoon."
+ },
+ "10164": {
+  "gaps": [
+   [
+    "on"
+   ]
+  ],
+  "feedback": "Correct answer: on<br>‣ <strong>On the corner of</strong> two streets."
+ },
+ "10165": {
+  "gaps": [
+   [
+    "at"
+   ]
+  ],
+  "feedback": "Correct answer: at<br>‣ We <strong>turn left at</strong> the traffic lights."
+ },
+ "10166": {
+  "gaps": [
+   [
+    "end"
+   ]
+  ],
+  "feedback": "Correct answer: end<br>‣ <strong>The end of the street</strong>."
+ },
+ "10167": {
+  "gaps": [
+   [
+    "take"
+   ]
+  ],
+  "feedback": "Correct answer: take<br>‣ <strong>Take the second left</strong>."
+ },
+ "10168": {
+  "gaps": [
+   [
+    "across"
+   ]
+  ],
+  "feedback": "Correct answer: across<br>‣ <strong>Across the street from</strong> = on the opposite side."
+ },
+ "10169": {
+  "gaps": [
+   [
+    "next to"
+   ]
+  ],
+  "feedback": "Correct answer: next to<br>‣ <strong>Next to</strong> = beside."
+ },
+ "10170": {
+  "gaps": [
+   [
+    "along",
+    "down"
+   ]
+  ],
+  "feedback": "Correct answer: along<br>‣ <strong>Go straight along</strong> a street."
+ },
+ "10171": {
+  "gaps": [
+   [
+    "Turn"
+   ]
+  ],
+  "feedback": "Correct answer: Turn<br>‣ <strong>Turn left</strong> at the intersection."
+ },
+ "10172": {
+  "gaps": [
+   [
+    "blocks"
+   ]
+  ],
+  "feedback": "Correct answer: blocks<br>‣ <strong>Blocks</strong> are sections of a street between intersections."
+ },
+ "10173": {
+  "gaps": [
+   [
+    "down",
+    "along"
+   ]
+  ],
+  "feedback": "Correct answer: down<br>‣ <strong>Walk down</strong> a street."
+ },
+ "10174": {
+  "choices": [
+   18453
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because we say <strong>on the corner</strong> of two streets."
+ },
+ "10175": {
+  "choices": [
+   18458
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because we <strong>turn left</strong> or right."
+ },
+ "10176": {
+  "choices": [
+   18460
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>between</strong> two places: between the park and the cinema."
+ },
+ "10177": {
+  "choices": [
+   18467
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because we go <strong>through</strong> a tunnel."
+ },
+ "10178": {
+  "choices": [
+   18470
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because <strong>Stay on</strong> a street means continue along it."
+ },
+ "10179": {
+  "choices": [
+   18475
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because we walk <strong>across</strong> a bridge."
+ },
+ "10180": {
+  "choices": [
+   18476
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>go straight ahead</strong> is a fixed phrase."
+ },
+ "10181": {
+  "choices": [
+   18482
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because <strong>next to</strong> means beside the park."
+ },
+ "10182": {
+  "choices": [
+   18485
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because you <strong>walk past</strong> places you pass on your way."
+ },
+ "10183": {
+  "choices": [
+   18488
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>go straight along</strong> a road."
+ },
+ "10184": {
+  "gaps": [
+   [
+    "straight"
+   ],
+   [
+    "through"
+   ],
+   [
+    "turn"
+   ],
+   [
+    "take"
+   ],
+   [
+    "stay"
+   ],
+   [
+    "across"
+   ],
+   [
+    "left"
+   ],
+   [
+    "past"
+   ],
+   [
+    "opposite"
+   ],
+   [
+    "between"
+   ]
+  ],
+  "feedback": "Correct answers: 1. straight, 2. through, 3. turn, 4. take, 5. stay, 6. across, 7. left, 8. past, 9. opposite, 10. between<br>‣ Key phrases: 'go straight along', 'go through the tunnel', 'take the first right', 'stay on this street', 'go across the bridge', 'opposite the hotel', 'between the pharmacy and the bakery'."
+ },
+ "10207": {
+  "choices": [
+   18580
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because with fewer than 17,000 left, the white rhino is at risk but still alive, so it is an <strong>endangered species</strong>."
+ },
+ "10208": {
+  "choices": [
+   18586
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because dolphins produce milk, so they are <strong>mammals</strong>."
+ },
+ "10209": {
+  "choices": [
+   18587
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>animal trafficking</strong> (illegal trade in animals) puts species at risk of extinction."
+ },
+ "10210": {
+  "choices": [
+   18593
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because <strong>prey</strong> are animals that are hunted and killed by others."
+ },
+ "10211": {
+  "choices": [
+   18597
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because lizards are <strong>reptiles</strong>."
+ },
+ "10212": {
+  "choices": [
+   18600
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>pests</strong> are insects or animals that damage crops."
+ },
+ "10213": {
+  "choices": [
+   18603
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because rats are <strong>rodents</strong>."
+ },
+ "10214": {
+  "choices": [
+   18610
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because <strong>in captivity</strong> means kept in cages or enclosures, not free."
+ },
+ "10215": {
+  "choices": [
+   18613
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because <strong>overhunting</strong> means hunting too much, which reduces a population."
+ },
+ "10216": {
+  "choices": [
+   18616
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because a <strong>guinea pig</strong> is a small pet kept in a cage."
+ },
+ "10217": {
+  "gaps": [
+   [
+    "tame"
+   ]
+  ],
+  "feedback": "Correct answer: tame<br>‣ To <strong>tame</strong> an animal is to make it calm and used to people."
+ },
+ "10218": {
+  "gaps": [
+   [
+    "wild"
+   ]
+  ],
+  "feedback": "Correct answer: wild<br>‣ <strong>The wild</strong> is the natural environment of animals."
+ },
+ "10219": {
+  "gaps": [
+   [
+    "poaching"
+   ]
+  ],
+  "feedback": "Correct answer: poaching<br>‣ <strong>Poaching</strong> is illegal hunting of animals."
+ },
+ "10220": {
+  "gaps": [
+   [
+    "scavengers"
+   ]
+  ],
+  "feedback": "Correct answer: scavengers<br>‣ <strong>Scavengers</strong> feed on dead animals."
+ },
+ "10221": {
+  "gaps": [
+   [
+    "sanctuary"
+   ]
+  ],
+  "feedback": "Correct answer: sanctuary<br>‣ A <strong>sanctuary</strong> is a place where animals are protected and cared for."
+ },
+ "10222": {
+  "gaps": [
+   [
+    "kennels"
+   ]
+  ],
+  "feedback": "Correct answer: kennels<br>‣ <strong>Kennels</strong> is a place where pets are looked after while owners are away."
+ },
+ "10223": {
+  "gaps": [
+   [
+    "shrinking"
+   ]
+  ],
+  "feedback": "Correct answer: shrinking<br>‣ A <strong>shrinking</strong> habitat is getting smaller."
+ },
+ "10224": {
+  "gaps": [
+   [
+    "extinct species"
+   ]
+  ],
+  "feedback": "Correct answer: extinct species<br>‣ Passenger pigeons died out, so they are an <strong>extinct species</strong>."
+ },
+ "10225": {
+  "gaps": [
+   [
+    "overfishing"
+   ]
+  ],
+  "feedback": "Correct answer: overfishing<br>‣ <strong>Overfishing</strong> means catching too many fish."
+ },
+ "10226": {
+  "gaps": [
+   [
+    "breeds"
+   ]
+  ],
+  "feedback": "Correct answer: breeds<br>‣ To <strong>breed</strong> animals is to keep them to produce young."
+ },
+ "10227": {
+  "gaps": [
+   [
+    "putting down"
+   ],
+   [
+    "shelter"
+   ],
+   [
+    "reserve"
+   ],
+   [
+    "endangered"
+   ],
+   [
+    "nest"
+   ],
+   [
+    "predators"
+   ],
+   [
+    "testing"
+   ],
+   [
+    "fur trade"
+   ],
+   [
+    "animal welfare"
+   ],
+   [
+    "cruelty-free"
+   ]
+  ],
+  "feedback": "Correct answers: 1. putting down, 2. shelter, 3. reserve, 4. endangered, 5. nest, 6. predators, 7. testing, 8. fur trade, 9. animal welfare, 10. cruelty-free<br>‣ Key collocations: 'putting down animals', 'animal shelter', 'nature reserve', 'endangered species', 'animal testing', 'the fur trade', 'cruelty-free cosmetics'."
+ },
+ "10228": {
+  "choices": [
+   18620
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because someone who 'does very little' lacks <strong>motivation</strong>, the desire to do things."
+ },
+ "10229": {
+  "choices": [
+   18623
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because we <strong>overcome</strong> an addiction or problem, meaning we succeed in dealing with it."
+ },
+ "10230": {
+  "choices": [
+   18630
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because <strong>push yourself</strong> means to make yourself work harder."
+ },
+ "10231": {
+  "choices": [
+   18632
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>hurdles</strong> are obstacles or difficulties that slow you down."
+ },
+ "10232": {
+  "choices": [
+   18637
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because a <strong>burning ambition</strong> is a very strong wish to achieve something."
+ },
+ "10233": {
+  "choices": [
+   18642
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because you <strong>face</strong> your problems when you deal with them directly."
+ },
+ "10234": {
+  "choices": [
+   18643
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because we <strong>achieve</strong> things through effort; 'everything she has achieved' is the natural collocation."
+ },
+ "10235": {
+  "choices": [
+   18650
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because <strong>believe in yourself</strong> means to have confidence in your own abilities."
+ },
+ "10236": {
+  "choices": [
+   18653
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because <strong>deal with</strong> problems means to handle or solve them."
+ },
+ "10237": {
+  "choices": [
+   18657
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because a <strong>breakthrough</strong> is an important discovery or development."
+ },
+ "10238": {
+  "gaps": [
+   [
+    "succeeded"
+   ]
+  ],
+  "feedback": "Correct answer: succeeded<br>‣ We say <strong>succeed in</strong> + -ing."
+ },
+ "10239": {
+  "gaps": [
+   [
+    "stepping stone"
+   ]
+  ],
+  "feedback": "Correct answer: stepping stone<br>‣ A <strong>stepping stone</strong> is a stage that helps you progress towards a goal."
+ },
+ "10240": {
+  "gaps": [
+   [
+    "determination"
+   ]
+  ],
+  "feedback": "Correct answer: determination<br>‣ <strong>Determination</strong> is the quality of continuing to try to achieve something."
+ },
+ "10241": {
+  "gaps": [
+   [
+    "exceeded"
+   ]
+  ],
+  "feedback": "Correct answer: exceeded<br>‣ We say <strong>exceed expectations</strong>: do better than expected."
+ },
+ "10242": {
+  "gaps": [
+   [
+    "fulfil"
+   ]
+  ],
+  "feedback": "Correct answer: fulfil<br>‣ We <strong>fulfil</strong> a dream or ambition."
+ },
+ "10243": {
+  "gaps": [
+   [
+    "setback"
+   ]
+  ],
+  "feedback": "Correct answer: setback<br>‣ A <strong>setback</strong> is a problem that delays progress."
+ },
+ "10244": {
+  "gaps": [
+   [
+    "accomplishment"
+   ]
+  ],
+  "feedback": "Correct answer: accomplishment<br>‣ An <strong>accomplishment</strong> is something impressive that someone has achieved."
+ },
+ "10245": {
+  "gaps": [
+   [
+    "resilience"
+   ]
+  ],
+  "feedback": "Correct answer: resilience<br>‣ <strong>Resilience</strong> is the ability to recover quickly from difficulties."
+ },
+ "10246": {
+  "gaps": [
+   [
+    "attempted"
+   ]
+  ],
+  "feedback": "Correct answer: attempted<br>‣ <strong>Attempt to</strong> do something means to try to do it."
+ },
+ "10247": {
+  "gaps": [
+   [
+    "persevered"
+   ]
+  ],
+  "feedback": "Correct answer: persevered<br>‣ <strong>Persevere</strong> means to keep trying despite difficulties."
+ },
+ "10248": {
+  "gaps": [
+   [
+    "lifelong ambition"
+   ],
+   [
+    "motivation"
+   ],
+   [
+    "pursue"
+   ],
+   [
+    "believe in"
+   ],
+   [
+    "pushing myself"
+   ],
+   [
+    "setback"
+   ],
+   [
+    "attempted"
+   ],
+   [
+    "persevered"
+   ],
+   [
+    "exceeded expectations"
+   ],
+   [
+    "hurdles"
+   ]
+  ],
+  "feedback": "Correct answers: 1. lifelong ambition, 2. motivation, 3. pursue, 4. believe in, 5. pushing myself, 6. setback, 7. attempted, 8. persevered, 9. exceeded expectations, 10. hurdles<br>‣ Key collocations: 'pursue a dream', 'believe in myself', 'kept pushing myself', 'a major setback', 'the hurdles I had overcome'."
+ },
+ "10249": {
+  "gaps": [
+   [
+    "still"
+   ],
+   [
+    "had been"
+   ],
+   [
+    "the more"
+   ],
+   [
+    "being watched"
+   ],
+   [
+    "whoever"
+   ],
+   [
+    "hadn't spent"
+   ],
+   [
+    "such a"
+   ],
+   [
+    "to find"
+   ],
+   [
+    "cotton"
+   ],
+   [
+    "him to stop"
+   ],
+   [
+    "skipped"
+   ],
+   [
+    "for"
+   ],
+   [
+    "who you are"
+   ],
+   [
+    "both"
+   ],
+   [
+    "could have approached"
+   ]
+  ],
+  "feedback": "Correct answers: 1. still, 2. had been, 3. the more, 4. being watched, 5. whoever, 6. hadn't spent, 7. such a, 8. to find, 9. cotton, 10. him to stop, 11. skipped, 12. for, 13. who you are, 14. both, 15. could have approached<br>‣ Key points: 'the more… the more', passive gerund 'being watched', 'wish + past perfect', 'such a + adj + noun', 'warn someone to do', indirect question word order, 'could have' for criticism."
+ },
+ "10259": {
+  "choices": [
+   18698
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>tell</strong> needs a personal object: told me."
+ },
+ "10260": {
+  "choices": [
+   18699
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because there is no personal object, so we use <strong>said</strong>."
+ },
+ "10261": {
+  "choices": [
+   18702
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because we say <strong>tell me</strong> (tell + person)."
+ },
+ "10262": {
+  "choices": [
+   18703
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because no personal object follows, so we use <strong>said</strong>."
+ },
+ "10263": {
+  "choices": [
+   18706
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>tell you about</strong> something: tell + person."
+ },
+ "10264": {
+  "choices": [
+   18708
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because we say <strong>tell the truth</strong>."
+ },
+ "10265": {
+  "choices": [
+   18709
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because we <strong>say something</strong> to someone."
+ },
+ "10266": {
+  "choices": [
+   18712
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>tell someone to do</strong> something."
+ },
+ "10267": {
+  "choices": [
+   18714
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>tell someone to do</strong> something: told the class to be quiet."
+ },
+ "10268": {
+  "choices": [
+   18715
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because we say <strong>said to us</strong>; tell is never followed by 'to' + person."
+ },
+ "10269": {
+  "choices": [
+   18717
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because we need the short form of <strong>it is</strong>: It is nearly lunchtime."
+ },
+ "10270": {
+  "choices": [
+   18719
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>it's got</strong> = it has got."
+ },
+ "10271": {
+  "choices": [
+   18722
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>its</strong> is the possessive: the dog's owner."
+ },
+ "10272": {
+  "choices": [
+   18723
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>It's</strong> = It is too cold."
+ },
+ "10273": {
+  "choices": [
+   18726
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>its</strong> food = the cat's food (possessive)."
+ },
+ "10274": {
+  "choices": [
+   18728
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>its</strong> coffee = Colombia's coffee (possessive)."
+ },
+ "10275": {
+  "choices": [
+   18729
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>It's</strong> = It is going to rain."
+ },
+ "10276": {
+  "choices": [
+   18731
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>It's</strong> = It is important."
+ },
+ "10277": {
+  "choices": [
+   18734
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>its own</strong> is the possessive form."
+ },
+ "10278": {
+  "choices": [
+   18736
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>its</strong> food and culture = Italy's (possessive)."
+ },
+ "10309": {
+  "choices": [
+   18826
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because we use <strong>never</strong> with a positive imperative to give advice or a command."
+ },
+ "10310": {
+  "choices": [
+   18828
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>never</strong> goes with a positive present simple verb to mean 'zero times'."
+ },
+ "10311": {
+  "choices": [
+   18830
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>never</strong> + positive present perfect + before describes a first-time experience."
+ },
+ "10312": {
+  "choices": [
+   18832
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because the verb is positive (They've), so we need the negative word <strong>never</strong>."
+ },
+ "10313": {
+  "choices": [
+   18835
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because with a negative imperative (Don't) we use <strong>ever</strong>."
+ },
+ "10314": {
+  "choices": [
+   18837
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because we use <strong>ever</strong> in present simple questions."
+ },
+ "10315": {
+  "choices": [
+   18839
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because the verb is already negative (hasn't), so we use <strong>ever</strong>, not never."
+ },
+ "10316": {
+  "choices": [
+   18841
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because we use <strong>ever</strong> in present perfect questions to mean 'at any time'."
+ },
+ "10317": {
+  "choices": [
+   18843
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because we use <strong>ever</strong> after a superlative with the present perfect."
+ },
+ "10318": {
+  "choices": [
+   18845
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because we use <strong>ever</strong> with 'the first time' and the present perfect."
+ },
+ "10327": {
+  "choices": [
+   18871
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because Yuki says it often rains, but she doesn't mind because she loves the green parks."
+ },
+ "10328": {
+  "choices": [
+   18872
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because Yuki enjoys learning about British traditions."
+ },
+ "10329": {
+  "choices": [
+   18874
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because Carlos says pubs are nice places to go with friends."
+ },
+ "10330": {
+  "choices": [
+   18877
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because Carlos only says it is interesting that British people drink tea many times a day."
+ },
+ "10331": {
+  "choices": [
+   18878
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because Anna says people say 'please' and 'thank you' all the time, which is very polite."
+ },
+ "10332": {
+  "choices": [
+   18880
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because Anna says 'I'm not a fan of the food here'."
+ },
+ "10333": {
+  "choices": [
+   18883
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because Ahmed says the houses are nice and warm."
+ },
+ "10334": {
+  "choices": [
+   18885
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because Ahmed says British people are always on time."
+ },
+ "10390": {
+  "choices": [
+   19039
+  ],
+  "feedback": "‣ <strong>F</strong> is correct because after saying he is good at finding supernovas, the text adds his modest joke that he is just a hobbyist, not a real astronomer."
+ },
+ "10391": {
+  "choices": [
+   19044
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because 'That moment' refers to seeing another amateur discover a comet in 1963, which inspired him to take stargazing more seriously."
+ },
+ "10392": {
+  "choices": [
+   19057
+  ],
+  "feedback": "‣ <strong>H</strong> is correct because it introduces amateurs discovering asteroids and comets in the past, which leads to 'They even found galaxies and nebulas'."
+ },
+ "10393": {
+  "choices": [
+   19058
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because building observatories away from city lights explains 'This way, he could keep an eye on the sky every night'."
+ },
+ "10394": {
+  "choices": [
+   19069
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because it describes the telescopes' nightly routine, and the next sentence continues: 'They take two quick 15-second pictures'."
+ },
+ "10395": {
+  "choices": [
+   19080
+  ],
+  "feedback": "‣ <strong>G</strong> is correct because because clouds cover Japan, he goes home and leaves the telescopes working automatically, so he checks the pictures the next morning."
+ },
+ "10396": {
+  "choices": [
+   19083
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because it contrasts with 'someone must have already seen it': surprisingly, Itagaki was the first to report it."
+ }
+}

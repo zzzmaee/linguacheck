@@ -1,0 +1,1403 @@
+
+=== PAGE /grammar-points/a1/adverbs-manner/
+Q 4274 [gaps] Peter is a {1} driver. He drives very {2} .
+  {1} options: careful | carefully
+  {2} options: careful | carefully
+  SITE FEEDBACK: Correct answer: careful/carefully /  ‣ We use adjectives before the noun (careful driver), and we use adverbs after the verb (drives carefully).
+Q 4275 [gaps] Turtles walk {1} because they are {2} animals.
+  {1} options: slow | slowly
+  {2} options: slowly | slow
+  SITE FEEDBACK: Correct answer: slowly/slow /  ‣ We use adverbs after the verb (walk slowly) and we use adjectives before the noun (slow animals).
+Q 4276 [gaps] A {1} person usually speaks {2} .
+  {1} options: cautiously | cautious
+  {2} options: cautious | cautiously
+  SITE FEEDBACK: Correct answer: cautious/cautiously /  ‣ We use adjectives before the noun (cautious person), and we use adverbs after the verb (speaks cautiously).
+Q 4277 [gaps] They are {1} ; they are speaking {2} .
+  {1} options: quietly | quiet
+  {2} options: quiet | quietly
+  SITE FEEDBACK: Correct answer: quiet/quietly /  ‣ We use adjectives after the verb be (are quiet), and we use adverbs after the verb (speaking quietly).
+Q 4278 [gaps] Gordon plays very {1} . He is a {2} player.
+  {1} options: good | well
+  {2} options: well | good
+  SITE FEEDBACK: Correct answer: well/good /  ‣ We use adverbs after the verb (plays very well) and we use adjectives before the noun (good player).
+Q 4279 [gaps] He did a {1} exam. He passed the exam {2} .
+  {1} options: brilliant | brilliantly
+  {2} options: brilliantly | brilliant
+  SITE FEEDBACK: Correct answer: brilliant/brilliantly /  ‣ We use adjectives before the noun (brilliant exam), and we use adverbs after the verb or verb + object (passed the exam brilliantly)
+Q 4280 [gaps] We had {1} snow yesterday. It snowed {2} .
+  {1} options: heavily | heavy
+  {2} options: heavy | heavily
+  SITE FEEDBACK: Correct answer: heavy/heavily /  ‣ We use adjectives before the noun (heavy snow), and we use adverbs after the verb (snowed heavily).
+Q 4281 [gaps] He looked at me {1} . He has a very {2} look.
+  {1} options: angry | angrily
+  {2} options: angry | angrily
+  SITE FEEDBACK: Correct answer: angrily/angry /  ‣ We use adverbs after the verb or verb + object (looked at me angrily) and we use adjectives before the noun (angry look).
+Q 4282 [gaps] We slept {1} in our {2} bed.
+  {1} options: comfortably | comfortable
+  {2} options: comfortably | comfortable
+  SITE FEEDBACK: Correct answer: comfortably/comfortable /  ‣ We use adverbs after the verb (slept comfortably) and we use adjectives before the noun (comfortable bed).
+Q 4283 [gaps] He plays {1} because he is a {2} player.
+  {1} options: bad | badly
+  {2} options: badly | bad
+  SITE FEEDBACK: Correct answer: badly/bad /  ‣ We use adverbs after the verb (plays badly) and we use adjectives before the noun (bad player).
+Q 4284 [radio] He normally drives very _____.
+ 6132) A. slow
+ 6133) B. fastly
+ 6134) C. fast
+  SITE FEEDBACK: ‣ We need an adverb because it goes after the verb (drives). /  ‣ Slow is an adjective (slowly is the adverb), and *fastly does not exist. Fast can be an adjective or an adverb. /  ‣ There are some adverbs that have the same form as the adjectives: fast, hard, early, late, right, wrong.
+Q 4285 [radio] I passed _____.
+ 6135) A. easily the test
+ 6136) B. the test easily
+ 6137) C. easy the test
+  SITE FEEDBACK: ‣ We use adverbs of manner after the verb but if there is an object, the adverb goes after verb + object (passed the test).
+Q 4286 [radio] The people in this company work very _____.
+ 6138) A. hard
+ 6139) B. hardly
+ 6140) C. good
+  SITE FEEDBACK: ‣ We need an adverb of manner because it goes after the verb (work). /  ‣ Good is an adjective (well is the adverb), and *hardly is NOT an adverb of manner. Hard can be an adjective or an adverb. /  ‣ There are some adverbs that have the same form as the adjectives: fast, hard, early, late, right, wrong.
+Q 4287 [radio] She is a _____ teacher.
+ 6141) A. well
+ 6142) B. good
+ 6143) C. goodly
+  SITE FEEDBACK: ‣ We use adjectives before the noun (good teacher). /  ‣ Good is an adjective and well is an adverb, but the word *goodly does not exist.
+Q 4288 [radio] She teaches English very _____.
+ 6144) A. good
+ 6145) B. goodly
+ 6146) C. well
+  SITE FEEDBACK: ‣ We use adverbs after the verb or verb + object (teaches English). /  ‣ Good is an adjective and well is an adverb, but the word *goodly does not exist.
+Q 4290 [radio] You answered _____.
+ 6150) A. correctly the question
+ 6151) B. the question correctly
+ 6152) C. the question correct
+  SITE FEEDBACK: ‣ We use adverbs of manner after the verb but if there is an object, the adverb goes after verb + object (answered the question). /  ‣ We need an adverb, and for this reason, we cannot use correct here. Correct is an adjective.
+Q 4289 [radio] The article describes the situation very _____.
+ 6147) A. simple
+ 6148) B. simplely
+ 6149) C. simply
+  SITE FEEDBACK: ‣ We need an adverb because it goes after verb + object (describes the situation) /  ‣ Adjectives ending in -le change -e to -y to become adverbs. (simple > simply). *Simplily does not exist.
+Q 4292 [radio] They live _____ in Munich.
+ 6156) A. happy
+ 6157) B. happyly
+ 6158) C. happily
+  SITE FEEDBACK: ‣ We need an adverb because it goes after the verb (live). /  ‣ Adjectives ending in -y change -y to -i and add -ly to become adverbs. (happy > happily). *Happyly is incorrect.
+Q 4291 [radio] After the break, we _____.
+ 6153) A. finished the job easily
+ 6154) B. easily finished the job
+ 6155) C. finished the job easy
+  SITE FEEDBACK: ‣ We use adverbs of manner after the verb but if there is an object, the adverb goes after verb + object (finished the job). /  ‣ We need an adverb, and for this reason, we cannot use easy here. Easy is an adjective.
+Q 4293 [radio] He didn't speak _____ English.
+ 6159) A. clearly
+ 6160) B. clear
+ 6161) C. well
+  SITE FEEDBACK: ‣ In this sentence we use adjective + noun (clear English). /  ‣ We use adverbs of manner after the verb but if there is an object, the adverb goes after verb + object. /  ‣ We can also say verb + object + adverb: He didn't speak English clearly/well. (NOT He didn't speak clearly/well English).
+
+=== PAGE /grammar-points/a1/superlative-adjectives/
+Q 4236 [radio] _____ the world lives in Indonesia.
+ 6105) A. The oldest man of
+ 6106) B. The oldest man in
+ 6107) C. The most old man of
+  SITE FEEDBACK: ‣ After the superlative we use in before names of places or before singular words referring to groups of people (class, school, team, family, etc.)
+Q 4237 [radio] David is very good at playing football, but Jason is _____.
+ 6108) A. best
+ 6109) B. the best
+ 6110) C. better
+  SITE FEEDBACK: ‣ We use the superlative to compare three or more things or people. If we compare two things, we have to use a comparative adjective.
+Q 4238 [radio] It was _____ day of my life.
+ 6111) A. the most happy
+ 6112) B. the most happiest
+ 6113) C. the happiest
+  SITE FEEDBACK: ‣ We don't use most when we use -est.
+Q 4239 [radio] What is _____ phone on the market?
+ 6114) A. the thinnest
+ 6115) B. thinnest
+ 6116) C. the most thin
+  SITE FEEDBACK: ‣ When an adjective is one syllable ending in consonant-vowel-consonant > double the last consonant and add -est at the end of the adjective. /  ‣ Before the superlative we always use the or a possessive adjective (my, your, his, etc.) or noun + possessive ‘s (Paul’s, Elisabeth’s, etc.)
+Q 4240 [radio] Last summer was _____ season ever recorded.
+ 6117) A. the dryest
+ 6118) B. the most dry
+ 6119) C. the driest
+  SITE FEEDBACK: ‣ When an adjective is one or two syllables ending in -y > delete -y and add -iest.
+Q 4241 [radio] I'm 10 years _____ than my wife.
+ 6120) A. oldest
+ 6121) B. the oldest
+ 6122) C. older
+  SITE FEEDBACK: ‣ We use a comparative adjective (more or –er) before than.
+Q 4242 [radio] He is _____ person in my life.
+ 6123) A. the most important
+ 6124) B. the more important
+ 6125) C. the importantest
+  SITE FEEDBACK: ‣ In this sentence, we are comparing more than two things, and we use the superlative (not the comparative) when we compare three or more things. /  ‣ When an adjective is two or more syllables > add most before the adjective.
+Q 4243 [radio] Our graduates earn _____ salaries in every U.S. state.
+ 6126) A. the higher
+ 6127) B. the highest
+ 6128) C. the most high
+  SITE FEEDBACK: ‣ In this sentence, we are comparing more than two things, and we use the superlative (not the comparative) when we compare three or more things. /  ‣ When an adjective is one syllable > add -est at the end of the adjective.
+Q 4244 [radio] That was _____ moment of my life.
+ 6129) A. the sadest
+ 6130) B. the saddest
+ 6131) C. the most sad
+  SITE FEEDBACK: ‣ When an adjective is one syllable ending in consonant-vowel-consonant > double the last consonant and add -est at the end of the adjective.
+
+=== PAGE /grammar-points/a1/comparative-adjectives/
+Q 4203 [radio] My brother is older than _____.
+ 6072) A. me
+ 6073) B. mine
+ 6074) C. my
+  SITE FEEDBACK: ‣ If we use a personal pronoun after than we need an object pronoun (me, you, him, etc.).
+Q 4204 [radio] We are better _____.
+ 6075) A. than them
+ 6076) B. than their
+ 6077) C. that them
+  SITE FEEDBACK: ‣ After a comparative adjective, we use than (NOT that) /  ‣ If we use a personal pronoun after than we need an object pronoun (me, you, him, etc.).
+Q 4205 [radio] Travelling by bus is _____ travelling by car.
+ 6078) A. comfortabler than
+ 6079) B. more comfortable that
+ 6080) C. more comfortable than
+  SITE FEEDBACK: ‣ After a comparative adjective, we use than (NOT that) /  ‣ When an adjective is two or more syllables > add more before the adjective.
+Q 4207 [radio] The last test was more difficult than this test. This test is _____.
+ 6084) A. less difficult
+ 6085) B. dificultless
+ 6086) C. less difficult than
+  SITE FEEDBACK: ‣ When we compare two things, we can also use the form less + adjective + than. Less is the opposite of more. /  ‣ We use than + the second thing that we are comparing. If we don't mention the second thing, we don't use than.
+Q 4206 [radio] This exam was _____ the last one.
+ 6081) A. more easy
+ 6082) B. easier than
+ 6083) C. more easier than
+  SITE FEEDBACK: ‣ When an adjective is one or two syllables ending in -y > delete -y and add -ier. /  ‣ We don't use more when we use -er
+Q 4208 [radio] Robert is _____ than his opponent.
+ 6087) A. very stronger
+ 6088) B. much strong
+ 6089) C. much stronger
+  SITE FEEDBACK: ‣ Before the comparative (more or –er) we can use much (=big difference) or a bit (=small difference).
+Q 4209 [radio] Kevin is funny, but George is ____.
+ 6090) A. more funny than
+ 6091) B. funnier
+ 6092) C. funnier than
+  SITE FEEDBACK: ‣ We use than + the second thing that we are comparing. If we don't mention the second thing, we don't use than. /  ‣ When an adjective is one or two syllables ending in -y > delete -y and add -ier.
+Q 4212 [radio] Everybody hates him. He really thinks that women are _____ men.
+ 6099) A. intelligentless than
+ 6100) B. less intelligent that
+ 6101) C. less intelligent than
+  SITE FEEDBACK: ‣ After a comparative adjective, we use than (NOT that). /  ‣ When we compare two things, we can also use the form less + adjective + than. Less is the opposite of more.
+
+=== PAGE /grammar-points/a1/much-many-lot-little-few/
+Q 4173 [radio] 'How much water do you drink?' '_____.'
+ 6042) A. Much
+ 6043) B. A lot of
+ 6044) C. A lot
+  SITE FEEDBACK: ‣ We use a lot (not followed by noun) at the end of the sentence or in short answers, and we use a lot of + noun. /  ‣ We cannot use much, because this is a positive sentence, and we use much/many + noun in negative sentences and questions.
+Q 4174 [radio] _____ goals did they score?
+ 6045) A. How many
+ 6046) B. How much
+ 6047) C. How little
+  SITE FEEDBACK: ‣ We use how many + plural nouns (goals) and how much + uncountable nouns to ask about quantity.
+Q 4175 [radio] Nowadays we don't use _____ cash, because we use our credit cards.
+ 6048) A. many
+ 6049) B. much
+ 6050) C. a lot
+  SITE FEEDBACK: ‣ We use much + uncountable noun (cash) in negative sentences and questions. /  ‣ We use many + plural countable noun and cash is a singular uncountable noun. /  ‣ We can say a lot of cash but we cannot say a lot cash. We use a lot (without of) at the end of the sentence or in short answers (not followed by noun).
+Q 4176 [radio] There's _____ pressure on the players.
+ 6051) A. a lot of
+ 6052) B. much
+ 6053) C. many
+  SITE FEEDBACK: ‣ This is a positive sentence, and we use much/many + noun in negative sentences and questions.
+Q 4177 [radio] They got married _____ months after they met for the first time.
+ 6054) A. much
+ 6055) B. a little
+ 6056) C. a few
+  SITE FEEDBACK: ‣ We cannot use much + plural noun. /  ‣ Months is plural, and we use a few + plural noun and a little + uncountable noun.
+Q 4178 [radio] 'How much milk do you want in your coffee?' 'Only _____.'
+ 6057) A. a little
+ 6058) B. a few
+ 6059) C. much
+  SITE FEEDBACK: ‣ Milk is uncountable, and we use a little with uncountable nouns. /  ‣ We use a few with plural countable nouns, not with uncountable nouns. /  ‣ This is a positive sentence, and use much + uncountable noun in negative sentences and questions.
+Q 4179 [radio] There were _____ problems during the festival.
+ 6060) A. any
+ 6061) B. no
+ 6062) C. none
+  SITE FEEDBACK: ‣ When we want to talk about zero quantity, we can use no + noun or not…any + noun. We can say there were no problems or there weren't any problems. /  ‣ We use none in short answers. We cannot say none + noun.
+Q 4180 [radio] I don't want _____ gifts.
+ 6063) A. none
+ 6064) B. no
+ 6065) C. any
+  SITE FEEDBACK: ‣ When we want to talk about zero quantity, we can use no + noun or not…any + noun. /  ‣ We can say I don't want any gifts or I want no gifts. /  ‣ We use none in short answers. We cannot say none + noun.
+Q 4181 [radio] 'How many gifts do you want?' '_____.'
+ 6066) A. None
+ 6067) B. Any
+ 6068) C. No
+  SITE FEEDBACK: ‣ We can't use any or no, because we need any/no + noun. /  ‣ We use none in short answers (not followed by noun).
+Q 4182 [radio] I eat _____ vegetables.
+ 6069) A. much
+ 6070) B. a lot of
+ 6071) C. many
+  SITE FEEDBACK: ‣ This is a positive sentence, and we use much/many + noun in negative sentences and questions.
+
+=== PAGE /grammar-points/a1/there-is-there-are/
+Q 4144 [radio] 'Is there a new printer in the office?' 'Yes, ____.'
+ 6015) A. there's
+ 6016) B. there are
+ 6017) C. there is
+  SITE FEEDBACK: ‣ In short answers, we say Yes, there is/No, there isn’t when the question is Is there…? /  ‣ The short form of there is is there’s, but we cannot use short forms in positive short answers.
+Q 4145 [radio] When I opened the door, _____ a police officer standing in front of me.
+ 6018) A. there were
+ 6019) B. there was
+ 6020) C. there is
+  SITE FEEDBACK: ‣ The sentence is past, and we use there was/there were to talk about the past. /  ‣ We use there was + singular noun (a police officer).
+Q 4146 [radio] You can go now. _____ any danger.
+ 6021) A. There isn't
+ 6022) B. There is
+ 6023) C. There aren't
+  SITE FEEDBACK: ‣ We cannot use there is because we use any in negative sentences and questions. You can review a/some/any here. /  ‣ We use there is/isn't + singular noun (danger).
+Q 4148 [radio] _____ some money on the table.
+ 6027) A. There's
+ 6028) B. There isn't
+ 6029) C. There are
+  SITE FEEDBACK: ‣ We cannot use there isn't because we use some in positive sentences. You can review a/some/any here. /  ‣ We cannot use there are because money is singular, and we use there is + singular noun.
+Q 4150 [radio] 'Are there many restaurants in your neighbourhood?' 'Yes, _____.'
+ 6033) A. there is
+ 6034) B. there're
+ 6035) C. there are
+  SITE FEEDBACK: ‣ In short answers, we say Yes, there are/No, there aren't when the question is Are there…? /  ‣ We cannot say there're because we don't normally use a short form for there are.
+Q 4152 [radio] _____ a question in the exam that I couldn't answer.
+ 6039) A. There is
+ 6040) B. There was
+ 6041) C. There were
+  SITE FEEDBACK: ‣ The sentence is past, and we use there was/there were to talk about the past. /  ‣ We use there was + singular noun (a question).
+
+=== PAGE /grammar-points/a1/a-some-any-countable-uncountable/
+Q 4122 [radio] I didn't see _____ in the library.
+ 5982) A. any classmates
+ 5983) B. some classmates
+ 5984) C. any classmate
+  SITE FEEDBACK: ‣ We use any and not some because the sentence is negative, and we use any in negatives and questions. /  ‣ We need to use classmates in plural because after some/any, we cannot use a singular countable noun.
+Q 4123 [radio] I have _____ in my house.
+ 5985) A. some new furnitures
+ 5986) B. a new furniture
+ 5987) C. some new furniture
+  SITE FEEDBACK: ‣ You can't use an because furniture is uncountable. The word furniture is difficult because it is countable in some other languages. /  ‣ We cannot say furnitures because furniture in an uncountable noun.
+Q 4124 [radio] Can I have _____ apple, please?
+ 5988) A. an
+ 5989) B. some
+ 5990) C. any
+  SITE FEEDBACK: ‣ Apple is a countable noun, and we cannot use some/any + singular countable noun. We need to use a/an.
+Q 4125 [radio] They gave me _____ for my collection.
+ 5991) A. some old books
+ 5992) B. an old books
+ 5993) C. some old book
+  SITE FEEDBACK: ‣ You can't use a with books, because books is plural. /  ‣ We need to use books in plural because after some/any, we cannot use a singular countable noun.
+Q 4126 [radio] The hotel where I'm staying has _____.
+ 5994) A. swimming pool
+ 5995) B. a swimming pool
+ 5996) C. some swimming pool
+  SITE FEEDBACK: ‣ We can't use some because swimming pool is a countable noun, and we cannot use some/any + singular countable noun. /  ‣ We must use a because we CANNOT use a singular countable noun without a determiner like a/an or the.
+Q 4127 [radio] She speaks _____ English.
+ 5997) A. some
+ 5998) B. any
+ 5999) C. an
+  SITE FEEDBACK: ‣ You can't use an because the names of languages, like English, French, etc., are uncountable. /  ‣ We use some and not any because the sentence is positive, and we use any in negatives and questions.
+Q 4129 [radio] I didn't get _____ from you or your partner.
+ 6003) A. an calls
+ 6004) B. any calls
+ 6005) C. any call
+  SITE FEEDBACK: ‣ You can't use an because calls is plural. /  ‣ We need to use calls in plural because after some/any, we don't normally use a singular countable noun.
+Q 4128 [radio] Can you give me _____ bread?
+ 6000) A. a
+ 6001) B. any
+ 6002) C. some
+  SITE FEEDBACK: ‣ You can't use a because bread is uncountable in English. /  ‣ We use some because we are asking for something. We use any in questions, but not in questions when we are asking for something or offering something.
+Q 4130 [radio] Have you got _____?
+ 6006) A. any brother or sister
+ 6007) B. some brothers or sisters
+ 6008) C. any brothers or sisters
+  SITE FEEDBACK: ‣ We use any and not some because the sentence is a question, and we use any in negatives and questions. /  ‣ We need to use brothers or sisters in plural because after some/any, we cannot use a singular countable noun.
+Q 4131 [radio] She gave me _____.
+ 6009) A. a terrible new
+ 6010) B. some terrible news
+ 6011) C. a terrible news
+  SITE FEEDBACK: ‣ The word news is special, because it in uncountable. It is a singular word ending in -s. /  ‣ We can't say new, because news is singular; the -s is not a mark of plural. /  ‣ You can't use a because news is uncountable; we can't say one news, two news, three news, etc.
+
+=== PAGE /grammar-points/a1/past-simple-negatives-questions/
+Q 4084 [radio] We _____ a bus to Chicago last week.
+ 5952) A. were took
+ 5953) B. did took
+ 5954) C. took
+  SITE FEEDBACK: ‣ We use did or didn’t in negatives, questions and short answers, but NOT in positive sentences.
+Q 4086 [radio] Yesterday I ____ the train, but I ____ late for work.
+ 5958) A. did miss / were not
+ 5959) B. missed / didn't be
+ 5960) C. missed / wasn't
+  SITE FEEDBACK: ‣ We use did or didn’t in negatives, questions and short answers, but NOT in positive sentences. We say missed (NOT did miss). /  ‣ We do NOT use did or didn’t in past simple negatives or questions when the main verb is be. We say I wasn't (NOT I didn't was).
+Q 4087 [radio] They _____ a swimming pool in their backyard last summer.
+ 5961) A. did put
+ 5962) B. putted
+ 5963) C. put
+  SITE FEEDBACK: ‣ Put is an irregular verb. Irregular verbs don’t add -ed to make the past simple. Put ⇒ put. /  ‣ We use did or didn’t in negatives, questions and short answers, but NOT in positive sentences.
+Q 4089 [radio] She _____ home early from the party yesterday.
+ 5967) A. came
+ 5968) B. camed
+ 5969) C. didn't came
+  SITE FEEDBACK: ‣ Come is an irregular verb. Irregular verbs don’t add -ed to make the past simple. Come ⇒ came. /  ‣ We use didn't + infinitive (didn't + come) in past simple negatives. (NOT didn't + came)
+Q 4091 [radio] They _____ the play very much.
+ 5973) A. weren't enjoy
+ 5974) B. didn't enjoyed
+ 5975) C. didn't enjoy
+  SITE FEEDBACK: ‣ We use didn't + infinitive (didn't + enjoy) in past simple negatives.
+Q 4093 [radio] Where _____ last night?
+ 5979) A. were you
+ 5980) B. did you be
+ 5981) C. did you were
+  SITE FEEDBACK: ‣ We do NOT use did or didn’t in past simple negatives or questions when the main verb is be. We say were you...? (NOT did you be...?)
+Q 4111 [gaps] Phil: Yes, she {1} , although she {2} (not like) the food too much.
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: did/didn't like (did not like) /  ‣ Short answers in past simple are Yes, I/you/he/etc. did or No, I/you/he/etc. didn't. /  ‣ We use didn't + infinitive (didn't + like) in past simple negatives.
+
+=== PAGE /grammar-points/a1/object-pronouns/
+Q 4035 [gaps] {1} never listens to {2} .
+  {1} options: Him | He
+  {2} options: us | we
+  SITE FEEDBACK: Correct answer: He/us /  ‣ We use subject pronouns (I, you, he, she, it, we, they) before the verb (listens). /  ‣ We use object pronouns (me, you, him, her, it, us, them) after the verb or after a preposition (to us).
+Q 4036 [gaps] 'Do you like my new glasses?' 'Yes, {1} love {2} .
+  {1} options: me | I
+  {2} options: them | they | it
+  SITE FEEDBACK: Correct answer: I/them /  ‣ We use subject pronouns (I, you, he, she, it, we, they) before the verb (love). /  ‣ We use object pronouns (me, you, him, her, it, us, them) after the verb (love) or after a preposition. /  ‣ Glasses is plural. For things, we use it/it in singular and they/them in plural. Glasses= they/them
+Q 4037 [gaps] Tom loves his rabbits. {1} plays with {2} in the garden every day.
+  {1} options: He | Him
+  {2} options: them | they
+  SITE FEEDBACK: Correct answer: He/them /  ‣ We use subject pronouns (I, you, he, she, it, we, they) before the verb (plays). /  ‣ We use object pronouns (me, you, him, her, it, us, them) after the verb or after a preposition (with them).
+Q 4038 [gaps] Please, call {1} soon; {2} am very worried.
+  {1} options: I | me
+  {2} options: me | I
+  SITE FEEDBACK: Correct answer: me/I /  ‣ We use object pronouns (me, you, him, her, it, us, them) after the verb (call) or after a preposition. /  ‣ We use subject pronouns (I, you, he, she, it, we, they) before the verb (am).
+Q 4040 [gaps] Tell John that {1} can meet {2} at the canteen.
+  {1} options: him | he | she
+  {2} options: they | us | we
+  SITE FEEDBACK: Correct answer: he/us /  ‣ We use subject pronouns (I, you, he, she, it, we, they) before the verb (can meet). /  ‣ We use object pronouns (me, you, him, her, it, us, them) after the verb (can meet) or after a preposition. /  ‣ John= he.
+Q 4041 [gaps] I like your earrings. Can {1} see {2} ?
+  {1} options: I | me
+  {2} options: them | they
+  SITE FEEDBACK: Correct answer: I/them /  ‣ We use subject pronouns (I, you, he, she, it, we, they) before the verb (see). /  ‣ We use object pronouns (me, you, him, her, it, us, them) after the verb (see) or after a preposition. /  ‣ Earrings is plural. For things, we use it/it in singular and they/them in plural. Earrings= they/them
+Q 4048 [gaps] Rachel helps the students. ⇒ {1} helps {2} .
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: She/them /  ‣ We use subject pronouns (she) before the verb (helps). /  ‣ We use object pronouns (them) after the verb (helps).
+Q 4053 [gaps] My dad and I love chocolate. ⇒ {1} love {2} .
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: We/it /  ‣ We use subject pronouns (We) before the verb (love). /  ‣ We use object pronouns (it) after the verb (love). /  ‣ Chocolate= it. It is the same form as a subject and object pronoun.
+Q 4054 [gaps] Suzan and Tom call their daughter every day. ⇒ {1} call {2} every day.
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: They/her /  ‣ Suzan and Tom= they/them. /  ‣ their daughter= she/her. /  ‣ We use subject pronouns (They) before the verb (call). /  ‣ We use object pronouns (her) after the verb (call).
+Q 4055 [gaps] Give the documents to Carmen. ⇒ Give {1} to {2} .
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: them/her /  ‣ We use object pronouns (them) after the verb (give). /  ‣ We use object pronouns (her) after prepositions (to). /  ‣ Documents is plural. For things, we use it/it in singular and they/them in plural. Documents= they/them
+Q 4057 [gaps] Tom often plays football with my friends and me . ⇒ {1} often plays football with {2} .
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: He/us /  ‣ Tom= he/him. /  ‣ My friends and me= us. /  ‣ We use subject pronouns (He) before the verb (plays). /  ‣ We use object pronouns (us) after prepositions (with).
+Q 4059 [gaps] I need the scissors to cut the paper. ⇒ I need {1} to cut {2} .
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: them/it /  ‣ Scissors is plural. For things, we use it/it in singular and they/them in plural. Scissors= they/them /  ‣ Paper= it. It is the same form as a subject and object pronoun. /  ‣ We need object pronouns because object pronouns go after the verbs.
+Q 4034 [gaps] I don't like this music; {1} is boring. Can you stop {2} ?
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: it/it /  ‣ This music= It. /  ‣ The first it is a subject pronoun because it goes before the verb (is), and the second it is an object pronoun; it goes after the verb (stop).
+Q 4042 [gaps] That's my money. Can you give {1} to {2} ? I need it.
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: it/me /  ‣ Money= it. /  ‣ Me is an object pronoun. We use object pronouns (me, you, him, her, it, us, them) after a preposition (to).
+Q 4043 [gaps] Susan is in trouble and {1} needs help. We have to help {2} .
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: she/her /  ‣ We use subject pronouns (she) before the verb (needs). /  ‣ We use object pronouns (her) after the verb (help).
+
+=== PAGE /grammar-points/a1/was-were/
+Q 4001 [gaps] My son {1} short in school, but now he {2} tall.
+  {1} options: was | were
+  {2} options: am | are | is
+  SITE FEEDBACK: Correct answer: was/is /  ‣ My son= he. Present: he is. Past: he was.
+Q 4002 [gaps] ' {1} you at the stadium yesterday?' 'Yes, I {2} .'
+  {1} options: Was | Were
+  {2} options: 's | were | was
+  SITE FEEDBACK: Correct answer: Were/was /  ‣ You ⇒ were; I ⇒ was. /  ‣ 's= is. Remember that we don't have short forms of was and were.
+Q 4003 [gaps] Yesterday Philip and Emma {1} in London. Today they {2} in Paris.
+  {1} options: were | was
+  {2} options: is | am | are
+  SITE FEEDBACK: Correct answer: were/are /  ‣ Philip and Emma= they. Present: they are. Past: they were.
+Q 4004 [gaps] Sara and I {1} at home that night, and you {2} with us.
+  {1} options: were | was
+  {2} options: were | was
+  SITE FEEDBACK: Correct answer: were/were /  ‣ Sara and I= we. We ⇒ were. You ⇒ were. /  ‣ We use was for I, he, she, it and were for you, we, they.
+Q 4005 [gaps] Yesterday we {1} late for the concert, and today I {2} late for class.
+  {1} options: was | were
+  {2} options: am | is | are
+  SITE FEEDBACK: Correct answer: were/am /  ‣ We ⇒ were; I ⇒ am.
+Q 4006 [gaps] Asim {1} born in Egypt, and I {2} born in Birmingham.
+  {1} options: were | is | was
+  {2} options: am | were | was
+  SITE FEEDBACK: Correct answer: was/was /  ‣ Asim= he. He ⇒ was; I ⇒ was. /  ‣ The expression be born is always past (NOT present): was/were born.
+Q 4007 [gaps] ' {1} you excited about the trip?' 'Yes, we {2} very excited.'
+  {1} options: Were | Was
+  {2} options: were | 're | was
+  SITE FEEDBACK: Correct answer: Were/were /  ‣ You ⇒ were; We ⇒ were. /  ‣ 're= are. Remember that we don't have short forms of was and were.
+Q 4008 [gaps] ' {1} Kate angry yesterday after the meeting?' 'No, but I think she {2} angry now.'
+  {1} options: Were | Was
+  {2} options: am | is | are
+  SITE FEEDBACK: Correct answer: Was/is /  ‣ Kate= she. Present: she is. Past: she was
+Q 4009 [gaps] ' {1} you at the beach last Sunday?' 'Yes, I {2} .
+  {1} options: Was | Were
+  {2} options: was | were
+  SITE FEEDBACK: Correct answer: Were/was /  ‣ You ⇒ were; I ⇒ was. /  ‣ We use was for I, he, she, it and were for you, we, they.
+Q 4010 [gaps] The weather {1} nice today, but it {2} horrible last weekend.
+  {1} options: are | was | is
+  {2} options: were | was
+  SITE FEEDBACK: Correct answer: is/was /  ‣ The weather= it. Present: it is. Past: it was. /  ‣ We say the weather is nice (NOT was) because today is present.
+Q 4011 [gaps] Where {1} you last night? I called you, but you {2} at home.
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: were/weren't /  ‣ You ⇒ were/weren't /  ‣ We use was for I, he, she, it and were for you, we, they.
+Q 4022 [gaps] ' {1} Sandra happy after the exam?' 'No, she {2} .'
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: Was/wasn't /  ‣ Sandra= she. She ⇒ was/wasn't.
+Q 4023 [gaps] I remember I {1} very worried, but you {2} calm.
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: was/were /  ‣ I ⇒ was; you ⇒ were. /  ‣ We use was for I, he, she, it and were for you, we, they.
+Q 4024 [gaps] Betty and Paul {1} at home; they {2} at the cinema
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: weren't/were or were/weren't /  ‣ Betty and Paul= they. They ⇒ were/weren't. /  ‣ We use was for I, he, she, it and were for you, we, they.
+Q 4025 [gaps] ' {1} you tired after the concert?' 'Yes, I {2} .'
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: Were/was /  ‣ You ⇒ were; I ⇒ was. /  ‣ We use was for I, he, she, it and were for you, we, they.
+Q 4026 [gaps] I'm very sorry. You {1} right, and I {2} wrong.
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: were/was /  ‣ You ⇒ were; I ⇒ was. /  ‣ We use was for I, he, she, it and were for you, we, they.
+Q 4027 [gaps] 'Were your parents at the meeting?' 'My dad {1} there, but my mum {2} .'
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: was/wasn't /  ‣ My dad= he. He ⇒ was. /  ‣ My mum= she. She ⇒ wasn't.
+Q 4028 [gaps] We {1} late! We {2} early. The concert was at 8 and we arrived at 7.
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: weren't/were /  ‣ We ⇒ were/weren't. We use was for I, he, she, it and were for you, we, they.
+Q 4029 [gaps] Vivian {1} at the meeting, but I {2} there. I always go to the meetings.
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: wasn't/was /  ‣ Vivian= she. She ⇒ wasn't; I ⇒ was. /  ‣ We use was for I, he, she, it and were for you, we, they.
+Q 4030 [gaps] ' {1} Tim with you?' 'No, only Sally and Peter {2} there with me.'
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: Was/were /  ‣ Tim= he. He ⇒ was. /  ‣ Sally and Peter= they. They ⇒ were.
+
+=== PAGE /grammar-points/a1/present-simple-present-continuous/
+Q 3990 [radio] You can take the newspaper. I _____ it.
+ 5913) A. 'm not reading
+ 5914) B. don't read
+ 5915) C. 'm not read
+  SITE FEEDBACK: ‣ We use the present continuous for things happening now, at the moment of speaking. (You can take the newspaper because I'm not reading the newspaper now.) /  ‣ *Am not read is not a verb tense. We form the present continuous with am/is/are + the -ing form of the verb.
+Q 3991 [radio] I _____ to work by car, but today I'm going by bus.
+ 5916) A. usually go
+ 5917) B. 'm usually going
+ 5918) C. usually going
+  SITE FEEDBACK: ‣ We use adverbs and expressions of frequency (always, usually, often, etc.) with the present simple. /  ‣ Going is not a verb tense. The present simple is I go and the present continuous is I am going.
+Q 3992 [radio] 'Where is John?' 'He _____ a shower.'
+ 5919) A. has
+ 5920) B. having
+ 5921) C. 's having
+  SITE FEEDBACK: ‣ We use the present continuous for things happening now, at the moment of speaking. He is having a shower now, while I am speaking. /  ‣ Talking is not a verb tense. We form the present continuous with am/is/are + the -ing form of the verb.
+Q 3993 [radio] I _____ exercise very often.
+ 5922) A. 'm not doing
+ 5923) B. don't do
+ 5924) C. 'm not do
+  SITE FEEDBACK: ‣ We use adverbs and expressions of frequency (always, usually, often, etc.) with the present simple. /  ‣ *'m not do is not a verb tense. The present simple is don't do and the present continuous is 'm not doing.
+Q 3994 [radio] Can you hear that? Our neighbours _____.
+ 5925) A. argue
+ 5926) B. arguing
+ 5927) C. are arguing
+  SITE FEEDBACK: ‣ We use the present continuous for things happening now, at the moment of speaking (Our neighbours are arguing now). /  ‣ Arguing is not a verb tense. We form the present continuous with am/is/are + the -ing form of the verb.
+Q 3995 [radio] Our neighbours _____ almost every day.
+ 5928) A. argue
+ 5929) B. do argue
+ 5930) C. are arguing
+  SITE FEEDBACK: ‣ We use adverbs and expressions of frequency (always, usually, often, every day, etc.) with the present simple. /  ‣ *Do argue is incorrect, because we do not use do before the main verb in the present simple affirmative.
+Q 3996 [radio] What time _____ work on Fridays?
+ 5931) A. is she start
+ 5932) B. does she start
+ 5933) C. is she starting
+  SITE FEEDBACK: ‣ On Fridays = every Friday. We use present simple for habits or actions that we repeat regularly. /  ‣ *Is she start is not a verb tense. Present simple: *does she start; present continuous: *is she starting
+Q 3997 [radio] I'm hungry. I _____ to eat something.
+ 5934) A. 'm wanting
+ 5935) B. 'm want
+ 5936) C. want
+  SITE FEEDBACK: ‣ We use the present simple because want is a non-action verb. There are verbs that don’t describe actions. These verbs are called stative or non-action verbs, and we can use these verbs in present simple but NOT in present continuous. Some of these verbs are: be, have (meaning 'possess' or 'own'), like, love, hate, prefer, need, want, know, etc. /  ‣ *Am want is not a verb tense. The present simple affirmative is only one word, and we form the present continuous with am/is/are + the -ing form of the verb.
+Q 3998 [radio] 'Where is Jane?' 'In the living room. She___________ a movie.'
+ 5937) A. 's watching
+ 5938) B. watching
+ 5939) C. watches
+  SITE FEEDBACK: ‣ We use the present continuous for things happening now, at the moment of speaking. (She is watching a movie now.) /  ‣ Watching is not a verb tense. We form the present continuous with am/is/are + the -ing form of the verb.
+Q 3999 [radio] I _____________ TV when I'm having dinner.
+ 5940) A. 'm never watching
+ 5941) B. never watch
+ 5942) C. 'm never watch
+  SITE FEEDBACK: ‣ We use adverbs and expressions of frequency (always, usually, often, etc.) with the present simple. /  ‣ *Am watch is not a verb tense. Present simple: watch; present continuous: am watching.
+
+=== PAGE /grammar-points/a1/present-continuous/
+Q 3960 [gaps] A: {1} (you/cry)? / B: No, I {2} .
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: Are you crying/'m not /  ‣ We use am/is/are + subject + -ing verb to make questions in present continuous (are you crying). /  ‣ We use no + I/you/etc + am not/is not/are not in negative short answers. The short forms are 'm not/isn't/aren't.
+Q 3961 [gaps] A: {1} (your father/recover) well after the operation? / B: Yes, he {2} .
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: Is your father recovering/is /  ‣ We use am/is/are + subject + -ing verb to make questions in present continuous (is your father recovering). /  ‣ We use yes + I/you/etc + am/is/are in positive short answers. We cannot use short forms in positive short answers.
+Q 3962 [gaps] A: {1} (they/try) to find a solution? / B: Yes, they {2} .
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: Are they trying/are /  ‣ We use am/is/are + subject + -ing verb to make questions in present continuous (are they trying). /  ‣ We use yes + I/you/etc + am/is/are in positive short answers. We cannot use short forms in positive short answers.
+Q 3963 [gaps] A: {1} (the baby/sleep)? / B: No, she {2} .
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: Is the baby sleeping/isn't /  ‣ We use am/is/are + subject + -ing verb to make questions in present continuous (is the baby sleeping). /  ‣ We use no + I/you/etc + am not/is not/are not in positive short answers. The short forms are 'm not/isn't/aren't.
+Q 3964 [gaps] A: {1} (we/do) the right thing? / B: Yes, we {2} .
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: Are we doing/are /  ‣ We use am/is/are + subject + -ing verb to make questions in present continuous (are we doing). /  ‣ We use yes + I/you/etc + am/is/are in positive short answers. We cannot use short forms in positive short answers.
+Q 3965 [gaps] A: {1} (he/study) for his exams? / B: No, he {2} .
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: Is he studying/isn't /  ‣ We use am/is/are + subject + -ing verb to make questions in present continuous (is he studying). /  ‣ We use no + I/you/etc + am not/is not/are not in positive short answers. The short forms are 'm not/isn't/aren't.
+Q 3966 [gaps] A: {1} (you eat) my pizza? / B: Yes, I {2} .
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: Are you eating/am /  ‣ We use am/is/are + subject + -ing verb to make questions in present continuous (are you eating). /  ‣ We use yes + I/you/etc + am/is/are in positive short answers. We cannot use short forms in positive short answers.
+Q 3967 [gaps] A: {1} (you/pay) by credit card? / B: No, I {2} .
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: Are you paying/'m not /  ‣ We use am/is/are + subject + -ing verb to make questions in present continuous (are you paying). /  ‣ We use no + I/you/etc + am not/is not/are not in positive short answers. The short forms are 'm not/isn't/aren't.
+Q 3968 [gaps] A: {1} (they/win) the match? / B: Yes, they {2} .
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: Are they winning/are /  ‣ We use am/is/are + subject + -ing verb to make questions in present continuous (are they winning). /  ‣ We use yes + I/you/etc + am/is/are in positive short answers. We cannot use short forms in positive short answers. /  ‣ With verbs ending in consonant + vowel + consonant, we double the consonant and add -ing for the -ing form.
+Q 3969 [gaps] A: {1} (Tom/run) in the race? / B: No, he {2} . He's here with me.
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: Is Tom running/isn't /  ‣ We use am/is/are + subject + -ing verb to make questions in present continuous (is Tom running). /  ‣ We use no + I/you/etc + am not/is not/are not in positive short answers. The short forms are 'm not/isn't/aren't. /  ‣ With verbs ending in consonant + vowel + consonant, we double the consonant and add -ing for the -ing form.
+
+=== PAGE /grammar-points/a1/can-cant/
+Q 3943 [gaps] Ann: I {1} (not accept) negative criticism, but I {2} (accept) constructive criticism.
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: can't accept/can accept /  ‣ In negative sentences, we use can't + infinitive without to (can't accept). /  ‣ In affirmative sentences, we use can + infinitive without to (can accept).
+Q 3947 [gaps] Ann: I {1} (speak) German very well, but I {2} (not speak) French very fluently.
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: can speak/can't speak /  ‣ In affirmative sentences, we use can + infinitive without to (can speak). /  ‣ In negative sentences, we use can't + infinitive without to (can't speak).
+
+=== PAGE /grammar-points/a1/adverbs-frequency/
+Q 3890 [radio] Which sentence is correct?
+ 7870) A. Our teacher is often late.
+ 7871) B. Our teacher often is late.
+ 7872) C. Is often our teacher late?
+ 7873) D. Often our teacher is late.
+  SITE FEEDBACK: ‣ Adverbs of frequency go before the verb, but after the verb be. /  ‣ In questions, adverbs of frequency go after the auxiliary verb + subject.
+Q 3891 [radio] Which sentence is correct?
+ 7874) A. Never we eat fast food.
+ 7875) B. We eat never fast food.
+ 7876) C. We eat fast food never.
+ 7877) D. We never eat fast food.
+  SITE FEEDBACK: ‣ Adverbs of frequency go before the verb.
+Q 3892 [radio] Which sentence is correct?
+ 7878) A. My father doesn't hardly ever watch football on TV.
+ 7879) B. My father watches hardly ever football on TV.
+ 7880) C. My father watches football on TV hardly ever.
+ 7881) D. My father hardly ever watches football on TV.
+  SITE FEEDBACK: ‣ Adverbs of frequency go before the verb. /  ‣ The adverbs never and hardly ever (=almost never) have a negative meaning, but they are used with a positive verb.
+Q 3893 [radio] Which sentence is correct?
+ 7882) A. Do often you go to the cinema?
+ 7883) B. Do you often go to the cinema?
+ 7884) C. Do you go often to the cinema?
+ 7885) D. Do you go to the cinema often?
+  SITE FEEDBACK: ‣ In questions, adverbs of frequency go after the subject.
+Q 3894 [radio] Which sentence is correct?
+ 7886) A. He usually doesn't go to bed late.
+ 7887) B. He doesn't go to bed late usually.
+ 7888) C. He doesn't usually go to bed late.
+ 7889) D. Does he go usually late to bed?
+  SITE FEEDBACK: ‣ In negative sentences the adverb of frequency goes after don’t/doesn’t. /  ‣ In questions, adverbs of frequency go after the auxiliary verb + subject.
+Q 3895 [radio] Which sentence is correct?
+ 7850) A. I every week have piano lessons.
+ 7851) B. I have every week piano lessons.
+ 7852) C. I have piano lessons every week.
+ 7853) D. I every week have piano lessons.
+  SITE FEEDBACK: ‣ Expressions of frequency (once a day, twice a week, three times a month, every day, etc.) go at the end of the sentence.
+Q 3896 [radio] Which sentence is correct?
+ 7854) A. They always are very tired after the match.
+ 7855) B. They are always very tired after the match.
+ 7856) C. They are very tired after the match always.
+ 7857) D. Always they are very tired after the match.
+  SITE FEEDBACK: ‣ Adverbs of frequency go before the verb, but after the verb be.
+Q 3897 [radio] Which sentence is correct?
+ 7858) A. We always have breakfast at home.
+ 7859) B. Always we have breakfast at home.
+ 7860) C. We have always breakfast at home.
+ 7861) D. We have breakfast at home always.
+  SITE FEEDBACK: ‣ Adverbs of frequency go before the verb.
+Q 3898 [radio] Which sentence is correct?
+ 7862) A. She doesn't wear jeans often.
+ 7863) B. She often doesn't wear jeans.
+ 7864) C. Often she doesn't wear jeans.
+ 7865) D. She doesn't often wear jeans.
+  SITE FEEDBACK: ‣ In negative sentences the adverb of frequency goes after don’t/doesn’t.
+Q 3899 [radio] Which sentence is correct?
+ 7866) A. Are you sometimes tired at the end of the class?
+ 7867) B. Are sometimes you tired at the end of the class?
+ 7868) C. Are you tired sometimes at the end of the class?
+ 7869) D. You are sometimes tired at the end of the class?
+  SITE FEEDBACK: ‣ In questions, adverbs of frequency go after auxiliary verb + the subject.
+Q 3900 [radio] Tom _____ to the radio.
+ 5883) A. never listens
+ 5884) B. doesn't never listen
+ 5885) C. never doesn't listen
+  SITE FEEDBACK: ‣ The adverbs never and hardly ever (=almost never) have a negative meaning, but they are used with a positive verb.
+Q 3901 [radio] _____ in class on time?
+ 5886) A. Is always your teacher
+ 5887) B. Is your teacher always
+ 5888) C. Always is your teacher
+  SITE FEEDBACK: ‣ In questions, adverbs of frequency go after the subject (your teacher).
+Q 3902 [radio] He _____ his homework.
+ 5889) A. hardly ever doesn't do
+ 5890) B. doesn't hardly ever do
+ 5891) C. hardly ever does
+  SITE FEEDBACK: ‣ The adverbs never and hardly ever (=almost never) have a negative meaning, but they are used with a positive verb.
+Q 3903 [radio] He _____ to class.
+ 5892) A. doesn't always go
+ 5893) B. always doesn't go
+ 5894) C. doesn't go always
+  SITE FEEDBACK: ‣ In negative sentences the adverb of frequency goes after don’t/doesn’t.
+Q 3904 [radio] Alice and Tom _____.
+ 5895) A. cook every day dinner
+ 5896) B. every day cook diner
+ 5897) C. cook dinner every day
+  SITE FEEDBACK: ‣ Expressions of frequency (once a day, twice a week, three times a month, every day, etc.) go at the end of the sentence.
+Q 3905 [radio] She _____ during dinner.
+ 5898) A. has hardly ever wine
+ 5899) B. hardly ever has wine
+ 5900) C. has wine hardly ever
+  SITE FEEDBACK: ‣ Adverbs of frequency (hardly ever) go before the verb (has).
+Q 3906 [radio] What time _____ at the weekend?
+ 5901) A. do you usually get up
+ 5902) B. usually do you get up
+ 5903) C. usually you get up
+  SITE FEEDBACK: ‣ In questions, adverbs of frequency go after the subject.
+Q 3907 [radio] We _____ our mistakes.
+ 5904) A. don't often admit
+ 5905) B. often don't admit
+ 5906) C. don't admit often
+  SITE FEEDBACK: ‣ In negative sentences the adverb of frequency goes after don’t/doesn’t.
+Q 3908 [radio] Mark _____.
+ 5907) A. always is busy
+ 5908) B. is busy always
+ 5909) C. is always busy
+  SITE FEEDBACK: ‣ Adverbs of frequency go before the verb, but after the verb be.
+Q 3909 [radio] My brother _____.
+ 5910) A. reads comics sometimes
+ 5911) B. sometimes reads comics
+ 5912) C. reads sometimes comics
+  SITE FEEDBACK: ‣ Adverbs of frequency go before the verb (read).
+
+=== PAGE /grammar-points/a1/at-in-on-prepositions-of-place/
+Q 3870 [radio] The museum is _____ the end of the street.
+ 5853) A. at
+ 5854) B. in
+ 5855) C. on
+  SITE FEEDBACK: ‣ We use at in the expressions at the top of, at the bottom of and at the end of.
+Q 3871 [radio] I study _____ the university of Toronto.
+ 5856) A. at
+ 5857) B. in
+ 5858) C. on
+  SITE FEEDBACK: ‣ We normally use at with school, university and college.
+Q 3872 [radio] This is the best film you can see _____ the cinema now.
+ 5859) A. at
+ 5860) B. in
+ 5861) C. on
+  SITE FEEDBACK: ‣ We use at to refer to group activities like parties, concerts, and other events.
+Q 3873 [radio] 'Where's Alice?' 'She's _____ the attic.'
+ 5862) A. at
+ 5863) B. in
+ 5864) C. on
+  SITE FEEDBACK: ‣ We use in to refer to a position inside of a three dimensional space, like an attic.
+Q 3874 [radio] People are usually nervous on their first day _____ work.
+ 5865) A. at
+ 5866) B. in
+ 5867) C. on
+  SITE FEEDBACK: ‣ We say be at home/at work (without the).
+Q 3875 [radio] Can you give me the book _____ that shelf?
+ 5868) A. at
+ 5869) B. in
+ 5870) C. on
+  SITE FEEDBACK: ‣ We use on to refer to a position on a surface.
+Q 3876 [radio] It's the second door _____ the right.
+ 5871) A. at
+ 5872) B. in
+ 5873) C. on
+  SITE FEEDBACK: ‣ We use on in the expressions on the right and on the left.
+Q 3877 [radio] All the stories _____ the book are very special.
+ 5874) A. at
+ 5875) B. in
+ 5876) C. on
+  SITE FEEDBACK: ‣ We use in for things that are printed in books, pictures, documents, etc.
+Q 3878 [radio] We were _____ Australia last summer.
+ 5877) A. at
+ 5878) B. in
+ 5879) C. on
+  SITE FEEDBACK: ‣ We use in for areas that have limits or boundaries, like continents, countries, cities, regions, etc.
+Q 3879 [radio] I always read when I'm _____ the train.
+ 5880) A. at
+ 5881) B. in
+ 5882) C. on
+  SITE FEEDBACK: ‣ We use on when we are using public transport: on the bus, on a train, on a plane, etc.
+
+=== PAGE /grammar-points/a1/at-in-on-prepositions-time/
+Q 3840 [radio] I have to meet the clients _____ lunchtime.
+ 5823) A. at
+ 5824) B. in
+ 5825) C. on
+  SITE FEEDBACK: ‣ We use at for time, and that includes mealtimes: at lunchtime, at dinnertime.
+Q 3841 [radio] This happened _____ the 80s.
+ 5826) A. at
+ 5827) B. in
+ 5828) C. on
+  SITE FEEDBACK: ‣ We use in for for months, years, decades, centuries and long periods of time in general.
+Q 3842 [radio] We want to go for a drink after the concert _____ Friday evening
+ 5829) A. at
+ 5830) B. in
+ 5831) C. on
+  SITE FEEDBACK: ‣ We use on for days and also for name of day + part of the day (on Friday evening).
+Q 3843 [radio] You can plant these flowers _____ the autumn.
+ 5850) A. at
+ 5851) B. in
+ 5852) C. on
+  SITE FEEDBACK: ‣ We use in for months and seasons.
+Q 3844 [radio] Is your neighbourhood quiet _____ night?
+ 5832) A. at
+ 5833) B. in
+ 5834) C. on
+  SITE FEEDBACK: ‣ We use in for parts of the day: in the morning/afternoon/evening. But we say at night.
+Q 3845 [radio] I will retire _____ 2030.
+ 5835) A. at
+ 5836) B. in
+ 5837) C. on
+  SITE FEEDBACK: ‣ We use in with months and years.
+Q 3846 [radio] My birthday is _____ the 10th of January.
+ 5838) A. at
+ 5839) B. in
+ 5840) C. on
+  SITE FEEDBACK: ‣ We use on with days and dates.
+Q 3847 [radio] I usually go to bed _____ midnight.
+ 5841) A. at
+ 5842) B. in
+ 5843) C. on
+  SITE FEEDBACK: ‣ We use at for time, and at midnight means 'at 12 o'clock'.
+Q 3848 [radio] I don't work _____ Christmas day.
+ 5844) A. at
+ 5845) B. in
+ 5846) C. on
+  SITE FEEDBACK: ‣ We use at for public and religious holidays (at Christmas, at Easter), but we use on for days and dates, and Christmas day is a specific day during the Christmas holiday.
+Q 3849 [radio] We usually stay home _____ Easter.
+ 5847) A. at
+ 5848) B. in
+ 5849) C. on
+  SITE FEEDBACK: ‣ We use at in for religious holidays: at Christmas, at Easter.
+Q 3850 [gaps] The interview is {1} 8 o'clock {2} Monday morning.
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: at/on /  ‣ We use at for times of day /  ‣ We use on for days and also for name of day + part of the day (on Monday morning).
+Q 3854 [gaps] {1} summer, we go fishing {2} weekends.
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: in - at/on /  ‣ We use in for months and seasons. /  ‣ We can use at (British English) or on (American English) with weekend.
+
+=== PAGE /grammar-points/a1/whose-possessive-s/
+Q 3810 [radio] _____ picture is this?
+ 5793) A. Whose
+ 5794) B. Who's
+ 5795) C. Whos
+  SITE FEEDBACK: ‣ Whose = possessive; who's = who is. We can say Whose picture is this? but NOT Whose is picture is this?.
+Q 3811 [radio] _____ is ill.
+ 5796) A. The father of Allan
+ 5797) B. Father's Edgar
+ 5798) C. Allan's father
+  SITE FEEDBACK: ‣ We use 's with people (and pets) and we use of with things. /  ‣ The 's goes with the owner or possessor of something. My father's dog= the dog of my father (my father is the "owner" of a dog). My dog's father= the father of my dog (my dog is the "owner" of a father)
+Q 3812 [radio] _____ that man at the table?
+ 5799) A. Whos
+ 5800) B. Who's
+ 5801) C. Whose
+  SITE FEEDBACK: ‣ Whose = possessive; who's = who is. We can say Who is that man at the table? but NOT Whose man at the table? because we always need a verb in English.
+Q 3813 [radio] The shop is at _____.
+ 5802) A. the end of the street
+ 5803) B. the street's end
+ 5804) C. the end's street
+  SITE FEEDBACK: ‣ We use of with things and we use ‘s with people (and pets).
+Q 3814 [radio] _____ is very expensive.
+ 5805) A. New car's Lucy
+ 5806) B. Lucy's new car
+ 5807) C. The new car of Lucy
+  SITE FEEDBACK: ‣ The 's is used with the owner or possessor. My father's dog= the dog of my father (my father is the "owner" of the dog). My dog's father= the father of my dog (my dog is the "owner" of a father). In the sentence above, Lucy is the "owner" of the car.
+Q 3815 [radio] I love _____.
+ 5808) A. the new book of Rowling
+ 5809) B. the new book's Rowling
+ 5810) C. Rowling's new book
+  SITE FEEDBACK: ‣ We use 's with people (and pets) and we use of with things. /  ‣ The 's goes with the owner or possessor. My father's dog= the dog of my father (my father is the "owner" of the dog). My dog's father= the father of my dog (my dog is the "owner" of a father). In the sentence above Rowling is the owner of the new book.
+Q 3816 [radio] _____ is this absurd idea?
+ 5811) A. Who's
+ 5812) B. Whose
+ 5813) C. Whos'
+  SITE FEEDBACK: ‣ Whose = possessive; who's = who is. We can say Whose is this absurd idea? but NOT Who is is this absurd idea?.
+Q 3817 [radio] _____ the person in the photo?
+ 5814) A. Who's
+ 5815) B. Whos'
+ 5816) C. Whose
+  SITE FEEDBACK: ‣ Who's = who is; whose = possessive. We can say Who is the person in the photo? but NOT Whose the person in the photo? (Where is the verb then?).
+Q 3818 [radio] In this school, 100% of _____ are recycled. All the students recycle their textbooks.
+ 5817) A. the textbooks' students
+ 5818) B. the students' textbooks
+ 5819) C. the student's textbooks
+  SITE FEEDBACK: ‣ In this sentence we have the plural word students. We add ‘ (apostrophe) after a plural noun ending in -s. /  ‣ student's is not possible because it's not only one student. /  ‣ The 's goes with the owner or possessor. My father's dog= the dog of my father (my father is the "owner" of the dog). My dog's father= the father of my dog (my dog is the "owner" of a father). In the sentence above, the students are the owners of the books.
+Q 3819 [radio] _____ is next Sunday.
+ 5820) A. Sheila and Mike's wedding
+ 5821) B. Sheila's and Mike's wedding
+ 5822) C. the wedding of Sheila and Mike
+  SITE FEEDBACK: ‣ We use 's with people (and pets) and we use of with things. /  ‣ When one thing belongs to two or more people, add ‘s only after the last noun. In this sentence there is one thing (the wedding) and two people (Sheila and Mike).
+
+=== PAGE /grammar-points/a1/questions/
+Q 3759 [radio] _____ to the gym?
+ 7810) A. How often you go
+ 7811) B. How often you do go
+ 7812) C. How often do you go
+ 7813) D. How often go you
+  SITE FEEDBACK: ‣ We can also use how + adjective/adverb as a question word in phrases like how often, how old, how tall, etc.
+Q 3760 [radio] _____ ?
+ 7814) A. What time does she get up
+ 7815) B. What time she does get up
+ 7816) C. What time she gets up
+ 7817) D. What time gets up she
+  SITE FEEDBACK: ‣ We can also use what + noun as a question word in phrases like what time, what colour, what size, etc.
+Q 3761 [radio] _____ ?
+ 7818) A. Who is the man over there
+ 7819) B. Who the man over there is
+ 7820) C. Who the man is over there
+ 7821) D. Who over there is the man
+  SITE FEEDBACK: ‣ When the verb in the sentence is be, we use am/is/are as auxiliary verb before the subject. Then the word order is Question Word (who) + Auxiliary (is) + Subject (the man)
+Q 3762 [radio] _____?
+ 7822) A. Where your sister is from
+ 7823) B. Where is your sister from
+ 7824) C. Where from is your sister
+ 7825) D. Where does your sister be from
+  SITE FEEDBACK: ‣ When the verb in the sentence is be, we use am/is/are as auxiliary verb before the subject. Then the word order is Question Word (where) + Auxiliary (is) + Subject (your sister)
+Q 3763 [radio] _____?
+ 7826) A. He does exercise
+ 7827) B. He does do exercise
+ 7828) C. Do he does exercise
+ 7829) D. Does he do exercise
+  SITE FEEDBACK: ‣ When we have a verb that is not be, we use do/does as an auxiliary verb. The word order is (Question Word) + do/does (does) + subject (he) + infinitive (do).
+Q 3764 [radio] _____?
+ 7830) A. Why you do want this job
+ 7831) B. Why you want this job
+ 7832) C. Why do you want this job
+ 7833) D. Why want you this job
+  SITE FEEDBACK: ‣ When we have a verb that is not be, we use do/does as an auxiliary verb. The word order is Question Word (why) + do/does (do) + subject (you) + infinitive (want).
+Q 3765 [radio] _____ for breakfast?
+ 7834) A. What they have
+ 7835) B. What they do have
+ 7836) C. What do they have
+ 7837) D. What have they
+  SITE FEEDBACK: ‣ When we have a verb that is not be, we use do/does as an auxiliary verb. The word order is Question Word (what) + do/does (do) + subject (they) + infinitive (have).
+Q 3766 [radio] _____?
+ 7838) A. When you are free
+ 7839) B. When free are you
+ 7840) C. When do you be free
+ 7841) D. When are you free
+  SITE FEEDBACK: ‣ When the verb in the sentence is be, we use am/is/are as auxiliary verb before the subject. Then the word order is Question Word (when) + Auxiliary (are) + Subject (you)
+Q 3767 [radio] _____?
+ 7842) A. How your sister is old
+ 7843) B. How old is your sister
+ 7844) C. How old your sister is
+ 7845) D. How old does your sister be
+  SITE FEEDBACK: ‣ We can also use how + adjective as a question word in phrases like how often, how old, how tall, etc. /  ‣ When the verb in the sentence is be, we use am/is/are as auxiliary verb before the subject. Then the word order is Question Word (how old) + Auxiliary (is) + Subject (your sister)
+Q 3768 [radio] _____?
+ 7846) A. Is your friend from Canada
+ 7847) B. Is from Canada your friend
+ 7848) C. Your friend is from Canada
+ 7849) D. Does your friend be from Canada
+  SITE FEEDBACK: ‣ When the verb in the sentence is be, we use am/is/are as auxiliary verb before the subject. Then the word order is (Question Word) + Auxiliary (is) + Subject (your friend)
+
+=== PAGE /grammar-points/a1/adjectives/
+Q 3706 [radio] Which is the correct order?
+ 7910) A. Your great idea is.
+ 7911) B. Your idea is great.
+ 7912) C. Great your idea is.
+ 7913) D. Your idea great is.
+  SITE FEEDBACK: ‣ be (am/is/are) + adjective (great)
+Q 3707 [radio] Which is the correct order?
+ 7914) A. She an exceptional student is.
+ 7915) B. She is a student exceptional.
+ 7916) C. She is an exceptional student.
+ 7917) D. She a student exceptional is.
+  SITE FEEDBACK: ‣ adjective + noun
+Q 3708 [radio] Which is the correct order?
+ 7918) A. Is this shirt Italian?
+ 7919) B. Is Italian this shirt?
+ 7920) C. This shirt Italian is?
+ 7921) D. This shirt is Italian?
+  SITE FEEDBACK: ‣ In questions the adjective can go after be + subject.
+Q 3709 [radio] Which is the correct order?
+ 7922) A. That restaurant very dirty is.
+ 7923) B. That is a restaurant very dirty.
+ 7924) C. Very dirty is that restaurant.
+ 7925) D. That restaurant is very dirty.
+  SITE FEEDBACK: ‣ be (am/is/are) + adjective (very dirty)
+Q 3710 [radio] Which is the correct order?
+ 7926) A. He a Korean car has.
+ 7927) B. He has a Korean car.
+ 7928) C. He has a car Korean.
+ 7929) D. A car Korean he has.
+  SITE FEEDBACK: ‣ adjective (Korean) + noun (car)
+Q 3711 [radio] Which is the correct order?
+ 7890) A. This is our restaurant favourite.
+ 7891) B. Our favourite restaurant is this.
+ 7892) C. Is this our restaurant favourite?
+ 7893) D. This is our favourite restaurant.
+  SITE FEEDBACK: ‣ Use adjective (favourite) + noun (restaurant).
+Q 3713 [radio] Which is the correct order?
+ 7894) A. It's a building very modern.
+ 7895) B. It's a very modern building.
+ 7896) C. Very modern it's a building.
+ 7897) D. A building very modern is.
+  SITE FEEDBACK: ‣ adjective (very modern) + noun (flat)
+Q 3714 [radio] Which is the correct order?
+ 7898) A. Are your friends German?
+ 7899) B. Are German your friends?
+ 7900) C. German are your friends?
+ 7901) D. Your friends are German?
+  SITE FEEDBACK: ‣ In questions the adjective can go after be + subject.
+Q 3715 [radio] Which is the correct order?
+ 7902) A. This language difficult is.
+ 7903) B. A language difficult this is.
+ 7904) C. This is a difficult language.
+ 7905) D. This is a language difficult.
+  SITE FEEDBACK: ‣ adjective (difficult) + noun (language)
+Q 3716 [radio] Which is the correct order?
+ 7906) A. This language is difficult.
+ 7907) B. This language difficult is.
+ 7908) C. Is difficult this language?
+ 7909) D. This language is difficult?
+  SITE FEEDBACK: ‣ be (am/is/are) + adjective (difficult). In this sentence, the noun (language) is the subject. /  ‣ In questions the adjective can go after be + subject: Is this language difficult?
+Q 3717 [gaps] exam / easy ⇒ This exam {1} . It's {2}
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answers: is easy/an easy exam /  ‣ be (am/is/are) + adjective or adjective + noun.
+Q 3718 [gaps] watch / old ⇒ This watch {1} . It's {2} .
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answers: is old/an old watch /  ‣ be (am/is/are) + adjective or adjective + noun.
+Q 3719 [gaps] exotic / countries ⇒ These countries {1} . They're {2} .
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answers: are exotic/exotic countries /  ‣ be (am/is/are) + adjective or adjective + noun.
+Q 3720 [gaps] view / amazing ⇒ The view {1} . It's {2} .
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answers: is amazing/an amazing view /  ‣ be (am/is/are) + adjective or adjective + noun.
+Q 3721 [gaps] difficult / situation ⇒ The situation {1} . It's {2} .
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answers: is difficult/a difficult situation /  ‣ be (am/is/are) + adjective; adjective + noun.
+Q 3722 [gaps] cars / fast ⇒ These cars {1} . They are {2} .
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answers: are fast/fast cars /  ‣ be (am/is/are) + adjective or adjective + noun.
+Q 3723 [gaps] dangerous / city ⇒ It's {1} . This city {2} .
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answers: a dangerous city/is dangerous /  ‣ be (am/is/are) + adjective or adjective + noun.
+Q 3724 [gaps] expensive / clothes ⇒ These clothes {1} . They're {2} .
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answers: are expensive/expensive clothes /  ‣ be (am/is/are) + adjective or adjective + noun.
+Q 3725 [gaps] man / strong ⇒ He's {1} . This man {2}
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: a strong man/is strong /  ‣ be (am/is/are) + adjective or adjective + noun.
+Q 3726 [gaps] box / empty ⇒ This box {1} . It's {2}
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: is empty/an empty box /  ‣ be (am/is/are) + adjective or adjective + noun.
+
+=== PAGE /grammar-points/a1/a-an-plurals/
+Q 3686 [gaps] {1} bus ⇒ {2}
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answers: a/buses /  ‣ Use a before consonant /  ‣ Add -es after -s, -ch, -sh, -x
+Q 3687 [gaps] {1} nice family ⇒ nice {2}
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answers: a/families /  ‣ Use a before consonant /  ‣ Delete -y and add -ies after consonant + -y
+Q 3688 [gaps] {1} Italian child ⇒ Italian {2}
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answers: an/children /  ‣ Use an before a vowel (a e i o u) /  ‣ Child has the irregular plural children
+Q 3689 [gaps] {1} strong tooth ⇒ strong {2}
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answers: a/teeth /  ‣ Use a before consonant /  ‣ Tooth has the irregular plural teeth
+Q 3690 [gaps] {1} nice dress ⇒ nice {2}
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: a/dresses /  ‣ Use a before consonant /  ‣ Add -es after -s, -ch, -sh, -x
+Q 3691 [gaps] {1} angry wife ⇒ angry {2}
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answers: an/wives /  ‣ Use an before a vowel (a e i o u) /  ‣ Delete -f or -fe and add -ves after -f or -fe
+Q 3692 [gaps] {1} uniform ⇒ {2}
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: a/uniforms /  ‣ Use a and NOT an with nouns beginning with u when it is pronounced /ju:/, like university.  /  ‣ Add -s as a general rule
+Q 3693 [gaps] {1} amazing website ⇒ amazing {2}
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answers: an/websites /  ‣ Use an before a vowel (a e i o u) /  ‣ Add -s as a general rule
+Q 3694 [gaps] {1} elephant ⇒ {2}
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answer: an/elephants /  ‣ Use an before a vowel (a e i o u) /  ‣ Add -s as a general rule
+Q 3695 [gaps] {1} empty library ⇒ empty {2}
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Correct answers: an/libraries /  ‣ Use an before a vowel (a e i o u) /  ‣ Delete -y and add -ies after consonant + -y
+
+=== PAGE /grammar-points/a1/possessive-adjectives/
+Q 3636 [gaps] Harry is {1} friend. {2} has a nice house.
+  {1} options: my | I
+  {2} options: His | He
+  SITE FEEDBACK: Correct answers: my/He /  ‣ We use subject pronouns + the verb and we use possessive adjectives + noun.
+Q 3637 [gaps] {1} are very happy with {2} new dog.
+  {1} options: They | Their
+  {2} options: they | their
+  SITE FEEDBACK: Correct answers: They/their /  ‣ We use subject pronouns + the verb and we use possessive adjectives + noun.
+Q 3639 [gaps] {1} wants {2} breakfast.
+  {1} options: He | His
+  {2} options: he | his
+  SITE FEEDBACK: Correct answer: He/his /  ‣ We use subject pronouns + the verb and we use possessive adjectives + noun.
+Q 3642 [gaps] Susan lives on {1} street. {2} house is very near.
+  {1} options: my | I
+  {2} options: His | Her
+  SITE FEEDBACK: Correct answers: my/Her /  ‣ We use subject pronouns + the verb and we use possessive adjectives + noun. /  ‣ We use he/his for a man and she/her for a woman.
+Q 3646 [radio] Go to _____ office.
+ 5763) A. you
+ 5764) B. your
+ 5765) C. yours
+  SITE FEEDBACK: ‣ We use subject pronouns + the verb and we use possessive adjectives + noun. /  ‣ And possessive adjectives are always singular. Adjectives in English have no plural form.
+Q 3657 [radio] _____ six o'clock. Let's go home.
+ 5766) A. It's
+ 5767) B. Its
+ 5768) C. His
+  SITE FEEDBACK: ‣ Its = possessive adjective. It’s = it is (subject + verb be). /  ‣ We use it's to talk about time and weather.
+Q 3658 [radio] Our products are famous for _____ durability.
+ 5769) A. their
+ 5770) B. its
+ 5771) C. they
+  SITE FEEDBACK: ‣ Products is plural. For things, we use it for singular and they for plural. /  ‣ Their is a possessive adjective. we use possessive adjectives + noun.
+Q 3659 [radio] I'm very happy about _____ marks.
+ 5772) A. you
+ 5773) B. your
+ 5774) C. yours
+  SITE FEEDBACK: ‣ We use subject pronouns + the verb and we use possessive adjectives + noun (your + marks). /  ‣ And possessive adjectives are always singular. Adjectives in English have no plural form.
+Q 3660 [radio] Valeria is from Italy, but _____ 's in Ireland now.
+ 5775) A. his
+ 5776) B. her
+ 5777) C. she
+  SITE FEEDBACK: ‣ We need she (subject pronoun) because we use subject pronoun + verb (she + is). Valeria = she.
+Q 3661 [radio] These are my friends. _____ from Finland.
+ 5778) A. Their
+ 5779) B. They're
+ 5780) C. They
+  SITE FEEDBACK: ‣ My friends are from Finland= They are (=They're) from Finland.
+Q 3662 [radio] The apartment has _____ own private garden.
+ 5781) A. it's
+ 5782) B. its
+ 5783) C. his
+  SITE FEEDBACK: ‣ We use subject pronouns + the verb and we use possessive adjectives + noun (its + own private garden). /  ‣ We use its because an apartment is not a person, and we use it-its for things.
+Q 3663 [radio] Are _____ umbrellas here?
+ 5784) A. we
+ 5785) B. ours
+ 5786) C. our
+  SITE FEEDBACK: ‣ We need a possessive adjective before a noun (our + umbrellas). And possessive adjectives are always singular. /  ‣ Adjectives in English have no plural form.
+Q 3664 [radio] Mark and Linda are in _____ caravan.
+ 5787) A. they
+ 5788) B. their
+ 5789) C. its
+  SITE FEEDBACK: ‣ We use possessive adjectives + noun (their + caravan). /  ‣ Mark and Linda are people (plural) and we use they-their for people.
+Q 3665 [radio] I need _____ tools, please.
+ 5790) A. your
+ 5791) B. you
+ 5792) C. yours
+  SITE FEEDBACK: ‣ We use subject pronouns + verb and we use possessive adjectives + noun (your + tools). And possessive adjectives do not have a plural form.
+
+=== PAGE /grammar-points/a1/this-that-these-those/
+Q 3624 [radio] _____ is my hand!
+ 5759) A. This
+ 5760) B. That
+  SITE FEEDBACK: ‣ My hand is here, and we use this or these for things that are here (near).
+
+=== PAGE /grammar-points/a2/reported-speech-indirect-speech/
+Q 3563 [radio] 'I'm really tired' ⇒ She said that she _____ really tired.
+ 5713) A. is
+ 5714) B. has been
+ 5715) C. was
+  SITE FEEDBACK: ‣ Direct speech: present simple ⇒ Reported speech: past simple
+Q 3564 [radio] 'I don't want any trouble.' ⇒ He told me he _____ any trouble.
+ 5716) A. didn't want
+ 5717) B. hasn't wanted
+ 5718) C. hadn't wanted
+  SITE FEEDBACK: ‣ Direct speech: present simple ⇒ Reported speech: past simple
+Q 3565 [radio] 'I'll be at home all afternoon.' ⇒ She said she _____ at home all afternoon.
+ 5719) A. was
+ 5720) B. 'd be
+ 5721) C. 'd been
+  SITE FEEDBACK: ‣ Direct speech: will ⇒ Reported speech: would. /  ‣ Remember that 'd be = would be, and 'd been = had been
+Q 3566 [radio] 'I love my family.' ⇒ He told me that _____ loved _____ family.
+ 5722) A. I / my
+ 5723) B. you / your
+ 5724) C. he / his
+  SITE FEEDBACK: ‣ Direct speech: I ⇒ Reported speech: he/she /  ‣ Direct speech: my ⇒ Reported speech: his/her
+Q 3567 [radio] 'I haven't seen Tom.' ⇒ She told me she _____ Tom.
+ 5725) A. hadn't seen
+ 5726) B. haven't seen
+ 5727) C. didn't see
+  SITE FEEDBACK: ‣ Direct speech: present perfect ⇒ Reported speech: past perfect
+Q 3568 [radio] 'You have my phone.' ⇒ The man said that _____ had _____ phone.
+ 5734) A. you / his
+ 5735) B. I / your
+ 5736) C. I / his
+  SITE FEEDBACK: ‣ Direct speech: you ⇒ Reported speech: I /  ‣ Direct speech: my ⇒ Reported speech: his/her
+Q 3569 [radio] 'I'm trying to concentrate.' ⇒ She said that she _____ to concentrate.
+ 5728) A. was trying
+ 5729) B. tried
+ 5730) C. tries
+  SITE FEEDBACK: ‣ Direct speech: present continuous ⇒ Reported speech: past continuous
+Q 3570 [radio] 'I didn't steal any money.' ⇒ The thief said that he _____ any money.
+ 5731) A. hadn't stolen
+ 5732) B. didn't steal
+ 5733) C. hasn't stolen
+  SITE FEEDBACK: ‣ Direct speech: past simple ⇒ Reported speech: past perfect
+Q 3571 [radio] 'I can lend you the money' ⇒ She told me she _____ me the money.
+ 5737) A. can lend
+ 5738) B. could lend
+ 5739) C. lent
+  SITE FEEDBACK: ‣ Direct speech: present simple ⇒ Reported speech: past simple
+Q 3572 [radio] 'I won't call you again.' ⇒ She told me she _____ again.
+ 5740) A. wouldn't call you
+ 5741) B. didn't call me
+ 5742) C. wouldn't call me
+  SITE FEEDBACK: ‣ Direct speech: will ⇒ Reported speech: would /  ‣ Direct speech: you ⇒ Reported speech: me
+
+=== PAGE /grammar-points/a2/past-perfect/
+Q 3534 [radio] I couldn't open the door because I _____ the keys at work.
+ 5686) A. 'd forget
+ 5687) B. 'd forgotten
+ 5688) C. forgot
+  SITE FEEDBACK: ‣ First I forgot the keys and after that, I couldn't open the door. /  ‣ We use the past perfect because the events are not introduced in chronological order. /  ‣ And remember the past perfect is had or 'd + past participle (-ed or 3rd column).
+Q 3535 [radio] When Rita travelled to France, she_____ the Louvre.
+ 5689) A. 'd visited
+ 5690) B. 'd visit
+ 5691) C. visited
+  SITE FEEDBACK: ‣ First Rita travelled to France, and then she visited the Louvre. /  ‣ We use the past simple because the events in this sentence are introduced in chronological order.
+Q 3536 [radio] There were no cookies in the cookie jar. Somebody _____ them all.
+ 5692) A. had eaten
+ 5693) B. 'd eat
+ 5694) C. ate
+  SITE FEEDBACK: ‣ First somebody ate the cookies, and then there were no cookies. /  ‣ We use the past perfect because the events are not introduced in chronological order. /  ‣ The form 'd eat= would eat.
+Q 3537 [radio] I saw some cookies in the cookie jar and I _____ them all.
+ 5695) A. 'd eaten
+ 5696) B. 'd eat
+ 5697) C. ate
+  SITE FEEDBACK: ‣ First I saw the cookies and then I ate them. /  ‣ We use the past simple because the events in this sentence are introduced in chronological order.
+Q 3539 [radio] I locked the door and then I _____ home.
+ 5701) A. 'd left
+ 5702) B. left
+ 5703) C. 'd leave
+  SITE FEEDBACK: ‣ First I locked the door and then I left home. /  ‣ We use the past simple because the events in this sentence are introduced in chronological order.
+Q 3540 [radio] The house was dirty because nobody _____ it.
+ 5704) A. 'd clean
+ 5705) B. had cleaned
+ 5706) C. cleaned
+  SITE FEEDBACK: ‣ First nobody cleaned the house and then it was dirty.  /  ‣ We use the past perfect because the events are not introduced in chronological order. /  ‣ The form ‘d clean= would clean.
+Q 3541 [radio] She gave me back my book because she _____ reading it.
+ 5707) A. 'd finish
+ 5708) B. 'd finished
+ 5709) C. finished
+  SITE FEEDBACK: ‣ First she finished reading the book and then she gave it back to me.  /  ‣ We use the past perfect because the events are not introduced in chronological order. /  ‣ The form ‘d finish= would finish; the past perfect is 'd + past participle (finished).
+
+=== PAGE /grammar-points/a2/so-neither/
+Q 3493 [radio] A: 'I can't go to the presentation.' B: '_____ .'
+ 5649) A. Neither can't I
+ 5650) B. Neither can I
+ 5651) C. So can I
+  SITE FEEDBACK: ‣ We use so + auxiliary verb + subject in affirmative sentences and neither + auxiliary verb + subject in negative sentences.  /  ‣ Neither/nor is a negative word, like not. For this reason, the auxiliary verb after neither should be affirmative.
+Q 3508 [checkbox, pick 2] A: 'I'm not going out tonight.' B: '_____.' Choose TWO correct answers
+ 5667) A. Neither I am
+ 5668) B. Neither am I
+ 5669) C. I am either
+ 5670) D. I'm not going out either
+  SITE FEEDBACK: ‣ We say neither + affirmative auxiliary verb + subject. And we use either at the end of a sentence with a negative verb.
+Q 3494 [radio] A: 'I haven't got time.' B: 'Neither _____.'
+ 5652) A. have I
+ 5653) B. I have
+ 5654) C. do I
+  SITE FEEDBACK: ‣ The verb have is an auxiliary verb in the form have got. /  ‣ After neither we have to use an affirmative auxiliary verb because neither is a negative word, like not.
+Q 3495 [checkbox, pick 2] A: ‘I went for a run this morning.’ B: ‘_____ .’ Choose TWO correct answers
+ 5655) A. So did I
+ 5656) B. So am I
+ 5657) C. So was I
+ 5682) D. I went for a run too
+  SITE FEEDBACK: ‣ We don't have an auxiliary verb in the first sentence, and when there isn’t an auxiliary or modal verb in the first sentence, we use do/does for present and did for past. /  ‣ We can also use too at the end of affirmative sentences to mean the same.
+Q 3496 [radio] A: 'I never go to the cinema.' B: '______.'
+ 5658) A. Neither do I
+ 5659) B. Neither am I
+ 5660) C. So am I
+  SITE FEEDBACK: ‣ We use neither because the sentence 'I never go to the cinema' is negative: never= not. /  ‣ After neither we use do because there is no auxiliary verb in the first sentence, and when there isn’t an auxiliary or modal verb in the first sentence, we use do/does for present and did for past.
+Q 3497 [radio] A: 'Sophia isn't coming with us.' B: 'And _____.'
+ 5661) A. so isn't Emily
+ 5662) B. neither is Emily
+ 5663) C. either isn't Emily
+  SITE FEEDBACK: ‣ The sentence 'Sophia isn't coming with us' is negative and we use neither + auxiliary verb + subject for negative sentences. ‣ Neither/nor is a negative word, like not. For this reason, the auxiliary verb after neither should be affirmative. /  ‣ The auxiliary verb is is because we repeat the auxiliary that we have in the first sentence.
+Q 3507 [radio] A: 'I want some pizza.' B: '_____.'
+ 5664) A. So do I
+ 5665) B. Neither do I
+ 5666) C. So I do
+  SITE FEEDBACK: ‣ The sentence 'I want some pizza' is affirmative; for this reason, we use the structure so + auxiliary verb + subject. /  ‣ There isn’t an auxiliary verb in that sentence, and when there isn’t an auxiliary or modal verb in the first sentence, we use do/does for present and did for past.
+Q 3509 [checkbox, pick 2] A: 'I wasn't scared.' B: '_____.' Choose TWO correct answers
+ 5671) A. Neither was I
+ 5672) B. Neither wasn't I
+ 5673) C. I was scared either
+ 5674) D. I wasn't scared either
+  SITE FEEDBACK: ‣ We say neither + affirmative auxiliary verb + subject. And we use either at the end of a sentence with a negative verb.
+Q 3510 [radio] A: 'I thought it was difficult.' B: '_____.'
+ 5675) A. Neither did I
+ 5676) B. So I did
+ 5677) C. So did I
+  SITE FEEDBACK: ‣ The sentence 'I thought it was difficult' is affirmative; for this reason, we use the structure so + auxiliary verb + subject. /  ‣ There isn’t an auxiliary verb in this sentence, and when there isn’t an auxiliary or modal verb in the first sentence, we use do/does for present and did for past.
+Q 3511 [checkbox, pick 2] A: 'I didn't enjoy the concert.' B: '_____.' Choose TWO correct answers
+ 5678) A. So didn't I
+ 5679) B. Neither didn't I
+ 5680) C. Neither did I
+ 5681) D. I didn't enjoy it either.
+  SITE FEEDBACK: ‣ We say neither + affirmative auxiliary verb + subject. And we use either at the end of a sentence with a negative verb.
+
+=== PAGE /grammar-points/a2/prepositions-of-movement/
+Q 3473 [radio] When he came _____ the sauna, he was sweating a lot.
+ 5622) A. out of
+ 5623) B. off
+ 5624) C. to
+  SITE FEEDBACK: ‣ We use out of with verbs of movement to describe a movement from the interior to the exterior of a 3-dimensional space.
+Q 3476 [radio] He threw the ball _____ the fence and it landed on the roof of a car.
+ 5631) A. over
+ 5632) B. up
+ 5633) C. into
+  SITE FEEDBACK: ‣ We use over to talk about movement from one side to the other, especially when you have to go up and down to do it.
+Q 3477 [radio] Salmons swim _____ rivers to lay their eggs.
+ 5634) A. across
+ 5635) B. up
+ 5636) C. over
+  SITE FEEDBACK: ‣ We use the preposition up and a verb of movement to describe a movement in that direction: go up the stairs, up a hill, etc.
+Q 3478 [radio] I'm coming _____ the hospital. The doctor has prescribed me some pills.
+ 5637) A. to
+ 5638) B. off
+ 5639) C. from
+  SITE FEEDBACK: ‣ We use from to describe the origin of the movement.
+Q 3479 [radio] He went _____ the room, walked _____ the big table and turned on the TV.
+ 5640) A. on/across
+ 5641) B. out of/over
+ 5642) C. into/around
+  SITE FEEDBACK: ‣ We use into with verbs of movement to describe a movement from outside into a 3-dimensional space. /  ‣ He made a circular movement around the table to reach the TV and turn it on.
+
+=== PAGE /grammar-points/a2/present-past-simple-passive/
+Q 3397 [radio] Mayan _____ in many regions in Guatemala and southern Mexico.
+ 5578) A. speaks
+ 5579) B. is spoke
+ 5580) C. is spoken
+  SITE FEEDBACK: ‣ People speak Mayan (active); Mayan is spoken (passive). /  ‣ The passive consists of the verb be (is) and the past participle of the verb (spoken).
+Q 3398 [radio] The match _____ by 4.1 million people.
+ 5581) A. was watched
+ 5582) B. was watch
+ 5583) C. watched
+  SITE FEEDBACK: ‣ 4.1 million people watched the match (active); the match was watched (passive).
+Q 3399 [radio] Manchego cheese _____ in La Mancha, Spain.
+ 5584) A. produced
+ 5585) B. is produced
+ 5586) C. produces
+  SITE FEEDBACK: ‣ Someone produces Manchego cheese (active); Manchego cheese is produced (passive).
+Q 3400 [radio] The authorities _____ them about the incident.
+ 5587) A. informed
+ 5588) B. were informed
+ 5589) C. were inform
+  SITE FEEDBACK: ‣ The authorities informed them (active); the authorities were informed (passive). /  ‣ We cannot say 'the authorities were informed them' because we cannot have an object after a passive verb.
+Q 3402 [radio] A lot of celebrities _____ to the party.
+ 5593) A. invited
+ 5594) B. were invited
+ 5595) C. were invite
+  SITE FEEDBACK: ‣ Someone invited a lot of celebrities (active); A lot of celebrities were invited (passive). /  ‣ The passive consists of the verb be (were) and the past participle of the verb (invited).
+Q 3403 [radio] It's important that residents _____ the water for three minutes before drinking it.
+ 5596) A. are boiled
+ 5597) B. were boiled
+ 5598) C. boil
+  SITE FEEDBACK: ‣ You boil the water (active); the water is boiled (passive).
+Q 3404 [radio] A rare species of insect _____ in the Amazon Rain Forest last year.
+ 5599) A. was discovered
+ 5600) B. discovered
+ 5601) C. was discover
+  SITE FEEDBACK: ‣ Someone discovered a rare species of insect (active); A rare species of insect was discovered (passive).  /  ‣ The passive consists of the verb be (was) and the past participle of the verb (discovered).
+
+=== PAGE /grammar-points/a2/second-conditional/
+Q 3376 [radio] If there was a fire in this building, it _____ impossible to escape.
+ 5548) A. 'd be
+ 5549) B. 'll be
+ 5550) C. was
+  SITE FEEDBACK: ‣ This is a second conditional sentence. We use past in the if clause and would + infinitive in the main clause .
+Q 3377 [radio] I'd have a car if I _____ in the city.
+ 5551) A. 'd live
+ 5552) B. live
+ 5553) C. lived
+  SITE FEEDBACK: ‣ This is a second conditional sentence. We use would + infinitive in the main clause and past in the if clause.
+Q 3378 [radio] If I _____ more free time, I'd go to the gym every day.
+ 5554) A. 'd have
+ 5555) B. had
+ 5556) C. have
+  SITE FEEDBACK: ‣ This is a second conditional sentence. We use past in the if clause and would + infinitive in the main clause .
+Q 3379 [radio] If you were more responsible, maybe your parents _____ you to do more things.
+ 5557) A. allowed
+ 5558) B. would allow
+ 5559) C. will allow
+  SITE FEEDBACK: ‣ This is a second conditional sentence. We use past in the if clause and would + infinitive in the main clause .
+Q 3380 [radio] If you sold your wedding ring, you _____ a lot of money for it.
+ 5560) A. could get
+ 5561) B. 'll get
+ 5562) C. got
+  SITE FEEDBACK: ‣ This is a second conditional sentence. We use past in the if clause and could + infinitive in the main clause .
+Q 3381 [radio] I _____ here if I wasn't interested in what you are offering.
+ 5563) A. wasn't
+ 5564) B. wouldn't be
+ 5565) C. won't be
+  SITE FEEDBACK: ‣ This is a second conditional sentence. We use would + infinitive in the main clause and past in the if clause.
+Q 3382 [radio] I don't know the answer. If I knew the answer, I _____ you.
+ 5566) A. 'd tell
+ 5567) B. 'll tell
+ 5568) C. told
+  SITE FEEDBACK: ‣ This is a second conditional sentence. We use past in the if clause and would + infinitive in the main clause .

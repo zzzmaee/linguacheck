@@ -1,0 +1,1405 @@
+{
+"8048": {
+"choices": [
+14257
+],
+"feedback": "‣ <strong>D</strong> is correct because children go to <strong>primary school</strong> after nursery."
+},
+"8049": {
+"choices": [
+14259
+],
+"feedback": "‣ <strong>B</strong> is correct because to <strong>drop</strong> a subject means to stop studying it, which fits finding it boring."
+},
+"8050": {
+"choices": [
+14264
+],
+"feedback": "‣ <strong>C</strong> is correct because we <strong>attend</strong> classes; Tim had been missing them."
+},
+"8051": {
+"choices": [
+14267
+],
+"feedback": "‣ <strong>B</strong> is correct because we <strong>do a project</strong> on a topic; 'research' is uncountable and cannot follow 'a'."
+},
+"8052": {
+"choices": [
+14271
+],
+"feedback": "‣ <strong>B</strong> is correct because to <strong>pass</strong> an exam means to be successful in it, which explains the relief."
+},
+"8053": {
+"choices": [
+14274
+],
+"feedback": "‣ <strong>A</strong> is correct because we <strong>give a presentation</strong>."
+},
+"8054": {
+"choices": [
+14278
+],
+"feedback": "‣ <strong>A</strong> is correct because we <strong>enrol in</strong> a course."
+},
+"8055": {
+"choices": [
+14285
+],
+"feedback": "‣ <strong>D</strong> is correct because at 11 children start <strong>middle school</strong>; the other options are for different ages."
+},
+"8056": {
+"choices": [
+14287
+],
+"feedback": "‣ <strong>B</strong> is correct because we <strong>take notes</strong> in class."
+},
+"8057": {
+"choices": [
+14292
+],
+"feedback": "‣ <strong>C</strong> is correct because we say <strong>get good grades</strong>."
+},
+"8058": {
+"gaps": [
+[
+"grade"
+]
+],
+"feedback": "Correct answer: grade<br>‣ A <strong>grade</strong> is the mark given for a piece of work."
+},
+"8059": {
+"gaps": [
+[
+"failed"
+]
+],
+"feedback": "Correct answer: failed<br>‣ To <strong>fail</strong> an exam means not to pass it, which is disappointing."
+},
+"8060": {
+"gaps": [
+[
+"graduates"
+]
+],
+"feedback": "Correct answer: graduates<br>‣ To <strong>graduate from</strong> school means to finish it successfully; present simple after 'after' for the future."
+},
+"8061": {
+"gaps": [
+[
+"research"
+]
+],
+"feedback": "Correct answer: research<br>‣ We <strong>do research</strong> to find information for a project."
+},
+"8062": {
+"gaps": [
+[
+"sitting"
+]
+],
+"feedback": "Correct answer: sitting<br>‣ To <strong>sit an exam</strong> means to take it."
+},
+"8063": {
+"gaps": [
+[
+"expelled"
+]
+],
+"feedback": "Correct answer: expelled<br>‣ To be <strong>expelled</strong> means to be officially made to leave a school."
+},
+"8064": {
+"gaps": [
+[
+"hand in"
+]
+],
+"feedback": "Correct answer: hand in<br>‣ To <strong>hand in</strong> work means to give it to the teacher."
+},
+"8065": {
+"gaps": [
+[
+"study"
+]
+],
+"feedback": "Correct answer: study<br>‣ To <strong>study abroad</strong> means to study in another country."
+},
+"8066": {
+"gaps": [
+[
+"enrolled"
+]
+],
+"feedback": "Correct answer: enrolled<br>‣ To <strong>enrol in</strong> a course means to officially join it."
+},
+"8067": {
+"gaps": [
+[
+"revising"
+]
+],
+"feedback": "Correct answer: revising<br>‣ To <strong>revise for</strong> exams means to study what you have learnt; 'enjoy' is followed by -ing."
+},
+"8068": {
+"gaps": [
+[
+"university"
+]
+],
+"feedback": "Correct answer: university<br>‣ You leave <strong>university</strong> with a diploma or degree."
+},
+"8069": {
+"gaps": [
+[
+"enrol",
+"enroll"
+]
+],
+"feedback": "Correct answer: enrol<br>‣ To <strong>enrol in</strong> a course means to register for it."
+},
+"8070": {
+"gaps": [
+[
+"exam"
+]
+],
+"feedback": "Correct answer: exam<br>‣ We <strong>sit an exam</strong>; note 'an' before a vowel sound."
+},
+"8071": {
+"gaps": [
+[
+"presentation"
+]
+],
+"feedback": "Correct answer: presentation<br>‣ We <strong>give a presentation</strong> on a topic."
+},
+"8072": {
+"gaps": [
+[
+"essay"
+]
+],
+"feedback": "Correct answer: essay<br>‣ We <strong>write an essay</strong> on a topic."
+},
+"8073": {
+"gaps": [
+[
+"hand in"
+]
+],
+"feedback": "Correct answer: hand in<br>‣ To <strong>hand in</strong> an assignment means to submit it."
+},
+"8074": {
+"gaps": [
+[
+"homework"
+]
+],
+"feedback": "Correct answer: homework<br>‣ We <strong>do homework</strong>."
+},
+"8075": {
+"gaps": [
+[
+"revising"
+]
+],
+"feedback": "Correct answer: revising<br>‣ To <strong>revise</strong> means to study for an exam; 'spend time' is followed by -ing."
+},
+"8076": {
+"gaps": [
+[
+"expelled"
+]
+],
+"feedback": "Correct answer: expelled<br>‣ To be <strong>expelled from</strong> school means to be forced to leave it."
+},
+"8077": {
+"gaps": [
+[
+"graduate"
+]
+],
+"feedback": "Correct answer: graduate<br>‣ To <strong>graduate from</strong> college means to complete your studies."
+},
+"8028": {
+"choices": [
+14214
+],
+"feedback": "‣ <strong>A</strong> is correct because to <strong>get to know</strong> someone means to learn more about them."
+},
+"8029": {
+"choices": [
+14220
+],
+"feedback": "‣ <strong>C</strong> is correct because to <strong>get on</strong> (well) means to have a good relationship."
+},
+"8030": {
+"choices": [
+14224
+],
+"feedback": "‣ <strong>C</strong> is correct because to <strong>hang out with</strong> friends means to spend relaxed time with them."
+},
+"8035": {
+"choices": [
+14243
+],
+"feedback": "‣ <strong>B</strong> is correct because to <strong>keep in touch</strong> means to stay in contact."
+},
+"8031": {
+"choices": [
+14226
+],
+"feedback": "‣ <strong>A</strong> is correct because to <strong>have a crush on</strong> someone means to be attracted to them."
+},
+"8032": {
+"choices": [
+14233
+],
+"feedback": "‣ <strong>D</strong> is correct because to <strong>propose to</strong> someone means to ask them to marry you."
+},
+"8033": {
+"choices": [
+14234
+],
+"feedback": "‣ <strong>A</strong> is correct because to <strong>break up</strong> means to end a romantic relationship."
+},
+"8034": {
+"choices": [
+14241
+],
+"feedback": "‣ <strong>D</strong> is correct because <strong>having an affair</strong> means having a secret romantic relationship, a reason for divorce."
+},
+"8036": {
+"choices": [
+14249
+],
+"feedback": "‣ <strong>D</strong> is correct because to <strong>lose touch with</strong> someone means to stop being in contact."
+},
+"8037": {
+"choices": [
+14250
+],
+"feedback": "‣ <strong>A</strong> is correct because to <strong>fall out with</strong> someone means to argue and stop being friends."
+},
+"8038": {
+"gaps": [
+[
+"partner"
+]
+],
+"feedback": "Correct answer: partner<br>‣ A <strong>partner</strong> is the person you are in a romantic relationship and live with."
+},
+"8039": {
+"gaps": [
+[
+"date"
+]
+],
+"feedback": "Correct answer: date<br>‣ To <strong>have a date</strong> with someone means to arrange a romantic meeting."
+},
+"8040": {
+"gaps": [
+[
+"best friend"
+]
+],
+"feedback": "Correct answer: best friend<br>‣ Your <strong>best friend</strong> is your closest friend."
+},
+"8041": {
+"gaps": [
+[
+"colleague"
+]
+],
+"feedback": "Correct answer: colleague<br>‣ A <strong>colleague</strong> is someone you work with."
+},
+"8042": {
+"gaps": [
+[
+"blind dates"
+]
+],
+"feedback": "Correct answer: blind dates<br>‣ A <strong>blind date</strong> is a date with someone you have never met."
+},
+"8043": {
+"gaps": [
+[
+"couple"
+]
+],
+"feedback": "Correct answer: couple<br>‣ A <strong>couple</strong> is two people in a romantic relationship."
+},
+"8044": {
+"gaps": [
+[
+"wife"
+]
+],
+"feedback": "Correct answer: wife<br>‣ Your <strong>wife</strong> is the woman you are married to."
+},
+"8045": {
+"gaps": [
+[
+"acquaintance"
+]
+],
+"feedback": "Correct answer: acquaintance<br>‣ An <strong>acquaintance</strong> is someone you know but not well."
+},
+"8046": {
+"gaps": [
+[
+"ex"
+]
+],
+"feedback": "Correct answer: ex<br>‣ Your <strong>ex</strong> is your former partner or spouse."
+},
+"8047": {
+"gaps": [
+[
+"flatmate"
+]
+],
+"feedback": "Correct answer: flatmate<br>‣ A <strong>flatmate</strong> is someone you share a flat with."
+},
+"8027": {
+"gaps": [
+[
+"close friends"
+],
+[
+"got on"
+],
+[
+"flatmates"
+],
+[
+"date"
+],
+[
+"go out"
+],
+[
+"crush"
+],
+[
+"break up"
+],
+[
+"proposed"
+],
+[
+"got married"
+],
+[
+"husband"
+]
+],
+"feedback": "Correct answer: close friends / got on / flatmates / date / go out / crush / break up / proposed / got married / husband<br>‣ <strong>Get on</strong> = have a good relationship; <strong>go out with</strong> = date; <strong>have a crush on</strong> = be attracted to; <strong>propose to</strong> = ask to marry."
+},
+"6915": {
+"choices": [
+11925
+],
+"feedback": "‣ <strong>D</strong> is correct because we use present simple for habits (<strong>don't often drink</strong>) and present continuous for actions happening now (<strong>'m celebrating</strong>)."
+},
+"6916": {
+"choices": [
+11927
+],
+"feedback": "‣ <strong>B</strong> is correct because <strong>Will you</strong> is used to make requests."
+},
+"6917": {
+"choices": [
+11932
+],
+"feedback": "‣ <strong>C</strong> is correct because we use no article for things in general (milk) and <strong>the</strong> for specific things (the milk that you buy)."
+},
+"6918": {
+"choices": [
+11934
+],
+"feedback": "‣ <strong>A</strong> is correct because after <strong>will</strong> we need <strong>have to</strong>; 'must' cannot follow another modal."
+},
+"6919": {
+"choices": [
+11940
+],
+"feedback": "‣ <strong>C</strong> is correct because <strong>each other</strong> expresses a reciprocal action between two people."
+},
+"6920": {
+"choices": [
+11944
+],
+"feedback": "‣ <strong>C</strong> is correct because the past perfect <strong>had never had</strong> describes experience up to a moment in the past."
+},
+"6921": {
+"choices": [
+11946
+],
+"feedback": "‣ <strong>A</strong> is correct because third conditional: <strong>would have + past participle</strong> with 'if + past perfect'."
+},
+"6922": {
+"choices": [
+11951
+],
+"feedback": "‣ <strong>B</strong> is correct because <strong>too + adjective + to-infinitive</strong>."
+},
+"6923": {
+"choices": [
+11954
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>either ... or</strong> presents two alternatives."
+},
+"6924": {
+"choices": [
+11961
+],
+"feedback": "‣ <strong>D</strong> is correct because a negative statement takes a positive tag: <strong>has she</strong>."
+},
+"6925": {
+"choices": [
+11963
+],
+"feedback": "‣ <strong>B</strong> is correct because <strong>so as not to</strong> expresses a negative purpose."
+},
+"6926": {
+"choices": [
+11968
+],
+"feedback": "‣ <strong>C</strong> is correct because we say <strong>obsessed with</strong>."
+},
+"6927": {
+"choices": [
+11970
+],
+"feedback": "‣ <strong>A</strong> is correct because we say <strong>from the beginning</strong>; 'since' is used with points in time but 'from the beginning' is the fixed phrase."
+},
+"6928": {
+"choices": [
+11977
+],
+"feedback": "‣ <strong>D</strong> is correct because a compound adjective before a noun uses a hyphen and singular noun: <strong>30-minute</strong> walk."
+},
+"6929": {
+"choices": [
+11981
+],
+"feedback": "‣ <strong>D</strong> is correct because to <strong>hang out</strong> means to spend time relaxing with friends."
+},
+"7977": {
+"choices": [
+14137
+],
+"feedback": "‣ <strong>D</strong> is correct because you try on clothes in the <strong>fitting room</strong>."
+},
+"7978": {
+"choices": [
+14139
+],
+"feedback": "‣ <strong>B</strong> is correct because <strong>purchased</strong> means bought."
+},
+"7979": {
+"choices": [
+14144
+],
+"feedback": "‣ <strong>C</strong> is correct because cashiers put money in the <strong>cash register</strong>."
+},
+"7980": {
+"choices": [
+14147
+],
+"feedback": "‣ <strong>B</strong> is correct because a <strong>sales assistant</strong> helps customers in a shop."
+},
+"7981": {
+"choices": [
+14152
+],
+"feedback": "‣ <strong>C</strong> is correct because a <strong>receipt</strong> is proof of purchase needed for a refund."
+},
+"7982": {
+"choices": [
+14157
+],
+"feedback": "‣ <strong>D</strong> is correct because after paying you leave the <strong>shop</strong>."
+},
+"7983": {
+"choices": [
+14158
+],
+"feedback": "‣ <strong>A</strong> is correct because the <strong>cashier</strong> takes payment."
+},
+"7984": {
+"choices": [
+14162
+],
+"feedback": "‣ <strong>A</strong> is correct because to <strong>try on</strong> clothes means to put them on to check the fit."
+},
+"7985": {
+"choices": [
+14168
+],
+"feedback": "‣ <strong>C</strong> is correct because shops have a <strong>sale</strong> with reduced prices after Christmas."
+},
+"7986": {
+"choices": [
+14173
+],
+"feedback": "‣ <strong>D</strong> is correct because the <strong>price</strong> is how much something costs."
+},
+"7987": {
+"gaps": [
+[
+"shopping mall"
+]
+],
+"feedback": "Correct answer: shopping mall<br>‣ A <strong>shopping mall</strong> is a large building with many stores."
+},
+"7988": {
+"gaps": [
+[
+"cashier"
+]
+],
+"feedback": "Correct answer: cashier<br>‣ The <strong>cashier</strong> takes payment from customers."
+},
+"7989": {
+"gaps": [
+[
+"sale"
+]
+],
+"feedback": "Correct answer: sale<br>‣ A shop <strong>having a sale</strong> sells items at reduced prices."
+},
+"7990": {
+"gaps": [
+[
+"fitting room"
+]
+],
+"feedback": "Correct answer: fitting room<br>‣ You try on clothes in a <strong>fitting room</strong>."
+},
+"7991": {
+"gaps": [
+[
+"refund"
+]
+],
+"feedback": "Correct answer: refund<br>‣ A <strong>refund</strong> is money returned when you return an item."
+},
+"7992": {
+"gaps": [
+[
+"price"
+]
+],
+"feedback": "Correct answer: price<br>‣ The <strong>price</strong> is how much something costs."
+},
+"7993": {
+"gaps": [
+[
+"supermarket"
+]
+],
+"feedback": "Correct answer: supermarket<br>‣ A <strong>supermarket</strong> sells food and household items."
+},
+"7994": {
+"gaps": [
+[
+"customer"
+]
+],
+"feedback": "Correct answer: customer<br>‣ A <strong>customer</strong> is a person who buys from a shop."
+},
+"7995": {
+"gaps": [
+[
+"cash register"
+]
+],
+"feedback": "Correct answer: cash register<br>‣ Money is kept in the <strong>cash register</strong>."
+},
+"7996": {
+"gaps": [
+[
+"window shopping"
+]
+],
+"feedback": "Correct answer: window shopping<br>‣ <strong>Window shopping</strong> means looking at items in shops without buying."
+},
+"7997": {
+"gaps": [
+[
+"help"
+]
+],
+"feedback": "Correct answer: help<br>‣ <strong>How can I help you?</strong> is a common offer of assistance."
+},
+"7998": {
+"gaps": [
+[
+"size"
+]
+],
+"feedback": "Correct answer: size<br>‣ We ask for clothes <strong>in size</strong> six."
+},
+"7999": {
+"gaps": [
+[
+"here"
+]
+],
+"feedback": "Correct answer: here<br>‣ <strong>Here you go</strong> is said when giving something to someone."
+},
+"8000": {
+"gaps": [
+[
+"try"
+]
+],
+"feedback": "Correct answer: try<br>‣ To <strong>try on</strong> clothes means to put them on to check the fit."
+},
+"8001": {
+"gaps": [
+[
+"fitting room"
+]
+],
+"feedback": "Correct answer: fitting room<br>‣ The <strong>fitting room</strong> is where you try clothes on."
+},
+"8002": {
+"gaps": [
+[
+"take"
+]
+],
+"feedback": "Correct answer: take<br>‣ <strong>I'll take this one</strong> means I'll buy it."
+},
+"8003": {
+"gaps": [
+[
+"cashier"
+]
+],
+"feedback": "Correct answer: cashier<br>‣ The <strong>cashier</strong> is where you pay."
+},
+"8004": {
+"gaps": [
+[
+"card"
+]
+],
+"feedback": "Correct answer: card<br>‣ We say <strong>pay by card</strong>."
+},
+"8005": {
+"gaps": [
+[
+"cash"
+]
+],
+"feedback": "Correct answer: cash<br>‣ We say <strong>pay in cash</strong>."
+},
+"8006": {
+"gaps": [
+[
+"receipt"
+]
+],
+"feedback": "Correct answer: receipt<br>‣ A <strong>receipt</strong> is the paper proof of payment."
+},
+"7947": {
+"choices": [
+14096
+],
+"feedback": "‣ <strong>C</strong> is correct because <strong>optimistic</strong> people expect good things to happen."
+},
+"7948": {
+"choices": [
+14101
+],
+"feedback": "‣ <strong>D</strong> is correct because <strong>generous</strong> people like sharing and giving."
+},
+"7949": {
+"choices": [
+14102
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>shy</strong> people are nervous about speaking to others."
+},
+"7950": {
+"choices": [
+14109
+],
+"feedback": "‣ <strong>D</strong> is correct because an <strong>unreliable</strong> person cannot be trusted to do what they should."
+},
+"7951": {
+"choices": [
+14110
+],
+"feedback": "‣ <strong>A</strong> is correct because a <strong>responsible</strong> person can be trusted to look after things."
+},
+"7952": {
+"choices": [
+14115
+],
+"feedback": "‣ <strong>B</strong> is correct because a <strong>reliable</strong> person is someone you can count on."
+},
+"7953": {
+"choices": [
+14120
+],
+"feedback": "‣ <strong>C</strong> is correct because <strong>rude</strong> means impolite."
+},
+"7954": {
+"choices": [
+14122
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>unfriendly</strong> people do not welcome others."
+},
+"7955": {
+"choices": [
+14129
+],
+"feedback": "‣ <strong>D</strong> is correct because <strong>easygoing</strong> people are relaxed and don't worry."
+},
+"7956": {
+"choices": [
+14132
+],
+"feedback": "‣ <strong>C</strong> is correct because <strong>mean</strong> means unkind, deliberately hurting others."
+},
+"7957": {
+"gaps": [
+[
+"kind"
+]
+],
+"feedback": "Correct answer: kind<br>‣ A <strong>kind</strong> person is helpful and caring."
+},
+"7958": {
+"gaps": [
+[
+"outgoing"
+]
+],
+"feedback": "Correct answer: outgoing<br>‣ An <strong>outgoing</strong> person is friendly and sociable."
+},
+"7959": {
+"gaps": [
+[
+"irresponsible"
+]
+],
+"feedback": "Correct answer: irresponsible<br>‣ Leaving a baby alone is <strong>irresponsible</strong>."
+},
+"7960": {
+"gaps": [
+[
+"lazy"
+]
+],
+"feedback": "Correct answer: lazy<br>‣ A <strong>lazy</strong> person does not want to work."
+},
+"7961": {
+"gaps": [
+[
+"cheerful"
+]
+],
+"feedback": "Correct answer: cheerful<br>‣ A <strong>cheerful</strong> person is happy and smiling."
+},
+"7962": {
+"gaps": [
+[
+"pessimistic"
+]
+],
+"feedback": "Correct answer: pessimistic<br>‣ A <strong>pessimistic</strong> person expects bad things to happen."
+},
+"7963": {
+"gaps": [
+[
+"hardworking"
+]
+],
+"feedback": "Correct answer: hardworking<br>‣ A <strong>hardworking</strong> person puts in a lot of effort."
+},
+"7964": {
+"gaps": [
+[
+"mean"
+]
+],
+"feedback": "Correct answer: mean<br>‣ <strong>Mean</strong> can describe someone unwilling to spend money."
+},
+"7965": {
+"gaps": [
+[
+"reliable"
+]
+],
+"feedback": "Correct answer: reliable<br>‣ A <strong>reliable</strong> person keeps their promises."
+},
+"7966": {
+"gaps": [
+[
+"miserable"
+]
+],
+"feedback": "Correct answer: miserable<br>‣ <strong>Miserable</strong> means very unhappy."
+},
+"7967": {
+"gaps": [
+[
+"lazy"
+]
+],
+"feedback": "Correct answer: lazy<br>‣ A <strong>lazy</strong> person avoids work."
+},
+"7968": {
+"gaps": [
+[
+"reliable"
+]
+],
+"feedback": "Correct answer: reliable<br>‣ A <strong>reliable</strong> person can be trusted not to forget."
+},
+"7969": {
+"gaps": [
+[
+"hardworking",
+"hard-working"
+]
+],
+"feedback": "Correct answer: hardworking<br>‣ A <strong>hardworking</strong> person works a lot without breaks."
+},
+"7970": {
+"gaps": [
+[
+"generous"
+]
+],
+"feedback": "Correct answer: generous<br>‣ <strong>Generous</strong> people pay for others."
+},
+"7971": {
+"gaps": [
+[
+"miserable"
+]
+],
+"feedback": "Correct answer: miserable<br>‣ <strong>Miserable</strong> means looking very unhappy."
+},
+"7972": {
+"gaps": [
+[
+"friendly"
+]
+],
+"feedback": "Correct answer: friendly<br>‣ A <strong>friendly</strong> person welcomes others warmly."
+},
+"7973": {
+"gaps": [
+[
+"outgoing"
+]
+],
+"feedback": "Correct answer: outgoing<br>‣ An <strong>outgoing</strong> person feels comfortable around people."
+},
+"7974": {
+"gaps": [
+[
+"irresponsible"
+]
+],
+"feedback": "Correct answer: irresponsible<br>‣ Drink-driving is <strong>irresponsible</strong>."
+},
+"7975": {
+"gaps": [
+[
+"optimistic"
+]
+],
+"feedback": "Correct answer: optimistic<br>‣ <strong>Optimistic</strong> people look at the bright side."
+},
+"7976": {
+"gaps": [
+[
+"shy"
+]
+],
+"feedback": "Correct answer: shy<br>‣ A <strong>shy</strong> person is nervous about talking to others."
+},
+"8007": {
+"choices": [
+14176
+],
+"feedback": "‣ <strong>C</strong> is correct because <strong>medium height</strong> means neither tall nor short."
+},
+"8008": {
+"choices": [
+14178
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>slim</strong> is a positive word for thin, fitting someone who goes to the gym."
+},
+"8009": {
+"choices": [
+14183
+],
+"feedback": "‣ <strong>B</strong> is correct because <strong>fit</strong> means in good physical shape."
+},
+"8010": {
+"choices": [
+14187
+],
+"feedback": "‣ <strong>B</strong> is correct because <strong>curly</strong> hair forms spirals."
+},
+"8011": {
+"choices": [
+14193
+],
+"feedback": "‣ <strong>D</strong> is correct because length comes before shape in hair descriptions: <strong>short wavy hair</strong>."
+},
+"8012": {
+"choices": [
+14197
+],
+"feedback": "‣ <strong>D</strong> is correct because <strong>freckles</strong> are small brown spots on the skin."
+},
+"8013": {
+"choices": [
+14198
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>wrinkles</strong> are lines that appear on skin with age."
+},
+"8014": {
+"choices": [
+14205
+],
+"feedback": "‣ <strong>D</strong> is correct because people who have trouble seeing <strong>wear glasses</strong>."
+},
+"8015": {
+"choices": [
+14208
+],
+"feedback": "‣ <strong>C</strong> is correct because <strong>medium length</strong> hair is neither long nor short."
+},
+"8016": {
+"choices": [
+14211
+],
+"feedback": "‣ <strong>B</strong> is correct because <strong>petite</strong> describes a small, delicate woman."
+},
+"8017": {
+"gaps": [
+[
+"freckles"
+]
+],
+"feedback": "Correct answer: freckles<br>‣ The sun can cause <strong>freckles</strong>."
+},
+"8018": {
+"gaps": [
+[
+"weighs"
+]
+],
+"feedback": "Correct answer: weighs<br>‣ To <strong>weigh</strong> describes how heavy someone is."
+},
+"8019": {
+"gaps": [
+[
+"wrinkles"
+]
+],
+"feedback": "Correct answer: wrinkles<br>‣ <strong>Wrinkles</strong> appear with age around the eyes and mouth."
+},
+"8020": {
+"gaps": [
+[
+"skinny"
+]
+],
+"feedback": "Correct answer: skinny<br>‣ <strong>Skinny</strong> means too thin."
+},
+"8021": {
+"gaps": [
+[
+"curvy"
+]
+],
+"feedback": "Correct answer: curvy<br>‣ A <strong>curvy</strong> figure has rounded hips and bosom."
+},
+"8022": {
+"gaps": [
+[
+"wavy"
+]
+],
+"feedback": "Correct answer: wavy<br>‣ <strong>Wavy</strong> describes hair with gentle curves."
+},
+"8023": {
+"gaps": [
+[
+"brunette"
+]
+],
+"feedback": "Correct answer: brunette<br>‣ A <strong>brunette</strong> is a woman with dark brown hair."
+},
+"8024": {
+"gaps": [
+[
+"look"
+]
+],
+"feedback": "Correct answer: look<br>‣ <strong>What does she look like?</strong> asks about appearance."
+},
+"8025": {
+"gaps": [
+[
+"overweight"
+]
+],
+"feedback": "Correct answer: overweight<br>‣ <strong>Overweight</strong> means heavier than is healthy."
+},
+"8026": {
+"gaps": [
+[
+"beards"
+]
+],
+"feedback": "Correct answer: beards<br>‣ A <strong>beard</strong> is hair on a man's face."
+},
+"7917": {
+"gaps": [
+[
+"in"
+]
+],
+"feedback": "Correct answer: in<br>‣ We say <strong>interested in</strong>."
+},
+"7918": {
+"gaps": [
+[
+"about"
+]
+],
+"feedback": "Correct answer: about<br>‣ We say <strong>excited about</strong>."
+},
+"7919": {
+"gaps": [
+[
+"with"
+]
+],
+"feedback": "Correct answer: with<br>‣ We say <strong>disappointed with</strong> something."
+},
+"7920": {
+"gaps": [
+[
+"to"
+]
+],
+"feedback": "Correct answer: to<br>‣ We say <strong>speak to</strong> someone."
+},
+"7921": {
+"gaps": [
+[
+"of"
+]
+],
+"feedback": "Correct answer: of<br>‣ We say <strong>afraid of</strong>."
+},
+"7922": {
+"gaps": [
+[
+"to"
+]
+],
+"feedback": "Correct answer: to<br>‣ We say <strong>listen to</strong>."
+},
+"7923": {
+"gaps": [
+[
+"to"
+]
+],
+"feedback": "Correct answer: to<br>‣ We say <strong>similar to</strong>."
+},
+"7924": {
+"gaps": [
+[
+"at"
+]
+],
+"feedback": "Correct answer: at<br>‣ We say <strong>look at</strong>."
+},
+"7925": {
+"gaps": [
+[
+"about"
+]
+],
+"feedback": "Correct answer: about<br>‣ We say <strong>think about</strong>."
+},
+"7926": {
+"gaps": [
+[
+"at"
+]
+],
+"feedback": "Correct answer: at<br>‣ We say <strong>bad at</strong>."
+},
+"7927": {
+"choices": [
+14056
+],
+"feedback": "‣ <strong>C</strong> is correct because we say <strong>arrive in</strong> a city or country."
+},
+"7928": {
+"choices": [
+14058
+],
+"feedback": "‣ <strong>A</strong> is correct because we say <strong>tired of</strong>."
+},
+"7929": {
+"choices": [
+14062
+],
+"feedback": "‣ <strong>A</strong> is correct because we say <strong>wait for</strong>."
+},
+"7930": {
+"choices": [
+14069
+],
+"feedback": "‣ <strong>D</strong> is correct because we say <strong>worried about</strong>."
+},
+"7931": {
+"choices": [
+14070
+],
+"feedback": "‣ <strong>A</strong> is correct because we say <strong>ask someone for</strong> something."
+},
+"7932": {
+"choices": [
+14075
+],
+"feedback": "‣ <strong>B</strong> is correct because we say <strong>invite someone to</strong> an event."
+},
+"7933": {
+"choices": [
+14081
+],
+"feedback": "‣ <strong>D</strong> is correct because we say <strong>speak to</strong> someone."
+},
+"7934": {
+"choices": [
+14084
+],
+"feedback": "‣ <strong>C</strong> is correct because we say <strong>surprised at</strong> something."
+},
+"7935": {
+"choices": [
+14089
+],
+"feedback": "‣ <strong>D</strong> is correct because we say <strong>responsible for</strong>."
+},
+"7936": {
+"choices": [
+14093
+],
+"feedback": "‣ <strong>D</strong> is correct because we say <strong>spend money on</strong>."
+},
+"7937": {
+"gaps": [
+[
+"in"
+]
+],
+"feedback": "Correct answer: in<br>‣ We say <strong>interested in</strong>."
+},
+"7938": {
+"gaps": [
+[
+"to"
+]
+],
+"feedback": "Correct answer: to<br>‣ We say <strong>similar to</strong>."
+},
+"7939": {
+"gaps": [
+[
+"at"
+]
+],
+"feedback": "Correct answer: at<br>‣ We say <strong>arrive at</strong> a place such as school."
+},
+"7940": {
+"gaps": [
+[
+"for"
+]
+],
+"feedback": "Correct answer: for<br>‣ We say <strong>responsible for</strong>."
+},
+"7941": {
+"gaps": [
+[
+"to"
+]
+],
+"feedback": "Correct answer: to<br>‣ We say <strong>invited to</strong> an event."
+},
+"7942": {
+"gaps": [
+[
+"for"
+]
+],
+"feedback": "Correct answer: for<br>‣ We say <strong>wait for</strong>."
+},
+"7943": {
+"gaps": [
+[
+"about"
+]
+],
+"feedback": "Correct answer: about<br>‣ We say <strong>worried about</strong>."
+},
+"7944": {
+"gaps": [
+[
+"to"
+]
+],
+"feedback": "Correct answer: to<br>‣ We say <strong>listen to</strong>."
+},
+"7945": {
+"gaps": [
+[
+"on"
+]
+],
+"feedback": "Correct answer: on<br>‣ We say <strong>spend money on</strong>."
+},
+"7946": {
+"gaps": [
+[
+"at"
+]
+],
+"feedback": "Correct answer: at<br>‣ We say <strong>good at</strong>."
+},
+"6830": {
+"gaps": [
+[
+"still"
+]
+],
+"feedback": "Correct answer: still<br>‣ <strong>Still</strong> shows that an action continues, perhaps longer than expected."
+},
+"6831": {
+"gaps": [
+[
+"is"
+]
+],
+"feedback": "Correct answer: is<br>‣ <strong>Still</strong> goes after the verb <strong>be</strong> but before other main verbs."
+},
+"6839": {
+"gaps": [
+[
+"already"
+]
+],
+"feedback": "Correct answer: already<br>‣ <strong>Already</strong> shows something happened, often sooner than expected; it goes between have and the participle."
+},
+"6833": {
+"gaps": [
+[
+"yet"
+]
+],
+"feedback": "Correct answer: yet<br>‣ <strong>Yet</strong> is used at the end of negative sentences."
+},
+"6832": {
+"gaps": [
+[
+"still"
+]
+],
+"feedback": "Correct answer: still<br>‣ <strong>Still</strong> comes before haven't in negatives to show impatience."
+},
+"6835": {
+"gaps": [
+[
+"still"
+]
+],
+"feedback": "Correct answer: still<br>‣ <strong>Still</strong> means the situation continues."
+},
+"6836": {
+"gaps": [
+[
+"already"
+]
+],
+"feedback": "Correct answer: already<br>‣ <strong>Already</strong> means sooner than expected."
+},
+"6837": {
+"gaps": [
+[
+"yet"
+]
+],
+"feedback": "Correct answer: yet<br>‣ <strong>Yet</strong> goes at the end of negative sentences."
+},
+"6838": {
+"gaps": [
+[
+"yet"
+]
+],
+"feedback": "Correct answer: yet<br>‣ <strong>Yet</strong> is used at the end of questions."
+},
+"6834": {
+"gaps": [
+[
+"already"
+]
+],
+"feedback": "Correct answer: already<br>‣ <strong>Already</strong> is used in positive sentences between have and the participle."
+},
+"6840": {
+"choices": [
+11854
+],
+"feedback": "‣ <strong>C</strong> is correct because <strong>still hasn't</strong> expresses impatience about something taking too long."
+},
+"6845": {
+"choices": [
+11867
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>already</strong> expresses that something happened sooner than expected."
+},
+"6844": {
+"choices": [
+11865
+],
+"feedback": "‣ <strong>B</strong> is correct because <strong>hasn't ... yet</strong> is neutral; we expect it to happen soon."
+},
+"6841": {
+"choices": [
+11855
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>already</strong> expresses surprise that something happened earlier than expected."
+},
+"6842": {
+"choices": [
+11860
+],
+"feedback": "‣ <strong>C</strong> is correct because <strong>yet</strong> in questions asks whether something expected has happened."
+},
+"6843": {
+"choices": [
+11862
+],
+"feedback": "‣ <strong>B</strong> is correct because <strong>still</strong> asks whether a situation continues."
+}
+}

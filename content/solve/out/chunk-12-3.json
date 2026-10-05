@@ -1,0 +1,874 @@
+{
+"4737": {
+"choices": [
+7232
+],
+"feedback": "‣ <strong>B</strong> is correct because she says telling him how she knew would have prevented him from looking for the document."
+},
+"4738": {
+"choices": [
+7236
+],
+"feedback": "‣ <strong>C</strong> is correct because she thinks it is more likely that she already knew where the document was from her visits."
+},
+"4739": {
+"choices": [
+7237
+],
+"feedback": "‣ <strong>A</strong> is correct because spiritualism believes spirits have both the ability and the inclination to communicate with the living."
+},
+"4740": {
+"choices": [
+7240
+],
+"feedback": "‣ <strong>A</strong> is correct because the Fox sisters gave demonstrations before paying audiences and Margaret Fox confessed it was a fabrication."
+},
+"4741": {
+"choices": [
+7245
+],
+"feedback": "‣ <strong>C</strong> is correct because she says that if you put enough money on the table she might say yes, suggesting she would lie for money."
+},
+"4705": {
+"gaps": [
+[
+"for"
+]
+],
+"feedback": "Correct answer: for<br>‣ <strong>For</strong> + a period of time says how long."
+},
+"4706": {
+"gaps": [
+[
+"for"
+]
+],
+"feedback": "Correct answer: for<br>‣ <strong>For</strong> + a period of time says how long."
+},
+"4709": {
+"gaps": [
+[
+"during"
+]
+],
+"feedback": "Correct answer: during<br>‣ <strong>During</strong> + noun says when something happened."
+},
+"4712": {
+"gaps": [
+[
+"while"
+]
+],
+"feedback": "Correct answer: while<br>‣ <strong>While</strong> is followed by a clause (subject + verb)."
+},
+"4707": {
+"gaps": [
+[
+"for"
+]
+],
+"feedback": "Correct answer: for<br>‣ <strong>For</strong> + a period of time says how long."
+},
+"4710": {
+"gaps": [
+[
+"during"
+]
+],
+"feedback": "Correct answer: during<br>‣ <strong>During</strong> + noun says when something happened."
+},
+"4711": {
+"gaps": [
+[
+"during"
+]
+],
+"feedback": "Correct answer: during<br>‣ <strong>During</strong> + noun says when something happened."
+},
+"4708": {
+"gaps": [
+[
+"for"
+]
+],
+"feedback": "Correct answer: for<br>‣ <strong>For</strong> + a period of time says how long."
+},
+"4713": {
+"gaps": [
+[
+"while"
+]
+],
+"feedback": "Correct answer: while<br>‣ <strong>While</strong> is followed by a clause (subject + verb)."
+},
+"4714": {
+"gaps": [
+[
+"while"
+]
+],
+"feedback": "Correct answer: while<br>‣ <strong>While</strong> is followed by a clause (subject + verb)."
+},
+"4715": {
+"choices": [
+7195
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>while</strong> is followed by a clause (subject + verb)."
+},
+"4716": {
+"choices": [
+7199
+],
+"feedback": "‣ <strong>B</strong> is correct because <strong>during</strong> is followed by a noun."
+},
+"4717": {
+"choices": [
+7202
+],
+"feedback": "‣ <strong>B</strong> is correct because <strong>during</strong> is followed by a noun and says when something happened."
+},
+"4718": {
+"choices": [
+7206
+],
+"feedback": "‣ <strong>C</strong> is correct because <strong>for</strong> + a period of time says how long."
+},
+"4719": {
+"choices": [
+7209
+],
+"feedback": "‣ <strong>C</strong> is correct because <strong>for</strong> + a period says how long; he was quiet for the whole of that time."
+},
+"4720": {
+"choices": [
+7210
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>while</strong> is followed by a clause (subject + verb)."
+},
+"4721": {
+"choices": [
+7214
+],
+"feedback": "‣ <strong>B</strong> is correct because <strong>during</strong> is followed by a noun and says when something happened."
+},
+"4722": {
+"choices": [
+7218
+],
+"feedback": "‣ <strong>C</strong> is correct because <strong>for</strong> + a period of time says how long."
+},
+"4723": {
+"choices": [
+7219
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>while</strong> is followed by a clause (subject + verb)."
+},
+"4724": {
+"choices": [
+7223
+],
+"feedback": "‣ <strong>B</strong> is correct because <strong>during</strong> is followed by a noun."
+},
+"4725": {
+"gaps": [
+[
+"while"
+]
+],
+"feedback": "Correct answer: while<br>‣ <strong>While</strong> is followed by a clause (subject + verb)."
+},
+"4726": {
+"gaps": [
+[
+"during"
+]
+],
+"feedback": "Correct answer: during<br>‣ <strong>During</strong> is followed by a noun."
+},
+"4727": {
+"gaps": [
+[
+"for"
+]
+],
+"feedback": "Correct answer: for<br>‣ <strong>For</strong> + a period of time says how long."
+},
+"4728": {
+"gaps": [
+[
+"for"
+]
+],
+"feedback": "Correct answer: for<br>‣ <strong>For</strong> + a period of time says how long."
+},
+"4729": {
+"gaps": [
+[
+"during"
+]
+],
+"feedback": "Correct answer: during<br>‣ <strong>During</strong> is followed by a noun."
+},
+"4730": {
+"gaps": [
+[
+"while"
+]
+],
+"feedback": "Correct answer: while<br>‣ <strong>While</strong> is followed by a clause (subject + verb)."
+},
+"4731": {
+"gaps": [
+[
+"while"
+]
+],
+"feedback": "Correct answer: while<br>‣ <strong>While</strong> is followed by a clause (subject + verb)."
+},
+"4732": {
+"gaps": [
+[
+"during"
+]
+],
+"feedback": "Correct answer: during<br>‣ <strong>During</strong> is followed by a noun."
+},
+"4733": {
+"gaps": [
+[
+"for"
+]
+],
+"feedback": "Correct answer: for<br>‣ <strong>For</strong> + a period of time says how long."
+},
+"4734": {
+"gaps": [
+[
+"for"
+]
+],
+"feedback": "Correct answer: for<br>‣ <strong>For</strong> + a period of time says how long."
+},
+"4698": {
+"choices": [
+7181
+],
+"feedback": "‣ <strong>A</strong> is correct because his father left before he was born."
+},
+"4699": {
+"choices": [
+7184
+],
+"feedback": "‣ <strong>B</strong> is correct because his mother worked very hard so that they could have food, clothes and a place to live."
+},
+"4700": {
+"choices": [
+7185
+],
+"feedback": "‣ <strong>A</strong> is correct because she couldn't finish school because she got pregnant with Mike as a teenager."
+},
+"4701": {
+"choices": [
+7188
+],
+"feedback": "‣ <strong>B</strong> is correct because there were drugs in the neighbourhood, but the text never says Mike took them."
+},
+"4702": {
+"choices": [
+7189
+],
+"feedback": "‣ <strong>A</strong> is correct because he says other children hated you if you got good grades, so he wasn't very popular."
+},
+"4703": {
+"choices": [
+7192
+],
+"feedback": "‣ <strong>B</strong> is correct because he says the only positive thing was that you needed to be clever to survive."
+},
+"4704": {
+"choices": [
+7194
+],
+"feedback": "‣ <strong>B</strong> is correct because he showed his mother <strong>our</strong> new apartment and now takes care of her, so they live together."
+},
+"4663": {
+"choices": [
+7078
+],
+"feedback": "‣ <strong>C</strong> is correct because <strong>they</strong> is the subject pronoun for <strong>keys</strong>."
+},
+"4664": {
+"choices": [
+7079
+],
+"feedback": "‣ <strong>A</strong> is correct because in short answers we use the full form: <strong>Yes, he is</strong>."
+},
+"4665": {
+"choices": [
+7082
+],
+"feedback": "‣ <strong>A</strong> is correct because we use <strong>How often do you ...?</strong> to ask about frequency."
+},
+"4666": {
+"choices": [
+7086
+],
+"feedback": "‣ <strong>B</strong> is correct because adverbs of frequency go after the auxiliary: <strong>don't often</strong>."
+},
+"4667": {
+"choices": [
+7088
+],
+"feedback": "‣ <strong>A</strong> is correct because we use possessive <strong>'s</strong> with people: <strong>Anna's car</strong>."
+},
+"4668": {
+"choices": [
+7093
+],
+"feedback": "‣ <strong>C</strong> is correct because <strong>in</strong> + seasons and <strong>on</strong> + days."
+},
+"4669": {
+"choices": [
+7094
+],
+"feedback": "‣ <strong>A</strong> is correct because the present continuous describes an action happening now."
+},
+"4670": {
+"choices": [
+7099
+],
+"feedback": "‣ <strong>C</strong> is correct because past simple questions use <strong>did</strong> + base form."
+},
+"4671": {
+"choices": [
+7100
+],
+"feedback": "‣ <strong>A</strong> is correct because we use <strong>any</strong> + plural noun in questions."
+},
+"4672": {
+"choices": [
+7105
+],
+"feedback": "‣ <strong>C</strong> is correct because <strong>be going to</strong> is used for future plans."
+},
+"4673": {
+"choices": [
+7106
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>sugar</strong> is uncountable, so we use <strong>how much</strong>."
+},
+"4674": {
+"choices": [
+7110
+],
+"feedback": "‣ <strong>B</strong> is correct because the superlative of <strong>strong</strong> is <strong>the strongest</strong>."
+},
+"4675": {
+"choices": [
+7114
+],
+"feedback": "‣ <strong>C</strong> is correct because we need an adverb to describe how he sat: <strong>comfortably</strong>."
+},
+"4676": {
+"choices": [
+7115
+],
+"feedback": "‣ <strong>A</strong> is correct because we do not use an article with meals: <strong>have breakfast</strong>."
+},
+"4677": {
+"choices": [
+7118
+],
+"feedback": "‣ <strong>A</strong> is correct because questions with <strong>there is</strong> invert: <strong>Is there</strong>."
+},
+"4655": {
+"choices": [
+7061
+],
+"feedback": "‣ <strong>B</strong> is correct because £50 is only the deposit; a ticket costs £248 + £5 booking fee."
+},
+"4656": {
+"choices": [
+7062
+],
+"feedback": "‣ <strong>A</strong> is correct because everyone aged 13 or over needs to be registered."
+},
+"4657": {
+"choices": [
+7064
+],
+"feedback": "‣ <strong>A</strong> is correct because if you've been to the Festival before, you are already registered."
+},
+"4658": {
+"choices": [
+7067
+],
+"feedback": "‣ <strong>B</strong> is correct because the photo must be recent and of passport standard, but it doesn't have to be your passport photo."
+},
+"4659": {
+"choices": [
+7068
+],
+"feedback": "‣ <strong>A</strong> is correct because it isn't possible to edit or delete registrations while registration is closed."
+},
+"4660": {
+"choices": [
+7070
+],
+"feedback": "‣ <strong>A</strong> is correct because children aged 12 and under are admitted free of charge."
+},
+"4661": {
+"choices": [
+7073
+],
+"feedback": "‣ <strong>B</strong> is correct because you need the registration numbers for everyone for whom you are booking a ticket."
+},
+"4662": {
+"choices": [
+7074
+],
+"feedback": "‣ <strong>A</strong> is correct because buyers must pay with a debit or credit card."
+},
+"4640": {
+"choices": [
+7017
+],
+"feedback": "‣ <strong>C</strong> is correct because <strong>how long</strong> asks about duration."
+},
+"4641": {
+"choices": [
+7019
+],
+"feedback": "‣ <strong>B</strong> is correct because past simple questions use <strong>did</strong> + base form."
+},
+"4642": {
+"choices": [
+7021
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>through</strong> means from one side of the glass to the other."
+},
+"4643": {
+"choices": [
+7026
+],
+"feedback": "‣ <strong>C</strong> is correct because <strong>so</strong> introduces a result."
+},
+"4644": {
+"choices": [
+7029
+],
+"feedback": "‣ <strong>C</strong> is correct because <strong>be going to</strong> is used for a decision already made."
+},
+"4645": {
+"choices": [
+7031
+],
+"feedback": "‣ <strong>B</strong> is correct because <strong>which</strong> is the relative pronoun for things; we don't repeat the subject."
+},
+"4646": {
+"choices": [
+7033
+],
+"feedback": "‣ <strong>A</strong> is correct because past simple with <strong>last Tuesday</strong>; present perfect with <strong>for</strong> up to now."
+},
+"4647": {
+"choices": [
+7037
+],
+"feedback": "‣ <strong>B</strong> is correct because we use <strong>anything</strong> in negative sentences."
+},
+"4648": {
+"choices": [
+7039
+],
+"feedback": "‣ <strong>A</strong> is correct because superlative + <strong>in</strong> + place: <strong>the oldest man in the UK</strong>."
+},
+"4649": {
+"choices": [
+7042
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>tourists</strong> is a plural countable noun, so we use <strong>too many</strong>."
+},
+"4650": {
+"choices": [
+7045
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>they</strong> is the subject pronoun for <strong>chocolates</strong>."
+},
+"4651": {
+"choices": [
+7050
+],
+"feedback": "‣ <strong>C</strong> is correct because the second conditional uses <strong>if</strong> + past simple."
+},
+"4652": {
+"choices": [
+7052
+],
+"feedback": "‣ <strong>B</strong> is correct because after <strong>as soon as</strong> we use the present simple for the future."
+},
+"4653": {
+"choices": [
+7054
+],
+"feedback": "‣ <strong>A</strong> is correct because the concert didn't cancel itself, so we need the passive."
+},
+"4654": {
+"choices": [
+7059
+],
+"feedback": "‣ <strong>C</strong> is correct because the past perfect shows the son broke it before she was upset."
+},
+"4619": {
+"choices": [
+6939
+],
+"feedback": "‣ <strong>C</strong> is correct because present continuous for arrangements; present simple for timetables."
+},
+"4620": {
+"choices": [
+6940
+],
+"feedback": "‣ <strong>A</strong> is correct because present perfect with <strong>since</strong>; <strong>love</strong> is stative."
+},
+"4621": {
+"choices": [
+6946
+],
+"feedback": "‣ <strong>B</strong> is correct because the comparative of the adverb <strong>slowly</strong> is <strong>more slowly</strong>."
+},
+"4622": {
+"choices": [
+6952
+],
+"feedback": "‣ <strong>D</strong> is correct because no article for things in general; <strong>the library</strong> for a specific, familiar place."
+},
+"4623": {
+"choices": [
+6954
+],
+"feedback": "‣ <strong>B</strong> is correct because after <strong>to</strong> we need <strong>be able to</strong>, not <strong>can</strong>."
+},
+"4624": {
+"choices": [
+6960
+],
+"feedback": "‣ <strong>D</strong> is correct because questions with <strong>have to</strong> use the auxiliary <strong>do</strong>."
+},
+"4625": {
+"choices": [
+6963
+],
+"feedback": "‣ <strong>C</strong> is correct because the past continuous describes the background situation when the crash happened."
+},
+"4626": {
+"choices": [
+6965
+],
+"feedback": "‣ <strong>A</strong> is correct because the negative form is <strong>didn't use to</strong> + base form."
+},
+"4627": {
+"choices": [
+6972
+],
+"feedback": "‣ <strong>D</strong> is correct because present perfect passive: people were evacuated by someone."
+},
+"4628": {
+"choices": [
+6974
+],
+"feedback": "‣ <strong>B</strong> is correct because the third conditional uses <strong>would have</strong> + past participle."
+},
+"4629": {
+"choices": [
+6978
+],
+"feedback": "‣ <strong>B</strong> is correct because reported questions use statement word order."
+},
+"4630": {
+"choices": [
+6983
+],
+"feedback": "‣ <strong>C</strong> is correct because <strong>want</strong> + object + <strong>to</strong> + infinitive."
+},
+"4631": {
+"choices": [
+6985
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>a little</strong> is used with uncountable things and means 'some'."
+},
+"4632": {
+"choices": [
+6989
+],
+"feedback": "‣ <strong>A</strong> is correct because non-defining relative clauses use <strong>which</strong> for things, not <strong>that</strong>."
+},
+"4633": {
+"choices": [
+6995
+],
+"feedback": "‣ <strong>C</strong> is correct because a positive sentence with <strong>was</strong> takes the negative tag <strong>wasn't</strong>."
+},
+"4618": {
+"gaps": [
+[
+"started"
+],
+[
+"used to"
+],
+[
+"have had"
+],
+[
+"because of"
+],
+[
+"doing"
+],
+[
+"healthily"
+],
+[
+"enough time"
+],
+[
+"doing"
+],
+[
+"However"
+],
+[
+"any"
+],
+[
+"were"
+],
+[
+"fitter"
+],
+[
+"are offered"
+],
+[
+"which"
+],
+[
+"Should"
+]
+],
+"feedback": "Correct answer: 1 started, 2 used to, 3 have had, 4 because of, 5 doing, 6 healthily, 7 enough time, 8 doing, 9 However, 10 any, 11 were, 12 fitter, 13 are offered, 14 which, 15 Should<br>‣ Note <strong>because of</strong> + noun, <strong>keep</strong> + -ing, the adverb <strong>healthily</strong>, <strong>if I were you</strong> and <strong>should</strong> for advice."
+},
+"4617": {
+"gaps": [
+[
+"was being followed"
+],
+[
+"had just stopped"
+],
+[
+"got on"
+],
+[
+"it was going"
+],
+[
+"get away"
+],
+[
+"myself"
+],
+[
+"when"
+],
+[
+"was physically abusing"
+],
+[
+"arrive"
+],
+[
+"'ll kill"
+],
+[
+"no"
+],
+[
+"would have happened"
+],
+[
+"had to"
+],
+[
+"have met"
+],
+[
+"didn't use to"
+]
+],
+"feedback": "Correct answer: 1 was being followed, 2 had just stopped, 3 got on, 4 it was going, 5 get away, 6 myself, 7 when, 8 was physically abusing, 9 arrive, 10 'll kill, 11 no, 12 would have happened, 13 had to, 14 have met, 15 didn't use to<br>‣ Note the past continuous passive, past perfect, indirect questions, the first and third conditionals and <strong>didn't use to</strong>."
+},
+"4609": {
+"choices": [
+6921
+],
+"feedback": "‣ <strong>A</strong> is correct because she says their husbands are not always the best choice."
+},
+"4610": {
+"choices": [
+6924
+],
+"feedback": "‣ <strong>B</strong> is correct because she says Facebook and Instagram are the only places where she sees them nowadays."
+},
+"4611": {
+"choices": [
+6926
+],
+"feedback": "‣ <strong>B</strong> is correct because she says she understands ('I get it') that motherhood is the ultimate fulfilment for many women."
+},
+"4612": {
+"choices": [
+6927
+],
+"feedback": "‣ <strong>A</strong> is correct because her friends told her to try dating apps and she says she hated it."
+},
+"4613": {
+"choices": [
+6930
+],
+"feedback": "‣ <strong>B</strong> is correct because she would like to find love, but not as a means to have children."
+},
+"4614": {
+"choices": [
+6932
+],
+"feedback": "‣ <strong>B</strong> is correct because she has always felt disconnected from the expected reality of marriage and children."
+},
+"4615": {
+"choices": [
+6933
+],
+"feedback": "‣ <strong>A</strong> is correct because she says she might not want kids and doesn't think she'll ever feel the call of nature."
+},
+"4616": {
+"choices": [
+6936
+],
+"feedback": "‣ <strong>B</strong> is correct because she is criticising society's view that such women should not be trusted."
+},
+"4603": {
+"choices": [
+6905
+],
+"feedback": "‣ <strong>C</strong> is correct because the writer says all the fears disappear when you see the benefits of this great experience."
+},
+"4604": {
+"choices": [
+6906
+],
+"feedback": "‣ <strong>A</strong> is correct because the writer gives tips on how to travel alone and have a good time."
+},
+"4605": {
+"choices": [
+6910
+],
+"feedback": "‣ <strong>B</strong> is correct because it's a good idea to go somewhere you speak the language."
+},
+"4606": {
+"choices": [
+6913
+],
+"feedback": "‣ <strong>B</strong> is correct because hostels are perfect for people who travel alone, but you only speak with other tourists."
+},
+"4607": {
+"choices": [
+6916
+],
+"feedback": "‣ <strong>B</strong> is correct because local residents can give you a lot of tips on what you can do."
+},
+"4608": {
+"choices": [
+6920
+],
+"feedback": "‣ <strong>C</strong> is correct because asking is an effective way to start a conversation and meet new people."
+},
+"4588": {
+"choices": [
+6843
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>will</strong> is used for a decision made at the moment of speaking."
+},
+"4589": {
+"choices": [
+6847
+],
+"feedback": "‣ <strong>B</strong> is correct because the past simple describes a finished action at a past time."
+},
+"4590": {
+"choices": [
+6851
+],
+"feedback": "‣ <strong>C</strong> is correct because the present perfect describes a situation that started in the past and continues now."
+},
+"4591": {
+"choices": [
+6854
+],
+"feedback": "‣ <strong>C</strong> is correct because the present perfect continuous explains a present result (being dirty) of a recent activity."
+},
+"4592": {
+"choices": [
+6855
+],
+"feedback": "‣ <strong>A</strong> is correct because we use <strong>not as + adjective + as</strong> to compare."
+},
+"4593": {
+"choices": [
+6859
+],
+"feedback": "‣ <strong>B</strong> is correct because <strong>watch TV</strong> has no article; <strong>the remote</strong> is a specific one."
+},
+"4594": {
+"choices": [
+6868
+],
+"feedback": "‣ <strong>B</strong> is correct because for a specific achievement in the past we use <strong>were able to</strong>, not <strong>could</strong>."
+},
+"4595": {
+"choices": [
+6871
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>by myself</strong> means alone."
+},
+"4596": {
+"choices": [
+6877
+],
+"feedback": "‣ <strong>C</strong> is correct because adjectives ending in -ing describe the thing that causes the feeling."
+},
+"4597": {
+"choices": [
+6881
+],
+"feedback": "‣ <strong>C</strong> is correct because the past perfect shows it was taken before he went into the room."
+},
+"4598": {
+"choices": [
+6886
+],
+"feedback": "‣ <strong>D</strong> is correct because reported speech with the past perfect passive: someone had stolen his car."
+},
+"4599": {
+"choices": [
+6887
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>must</strong> expresses a logical deduction that something is certainly true."
+},
+"4600": {
+"choices": [
+6892
+],
+"feedback": "‣ <strong>B</strong> is correct because the second conditional uses <strong>if</strong> + past simple for an unreal present situation."
+}
+}

@@ -1,0 +1,1464 @@
+{
+ "5030": {
+  "gaps": [
+   [
+    "under"
+   ]
+  ],
+  "feedback": "Correct answer: under<br>‣ The cat is below the table: <strong>under</strong>."
+ },
+ "5031": {
+  "gaps": [
+   [
+    "behind"
+   ]
+  ],
+  "feedback": "Correct answer: behind<br>‣ The woman is hidden by the books: <strong>behind</strong>."
+ },
+ "5032": {
+  "gaps": [
+   [
+    "above"
+   ]
+  ],
+  "feedback": "Correct answer: above<br>‣ The clouds are higher than the building: <strong>above</strong>."
+ },
+ "5033": {
+  "gaps": [
+   [
+    "next to"
+   ]
+  ],
+  "feedback": "Correct answer: next to<br>‣ Janet is at Tom's side: <strong>next to</strong>."
+ },
+ "5034": {
+  "gaps": [
+   [
+    "between"
+   ]
+  ],
+  "feedback": "Correct answer: between<br>‣ The cat has a dog on each side: <strong>between</strong>."
+ },
+ "5035": {
+  "gaps": [
+   [
+    "opposite"
+   ]
+  ],
+  "feedback": "Correct answer: opposite<br>‣ Janet is facing Tom: <strong>opposite</strong>."
+ },
+ "5036": {
+  "gaps": [
+   [
+    "behind"
+   ]
+  ],
+  "feedback": "Correct answer: behind<br>‣ Janet is at the back of the blond woman: <strong>behind</strong>."
+ },
+ "5037": {
+  "gaps": [
+   [
+    "between"
+   ]
+  ],
+  "feedback": "Correct answer: between<br>‣ Linda has Jack on one side and Harry on the other: <strong>between</strong>."
+ },
+ "5038": {
+  "gaps": [
+   [
+    "over"
+   ]
+  ],
+  "feedback": "Correct answer: over<br>‣ The ball is going across the top of the net: <strong>over</strong>."
+ },
+ "5039": {
+  "gaps": [
+   [
+    "in front of"
+   ]
+  ],
+  "feedback": "Correct answer: in front of<br>‣ The dog is standing before the cat: <strong>in front of</strong>."
+ },
+ "5059": {
+  "gaps": [
+   [
+    "don't talk",
+    "do not talk",
+    "don't smoke",
+    "be quiet"
+   ]
+  ],
+  "feedback": "Correct answer: don't talk<br>‣ Negative imperative: <strong>Don't</strong> + verb."
+ },
+ "5060": {
+  "gaps": [
+   [
+    "Don't fish",
+    "Do not fish",
+    "Don't smoke",
+    "Do not smoke"
+   ]
+  ],
+  "feedback": "Correct answer: Don't fish<br>‣ Negative imperative: <strong>Don't</strong> + verb."
+ },
+ "5061": {
+  "gaps": [
+   [
+    "Turn off",
+    "Switch off"
+   ]
+  ],
+  "feedback": "Correct answer: Turn off<br>‣ Positive imperative: base form of the verb."
+ },
+ "5062": {
+  "gaps": [
+   [
+    "Turn"
+   ]
+  ],
+  "feedback": "Correct answer: Turn<br>‣ Positive imperative: base form of the verb."
+ },
+ "5063": {
+  "gaps": [
+   [
+    "don't smoke",
+    "do not smoke",
+    "don't fish",
+    "do not fish"
+   ]
+  ],
+  "feedback": "Correct answer: don't smoke<br>‣ Negative imperative: <strong>Don't</strong> + verb."
+ },
+ "5064": {
+  "gaps": [
+   [
+    "Write"
+   ]
+  ],
+  "feedback": "Correct answer: Write<br>‣ Positive imperative: base form of the verb."
+ },
+ "5065": {
+  "gaps": [
+   [
+    "Be"
+   ]
+  ],
+  "feedback": "Correct answer: Be<br>‣ Positive imperative: base form of the verb."
+ },
+ "5066": {
+  "gaps": [
+   [
+    "Wash"
+   ]
+  ],
+  "feedback": "Correct answer: Wash<br>‣ Positive imperative: base form of the verb."
+ },
+ "5067": {
+  "gaps": [
+   [
+    "Drive"
+   ]
+  ],
+  "feedback": "Correct answer: Drive<br>‣ Positive imperative: base form of the verb."
+ },
+ "5068": {
+  "gaps": [
+   [
+    "Don't drink",
+    "Do not drink"
+   ]
+  ],
+  "feedback": "Correct answer: Don't drink<br>‣ Negative imperative: <strong>Don't</strong> + verb."
+ },
+ "5069": {
+  "choices": [
+   8021
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because <strong>Let's</strong> + verb makes a suggestion."
+ },
+ "5070": {
+  "choices": [
+   8024
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because negative imperative: <strong>Don't</strong> + verb."
+ },
+ "5071": {
+  "choices": [
+   8027
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because the negative of let's is <strong>let's not</strong>."
+ },
+ "5072": {
+  "choices": [
+   8028
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because positive imperative: base form."
+ },
+ "5073": {
+  "choices": [
+   8032
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because negative imperative: <strong>Don't</strong> + verb."
+ },
+ "5074": {
+  "choices": [
+   8036
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because it is cold, so the instruction is negative."
+ },
+ "5075": {
+  "choices": [
+   8039
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because positive imperative: base form."
+ },
+ "5076": {
+  "choices": [
+   8041
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because negative imperative of be: <strong>Don't be</strong>."
+ },
+ "5077": {
+  "choices": [
+   8043
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>Let's</strong> + verb makes a suggestion."
+ },
+ "5078": {
+  "choices": [
+   8047
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because the imperative <strong>Have</strong> offers something."
+ },
+ "5079": {
+  "gaps": [
+   [
+    "don't turn off",
+    "do not turn off"
+   ]
+  ],
+  "feedback": "Correct answer: don't turn off<br>‣ Negative imperative: <strong>Don't</strong> + verb."
+ },
+ "5080": {
+  "gaps": [
+   [
+    "call"
+   ]
+  ],
+  "feedback": "Correct answer: call<br>‣ Positive imperative: base form."
+ },
+ "5081": {
+  "gaps": [
+   [
+    "let's listen"
+   ]
+  ],
+  "feedback": "Correct answer: let's listen<br>‣ <strong>Let's</strong> + verb for a suggestion."
+ },
+ "5082": {
+  "gaps": [
+   [
+    "let's not go"
+   ]
+  ],
+  "feedback": "Correct answer: let's not go<br>‣ Negative suggestion: <strong>let's not</strong> + verb."
+ },
+ "5083": {
+  "gaps": [
+   [
+    "don't wake",
+    "do not wake"
+   ]
+  ],
+  "feedback": "Correct answer: don't wake<br>‣ Negative imperative: <strong>Don't</strong> + verb."
+ },
+ "5084": {
+  "gaps": [
+   [
+    "clean"
+   ]
+  ],
+  "feedback": "Correct answer: clean<br>‣ Positive imperative: base form."
+ },
+ "5085": {
+  "gaps": [
+   [
+    "don't open",
+    "do not open"
+   ]
+  ],
+  "feedback": "Correct answer: don't open<br>‣ Negative imperative: <strong>Don't</strong> + verb."
+ },
+ "5086": {
+  "gaps": [
+   [
+    "let's have"
+   ]
+  ],
+  "feedback": "Correct answer: let's have<br>‣ <strong>Let's</strong> + verb for a suggestion."
+ },
+ "5087": {
+  "gaps": [
+   [
+    "order"
+   ]
+  ],
+  "feedback": "Correct answer: order<br>‣ Positive imperative: base form."
+ },
+ "5088": {
+  "gaps": [
+   [
+    "let's not talk"
+   ]
+  ],
+  "feedback": "Correct answer: let's not talk<br>‣ Negative suggestion: <strong>let's not</strong> + verb."
+ },
+ "5119": {
+  "choices": [
+   8070
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because questions with have got invert have and the subject."
+ },
+ "5120": {
+  "choices": [
+   8074
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because negative: <strong>haven't got</strong>."
+ },
+ "5121": {
+  "choices": [
+   8075
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because short answer: Yes, I <strong>have</strong>."
+ },
+ "5122": {
+  "choices": [
+   8079
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because in the past we use <strong>didn't have</strong>."
+ },
+ "5123": {
+  "choices": [
+   8081
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because he + <strong>'s got</strong>."
+ },
+ "5124": {
+  "choices": [
+   8086
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because with have we use <strong>Do you have</strong>."
+ },
+ "5125": {
+  "choices": [
+   8087
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because questions: <strong>Have you got</strong>."
+ },
+ "5126": {
+  "choices": [
+   8092
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because they + <strong>'ve got</strong>."
+ },
+ "5127": {
+  "choices": [
+   8095
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because negative: <strong>haven't got</strong>."
+ },
+ "5128": {
+  "choices": [
+   8097
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because negative with have: <strong>don't have</strong>."
+ },
+ "5129": {
+  "gaps": [
+   [
+    "'ve got",
+    "have got"
+   ]
+  ],
+  "feedback": "Correct answer: 've got<br>‣ I + <strong>'ve got</strong>."
+ },
+ "5130": {
+  "gaps": [
+   [
+    "Have you got"
+   ]
+  ],
+  "feedback": "Correct answer: Have you got<br>‣ Question: <strong>Have</strong> + subject + got."
+ },
+ "5131": {
+  "gaps": [
+   [
+    "'s got",
+    "has got"
+   ]
+  ],
+  "feedback": "Correct answer: 's got<br>‣ She + <strong>'s got</strong>."
+ },
+ "5132": {
+  "gaps": [
+   [
+    "haven't got",
+    "have not got"
+   ]
+  ],
+  "feedback": "Correct answer: haven't got<br>‣ Negative: <strong>haven't got</strong>."
+ },
+ "5133": {
+  "gaps": [
+   [
+    "hasn't got",
+    "has not got"
+   ]
+  ],
+  "feedback": "Correct answer: hasn't got<br>‣ Negative: <strong>hasn't got</strong>."
+ },
+ "5134": {
+  "gaps": [
+   [
+    "have"
+   ]
+  ],
+  "feedback": "Correct answer: have<br>‣ Short answer: Yes, I <strong>have</strong>."
+ },
+ "5135": {
+  "gaps": [
+   [
+    "'ve got",
+    "have got"
+   ]
+  ],
+  "feedback": "Correct answer: 've got<br>‣ They + <strong>'ve got</strong>."
+ },
+ "5136": {
+  "gaps": [
+   [
+    "hasn't got",
+    "has not got"
+   ]
+  ],
+  "feedback": "Correct answer: hasn't got<br>‣ Negative: <strong>hasn't got</strong>."
+ },
+ "5137": {
+  "gaps": [
+   [
+    "Has she got"
+   ]
+  ],
+  "feedback": "Correct answer: Has she got<br>‣ Question: <strong>Has</strong> + subject + got."
+ },
+ "5138": {
+  "gaps": [
+   [
+    "'ve got",
+    "have got"
+   ]
+  ],
+  "feedback": "Correct answer: 've got<br>‣ I + <strong>'ve got</strong>."
+ },
+ "5139": {
+  "gaps": [
+   [
+    "had"
+   ]
+  ],
+  "feedback": "Correct answer: had<br>‣ Past of have got: <strong>had</strong>."
+ },
+ "5140": {
+  "gaps": [
+   [
+    "didn't have",
+    "did not have"
+   ]
+  ],
+  "feedback": "Correct answer: didn't have<br>‣ Past negative: <strong>didn't have</strong>."
+ },
+ "5141": {
+  "gaps": [
+   [
+    "Did you have"
+   ]
+  ],
+  "feedback": "Correct answer: Did you have<br>‣ Past question: <strong>Did</strong> + subject + have."
+ },
+ "5142": {
+  "gaps": [
+   [
+    "didn't have",
+    "did not have"
+   ]
+  ],
+  "feedback": "Correct answer: didn't have<br>‣ Past negative: <strong>didn't have</strong>."
+ },
+ "5143": {
+  "gaps": [
+   [
+    "had"
+   ]
+  ],
+  "feedback": "Correct answer: had<br>‣ Past of have got: <strong>had</strong>."
+ },
+ "5144": {
+  "gaps": [
+   [
+    "Did she have"
+   ]
+  ],
+  "feedback": "Correct answer: Did she have<br>‣ Past question: <strong>Did</strong> + subject + have."
+ },
+ "5145": {
+  "gaps": [
+   [
+    "Did you have"
+   ]
+  ],
+  "feedback": "Correct answer: Did you have<br>‣ Past question: <strong>Did</strong> + subject + have."
+ },
+ "5146": {
+  "gaps": [
+   [
+    "didn't have",
+    "did not have"
+   ]
+  ],
+  "feedback": "Correct answer: didn't have<br>‣ Past negative: <strong>didn't have</strong>."
+ },
+ "5147": {
+  "gaps": [
+   [
+    "had"
+   ]
+  ],
+  "feedback": "Correct answer: had<br>‣ Past of have got: <strong>had</strong>."
+ },
+ "5148": {
+  "gaps": [
+   [
+    "didn't have",
+    "did not have"
+   ]
+  ],
+  "feedback": "Correct answer: didn't have<br>‣ Past negative: <strong>didn't have</strong>."
+ },
+ "5149": {
+  "gaps": [
+   [
+    "I'd like to go out",
+    "I would like to go out"
+   ]
+  ],
+  "feedback": "Correct answer: I'd like to go out<br>‣ <strong>I'd like to</strong> + infinitive."
+ },
+ "5150": {
+  "gaps": [
+   [
+    "Would you like to come"
+   ]
+  ],
+  "feedback": "Correct answer: Would you like to come<br>‣ <strong>Would you like to</strong> + infinitive."
+ },
+ "5151": {
+  "gaps": [
+   [
+    "Would you like"
+   ]
+  ],
+  "feedback": "Correct answer: Would you like<br>‣ <strong>Would you like</strong> + noun."
+ },
+ "5152": {
+  "gaps": [
+   [
+    "I'd like",
+    "I would like"
+   ]
+  ],
+  "feedback": "Correct answer: I'd like<br>‣ <strong>I'd like</strong> + noun."
+ },
+ "5153": {
+  "gaps": [
+   [
+    "would you like to go"
+   ]
+  ],
+  "feedback": "Correct answer: would you like to go<br>‣ <strong>would you like to</strong> + infinitive."
+ },
+ "5154": {
+  "gaps": [
+   [
+    "I'd like to stay",
+    "I would like to stay"
+   ]
+  ],
+  "feedback": "Correct answer: I'd like to stay<br>‣ <strong>I'd like to</strong> + infinitive."
+ },
+ "5155": {
+  "gaps": [
+   [
+    "I'd like to learn",
+    "I would like to learn"
+   ]
+  ],
+  "feedback": "Correct answer: I'd like to learn<br>‣ <strong>I'd like to</strong> + infinitive."
+ },
+ "5156": {
+  "gaps": [
+   [
+    "would you like"
+   ]
+  ],
+  "feedback": "Correct answer: would you like<br>‣ <strong>would you like</strong> + noun phrase."
+ },
+ "5157": {
+  "gaps": [
+   [
+    "Would you like to meet"
+   ]
+  ],
+  "feedback": "Correct answer: Would you like to meet<br>‣ <strong>Would you like to</strong> + infinitive."
+ },
+ "5158": {
+  "gaps": [
+   [
+    "'d like",
+    "would like"
+   ]
+  ],
+  "feedback": "Correct answer: 'd like<br>‣ <strong>'d like</strong> + noun."
+ },
+ "5159": {
+  "choices": [
+   8101
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because <strong>would like to</strong> + infinitive for a wish."
+ },
+ "5160": {
+  "choices": [
+   8102
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>like</strong> + -ing for general preferences."
+ },
+ "5161": {
+  "choices": [
+   8106
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>Would you like</strong> makes an offer."
+ },
+ "5162": {
+  "choices": [
+   8108
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>would like to</strong> + infinitive for a wish."
+ },
+ "5163": {
+  "choices": [
+   8111
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>would like</strong> + to-infinitive."
+ },
+ "5164": {
+  "choices": [
+   8116
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because <strong>'d like</strong> + to-infinitive."
+ },
+ "5165": {
+  "choices": [
+   8118
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>like</strong> + -ing for general preferences."
+ },
+ "5166": {
+  "choices": [
+   8120
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>Do you like</strong> asks about general feelings."
+ },
+ "5167": {
+  "choices": [
+   8125
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because <strong>Would you like</strong> makes an offer."
+ },
+ "5168": {
+  "choices": [
+   8126
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>'d like</strong> + to-infinitive for a wish."
+ },
+ "5169": {
+  "gaps": [
+   [
+    "'d like",
+    "would like"
+   ]
+  ],
+  "feedback": "Correct answer: 'd like<br>‣ <strong>'d like to</strong> for a wish."
+ },
+ "5170": {
+  "gaps": [
+   [
+    "Do you like"
+   ]
+  ],
+  "feedback": "Correct answer: Do you like<br>‣ <strong>Do you like</strong> for general preferences."
+ },
+ "5171": {
+  "gaps": [
+   [
+    "like"
+   ]
+  ],
+  "feedback": "Correct answer: like<br>‣ <strong>like</strong> + -ing for general preferences."
+ },
+ "5172": {
+  "gaps": [
+   [
+    "'d like",
+    "would like"
+   ]
+  ],
+  "feedback": "Correct answer: 'd like<br>‣ <strong>'d like to</strong> for a specific wish."
+ },
+ "5173": {
+  "gaps": [
+   [
+    "would you like"
+   ]
+  ],
+  "feedback": "Correct answer: would you like<br>‣ <strong>would you like to</strong> for a specific wish."
+ },
+ "5174": {
+  "gaps": [
+   [
+    "Would you like"
+   ]
+  ],
+  "feedback": "Correct answer: Would you like<br>‣ <strong>Would you like</strong> makes an offer."
+ },
+ "5175": {
+  "gaps": [
+   [
+    "Do you like"
+   ]
+  ],
+  "feedback": "Correct answer: Do you like<br>‣ <strong>Do you like</strong> for general preferences."
+ },
+ "5176": {
+  "gaps": [
+   [
+    "would you like"
+   ]
+  ],
+  "feedback": "Correct answer: would you like<br>‣ <strong>would you like to</strong> for an invitation."
+ },
+ "5177": {
+  "gaps": [
+   [
+    "likes"
+   ]
+  ],
+  "feedback": "Correct answer: likes<br>‣ <strong>likes</strong> + -ing for a general preference (he)."
+ },
+ "5178": {
+  "gaps": [
+   [
+    "'d like",
+    "would like"
+   ]
+  ],
+  "feedback": "Correct answer: 'd like<br>‣ <strong>'d like to</strong> is a polite way to say want."
+ },
+ "5179": {
+  "gaps": [
+   [
+    "to"
+   ]
+  ],
+  "feedback": "Correct answer: to<br>‣ <strong>to</strong> + infinitive expresses purpose."
+ },
+ "5180": {
+  "gaps": [
+   [
+    "for"
+   ]
+  ],
+  "feedback": "Correct answer: for<br>‣ <strong>for</strong> + noun expresses purpose."
+ },
+ "5181": {
+  "gaps": [
+   [
+    "to"
+   ]
+  ],
+  "feedback": "Correct answer: to<br>‣ <strong>to</strong> + infinitive expresses purpose."
+ },
+ "5182": {
+  "gaps": [
+   [
+    "to"
+   ]
+  ],
+  "feedback": "Correct answer: to<br>‣ <strong>to</strong> + infinitive expresses purpose."
+ },
+ "5183": {
+  "gaps": [
+   [
+    "for"
+   ]
+  ],
+  "feedback": "Correct answer: for<br>‣ <strong>for</strong> + -ing describes the function of a thing."
+ },
+ "5184": {
+  "gaps": [
+   [
+    "for"
+   ]
+  ],
+  "feedback": "Correct answer: for<br>‣ <strong>for</strong> + noun."
+ },
+ "5185": {
+  "gaps": [
+   [
+    "for"
+   ]
+  ],
+  "feedback": "Correct answer: for<br>‣ <strong>for</strong> + noun."
+ },
+ "5186": {
+  "gaps": [
+   [
+    "to"
+   ]
+  ],
+  "feedback": "Correct answer: to<br>‣ <strong>to</strong> + infinitive."
+ },
+ "5187": {
+  "gaps": [
+   [
+    "for"
+   ]
+  ],
+  "feedback": "Correct answer: for<br>‣ <strong>for</strong> + -ing describes the function."
+ },
+ "5188": {
+  "gaps": [
+   [
+    "to"
+   ]
+  ],
+  "feedback": "Correct answer: to<br>‣ <strong>to</strong> + infinitive expresses purpose."
+ },
+ "5189": {
+  "choices": [
+   8131
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because <strong>to</strong> + infinitive expresses purpose."
+ },
+ "5190": {
+  "choices": [
+   8133
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>for</strong> + noun."
+ },
+ "5191": {
+  "choices": [
+   8135
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>for</strong> + noun."
+ },
+ "5192": {
+  "choices": [
+   8138
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>for</strong> + -ing describes the function of a thing."
+ },
+ "5193": {
+  "choices": [
+   8142
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>to</strong> + infinitive expresses purpose."
+ },
+ "5194": {
+  "choices": [
+   8144
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>to</strong> + infinitive expresses purpose."
+ },
+ "5195": {
+  "choices": [
+   8147
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>for</strong> + noun."
+ },
+ "5196": {
+  "choices": [
+   8151
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>for</strong> + -ing describes the function."
+ },
+ "5197": {
+  "choices": [
+   8155
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because <strong>to</strong> + infinitive expresses purpose."
+ },
+ "5198": {
+  "choices": [
+   8158
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because <strong>for</strong> + noun."
+ },
+ "5199": {
+  "gaps": [
+   [
+    "for finding",
+    "to find"
+   ]
+  ],
+  "feedback": "Correct answer: for finding<br>‣ <strong>for</strong> + -ing describes the function of a thing."
+ },
+ "5200": {
+  "gaps": [
+   [
+    "for bread"
+   ]
+  ],
+  "feedback": "Correct answer: for bread<br>‣ <strong>for</strong> + noun."
+ },
+ "5201": {
+  "gaps": [
+   [
+    "to reduce"
+   ]
+  ],
+  "feedback": "Correct answer: to reduce<br>‣ <strong>to</strong> + infinitive expresses purpose."
+ },
+ "5202": {
+  "gaps": [
+   [
+    "to save"
+   ]
+  ],
+  "feedback": "Correct answer: to save<br>‣ <strong>to</strong> + infinitive expresses purpose."
+ },
+ "5203": {
+  "gaps": [
+   [
+    "to find"
+   ]
+  ],
+  "feedback": "Correct answer: to find<br>‣ <strong>to</strong> + infinitive expresses purpose."
+ },
+ "5204": {
+  "gaps": [
+   [
+    "for entertainment"
+   ]
+  ],
+  "feedback": "Correct answer: for entertainment<br>‣ <strong>for</strong> + noun."
+ },
+ "5205": {
+  "gaps": [
+   [
+    "for picnics"
+   ]
+  ],
+  "feedback": "Correct answer: for picnics<br>‣ <strong>for</strong> + noun."
+ },
+ "5206": {
+  "gaps": [
+   [
+    "for writing"
+   ]
+  ],
+  "feedback": "Correct answer: for writing<br>‣ <strong>for</strong> + -ing describes the function of a thing."
+ },
+ "5207": {
+  "gaps": [
+   [
+    "to get"
+   ]
+  ],
+  "feedback": "Correct answer: to get<br>‣ <strong>to</strong> + infinitive expresses purpose."
+ },
+ "5208": {
+  "gaps": [
+   [
+    "for a promotion"
+   ]
+  ],
+  "feedback": "Correct answer: for a promotion<br>‣ <strong>for</strong> + noun."
+ },
+ "5209": {
+  "choices": [
+   8159
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because we use <strong>I'll</strong> for a spontaneous offer or decision."
+ },
+ "5210": {
+  "choices": [
+   8162
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>I hope</strong> is followed by will for the future."
+ },
+ "5211": {
+  "choices": [
+   8167
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because <strong>Shall we</strong> makes a suggestion."
+ },
+ "5212": {
+  "choices": [
+   8168
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>I don't think I'll</strong> for a prediction or decision."
+ },
+ "5213": {
+  "choices": [
+   8171
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>will</strong> expresses a promise."
+ },
+ "5214": {
+  "choices": [
+   8175
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>Shall I</strong> makes an offer."
+ },
+ "5215": {
+  "choices": [
+   8179
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because <strong>Shall we</strong> makes a suggestion."
+ },
+ "5216": {
+  "choices": [
+   8181
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>Shall I</strong> makes an offer."
+ },
+ "5217": {
+  "choices": [
+   8183
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>I'll</strong> for a decision made at the moment of speaking."
+ },
+ "5218": {
+  "choices": [
+   8186
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>I'm sure</strong> + will for a prediction."
+ },
+ "5219": {
+  "gaps": [
+   [
+    "won't pass",
+    "will not pass"
+   ]
+  ],
+  "feedback": "Correct answer: won't pass<br>‣ <strong>won't</strong> + infinitive for a negative prediction."
+ },
+ "5220": {
+  "gaps": [
+   [
+    "'ll turn on",
+    "will turn on"
+   ]
+  ],
+  "feedback": "Correct answer: 'll turn on<br>‣ <strong>will</strong> for an instant decision."
+ },
+ "5221": {
+  "gaps": [
+   [
+    "Will"
+   ],
+   [
+    "be"
+   ]
+  ],
+  "feedback": "Correct answers: 1 Will, 2 be<br>‣ Question: <strong>Will</strong> + subject + infinitive."
+ },
+ "5222": {
+  "gaps": [
+   [
+    "will get",
+    "'ll get"
+   ]
+  ],
+  "feedback": "Correct answer: will get<br>‣ <strong>will</strong> for a prediction."
+ },
+ "5223": {
+  "gaps": [
+   [
+    "won't win",
+    "will not win"
+   ]
+  ],
+  "feedback": "Correct answer: won't win<br>‣ <strong>won't</strong> for a negative prediction."
+ },
+ "5224": {
+  "gaps": [
+   [
+    "will"
+   ],
+   [
+    "see"
+   ]
+  ],
+  "feedback": "Correct answers: 1 will, 2 see<br>‣ Question: <strong>will</strong> + subject + infinitive."
+ },
+ "5225": {
+  "gaps": [
+   [
+    "will come",
+    "'ll come"
+   ]
+  ],
+  "feedback": "Correct answer: will come<br>‣ After <strong>I don't think</strong> we use positive will."
+ },
+ "5226": {
+  "gaps": [
+   [
+    "will win",
+    "'ll win"
+   ]
+  ],
+  "feedback": "Correct answer: will win<br>‣ <strong>will</strong> for a prediction."
+ },
+ "5227": {
+  "gaps": [
+   [
+    "won't lend",
+    "will not lend",
+    "can't lend"
+   ]
+  ],
+  "feedback": "Correct answer: won't lend<br>‣ <strong>won't</strong> for refusal."
+ },
+ "5228": {
+  "gaps": [
+   [
+    "'ll stay",
+    "will stay"
+   ]
+  ],
+  "feedback": "Correct answer: 'll stay<br>‣ <strong>will</strong> with perhaps for a possible decision."
+ },
+ "5229": {
+  "gaps": [
+   [
+    "Will she be"
+   ]
+  ],
+  "feedback": "Correct answer: Will she be<br>‣ Question: <strong>Will</strong> + subject + infinitive."
+ },
+ "5230": {
+  "gaps": [
+   [
+    "won't",
+    "will not"
+   ]
+  ],
+  "feedback": "Correct answer: won't<br>‣ Short answer: No, he <strong>won't</strong>."
+ },
+ "5231": {
+  "gaps": [
+   [
+    "Will you do"
+   ]
+  ],
+  "feedback": "Correct answer: Will you do<br>‣ <strong>Will you</strong> makes a request."
+ },
+ "5232": {
+  "gaps": [
+   [
+    "won't win",
+    "will not win"
+   ]
+  ],
+  "feedback": "Correct answer: won't win<br>‣ <strong>won't</strong> for a negative prediction."
+ },
+ "5233": {
+  "gaps": [
+   [
+    "Shall I carry"
+   ]
+  ],
+  "feedback": "Correct answer: Shall I carry<br>‣ <strong>Shall I</strong> makes an offer."
+ },
+ "5234": {
+  "gaps": [
+   [
+    "Shall we meet"
+   ]
+  ],
+  "feedback": "Correct answer: Shall we meet<br>‣ <strong>Shall we</strong> makes a suggestion."
+ },
+ "5235": {
+  "gaps": [
+   [
+    "'ll turn on",
+    "will turn on"
+   ]
+  ],
+  "feedback": "Correct answer: 'll turn on<br>‣ <strong>will</strong> for an instant decision."
+ },
+ "5236": {
+  "gaps": [
+   [
+    "will like",
+    "'ll like"
+   ]
+  ],
+  "feedback": "Correct answer: will like<br>‣ After <strong>I don't think</strong> we use positive will."
+ },
+ "5237": {
+  "gaps": [
+   [
+    "'ll help",
+    "will help"
+   ]
+  ],
+  "feedback": "Correct answer: 'll help<br>‣ <strong>will</strong> for a prediction after I'm sure."
+ },
+ "5238": {
+  "gaps": [
+   [
+    "Shall we go out"
+   ]
+  ],
+  "feedback": "Correct answer: Shall we go out<br>‣ <strong>Shall we</strong> makes a suggestion."
+ },
+ "5270": {
+  "gaps": [
+   [
+    "We are both"
+   ]
+  ],
+  "feedback": "Correct answer: We are both<br>‣ <strong>both</strong> goes after the verb be."
+ },
+ "5271": {
+  "choices": [
+   8223
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>all of</strong> needs a determiner (the) before the noun."
+ },
+ "5272": {
+  "gaps": [
+   [
+    "They both like",
+    "Simon and Pete both like"
+   ]
+  ],
+  "feedback": "Correct answer: They both like<br>‣ <strong>both</strong> goes before the main verb."
+ },
+ "5273": {
+  "gaps": [
+   [
+    "We were all invited"
+   ]
+  ],
+  "feedback": "Correct answer: We were all invited<br>‣ <strong>all</strong> goes after be."
+ },
+ "5274": {
+  "gaps": [
+   [
+    "They have both been working",
+    "They've both been working"
+   ]
+  ],
+  "feedback": "Correct answer: They have both been working<br>‣ <strong>both</strong> goes after the first auxiliary."
+ },
+ "5275": {
+  "gaps": [
+   [
+    "Have they all arrived"
+   ]
+  ],
+  "feedback": "Correct answer: Have they all arrived<br>‣ <strong>all</strong> goes after the subject in questions."
+ },
+ "5276": {
+  "gaps": [
+   [
+    "They can both help",
+    "Sonia and Will can both help"
+   ]
+  ],
+  "feedback": "Correct answer: They can both help<br>‣ <strong>both</strong> goes after the modal."
+ },
+ "5277": {
+  "gaps": [
+   [
+    "We both hated"
+   ]
+  ],
+  "feedback": "Correct answer: We both hated<br>‣ <strong>both</strong> goes before the main verb."
+ },
+ "5278": {
+  "gaps": [
+   [
+    "The students were all",
+    "They were all"
+   ]
+  ],
+  "feedback": "Correct answer: The students were all<br>‣ <strong>all</strong> goes after be."
+ },
+ "5279": {
+  "gaps": [
+   [
+    "Did you both get"
+   ]
+  ],
+  "feedback": "Correct answer: Did you both get<br>‣ <strong>both</strong> goes after the subject in questions."
+ },
+ "5280": {
+  "gaps": [
+   [
+    "We have all learned",
+    "We've all learned",
+    "We have all learnt",
+    "We've all learnt"
+   ]
+  ],
+  "feedback": "Correct answer: We have all learned<br>‣ <strong>all</strong> goes after the first auxiliary."
+ },
+ "5281": {
+  "gaps": [
+   [
+    "They both looked"
+   ]
+  ],
+  "feedback": "Correct answer: They both looked<br>‣ <strong>both</strong> goes before the main verb."
+ },
+ "5282": {
+  "gaps": [
+   [
+    "all the"
+   ]
+  ],
+  "feedback": "Correct answer: all the<br>‣ <strong>all the</strong> + specific noun."
+ },
+ "5283": {
+  "gaps": [
+   [
+    "Both of the"
+   ]
+  ],
+  "feedback": "Correct answer: Both of the<br>‣ <strong>Both of the</strong> + plural noun."
+ },
+ "5284": {
+  "gaps": [
+   [
+    "All of us",
+    "We all"
+   ]
+  ],
+  "feedback": "Correct answer: All of us<br>‣ <strong>All of</strong> + object pronoun, or pronoun + all."
+ },
+ "5285": {
+  "gaps": [
+   [
+    "them both"
+   ]
+  ],
+  "feedback": "Correct answer: them both<br>‣ Object pronoun + <strong>both</strong>."
+ },
+ "5286": {
+  "gaps": [
+   [
+    "They should both"
+   ]
+  ],
+  "feedback": "Correct answer: They should both<br>‣ <strong>both</strong> goes after the first auxiliary."
+ },
+ "5287": {
+  "gaps": [
+   [
+    "them all"
+   ]
+  ],
+  "feedback": "Correct answer: them all<br>‣ Object pronoun + <strong>all</strong>."
+ },
+ "5288": {
+  "gaps": [
+   [
+    "both"
+   ]
+  ],
+  "feedback": "Correct answer: both<br>‣ <strong>both</strong> + plural noun."
+ },
+ "5289": {
+  "gaps": [
+   [
+    "Both of"
+   ]
+  ],
+  "feedback": "Correct answer: Both of<br>‣ <strong>Both of</strong> + pronoun."
+ },
+ "5290": {
+  "gaps": [
+   [
+    "All"
+   ]
+  ],
+  "feedback": "Correct answer: All<br>‣ <strong>All</strong> + plural noun for a general statement."
+ },
+ "5291": {
+  "choices": [
+   8226
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>all of</strong> needs a determiner before the noun."
+ },
+ "5292": {
+  "choices": [
+   8228
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because in mid position <strong>both</strong> goes after the modal: You must both be."
+ },
+ "5293": {
+  "choices": [
+   8231
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because we cannot say <strong>the both</strong>."
+ },
+ "5294": {
+  "choices": [
+   8236
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because <strong>both</strong> goes after the first auxiliary."
+ },
+ "5295": {
+  "choices": [
+   8237
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>all the</strong> + specific noun."
+ },
+ "5296": {
+  "choices": [
+   8240
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because object pronoun + <strong>both</strong>."
+ },
+ "5297": {
+  "choices": [
+   8243
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>Both</strong> goes before the possessive."
+ },
+ "5298": {
+  "choices": [
+   8247
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>both</strong> goes after the first auxiliary."
+ },
+ "5299": {
+  "choices": [
+   8249
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because we cannot put all before an object pronoun without <strong>of</strong>."
+ }
+}

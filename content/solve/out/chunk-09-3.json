@@ -1,0 +1,996 @@
+{
+"6846": {
+"choices": [
+11871
+],
+"feedback": "‣ <strong>B</strong> is correct because <strong>still hasn't</strong> shows surprise or annoyance that something expected hasn't happened."
+},
+"6847": {
+"choices": [
+11873
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>hasn't ... yet</strong> is neutral and suggests we expect it to happen soon."
+},
+"6848": {
+"choices": [
+11878
+],
+"feedback": "‣ <strong>C</strong> is correct because <strong>already</strong> in a question shows we think something has probably happened."
+},
+"6849": {
+"choices": [
+11880
+],
+"feedback": "‣ <strong>B</strong> is correct because <strong>yet</strong> in a question simply asks whether something has happened."
+},
+"6850": {
+"gaps": [
+[
+"Have you found a job yet"
+]
+],
+"feedback": "Correct answer: Have you found a job yet<br>‣ <strong>Yet</strong> goes at the end of questions."
+},
+"6851": {
+"gaps": [
+[
+"I haven't called her yet",
+"I have not called her yet"
+]
+],
+"feedback": "Correct answer: I haven't called her yet<br>‣ <strong>Yet</strong> goes at the end of negative sentences."
+},
+"6853": {
+"gaps": [
+[
+"Is dinner ready yet"
+]
+],
+"feedback": "Correct answer: Is dinner ready yet<br>‣ <strong>Yet</strong> goes at the end of questions."
+},
+"6852": {
+"gaps": [
+[
+"Have you already finished your homework",
+"Have you finished your homework already"
+]
+],
+"feedback": "Correct answer: Have you already finished your homework<br>‣ <strong>Already</strong> goes between the auxiliary and the past participle (or at the end for surprise)."
+},
+"6854": {
+"gaps": [
+[
+"She is already here",
+"She's already here"
+]
+],
+"feedback": "Correct answer: She is already here<br>‣ <strong>Already</strong> goes after the verb <strong>be</strong>."
+},
+"6855": {
+"gaps": [
+[
+"She already has two children"
+]
+],
+"feedback": "Correct answer: She already has two children<br>‣ <strong>Already</strong> goes before the main verb."
+},
+"6856": {
+"gaps": [
+[
+"I have already made a decision",
+"I've already made a decision"
+]
+],
+"feedback": "Correct answer: I have already made a decision<br>‣ <strong>Already</strong> goes between have and the past participle."
+},
+"6857": {
+"gaps": [
+[
+"He still hasn't signed the document",
+"He still has not signed the document"
+]
+],
+"feedback": "Correct answer: He still hasn't signed the document<br>‣ <strong>Still</strong> goes before the negative auxiliary."
+},
+"6858": {
+"gaps": [
+[
+"Sunday will still be a warm day"
+]
+],
+"feedback": "Correct answer: Sunday will still be a warm day<br>‣ <strong>Still</strong> goes after the modal <strong>will</strong> and before the main verb."
+},
+"6859": {
+"gaps": [
+[
+"Does he still work here"
+]
+],
+"feedback": "Correct answer: Does he still work here<br>‣ <strong>Still</strong> goes before the main verb."
+},
+"7887": {
+"gaps": [
+[
+"short"
+]
+],
+"feedback": "Correct answer: short<br>‣ The opposite of <strong>tall</strong> is <strong>short</strong>."
+},
+"7888": {
+"gaps": [
+[
+"sad"
+]
+],
+"feedback": "Correct answer: sad<br>‣ The opposite of <strong>happy</strong> is <strong>sad</strong>."
+},
+"7889": {
+"gaps": [
+[
+"thin"
+]
+],
+"feedback": "Correct answer: thin<br>‣ The opposite of <strong>fat</strong> is <strong>thin</strong>."
+},
+"7890": {
+"gaps": [
+[
+"strong"
+]
+],
+"feedback": "Correct answer: strong<br>‣ The opposite of <strong>weak</strong> is <strong>strong</strong>."
+},
+"7891": {
+"gaps": [
+[
+"old"
+]
+],
+"feedback": "Correct answer: old<br>‣ The opposite of <strong>young</strong> is <strong>old</strong>."
+},
+"7892": {
+"gaps": [
+[
+"ugly"
+]
+],
+"feedback": "Correct answer: ugly<br>‣ The opposite of <strong>beautiful</strong> is <strong>ugly</strong>."
+},
+"7893": {
+"gaps": [
+[
+"small"
+]
+],
+"feedback": "Correct answer: small<br>‣ The opposite of <strong>big</strong> is <strong>small</strong>."
+},
+"7894": {
+"gaps": [
+[
+"cold"
+]
+],
+"feedback": "Correct answer: cold<br>‣ The opposite of <strong>hot</strong> is <strong>cold</strong>."
+},
+"7895": {
+"gaps": [
+[
+"slow"
+]
+],
+"feedback": "Correct answer: slow<br>‣ The opposite of <strong>fast</strong> is <strong>slow</strong>."
+},
+"7896": {
+"gaps": [
+[
+"bad"
+]
+],
+"feedback": "Correct answer: bad<br>‣ The opposite of <strong>good</strong> is <strong>bad</strong>."
+},
+"7897": {
+"choices": [
+13957
+],
+"feedback": "‣ <strong>empty</strong> is correct because the opposite of <strong>full</strong> is <strong>empty</strong>."
+},
+"7898": {
+"choices": [
+13964
+],
+"feedback": "‣ <strong>light</strong> is correct because the opposite of <strong>heavy</strong> is <strong>light</strong>."
+},
+"7899": {
+"choices": [
+13979
+],
+"feedback": "‣ <strong>bright</strong> is correct because the opposite of <strong>dim</strong> is <strong>bright</strong>."
+},
+"7900": {
+"choices": [
+13992
+],
+"feedback": "‣ <strong>fast</strong> is correct because the opposite of <strong>slow</strong> is <strong>fast</strong>."
+},
+"7901": {
+"choices": [
+14000
+],
+"feedback": "‣ <strong>expensive</strong> is correct because the opposite of <strong>cheap</strong> is <strong>expensive</strong>."
+},
+"7902": {
+"choices": [
+14005
+],
+"feedback": "‣ <strong>soft</strong> is correct because the opposite of <strong>hard</strong> is <strong>soft</strong>."
+},
+"7903": {
+"choices": [
+14016
+],
+"feedback": "‣ <strong>thick</strong> is correct because the opposite of <strong>thin</strong> is <strong>thick</strong>."
+},
+"7904": {
+"choices": [
+14028
+],
+"feedback": "‣ <strong>dirty</strong> is correct because the opposite of <strong>clean</strong> is <strong>dirty</strong>."
+},
+"7905": {
+"choices": [
+14043
+],
+"feedback": "‣ <strong>hot</strong> is correct because the opposite of <strong>cold</strong> is <strong>hot</strong>."
+},
+"7906": {
+"choices": [
+14051
+],
+"feedback": "‣ <strong>long</strong> is correct because the opposite of <strong>short</strong> is <strong>long</strong>."
+},
+"7907": {
+"gaps": [
+[
+"soft"
+]
+],
+"feedback": "Correct answer: soft<br>‣ The opposite of <strong>hard</strong> is <strong>soft</strong>."
+},
+"7908": {
+"gaps": [
+[
+"thin"
+]
+],
+"feedback": "Correct answer: thin<br>‣ The opposite of <strong>thick</strong> is <strong>thin</strong>."
+},
+"7909": {
+"gaps": [
+[
+"empty"
+]
+],
+"feedback": "Correct answer: empty<br>‣ The opposite of <strong>full</strong> is <strong>empty</strong>."
+},
+"7910": {
+"gaps": [
+[
+"dirty"
+]
+],
+"feedback": "Correct answer: dirty<br>‣ The opposite of <strong>clean</strong> is <strong>dirty</strong>."
+},
+"7911": {
+"gaps": [
+[
+"dim",
+"dark"
+]
+],
+"feedback": "Correct answer: dim<br>‣ The opposite of <strong>bright</strong> is <strong>dim</strong>."
+},
+"7912": {
+"gaps": [
+[
+"cheap"
+]
+],
+"feedback": "Correct answer: cheap<br>‣ The opposite of <strong>expensive</strong> is <strong>cheap</strong>."
+},
+"7913": {
+"gaps": [
+[
+"short"
+]
+],
+"feedback": "Correct answer: short<br>‣ The opposite of <strong>long</strong> is <strong>short</strong>."
+},
+"7914": {
+"gaps": [
+[
+"sad",
+"unhappy"
+]
+],
+"feedback": "Correct answer: sad<br>‣ The opposite of <strong>happy</strong> is <strong>sad</strong>."
+},
+"7915": {
+"gaps": [
+[
+"thin",
+"slim",
+"skinny"
+]
+],
+"feedback": "Correct answer: thin<br>‣ The opposite of <strong>fat</strong> is <strong>thin</strong>."
+},
+"7916": {
+"gaps": [
+[
+"young"
+]
+],
+"feedback": "Correct answer: young<br>‣ The opposite of <strong>old</strong> is <strong>young</strong>."
+},
+"7868": {
+"gaps": [
+[
+"grandfather"
+]
+],
+"feedback": "Correct answer: grandfather<br>‣ Robert is the speaker's <strong>grandfather</strong> in the family tree."
+},
+"7869": {
+"gaps": [
+[
+"cousin"
+]
+],
+"feedback": "Correct answer: cousin<br>‣ William is the son of the speaker's uncle and aunt, so he is a <strong>cousin</strong>."
+},
+"7870": {
+"gaps": [
+[
+"sister"
+]
+],
+"feedback": "Correct answer: sister<br>‣ Emily is the speaker's older <strong>sister</strong>."
+},
+"7871": {
+"gaps": [
+[
+"daughter"
+]
+],
+"feedback": "Correct answer: daughter<br>‣ Olivia is the speaker's <strong>daughter</strong>."
+},
+"7872": {
+"gaps": [
+[
+"nephew"
+]
+],
+"feedback": "Correct answer: nephew<br>‣ Lucas is the speaker's sister's son, so he is a <strong>nephew</strong>."
+},
+"7867": {
+"gaps": [
+[
+"aunt"
+]
+],
+"feedback": "Correct answer: aunt<br>‣ Susan is Michael's wife, so she is the speaker's <strong>aunt</strong>."
+},
+"7873": {
+"gaps": [
+[
+"niece"
+]
+],
+"feedback": "Correct answer: niece<br>‣ Chloe is the speaker's sister's daughter, so she is a <strong>niece</strong>."
+},
+"7874": {
+"gaps": [
+[
+"wife"
+]
+],
+"feedback": "Correct answer: wife<br>‣ Sarah is the speaker's <strong>wife</strong>."
+},
+"7875": {
+"gaps": [
+[
+"husband"
+]
+],
+"feedback": "Correct answer: husband<br>‣ The speaker is married to Sarah, so he is her <strong>husband</strong>."
+},
+"7876": {
+"gaps": [
+[
+"son"
+]
+],
+"feedback": "Correct answer: son<br>‣ Ethan is the speaker's <strong>son</strong>."
+},
+"7878": {
+"gaps": [
+[
+"aunt"
+]
+],
+"feedback": "Correct answer: aunt<br>‣ Your mother's sister is your <strong>aunt</strong>."
+},
+"7879": {
+"gaps": [
+[
+"uncle"
+]
+],
+"feedback": "Correct answer: uncle<br>‣ Your mother's brother is your <strong>uncle</strong>."
+},
+"7880": {
+"gaps": [
+[
+"grandmother",
+"grandma",
+"granny"
+]
+],
+"feedback": "Correct answer: grandmother<br>‣ Your father's mother is your <strong>grandmother</strong>."
+},
+"7881": {
+"gaps": [
+[
+"cousin"
+]
+],
+"feedback": "Correct answer: cousin<br>‣ Your uncle's child is your <strong>cousin</strong>."
+},
+"7877": {
+"gaps": [
+[
+"brother-in-law",
+"brother in law"
+]
+],
+"feedback": "Correct answer: brother-in-law<br>‣ Your sister's husband is your <strong>brother-in-law</strong>."
+},
+"7882": {
+"gaps": [
+[
+"niece"
+]
+],
+"feedback": "Correct answer: niece<br>‣ Your sister's daughter is your <strong>niece</strong>."
+},
+"7883": {
+"gaps": [
+[
+"nephew"
+]
+],
+"feedback": "Correct answer: nephew<br>‣ Your brother's son is your <strong>nephew</strong>."
+},
+"7884": {
+"gaps": [
+[
+"wife"
+]
+],
+"feedback": "Correct answer: wife<br>‣ The woman you are married to is your <strong>wife</strong>."
+},
+"7885": {
+"gaps": [
+[
+"husband"
+]
+],
+"feedback": "Correct answer: husband<br>‣ Your father is your mother's <strong>husband</strong>."
+},
+"7886": {
+"gaps": [
+[
+"sister"
+]
+],
+"feedback": "Correct answer: sister<br>‣ A female sibling is a <strong>sister</strong>."
+},
+"7847": {
+"gaps": [
+[
+"call"
+]
+],
+"feedback": "Correct answer: call<br>‣ We <strong>call</strong> people on the phone to talk to them."
+},
+"7848": {
+"gaps": [
+[
+"cook"
+]
+],
+"feedback": "Correct answer: cook<br>‣ We <strong>cook dinner</strong>."
+},
+"7849": {
+"gaps": [
+[
+"do"
+]
+],
+"feedback": "Correct answer: do<br>‣ We say <strong>do exercise</strong>."
+},
+"7850": {
+"gaps": [
+[
+"go"
+]
+],
+"feedback": "Correct answer: go<br>‣ We say <strong>go on vacation</strong>."
+},
+"7851": {
+"gaps": [
+[
+"goes"
+]
+],
+"feedback": "Correct answer: goes<br>‣ We say <strong>go to bed</strong>; third person singular is <strong>goes</strong>."
+},
+"7852": {
+"gaps": [
+[
+"work"
+]
+],
+"feedback": "Correct answer: work<br>‣ We say <strong>go to work</strong>."
+},
+"7853": {
+"gaps": [
+[
+"drinks"
+]
+],
+"feedback": "Correct answer: drinks<br>‣ We <strong>drink</strong> coffee; third person singular is <strong>drinks</strong>."
+},
+"7854": {
+"gaps": [
+[
+"play"
+]
+],
+"feedback": "Correct answer: play<br>‣ We <strong>play</strong> a musical instrument."
+},
+"7855": {
+"gaps": [
+[
+"listen"
+]
+],
+"feedback": "Correct answer: listen<br>‣ We say <strong>listen to music</strong>."
+},
+"7856": {
+"gaps": [
+[
+"plays"
+]
+],
+"feedback": "Correct answer: plays<br>‣ We <strong>play football</strong>; third person singular is <strong>plays</strong>."
+},
+"7857": {
+"choices": [
+13907
+],
+"feedback": "‣ <strong>D</strong> is correct because we say <strong>have dinner</strong>."
+},
+"7858": {
+"choices": [
+13909
+],
+"feedback": "‣ <strong>A</strong> is correct because we <strong>play video games</strong>; 'my son' needs the -s form."
+},
+"7859": {
+"choices": [
+13915
+],
+"feedback": "‣ <strong>B</strong> is correct because we <strong>read</strong> books and comics."
+},
+"7860": {
+"choices": [
+13923
+],
+"feedback": "‣ <strong>E</strong> is correct because we <strong>send a text</strong>."
+},
+"7861": {
+"choices": [
+13926
+],
+"feedback": "‣ <strong>C</strong> is correct because <strong>studies</strong> agrees with the third person singular subject."
+},
+"7862": {
+"choices": [
+13929
+],
+"feedback": "‣ <strong>A</strong> is correct because we <strong>take photos</strong>."
+},
+"7863": {
+"choices": [
+13936
+],
+"feedback": "‣ <strong>C</strong> is correct because we <strong>visit museums</strong>."
+},
+"7864": {
+"choices": [
+13940
+],
+"feedback": "‣ <strong>B</strong> is correct because we <strong>watch TV</strong>."
+},
+"7865": {
+"choices": [
+13947
+],
+"feedback": "‣ <strong>D</strong> is correct because we <strong>wear glasses</strong>."
+},
+"7866": {
+"choices": [
+13953
+],
+"feedback": "‣ <strong>E</strong> is correct because we <strong>send emails</strong>."
+},
+"7846": {
+"gaps": [
+[
+"go"
+],
+[
+"have"
+],
+[
+"do"
+],
+[
+"play"
+],
+[
+"play"
+],
+[
+"go"
+],
+[
+"read"
+],
+[
+"cook"
+],
+[
+"listen"
+],
+[
+"watch"
+]
+],
+"feedback": "Correct answer: go / have / do / play / play / go / read / cook / listen / watch<br>‣ <strong>go to work</strong>, <strong>have a coffee</strong>, <strong>do exercise</strong>, <strong>play football/the guitar</strong>, <strong>go to bed</strong>, <strong>read a book</strong>, <strong>cook dinner</strong>, <strong>listen to music</strong>, <strong>watch TV</strong>."
+},
+"7825": {
+"gaps": [
+[
+"backpack"
+]
+],
+"feedback": "Correct answer: backpack<br>‣ A <strong>backpack</strong> is a bag carried on your back."
+},
+"7828": {
+"gaps": [
+[
+"book"
+]
+],
+"feedback": "Correct answer: book<br>‣ A <strong>book</strong> is something you read."
+},
+"7829": {
+"gaps": [
+[
+"wallet"
+]
+],
+"feedback": "Correct answer: wallet<br>‣ A <strong>wallet</strong> holds money and credit cards."
+},
+"7830": {
+"gaps": [
+[
+"TV"
+]
+],
+"feedback": "Correct answer: TV<br>‣ A <strong>TV</strong> is something you watch for entertainment."
+},
+"7823": {
+"gaps": [
+[
+"house"
+]
+],
+"feedback": "Correct answer: house<br>‣ A <strong>house</strong> is a place where people live."
+},
+"7824": {
+"gaps": [
+[
+"car"
+]
+],
+"feedback": "Correct answer: car<br>‣ A <strong>car</strong> is a vehicle you drive."
+},
+"7831": {
+"gaps": [
+[
+"shoes"
+]
+],
+"feedback": "Correct answer: shoes<br>‣ <strong>Shoes</strong> are worn on your feet."
+},
+"7826": {
+"gaps": [
+[
+"computer"
+]
+],
+"feedback": "Correct answer: computer<br>‣ A <strong>computer</strong> is used to play games and do work."
+},
+"7832": {
+"gaps": [
+[
+"mobile phone"
+]
+],
+"feedback": "Correct answer: mobile phone<br>‣ A <strong>mobile phone</strong> is used to communicate with others."
+},
+"7827": {
+"gaps": [
+[
+"umbrella"
+]
+],
+"feedback": "Correct answer: umbrella<br>‣ An <strong>umbrella</strong> protects you from the rain."
+},
+"7834": {
+"choices": [
+13860
+],
+"feedback": "‣ <strong>B</strong> is correct because a <strong>key</strong> opens doors."
+},
+"7837": {
+"choices": [
+13878
+],
+"feedback": "‣ <strong>E</strong> is correct because a <strong>bottle</strong> is a container for water."
+},
+"7833": {
+"choices": [
+13854
+],
+"feedback": "‣ <strong>A</strong> is correct because a <strong>notebook</strong> is a book to write or draw in."
+},
+"7836": {
+"choices": [
+13872
+],
+"feedback": "‣ <strong>D</strong> is correct because a <strong>bike</strong> has two wheels."
+},
+"7835": {
+"choices": [
+13866
+],
+"feedback": "‣ <strong>C</strong> is correct because a <strong>pen</strong> is used for writing."
+},
+"7840": {
+"choices": [
+13891
+],
+"feedback": "‣ <strong>C</strong> is correct because a <strong>passport</strong> is needed to travel abroad."
+},
+"7839": {
+"choices": [
+13885
+],
+"feedback": "‣ <strong>B</strong> is correct because <strong>glasses</strong> help you see better."
+},
+"7841": {
+"choices": [
+13897
+],
+"feedback": "‣ <strong>D</strong> is correct because <strong>headphones</strong> are used to listen to music."
+},
+"7842": {
+"choices": [
+13903
+],
+"feedback": "‣ <strong>E</strong> is correct because a <strong>hat</strong> is worn on your head."
+},
+"7838": {
+"choices": [
+13879
+],
+"feedback": "‣ <strong>A</strong> is correct because a <strong>watch</strong> shows the time."
+},
+"7622": {
+"choices": [
+13319
+],
+"feedback": "‣ <strong>C</strong> is correct because Gary asks David to <strong>look for</strong> the essay and give it to Louise in his class; he didn't forget to do it."
+},
+"7623": {
+"choices": [
+13321
+],
+"feedback": "‣ <strong>B</strong> is correct because the library is closed now because of building problems and will stay closed <strong>until next March</strong>."
+},
+"7624": {
+"choices": [
+13325
+],
+"feedback": "‣ <strong>C</strong> is correct because Lily can't meet because her car is at the mechanic; she doesn't say she will be there or that it is broken."
+},
+"7625": {
+"choices": [
+13326
+],
+"feedback": "‣ <strong>A</strong> is correct because the notice says <strong>running is not allowed</strong>, which means it is forbidden."
+},
+"7626": {
+"choices": [
+13329
+],
+"feedback": "‣ <strong>A</strong> is correct because complaints are <strong>no longer</strong> managed by Customer Service, so it used to deal with them."
+},
+"7627": {
+"choices": [
+13338
+],
+"feedback": "‣ <strong>G</strong> is correct because Kezia enjoys trying dishes from different countries, and the <strong>Cooking</strong> course covers French, Italian, Greek and Turkish food."
+},
+"7628": {
+"choices": [
+13342
+],
+"feedback": "‣ <strong>C</strong> is correct because Floyd enjoys walking in the mountains, which matches <strong>Hill Walkers</strong>."
+},
+"7629": {
+"choices": [
+13355
+],
+"feedback": "‣ <strong>H</strong> is correct because Badou loves museums and painting, which matches the <strong>Painting Course</strong> with art history."
+},
+"7630": {
+"choices": [
+13356
+],
+"feedback": "‣ <strong>A</strong> is correct because Jennifer loves music, meeting friends and nightclubs, so the fun <strong>Dance</strong> class suits her."
+},
+"7631": {
+"choices": [
+13368
+],
+"feedback": "‣ <strong>E</strong> is correct because Carla works in a museum and wants to live in Beijing, so <strong>Ancient China</strong> suits her."
+},
+"7632": {
+"choices": [
+13373
+],
+"feedback": "‣ <strong>B</strong> is correct because the writer tells the story of his work experience trip to Greece."
+},
+"7633": {
+"choices": [
+13379
+],
+"feedback": "‣ <strong>D</strong> is correct because he says the dishes were made with natural ingredients and were very tasty."
+},
+"7634": {
+"choices": [
+13383
+],
+"feedback": "‣ <strong>D</strong> is correct because he was surprised by how <strong>funny and smart</strong> the kids were."
+},
+"7635": {
+"choices": [
+13387
+],
+"feedback": "‣ <strong>D</strong> is correct because he had fallen in love with Crete and left 'to my disappointment'."
+},
+"7636": {
+"choices": [
+13390
+],
+"feedback": "‣ <strong>C</strong> is correct because he loved Crete and it will always be special to him, so he had a lovely time."
+},
+"7637": {
+"choices": [
+13396
+],
+"feedback": "‣ <strong>E</strong> is correct because it gives a benefit of city life before 'However, she was increasingly tired'."
+},
+"7642": {
+"choices": [
+13432
+],
+"feedback": "‣ <strong>A</strong> is correct because it continues the description of the refreshing countryside, contrasting with the noisy city."
+},
+"7643": {
+"choices": [
+13441
+],
+"feedback": "‣ <strong>B</strong> is correct because after deciding to leave the city, she found a job and a cottage in the countryside."
+},
+"7644": {
+"choices": [
+13450
+],
+"feedback": "‣ <strong>C</strong> is correct because it refers back to her garden (plants) and farm animals (chickens)."
+},
+"7645": {
+"choices": [
+13459
+],
+"feedback": "‣ <strong>D</strong> is correct because looking at the starlit sky illustrates the natural beauty and calmness of her new surroundings."
+},
+"7646": {
+"choices": [
+13464
+],
+"feedback": "‣ <strong>A</strong> is correct because we say temperate <strong>climates</strong>."
+},
+"7647": {
+"choices": [
+13469
+],
+"feedback": "‣ <strong>B</strong> is correct because a <strong>tourist attraction</strong> is a place tourists visit."
+},
+"7648": {
+"choices": [
+13473
+],
+"feedback": "‣ <strong>B</strong> is correct because the tree has many <strong>uses</strong> (furniture, instruments, syrup)."
+},
+"7649": {
+"choices": [
+13479
+],
+"feedback": "‣ <strong>D</strong> is correct because we say <strong>look in</strong> a place to search it."
+},
+"7650": {
+"choices": [
+13481
+],
+"feedback": "‣ <strong>B</strong> is correct because syrup is <strong>made from</strong> sap."
+},
+"7651": {
+"choices": [
+13487
+],
+"feedback": "‣ <strong>D</strong> is correct because temperatures <strong>increase</strong> (rise) after winter."
+},
+"7652": {
+"gaps": [
+[
+"because",
+"as",
+"since"
+],
+[
+"like",
+"including"
+],
+[
+"There"
+],
+[
+"The"
+],
+[
+"It"
+],
+[
+"is",
+"weighs"
+]
+],
+"feedback": "Correct answer: because / like / There / The / It / is<br>‣ 27 gives a reason; 28 introduces examples; 29 <strong>There are</strong>; 30 superlative needs <strong>the</strong>; 31 <strong>It</strong> refers to the Antilopine; 32 <strong>is</strong> 54 kilos in weight."
+}
+}

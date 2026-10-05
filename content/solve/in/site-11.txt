@@ -1,0 +1,1666 @@
+
+=== PAGE /grammar-points/b2/ellipsis-and-substitution/
+Q 1243 [radio] You didn't call your mum, and you _____.
+ 1776) A. should have called
+ 1777) B. had
+ 1778) C. should have
+  SITE FEEDBACK: ‣ We can omit a repeated verb phrase when we use a different auxiliary or modal verb. In the second clause or sentence we may need to leave two auxiliaries to express past meaning. /  ‣ You didn't call your mum, and you should have (called your mum).
+Q 1244 [radio] 'He doesn't care about us.' 'I _____ because he never calls.'
+ 1779) A. don't guess so
+ 1780) B. guess not
+ 1781) C. think not
+  SITE FEEDBACK: ‣ We can use the verb guess + not (NOT don't guess so) to avoid repeating a negative clause. /  ‣ We can also use don't think so (NOT think not) to avoid repeating a negative clause.
+Q 1246 [radio] A: 'Is he coming with us?' B: 'I ______. I don't really like him.'
+ 1785) A. hope doesn't
+ 1786) B. hope no
+ 1787) C. hope not
+  SITE FEEDBACK: ‣ We can use negative verb + so or positive verb + not after certain verbs of thinking and speaking to avoid repeating a negative clause. /  ‣ I hope not = I hope he isn't coming with us.
+Q 1250 [radio] I know I said I would go with you, but I won't ____.
+ 1797) A. be able to do
+ 1798) B. be able so
+ 1799) C. be able to
+  SITE FEEDBACK: ‣ We can omit a repeated verb phrase after an infinitive with to. This is called a reduced infinitive. /  ‣ I know I said I would go with you, but I won't be able to (go with you).
+Q 1249 [radio] He really loves you, but he won't ______ because he is too proud.
+ 1794) A. tell so
+ 1795) B. say so
+ 1796) C. tell
+  SITE FEEDBACK: ‣ We use so after certain verbs of thinking and speaking to avoid repeating a positive clause. We can use say + so (NOT tell). /  ‣ he won't say so = he won't say he loves you.
+
+=== PAGE /grammar-points/b2/participle-clauses/
+Q 1383 [radio] ______, she didn’t mention her daughter's promotion.
+ 1917) A. Not wishing to boast
+ 1918) B. Her not wishing to boast
+ 1919) C. Alice not wishing to boast
+  SITE FEEDBACK: ‣ The subject of the verb in the participle clause and the subject of the verb in the main clause are the same; in this case the subject is she. /  ‣ We don't include the subject in the participle clause, because it goes in the main clause.
+Q 1385 [radio] ______, he had a long holiday.
+ 1923) A. Having finished the novel
+ 1924) B. The novel finished
+ 1925) C. The writer having finished the novel
+  SITE FEEDBACK: ‣ The subject of the verb in the participle clause and the subject of the verb in the main clause are the same; in this case the subject is he. /  ‣ We don't include the subject in the participle clause, because it just goes in the main clause.
+Q 1386 [radio] ______ with his daughter's behaviour, he bought her sweets.
+ 1926) A. Her daddy pleased
+ 1927) B. Pleased
+ 1928) C. Having pleased
+  SITE FEEDBACK: ‣ The subject of the verb in the participle clause and the subject of the verb in the main clause are the same; in this case the subject is he. /  ‣ We use a past participle clause because the verb is passive: he was pleased with his daughter's behaviour.
+Q 1387 [radio] ______, Mark retired from international competition.
+ 1929) A. Having won every major judo title
+ 1930) B. Won every major judo title
+ 1931) C. He having won every major judo title
+  SITE FEEDBACK: ‣ The subject of the verb in the participle clause and the subject of the verb in the main clause are the same; in this case the subject is Mark. /  ‣ We don't include the subject in the participle clause, because it goes in the main clause. /  ‣ The verb in the participle clause is active, so we need an -ing participle clause: After he had won every major judo title, ...
+Q 1388 [radio] ______, I feel that my training sessions are much better.
+ 1932) A. Taking my multivitamin
+ 1933) B. Taken my multivitamin
+ 1934) C. I taking my multivitamin
+  SITE FEEDBACK: ‣ We don’t include the subject in the participle clause, because it goes in the main clause. /  ‣ We need an -ing participle because the verb is active: When I take my multivitamin, I feel that ...
+Q 1389 [radio] ______, the surface maintains its original appearance over time.
+ 1935) A. Cleaned with hot water and soap
+ 1936) B. Cleaning with hot water and soap
+ 1937) C. Having cleaned with hot water and soap
+  SITE FEEDBACK: ‣ We need to use a past participle clause because we are replacing a sentence with a verb in the passive voice: When the surface is cleaned with hot water and soap, ...
+Q 1390 [radio] Which sentence is CORRECT?
+ 1938) A. The house being made of stone, it is quite cool in summer.
+ 1939) B. Made of stone, the house is quite cool in summer.
+ 1940) C. Making it of stone, the house is quite cool in summer.
+  SITE FEEDBACK: ‣ We don’t include the subject in the participle clause, because it goes in the main clause. /  ‣ The subject of the verb in the participle clause and the subject of the verb in the main clause are the same; in this case the subject is the house. /  ‣ Making it of stone= When you make it of stone (subject= you)
+Q 1392 [radio] ______, he had to stay home while his friends were out having fun.
+ 1944) A. Without John having any money
+ 1945) B. Not having any money
+ 1946) C. Not being had money
+  SITE FEEDBACK: ‣ We don’t include the subject in the participle clause, because it goes in the main clause. /  ‣ We need an -ing participle because the verb is active: Because he didn't have any money, he ...
+
+=== PAGE /grammar-points/b2/future-in-the-past/
+Q 1203 [radio] I ______ Sam for money, but I didn't because I don't want to owe him anything.
+ 1736) A. was asking
+ 1737) B. would ask
+ 1738) C. will ask
+ 1739) D. was going to ask
+  SITE FEEDBACK: ‣ We use be going to to talk about future intentions or plans. /  ‣ The past equivalent is was/were going to.
+Q 1206 [checkbox, pick 2] I had a feeling that the party ______ a disaster. Choose TWO correct options
+ 1748) A. would be
+ 1749) B. was being
+ 1750) C. was to be
+ 1751) D. was going to be
+  SITE FEEDBACK: ‣ We can use will or be going to to make future predictions.
+Q 1204 [radio] We didn't expect that he ______ like that.
+ 1740) A. would react
+ 1741) B. was reacting
+ 1742) C. would be reacted
+ 1743) D. will react
+  SITE FEEDBACK: ‣ We use will to make predictions about things that we think will happen. /  ‣ The past equivalent is would.
+Q 1212 [checkbox] She ______ her speech when someone threw an egg at her. Choose TWO correct options
+ 1760) A. would finish
+ 1761) B. was about to finish
+ 1762) C. was going to finish
+ 1763) D. would be finishing
+  SITE FEEDBACK: ‣ We use be going to to talk about something that is very near to happen or that we see is going to happen. /  ‣ We often use be about to + infinitive to say that something will happen in a very near future.
+Q 1205 [radio] I told you she ______ everybody. She can't keep a secret.
+ 1744) A. was going to tell
+ 1745) B. was telling
+ 1746) C. will tell
+ 1747) D. told
+  SITE FEEDBACK: ‣ We can use be going to to make future predictions about things that we see will happen. /  ‣ The past equivalent is was/were going to.
+Q 1210 [checkbox] After finishing his last book, I asked him what he ______ next, but he just didn't know. Choose TWO correct options
+ 1756) A. was doing
+ 1757) B. would be doing
+ 1758) C. did
+ 1759) D. was going to do
+  SITE FEEDBACK: ‣ We use be going to to talk about future intentions or plans. The past equivalent is was/were going to. /  ‣ We can also use the future continuous in this sense. The past equivalent is would be + -ing verb.
+Q 1207 [radio] The baby ______ be born in March, but it was finally born in April.
+ 1752) A. was about to
+ 1753) B. was due to
+ 1754) C. would
+ 1755) D. was on the verge of
+  SITE FEEDBACK: ‣ We use be due to + infinitive to talk about things that are planned or expected to happen. /  ‣ The past equivalent is was/were due to.
+Q 1214 [checkbox, pick 2] The couple who died in the fire ______ married at the end of the month. Choose TWO correct options
+ 1764) A. were getting
+ 1765) B. would get
+ 1766) C. were due to get
+ 1767) D. are getting
+  SITE FEEDBACK: ‣ We can use the present continuous to talk about future arrangements. /  ‣ We can also use be due to + infinitive to talk about things that are planned or expected to happen.
+Q 1218 [radio] The next day we ______ to Germany where we ______ a press conference.
+ 1768) A. would fly / attended
+ 1769) B. were going to fly / attended
+ 1770) C. will fly / would attend
+ 1771) D. were flying / were due to attend
+  SITE FEEDBACK: ‣ We can use the present continuous to talk about future arrangements. The past equivalent is the past continuous. /  ‣ We use be due to + infinitive to talk about things that are planned or expected to happen.
+Q 1222 [checkbox, pick 2] A family of six, who ______ the following week, died when the building collapsed. Choose TWO correct options
+ 1772) A. were to move out
+ 1773) B. would be moved out
+ 1774) C. moved out
+ 1775) D. were going to move out
+  SITE FEEDBACK: ‣ Be to + infinitive is often used in news reports to talk about events that are planned or expected to happen. /  ‣ And we can use be going to to talk about future intentions or plans.
+
+=== PAGE /grammar-points/b2/ways-express-future/
+Q 1153 [radio] The government ______ to pass the new law by the end of the year.
+ 1656) A. is about
+ 1657) B. is on the verge
+ 1658) C. is
+ 1659) D. is on the point
+  SITE FEEDBACK: ‣ Be to + infinitive is often used in news reports to talk about official arrangements and about events that are planned or expected to happen. The meaning is usually something like ‘it is expected’.
+Q 1154 [radio] The new canal ______ to be finished by December next year.
+ 1660) A. is due
+ 1661) B. is on the brink
+ 1662) C. is about
+ 1663) D. is on the verge
+  SITE FEEDBACK: ‣ We use be due to + infinitive to talk about things that are planned or expected to happen. /  ‣ The form 'is about to finish' is not possible because we are not talking about an immediate event. /  ‣ The expressions on the verge and on the brink are followed by of + ing.
+Q 1155 [radio] Researchers say they are ______ discovering a new form of life.
+ 1664) A. about
+ 1665) B. on the verge of
+ 1666) C. on the point of
+ 1667) D. on the point of / on the verge of
+  SITE FEEDBACK: ‣ We can use be on the brink of, be on the verge of or be on the point of to say that something will happen very soon.
+Q 1157 [radio] The National Institute of Health ______ to begin the first human trials for an experimental vaccine in the coming months.
+ 1672) A. is on the verge
+ 1673) B. is due
+ 1674) C. is about
+ 1675) D. is on the point
+  SITE FEEDBACK: ‣ We use be due to + infinitive to talk about things that are planned or expected to happen. /  ‣ We can't use be about to because we are not talking about an immediate event.
+Q 1158 [radio] The prime minister ______ contact the French president to begin negotiations.
+ 1676) A. is on the verge
+ 1677) B. is on the brink
+ 1678) C. is due
+ 1679) D. is to
+  SITE FEEDBACK: ‣ Be to + infinitive is often used in news reports to talk about official arrangements and about events that are planned or expected to happen. The meaning is usually something like ‘it is expected’. /  ‣ We could also say 'is due to contact'.
+Q 1159 [radio] Borneo's orangutans are ______ extinct.
+ 1680) A. on the verge of becoming
+ 1681) B. about to become
+ 1682) C. due to become
+ 1683) D. on the verge of becoming / about to become
+  SITE FEEDBACK: ‣ We often use be about to + infinitive to say that something will happen in a very near future. /  ‣ We can also use be on the brink of, be on the verge of or be on the point of to say that something will happen very soon.
+Q 1160 [radio] The next generation of the device ______ to be unveiled until October 4th.
+ 1684) A. isn't due
+ 1685) B. isn't unlikely
+ 1686) C. isn't about
+ 1687) D. isn't on the verge
+  SITE FEEDBACK: ‣ We use be due to + infinitive to talk about things that are planned or expected to happen. 'Isn't due to be unveiled' = isn't expected to be unveiled. /  ‣ We could also say 'isn't likely to be unveiled', but not 'isn't unlikely'.
+Q 1161 [radio] Experts say the terrorist attack ______ to affect tourism in the short term.
+ 1688) A. is on the point
+ 1689) B. is due
+ 1690) C. is bound
+ 1691) D. is about
+  SITE FEEDBACK: ‣ In this sentence we are making a prediction. /  ‣ We use be bound to + infinitive to say that something is certain or very likely to happen.
+Q 1162 [radio] The government ______ its decision at a press conference on Friday.
+ 1692) A. is about to announce
+ 1693) B. is unlikely to announce
+ 1694) C. is on the verge of announcing
+ 1695) D. is due to announce
+  SITE FEEDBACK: ‣ We use be due to + infinitive to talk about things that are planned or expected to happen. /  ‣ The other options don't make as much sense.
+
+=== PAGE /grammar-points/b2/future-forms-expressing-future-time/
+Q 1183 [checkbox, pick 2] We ______ married in July. Choose TWO correct options
+ 1696) A. are getting
+ 1697) B. get
+ 1698) C. are going to get
+ 1699) D. will have get
+  SITE FEEDBACK: ‣ We often use the present continuous to talk about future arrangements. /  ‣ We use be going to to talk about future intentions or plans.
+Q 1186 [radio] The conference ______ at 6. Don't be late.
+ 1708) A. is starting
+ 1709) B. starts
+ 1710) C. will have started
+ 1711) D. will be started
+  SITE FEEDBACK: ‣ We use the present simple to talk about future events that are scheduled or timetabled.
+Q 1185 [radio] You look tired. ______ you a cup of tea?
+ 1704) A. Will I get
+ 1705) B. Shall I get
+ 1706) C. Am I getting
+ 1707) D. Am I going to get
+  SITE FEEDBACK: ‣ When we offer to do something for somebody, we use I will in statements or shall I in questions.
+Q 1184 [checkbox] ______ that computer later on? Choose TWO correct options
+ 1700) A. Will you use
+ 1701) B. Will you have used
+ 1702) C. Will you be using
+ 1703) D. Are you going to use
+  SITE FEEDBACK: ‣ We can use be going to or future continuous to talk about things that we have planned to do in the future.
+Q 1187 [radio] When he comes to London next week, he ______ with some friends. Choose the INCORRECT answer
+ 1712) A. 'll be staying
+ 1713) B. will have stayed
+ 1714) C. is going to stay
+ 1715) D. is staying
+  SITE FEEDBACK: ‣ We can use the present continuous and the future continuous to talk about future arrangements and we can also use be going to to talk about future intentions or plans.
+Q 1188 [radio] ______ me a favour? Can you water the plants for me while I'm away?
+ 1716) A. Will you do
+ 1717) B. Are you going to do
+ 1718) C. Are you doing
+ 1719) D. Will you have done
+  SITE FEEDBACK: ‣ We use will in requests, i.e. when we are asking someone to do something.
+Q 1189 [radio] If you want to talk to me, I ______ at the sports hall all afternoon.
+ 1720) A. train
+ 1721) B. 'm training
+ 1722) C. will train
+ 1723) D. will be training
+  SITE FEEDBACK: ‣ We use the future continuous for situations or actions that will be in progress at a certain time in the future.
+Q 1190 [radio] Do you think you ______ cleaning before dad arrives?
+ 1724) A. finish
+ 1725) B. are going to finish
+ 1726) C. are finishing
+ 1727) D. will have finished
+  SITE FEEDBACK: ‣ We use the future perfect simple for actions that will be completed before certain time in the future.
+Q 1191 [radio] Oh no, it's broken! Don't worry I ______ you a new one.
+ 1728) A. 'm buying
+ 1729) B. 'll buy
+ 1730) C. 'm going to buy
+ 1731) D. 'll be buying
+  SITE FEEDBACK: ‣ We use will for decisions that we take at the moment of speaking (instant decisions).
+Q 1192 [radio] We ______ into our new flat at the end of next week. Choose the INCORRECT answer
+ 1732) A. were moving
+ 1733) B. are moving
+ 1734) C. 'll be moving
+ 1735) D. are going to move
+  SITE FEEDBACK: ‣ We can use the present continuous and the future continuous to talk about future arrangements and we can also use be going to to talk about future intentions or plans.
+
+=== PAGE /grammar-points/b2/modal-verbs-permission-obligation-prohibition-necessity/
+Q 1052 [checkbox, pick 2] It's beautiful! Thanks, but you ______ anything for me.
+ 1532) A. needn't have bought
+ 1533) B. needn't buy
+ 1534) C. mustn't have bought
+ 1535) D. shouldn't have bought
+  SITE FEEDBACK: ‣ When something was not necessary but we did it, we can use both didn’t need to + infinitive and needn’t have + past participle. /  ‣ We can also use shouldn't have bought with a similar meaning. /  ‣ Needn't buy has a present or future sense, not past. And mustn't have bought doesn't make any sense.
+Q 1053 [checkbox, pick 2] We'll ______ be more careful about what we say in the future.
+ 1536) A. have to
+ 1537) B. must
+ 1538) C. need to
+ 1539) D. be able
+  SITE FEEDBACK: ‣ We use need to/have to or don’t need to/don’t have to + infinitive to say that something is or is not necessary. /  ‣ We cannot say will must. And we say be able + to.
+Q 1055 [checkbox, pick 2] You ______ see a specialist to check that knee.
+ 1540) A. need
+ 1541) B. ought to
+ 1542) C. should have
+ 1543) D. 'd better
+  SITE FEEDBACK: ‣ We can use ought to + infinitive or had better + infinitive to talk about actions that someone should or shouldn't do. /  ‣ The other two forms are grammatically incorrect.
+Q 1056 [checkbox, pick 2] When you get a new employee, you ______ work so hard any longer.
+ 1544) A. won't must
+ 1545) B. won't have to
+ 1546) C. shouldn't
+ 1547) D. won't need to
+  SITE FEEDBACK: ‣ We use need to/have to or (not) need to/(not) have to + infinitive to say that something is or is not necessary.
+Q 1059 [checkbox, pick 2] The effects ____ last 6 to 8 hours.
+ 1548) A. ought to
+ 1549) B. are meant
+ 1550) C. are supposed to
+ 1551) D. had better
+  SITE FEEDBACK: ‣ We can also use be supposed/meant to + infinitive to talk about what should or should not happen. /  ‣ The same is true for ought to + infinitive.
+Q 1060 [checkbox, pick 2] They ______ us a discount because we couldn't sleep in the room that we had booked.
+ 1552) A. must have offered
+ 1553) B. 'd better offered
+ 1554) C. ought to have offered
+ 1555) D. should have offered
+  SITE FEEDBACK: ‣ We can use should/ought to + have + past participle to talk about things that didn't happen but that it was a mistake; we regret them not happening. /  ‣ The form must have + past participle is used to make deductions. They must have offered a discount means 'I'm sure they offered a discount'.
+Q 1061 [checkbox, pick 2] If we ______ to have midnight snacks, why is there a light in the fridge?
+ 1556) A. aren't meant
+ 1557) B. shouldn't
+ 1558) C. aren't supposed
+ 1559) D. don't have
+  SITE FEEDBACK: ‣ We can also use be not supposed to/be not meant to + infinitive to express obligation not to do something. /  ‣ The form don't have to means don't need to which doesn't make sense in this sentence.
+Q 1062 [checkbox, pick 2] When I was at school, we ______ wear a uniform.
+ 1560) A. ought to
+ 1561) B. had to
+ 1562) C. were supposed to
+ 1563) D. must
+  SITE FEEDBACK: ‣ We can use had to or was/were supposed/meant to to express past obligation. /  ‣ We use must to express obligation to, but it is only used with a present or future meaning. /  ‣ We use ought to + infinitive to express advice, but it doesn't have a past meaning.
+Q 1063 [checkbox, pick 2] We ______ do the dishes today; we can leave them for tomorrow.
+ 1564) A. needn't
+ 1565) B. don't have
+ 1566) C. mustn't
+ 1567) D. don't need to
+  SITE FEEDBACK: ‣ We can use both don’t need to or needn’t + infinitive to say that it is unnecessary to do something. /  ‣ Mustn't is used to express prohibition or obligation not to do something, which doesn't make sense in this sentence. /  ‣ We can say don't have to do (NOT don't have do).
+Q 1064 [checkbox, pick 2] Visitors ______ stay at night.
+ 1568) A. aren't permitted
+ 1569) B. aren't allowed to
+ 1570) C. hadn't better
+ 1571) D. mustn't
+  SITE FEEDBACK: ‣ We can use mustn't or not be allowed to to express prohibition or lack of permission. /  ‣ We can say that something isn't permitted + to + infinitive. /  ‣ The form had better is affirmative, not negative.
+
+=== PAGE /grammar-points/b2/verbs-of-the-senses/
+Q 1065 [gaps] I {1} the cake when my mother got in and asked me if it {2} good.
+  {1} options: was tasting | tasted
+  {2} options: was tasting | tasted
+  SITE FEEDBACK: Correct answer: was tasting/tasted /  ‣ The verbs feel, look, smell, and taste can be used in continuous forms when they are voluntary actions. In the first gap, I was tasting means that 'I was putting the food in my mouth to see how it tasted'. /  ‣ In the second gap we use the verbs taste to talk about the impressions that we receive through our sense of taste.
+Q 1066 [gaps] I {1} very well, and I'm so cold that I {2} my toes.
+  {1} options: can't feel | 'm not feeling
+  {2} options: can't feel | 'm not feeling
+  SITE FEEDBACK: Correct answer: 'm not feeling/can't feel /  ‣ We can use feel in progressive tenses to talk about how we feel physically or emotionally. /  ‣ In the second gap feel is a stative verb because we use it to talk about the impressions that we receive through our sense of touch. We normally use can or can’t with these verbs (and NOT present continuous) to talk about something that is happening at the moment.
+Q 1067 [gaps] Sorry, there's a lot of noise and I {1} you very well. {2} me?
+  {1} options: can't hear | 'm not hearing
+  {2} options: Are you hearing | Can you hear
+  SITE FEEDBACK: Correct answer: can't hear/can you hear /  ‣ In both gaps the verb hear is stative. When we use the verbs feel, hear, see, smell, or taste to talk about the impressions that we receive through our five senses (touch, hearing, sight, smell, taste), they are all non-action verbs and cannot be used in progressive forms. /  ‣ We normally use can or can’t with these verbs (and NOT present continuous) to talk about something that is happening at the moment.
+Q 1069 [gaps] 'Why {1} the sofa like this?' 'I don't know, but don't you think the living room {2} strange?'
+  {1} options: does the dog smell | is the dog smelling
+  {2} options: smells | is smelling
+  SITE FEEDBACK: Correct answer: is the dog smelling/smells /  ‣ In the first gap, the verb smell is dynamic because it's a voluntary action; it means that is dog is voluntarily putting its nose near the sofa to see how it smells. /  ‣ In the second gap the verb smell is stative because when we use the verbs feel, hear, see, smell, or taste to talk about the impressions that we receive through our five senses (touch, hearing, sight, smell, taste), they are all non-action verbs and cannot be used in progressive forms.
+Q 1070 [gaps] 'Where is James? I {1} him, and I need to tell him something.' 'He has just left, but I {2} him tomorrow at 7. Do you want me to give him a message?'
+  {1} options: 'm not seeing | can't see
+  {2} options: 'm seeing | can see
+  SITE FEEDBACK: Correct answer: can't see/'m seeing /  ‣ In the first gap, the verb see is stative because it is used to talk about the impressions that we receive through our sense of sight. /  ‣ We normally use can or can’t with stative verbs of the senses (and NOT present continuous) to talk about something that is happening at the moment. /  ‣ In the second gap, the verb see is dynamic because see is dynamic when it means 'meet'. I'm seeing him tomorrow = 'I'm meeting him tomorrow.'
+Q 1075 [gaps] I {1} at her as I am speaking to you and she {2} fantastic.
+  {1} options: look | 'm looking
+  {2} options: is looking | looks
+  SITE FEEDBACK: Correct answer: 'm looking/looks /  ‣ In the first gap, the verb look is dynamic because it's a voluntary action= 'direct your eyes somewhere in order to see'. /  ‣ In the second gap, the verb look is stative because it means 'seem', 'appear'.
+Q 1077 [radio] She ______ an angel in that dress.
+ 1572) A. looked like
+ 1573) B. seemed like
+ 1574) C. looked as if
+ 1575) D. seemed as if
+  SITE FEEDBACK: ‣ Before a noun, we can use look like or seem like.  /  ‣ In this sentence we use look and not seem because I got that impression from her physical appearance and not by the way she behaved or other details not related to her appearance.
+Q 1079 [checkbox, pick 2] We heard the neighbours ______ and we called the police. Choose TWO correct options
+ 1580) A. fought
+ 1581) B. to fight
+ 1582) C. fighting
+ 1583) D. fight
+  SITE FEEDBACK: ‣ After feel, hear, listen, notice, see, watch we can use a gerund or an infinitive. We use a gerund to express an incomplete action, an action in progress, or a repeated action, and we use an infinitive to talk about an action we heard or saw from beginning to end; usually a short action, and not a repeated action /  ‣ In this sentence we can use fighting to mean that it went on for a long time, and we can use fight to mean that it was a short action and we heard it from beginning to end.
+Q 1078 [radio] He ______ to have lost all hope.
+ 1576) A. looks as if
+ 1577) B. seems
+ 1578) C. looks
+ 1579) D. seems like
+  SITE FEEDBACK: ‣ After seem and appear we often use to + infinitive. /  ‣ We cannot use to + infinitive after the other options.
+Q 1080 [checkbox, pick 2] It looks ______ it'll stop raining soon. Choose TWO correct options
+ 1584) A. as if
+ 1585) B. how
+ 1586) C. like if
+ 1587) D. as though
+  SITE FEEDBACK: ‣ We can use feel, smell, taste, sound, and feel + as if/as though + clause.
+Q 1081 [radio] It ______ very different from anything I have eaten before.
+ 1588) A. tastes like
+ 1589) B. tastes as if
+ 1590) C. tastes
+ 1591) D. tastes as though
+  SITE FEEDBACK: ‣ Verbs of senses can be used before adjectives. /  ‣ After a verb of senses + as if/as though we use a clause. /  ‣ After a verb of senses + like we use a noun, or a clause (informal).
+Q 1082 [radio] This cake ______ . Can I have a piece?
+ 1592) A. is smelling wonderful
+ 1593) B. is smelling wonderfully
+ 1594) C. smells wonderfully
+ 1595) D. smells wonderful
+  SITE FEEDBACK: ‣ When we use the verbs feel, hear, see, smell, or taste to talk about the impressions that we receive through our five senses (touch, hearing, sight, smell, taste), they are all non-action verbs and cannot be used in progressive forms. /  ‣ After feel, smell, taste, sound, and feel, we can use an adjective (NOT an adverb) to talk about how something feels, tastes, etc.
+Q 1083 [checkbox, pick 2] It tastes ______ onion. I don't really like it. Choose TWO correct options
+ 1596) A. as if
+ 1597) B. of
+ 1598) C. how
+ 1599) D. like
+  SITE FEEDBACK: ‣ We say smell/taste of when the smell or flavour are of the real thing and we say smell/taste like when it’s a smell or flavour similar to the real thing.
+Q 1084 [radio] He is ______ awful.
+ 1600) A. looking
+ 1601) B. feeling
+ 1602) C. seeming
+ 1603) D. smelling
+  SITE FEEDBACK: ‣ We can use feel in progressive tenses to talk about how we feel physically or emotionally. /  ‣ The other options cannot be used in progressive tenses here because they have stative meanings.
+Q 1085 [radio] It ______ they've forgotten to add any salt or spices.
+ 1604) A. 's tasting as if
+ 1605) B. tastes
+ 1606) C. tastes as if
+ 1607) D. 's tasting
+  SITE FEEDBACK: ‣ When we use the verbs feel, hear, see, smell, or taste to talk about the impressions that we receive through our five senses (touch, hearing, sight, smell, taste), they are all non-action verbs and cannot be used in progressive forms. /  ‣ We use feel, smell, taste, sound, and feel + as if/as though + clause
+Q 1086 [checkbox, pick 2] It ______ he will finally get his wish. Choose TWO correct options
+ 1608) A. seems that
+ 1609) B. looks
+ 1610) C. looks as if
+ 1611) D. feels
+  SITE FEEDBACK: ‣ We can use seem that + clause, or looks as if/as though + clause. The other two options, looks and feels, could be followed by an adjective, but not by a clause.
+
+=== PAGE /grammar-points/b2/gerunds-infinitives-complex-forms/
+Q 1107 [checkbox, pick 2] The manager was accused of _______ the origin of the money. Choose TWO correct options
+ 1612) A. not investigating
+ 1613) B. not to investigate
+ 1614) C. not to have investigated
+ 1615) D. not having investigated
+  SITE FEEDBACK: ‣ We use gerunds after prepositions. /  ‣ There is usually no difference between using the simple gerund or the perfect gerund, because the context usually makes it clear when the action happened.
+Q 1110 [radio] The delegate refused ______.
+ 1624) A. being interviewed
+ 1625) B. to interview
+ 1626) C. having been interviewed
+ 1627) D. to be interviewed
+  SITE FEEDBACK: ‣ We use to + infinitive after certain verbs such as refuse. /  ‣ In this sentence we need a passive infinitive, because are describing an action that is done to the subject, not an action that the subject does.
+Q 1108 [checkbox, pick 2] There's no point ______ for a culprit now. Choose TWO correct options
+ 1616) A. looking
+ 1617) B. to look
+ 1618) C. in looking
+ 1619) D. in to look
+  SITE FEEDBACK: ‣ We use (in) + gerund in certain expressions such as there is no point ...
+Q 1111 [radio] I'm glad _____ there for Jessica. She really needed someone and I was the only person supporting her.
+ 1628) A. to be
+ 1629) B. to have been
+ 1630) C. being
+ 1631) D. having been
+  SITE FEEDBACK: ‣ We need to use the perfect infinitive to make clear that the action expressed by the infinitive was previous to the action described by the main verb. Compare: /  ‣ I'm glad to be there. (=now) /  ‣ I'm glad to have been there. (=in the past)
+Q 1109 [checkbox, pick 2] He admitted ______ the gun to the murderer. Choose TWO correct options
+ 1620) A. to give
+ 1621) B. giving
+ 1622) C. to have given
+ 1623) D. having given
+  SITE FEEDBACK: ‣ We use the gerund after certain verbs such as admit. /  ‣ There is usually no difference between using the simple gerund or the perfect gerund, because the context usually makes it clear when the action happened.
+Q 1112 [radio] I don't mind ______ that I'm wrong.
+ 1632) A. being told
+ 1633) B. telling
+ 1634) C. to be told
+ 1635) D. to tell
+  SITE FEEDBACK: ‣ We use the gerund after certain verbs such as mind. /  ‣ In this sentence we need a passive gerund, because are describing an action that is done to the subject, not an action that the subject does.
+Q 1113 [radio] The company has reached an agreement ______ by an investing consortium.
+ 1636) A. to acquire
+ 1637) B. acquiring
+ 1638) C. to be acquired
+ 1639) D. being acquired
+  SITE FEEDBACK: ‣ We use a to + infinitive after nouns that come from verbs that are used with to + infinitive. We use to + infinitive after the verb agree and also after the noun agreement. /  ‣ In this sentence we need a passive infinitive, because are describing an action that is done to the subject, not an action that the subject does. /  ‣ We also know that we need a passive verb because the agent, the doer of the action, is introduced by the preposition by after the verb.
+Q 1114 [radio] I hate ______ in August. I would rather ______ a day off on the beach.
+ 1640) A. have to work / be enjoying
+ 1641) B. having to work / to be enjoying
+ 1642) C. to have to work / being enjoying
+ 1643) D. having to work / be enjoying
+  SITE FEEDBACK: ‣ We often use a gerund after the verb hate. /  ‣ We use an infinitive without to after certain verbs such as would rather.
+Q 1115 [radio] With her choice of clothes, she has really mastered the art of how ______.
+ 1644) A. to be noticed
+ 1645) B. to notice
+ 1646) C. being noticed
+ 1647) D. be noticed
+  SITE FEEDBACK: ‣ We use to + infinitive after questions words: what, how, when, etc.  /  ‣ We need the passive form of the infinitive because we are describing an action that is done to the subject, not an action that the subject does. She has mastered the art of how to be noticed by other people.
+Q 1116 [checkbox, pick 2] They seem ______ badly treated by their protectors. Choose TWO correct options
+ 1648) A. being
+ 1649) B. having been
+ 1650) C. to be
+ 1651) D. to have been
+  SITE FEEDBACK: ‣ We use to + infinitive after certain verbs such as seem. /  ‣ In this sentence we can use either a simple or a perfect infinitive, although the meaning is different. Compare: /  ‣ They seem to be badly treated. (=now) /  ‣ They seem to have been badly treated.(=in the past)
+
+=== PAGE /grammar-points/b2/verb-object-infinitive-gerund/
+Q 994 [radio] I'd love my parents ______ me ______ whatever I want.
+ 1448) A. let / do
+ 1449) B. let / to do
+ 1450) C. to let / to do
+ 1451) D. to let / do
+  SITE FEEDBACK: ‣ We use the verbs let and make followed by object + infinitive without to.
+Q 996 [checkbox, pick 2] Jake warned ______ spreading lies. Choose TWO correct options
+ 1456) A. them to stop
+ 1457) B. them stopping
+ 1458) C. them that they should stop
+ 1459) D. them stop
+  SITE FEEDBACK: ‣ We can use advise, persuade, remind, teach, tell, warn with an object followed by a to-infinitive or a that-clause.
+Q 1005 [radio] His injury hasn't stopped ______.
+ 1460) A. that he runs
+ 1461) B. him run
+ 1462) C. him running
+ 1463) D. him to run
+  SITE FEEDBACK: ‣ We use stop + someone + (from) -ing verb.
+Q 1006 [radio] His mistake caused him ______ his job.
+ 1464) A. lose
+ 1465) B. to lose
+ 1466) C. losing
+ 1467) D. lost
+  SITE FEEDBACK: ‣ We say cause + someone + to infinitive.
+Q 1007 [radio] What kind of problems are preventing you ______.
+ 1468) A. sleep
+ 1469) B. to sleep
+ 1470) C. from sleeping
+ 1471) D. slept
+  SITE FEEDBACK: ‣ We say prevent + someone + (from) -ing verb.
+Q 1008 [checkbox, pick 2] The journalist advised ______ video blogging on YouTube. Choose TWO correct options
+ 1472) A. me to try
+ 1473) B. me try
+ 1474) C. me trying
+ 1475) D. me that I should try
+  SITE FEEDBACK: ‣ We can use advice in three ways. /  ‣ We can say advise + someone + to infinitive. /  ‣ We can say advise + someone + (that) clause. /  ‣ We can say advise + -ing verb.
+Q 1011 [radio] His father is planning ______ an influential lawyer within the firm.
+ 1484) A. he to become
+ 1485) B. him to become
+ 1486) C. for him to become
+ 1487) D. him become
+  SITE FEEDBACK: ‣ We say arrange, ask, plan or wait + for someone + to + infinitive.
+Q 1009 [radio] If you don't come forward and tell the truth, you may risk ______ wrong ideas about you.
+ 1476) A. them spreading
+ 1477) B. they speading
+ 1478) C. them spread
+ 1479) D. them to spread
+  SITE FEEDBACK: ‣ We say risk + someone + gerund.
+Q 1010 [radio] He's always encouraging ______ their own imagination.
+ 1480) A. his students using
+ 1481) B. his students to use
+ 1482) C. his students use
+ 1483) D. his students for using
+  SITE FEEDBACK: ‣ We say encourage + someone + to infinitive.
+Q 1012 [radio] An Indian girl's father has arranged ______ the son of a very wealthy friend of his
+ 1488) A. her marry
+ 1489) B. her marrying
+ 1490) C. her to marry
+ 1491) D. for her to marry
+  SITE FEEDBACK: ‣ We say arrange, ask, plan or wait + for someone + to + infinitive.
+
+=== PAGE /grammar-points/b2/unreal-uses-past-tenses/
+Q 962 [radio] What if you _______ a superpower of your choice? Which would it be?
+ 1392) A. will have
+ 1393) B. have
+ 1394) C. could have
+ 1395) D. are going to have
+  SITE FEEDBACK: ‣ Suppose, supposing, imagine, and what if can be used like we use if in conditionals.as alternatives to if in conditional sentences. /  ‣ In this sentence we have a second conditional with past simple in the if clause and would + infinitive in the main clause.
+Q 963 [radio] I wish they _______ a bit more respect in the last meeting.
+ 1396) A. would show
+ 1397) B. did showed
+ 1398) C. showed
+ 1399) D. had shown
+  SITE FEEDBACK: ‣ We can use wish + past perfect to talk about things that happened in the past and that we regret (we would have wanted them to be different).
+Q 964 [radio] I like my job, but I hate my boss. If only I _______ a better boss.
+ 1400) A. had
+ 1401) B. would have
+ 1402) C. have
+ 1403) D. 'd had
+  SITE FEEDBACK: ‣ We can use wish + past simple to talk about things that we would like to be different in the present or future (but which are very unlikely or impossible). /  ‣ We can use if only instead of I wish to mean the same. The only difference is that if only is more emphatic.
+Q 965 [radio] You don't like the essay topic we chose, do you? Would you rather we _______ a different topic?
+ 1404) A. would chose
+ 1405) B. would have chosen
+ 1406) C. had chosen
+ 1407) D. chose
+  SITE FEEDBACK: ‣ When we use a different subject after would rather or would sooner, we use past perfect to refer to the past.
+Q 966 [radio] If there are any cuts, cracks or bulges in your tyre, it's time you _______ them.
+ 1408) A. would replace
+ 1409) B. replaced
+ 1410) C. might replace
+ 1411) D. had replaced
+  SITE FEEDBACK: ‣ We can use it’s time or it’s high time followed by subject and past simple to say that something should be done now or in the future.
+Q 967 [radio] If only they _______ how important they are to each other. They wouldn't be arguing all the time.
+ 1412) A. known
+ 1413) B. might know
+ 1414) C. knew
+ 1415) D. know
+  SITE FEEDBACK: ‣ We can use wish + past simple to talk about things that we would like to be different in the present or future (but which are very unlikely or impossible). /  ‣ We can use if only instead of I wish to mean the same. The only difference is that if only is more emphatic.
+Q 968 [radio] I'd rather we _______ the car. I'm tired and don't feel like walking.
+ 1416) A. took
+ 1417) B. had taken
+ 1418) C. would take
+ 1419) D. take
+  SITE FEEDBACK: ‣ When we use a different subject after would rather or would sooner, we use past simple to refer to the present or future.
+Q 969 [checkbox, pick 2] Do you want to take the bus or would you rather _______ the subway? Choose TWO correct options
+ 1420) A. to take
+ 1421) B. take
+ 1422) C. we take
+ 1423) D. we took
+  SITE FEEDBACK: ‣ We use would rather or would sooner + infinitive to talk about preference.
+Q 970 [radio] I didn't take my boots, but I wish I _______.
+ 1424) A. did
+ 1425) B. had
+ 1426) C. would
+ 1427) D. would have
+  SITE FEEDBACK: ‣ We can use wish + past perfect to talk about things that happened in the past and that we regret (we would have wanted them to be different). /  ‣ In this sentence say 'I wish I had' instead of 'I wish I had taken my boots'. We do this so as not to repeat the verb phrase. You can review ellipsis and substitution here.
+Q 971 [radio] He seems so lost. Isn't it time you _______ a chat with him.
+ 1428) A. have
+ 1429) B. would have
+ 1430) C. to have
+ 1431) D. had
+  SITE FEEDBACK: ‣ We can use it’s time or it’s high time followed by subject and past simple to say that something should be done now or in the future.
+
+=== PAGE /grammar-points/b2/all-conditionals-mixed-conditionals-alternatives-if-inversion/
+Q 1024 [checkbox, pick 2] If I were you, I ______ anything. Choose TWO correct options
+ 1492) A. hadn't said
+ 1493) B. wouldn't say
+ 1494) C. wouldn't be said
+ 1495) D. wouldn't have said
+  SITE FEEDBACK: ‣ If I were you, I wouldn't say anything = second conditional /  ‣ If I were you, I wouldn't have said anything = mixed conditional
+Q 1025 [checkbox, pick 2] If I'd known, I ______ you. Choose TWO correct options
+ 1496) A. might have helped
+ 1497) B. would help
+ 1498) C. might help
+ 1499) D. would have helped
+  SITE FEEDBACK: ‣ This is a third conditional sentence. /  ‣ This is a third conditional sentence; we use would have/could have/might have + past participle in the main clause.
+Q 1026 [checkbox, pick 2] ______ your job, you will need enough money to sustain yourself for a few months. Choose TWO correct options
+ 1500) A. If you lose
+ 1501) B. Whether you lose
+ 1502) C. Should you lose
+ 1503) D. Had you lose
+  SITE FEEDBACK: ‣ This is a first conditional sentence. /  ‣ In first conditional sentences it’s possible to use should at the beginning of the sentence instead of if. This form is formal and it’s quite common with an imperative form in the main clause.
+Q 1027 [checkbox, pick 2] We are going to go ahead with the plan, ______ . Choose TWO correct options
+ 1504) A. whether or not they like it
+ 1505) B. even if they won't like it
+ 1506) C. provided that they will like it
+ 1507) D. whether they like it or not
+  SITE FEEDBACK: ‣ This is a first conditional sentence. /  ‣ We use whether or not when there are two alternatives and we want to say that something will happen or will be true in any of those two alternatives.
+Q 1028 [checkbox, pick 2] This might never have happened ______ me earlier. Choose TWO correct options
+ 1508) A. if you would have told
+ 1509) B. had you told
+ 1510) C. if you had told
+ 1511) D. if you told
+  SITE FEEDBACK: ‣ This is a third conditional sentence. /  ‣ In third conditional sentences, we can invert the auxiliary verb had and leave if out. Had we arrived = 'If we had arrived.'
+Q 1031 [radio] If he ______ out who did it, he would kill them.
+ 1520) A. found
+ 1521) B. would find
+ 1522) C. had found
+ 1523) D. would have found
+  SITE FEEDBACK: ‣ This is a second conditional sentence; we use past (simple or continuous) in the if clause.
+Q 1029 [checkbox, pick 2] You'll miss the train ______ a taxi. Choose TWO correct options
+ 1512) A. in case you take
+ 1513) B. even if you take
+ 1514) C. provided that you take
+ 1515) D. whether or not you take
+  SITE FEEDBACK: ‣ This is a first conditional sentence; we use present (simple, continuous, perfect) in the if clause. /  ‣ We use whether or not when there are two alternatives and we want to say that something will happen or will be true in any of those two alternatives. Whether or not you take a taxi= 'if you take a taxi and if you don't take a taxi.' /  ‣ We also use even if to mean ‘whether or not’ (for emphasis).
+Q 1032 [checkbox, pick 2] If I had known about your plans earlier, I ______ you. Choose TWO correct options
+ 1524) A. might have warned
+ 1525) B. might warn
+ 1526) C. would warn
+ 1527) D. would have warned
+  SITE FEEDBACK: ‣ This is a third conditional sentence; we use would have/could have/might have + past participle in the main clause.
+Q 1033 [checkbox, pick 2] ______ you out, would you have asked her out? Choose TWO correct options
+ 1528) A. Supposing she hadn't asked
+ 1529) B. If she hadn't asked
+ 1530) C. Provided that she wouldn't have asked
+ 1531) D. If she wouldn't have asked
+  SITE FEEDBACK: ‣ This is a third conditional sentence; we normally use past perfect in the if clause, and would have/could have/might have + past participle in the main clause. /  ‣ We can use suppose or supposing at the beginning of a sentence to make someone imagine a situation. It means ‘what would happen if’, or simply ‘if’ (imagining a situation).
+
+=== PAGE /grammar-points/b2/inversion-negative-adverbials/
+Q 912 [gaps] {1} those words {2} all the newspapers published them.
+  {1} options: No sooner had he uttered | No sooner he'd uttered | As soon as had he uttered
+  {2} options: than | that | as
+  SITE FEEDBACK: Correct answer: No sooner had he uttered/than /  ‣ We need to use no sooner + auxiliary (had) + subject.
+Q 914 [gaps] {1} the world gets rid of all nuclear weapons {2} truly safe.
+  {1} options: Under no circumstances | Not until | Hardly
+  {2} options: can us feel | can we feel | we can feel
+  SITE FEEDBACK: Correct answer: Not until/can we feel /  ‣ After not until, not if, or not since we need to use a clause (subject + verb...) before the inversion; the inversion comes after that clause. /  ‣ When we use under no circumstances or hardly at the beginning of the sentence, the inversion comes right after them.
+Q 917 [gaps] {1} the votes been counted {2} they started breaking promises.
+  {1} options: Hardly do | Hardly did | Hardly had
+  {2} options: that | than | when
+  SITE FEEDBACK: Correct answer: Hardly had/when /  ‣ We normally use hardly … when, barely … when, scarcely … when, and no sooner … than in narratives with past perfect in the inversion.
+Q 918 [gaps] {1} we are able to reinvent ourselves {2} to succeed in business and life.
+  {1} options: No sooner | Only if | Never before
+  {2} options: will be able | will we be able | we will be able
+  SITE FEEDBACK: Correct answer: Only if/will we be able /  ‣ After only if, only when, or only after we need to use a clause (subject + verb…) before the inversion; the inversion comes after that clause. /  ‣ When we use never before or no sooner at the beginning of the sentence, the inversion comes right after them.
+Q 920 [gaps] {1} the South Americans lose their ice-cold concentration, and {2} fail to control the ball.
+  {1} options: Never had | Never | Never did
+  {2} options: rarely did | rarely did they | rarely had they
+  SITE FEEDBACK: Correct answer: Never did/rarely did they /  ‣ We need never/rarely + auxiliary verb + subject + verb. /  ‣ The use of had as the auxiliary verb is not an option, because after had we would need a past participle and not an infinitive.
+Q 921 [radio] _______ started the discussion _______ a group of hooligans arrived and started shouting slogans.
+ 1312) A. Barely had they / when
+ 1313) B. No sooner had they / when
+ 1314) C. Barely they had / when
+ 1315) D. No sooner had they / that
+  SITE FEEDBACK: ‣ We could also say: 'No sooner had they started the discussion than a group of hooligans arrived and started shouting slogans.'
+Q 923 [radio] ______ break the law, _______ put themselves and others in unnecessary danger.
+ 1320) A. Not only they / but they also
+ 1321) B. Not only have they / but they also have
+ 1322) C. Not only did they / but did they also
+ 1323) D. Not only did they / but they also
+  SITE FEEDBACK: ‣ Use not only + inversion, + but + subject + (also) + verb
+Q 924 [radio] _______ allow such terrible actions to happen again.
+ 1324) A. Never again we will
+ 1325) B. No way will
+ 1326) C. Under no circumstances will we
+ 1327) D. Little will we
+  SITE FEEDBACK: ‣ We say under no circumstances to mean 'never, whatever the situation is or might be'. /  ‣ We could also say 'Never again will we...' /  ‣ Little has another meaning, which is related to amount or degree.
+Q 925 [radio] We all need to be on sensible alert, but _______ allow fear to dictate the course of our lives.
+ 1328) A. never we must
+ 1329) B. on no account should we
+ 1330) C. no way we should
+ 1331) D. under no circumstances we should
+  SITE FEEDBACK: ‣ We can use on no account to mean 'under no circumstances'. /  ‣ After a negative adverbial at the beginning of the sentence, we need an inversion (NOT subject + verb). /  ‣ We could also say under no circumstances should we, no way should we, or never must we.
+Q 926 [radio] _______ Jacqueline Kennedy _______ a first lady as charming, glamorous, or inspirational.
+ 1332) A. Never / was there
+ 1333) B. Never / there was
+ 1334) C. Not since / there has been
+ 1335) D. Not since / has there been
+  SITE FEEDBACK: ‣ We need to use not since Jackeline K., because never Jackeline K makes no sense in this sentence. /  ‣ If we put not since ... at the beginning of the sentence, we need to use an inversion after it.
+Q 927 [radio] Very _______ see that type of heroism again.
+ 1336) A. rarely will people
+ 1337) B. never will people
+ 1338) C. rarely people will
+ 1339) D. little people will
+  SITE FEEDBACK: ‣ We need to use very rarely at the beginning, because very never makes no sense, and after very little we would need inversion. /  ‣ If we put very rarely at the beginning of the sentence, we need to use an inversion after it.
+Q 928 [radio] _______ know how widely diffused his tweet would become.
+ 1340) A. Little he
+ 1341) B. Little he did
+ 1342) C. Little did he
+ 1343) D. Little he has
+  SITE FEEDBACK: ‣ In we put little at the beginning of a sentence, we need to use an inversion after it.
+Q 929 [radio] _______ more vulnerable _______ when we are beginning to fall in love.
+ 1344) A. Nowhere we are / that
+ 1345) B. Nowhere are we / than
+ 1346) C. Nowhere we are / as
+ 1347) D. Nowhere are we / that
+  SITE FEEDBACK: ‣ After nowhere we need to use an inversion: are we. /  ‣ After a comparative adjective, we use than: more vulnerable than.
+
+=== PAGE /grammar-points/b2/speculation-deduction/
+Q 881 [checkbox, pick 2] The supporters were in shock. They _______ their team to lose.
+ 1272) A. definitely didn't expect
+ 1273) B. definitely won't expect
+ 1274) C. can't have expected
+ 1275) D. must not have expected
+  SITE FEEDBACK: ‣ In this sentence we are sure that something happened in the past. /  ‣ We can use must, but NOT must not to express deduction.
+Q 882 [checkbox, pick 2] Your parents _______ fly into a rage when they see the scratch on their car. You took it without their permission!
+ 1276) A. are bound to
+ 1277) B. are likely
+ 1278) C. probably will
+ 1279) D. will definitely
+  SITE FEEDBACK: ‣ We can use be bound to or will definitely to say that we are quite sure that something will be true or happen.
+Q 883 [checkbox, pick 2] Experts say that they _______ their first final ever.
+ 1280) A. bound to win
+ 1281) B. sure to win
+ 1282) C. are likely to win
+ 1283) D. might win
+  SITE FEEDBACK: ‣ We could also say, 'They are bound to win' or 'They are sure to win.'
+Q 884 [checkbox, pick 2] Rafting down the river in May _______ really exciting.
+ 1284) A. must be
+ 1285) B. is bound to be
+ 1290) C. probably will be
+ 1291) D. is probably be
+  SITE FEEDBACK: ‣ We could also say, 'will probably be'. /  ‣ Probably goes after the auxiliary verb if it's positive, and before it if it's negative.
+Q 885 [checkbox, pick 2] They _______ home before 6. Their train arrives at 5.30, and they live just opposite the station.
+ 1286) A. will probably be
+ 1287) B. should be
+ 1288) C. can't be
+ 1289) D. are unlikely to be
+  SITE FEEDBACK: ‣ We use should/ought to + infinitive to talk about a situation that we expect to happen (present or future). /  ‣ We can also use probably. /  ‣ The forms can't be and are unlikely to be are also grammatically correct, but they don't make sense in this sentence.
+Q 886 [checkbox, pick 2] They _______ straight to the hotel after the restaurant. I was in the room next door, and I didn't hear anything.
+ 1292) A. didn't definitely go
+ 1293) B. definitely didn't go
+ 1294) C. can't go
+ 1295) D. couldn't have gone
+  SITE FEEDBACK: ‣ When we use definitely or probably with a negative auxiliary verb, they go before the auxiliary verb. /  ‣ We can also use can’t/couldn’t have + past participle to say that we are quite sure that something did NOT happen or was NOT true in the past.
+Q 887 [checkbox, pick 2] Guests _______ love the views from the terrace.
+ 1296) A. might likely
+ 1297) B. are bound to
+ 1298) C. probably will
+ 1299) D. will definitely
+  SITE FEEDBACK: ‣ We can say be likely but NOT might likely. /  ‣ We could say will probably (NOT probably will).
+Q 888 [checkbox, pick 2] According to the police, the escaped prisoner _______ be hiding in the town anymore.
+ 1300) A. might not
+ 1301) B. must not
+ 1302) C. won't definitely
+ 1303) D. is unlikely to
+  SITE FEEDBACK: ‣ We can use must but NOT must not to express deduction. /  ‣ Definitely goes after the auxiliary verb if it’s positive, and before it if it’s negative. /  ‣ We can say definitely won't (NOT won't definitely)
+Q 889 [checkbox, pick 2] He _______ his illness with better eating habits. But now it's too late.
+ 1304) A. must not have prevented
+ 1305) B. might have prevented
+ 1306) C. can have prevented
+ 1307) D. could have prevented
+  SITE FEEDBACK: ‣ We can use could/might/may have + past participle to say that it's possible that something was true or happened in the past. /  ‣ We can use must, but NOT must not to express deduction. /  ‣ We can use can't, but NOT can to express deduction.
+Q 890 [checkbox, pick 2] They _______ the battle; they had more soldiers and better equipment, but they lost.
+ 1308) A. are sure to win
+ 1309) B. should have won
+ 1310) C. were bound to win
+ 1311) D. can't have won
+  SITE FEEDBACK: ‣ We need to express past certainty that something would happen. /  ‣ We use should have + past particle to say that something was supposed or expected to happen in the past. /  ‣ We can also use be bound to + infinitive to talk about things that we expect to happen.
+
+=== PAGE /grammar-points/b2/distancing/
+Q 942 [checkbox, pick 2] _______ that the president is a very private man in a very public job.
+ 1352) A. There seems
+ 1353) B. It would seem
+ 1354) C. It seems
+ 1355) D. There might be
+  SITE FEEDBACK: ‣ We can use it appears/seems that + subject + verb … at the beginning of the sentence to distance ourselves from the information after it. /  ‣ We can also use it would seen/appear instead of it seems/appears at the beginning of the sentence to sound more formal and tentative.
+Q 943 [checkbox, pick 2] The key witness is _______ a friend of the accuser.
+ 1356) A. allegedly
+ 1357) B. according to
+ 1358) C. apparently
+ 1359) D. is said
+  SITE FEEDBACK: ‣ We can use apparently at the beginning of the sentence or in mid position to mean 'it seems that'. /  ‣ We can also use allegedly when we don't know for sure whether some information is true, specially when it seems that something wrong has been done, but there is no proof.
+Q 944 [checkbox, pick 2] _______ interested in signing Wilson.
+ 1360) A. It seems that 14 clubs to be
+ 1361) B. There are understood to be 14 clubs
+ 1362) C. 14 clubs are understood to be
+ 1363) D. There are understood to be 14 clubs are
+  SITE FEEDBACK: ‣ We can use the form there + passive of a reporting verb (are understood) + to infinitive (to be) to talk about the apparent existence of something. /  ‣ We can also use subject (14 clubs) + passive reporting verb (are understood) + to infinitive (to be) to report a present event.
+Q 945 [checkbox, pick 2] _______ continue for the next 24 to 72 hours
+ 1364) A. It is expected that the blackouts will
+ 1365) B. The blackouts are expected to
+ 1366) C. The blackouts are expected will
+ 1367) D. There is expected that the blackouts will
+  SITE FEEDBACK: ‣ We can use subject (the blackouts)+ passive reporting verb (are expected) + to infinitive (to continue) to report a present or future event. /  ‣ We can also use the structure it + passive reporting verb (is expected) + that + clause (subject + verb)
+Q 946 [checkbox, pick 2] Leonardo and Nina _______ begun dating in early June.
+ 1368) A. are thought to have
+ 1369) B. are thought to be
+ 1370) C. would
+ 1371) D. might have
+  SITE FEEDBACK: ‣ We can use subject + passive reporting verb (are thought) + to have + past participle (to have begun) to report a past event. /  ‣ We can also use might or may to speculate and say that something is or was possible. /  ‣ We use might or may + the perfect infinitive (have begun) if we are talking about a past event.
+Q 947 [checkbox, pick 2] The team's supporters _______ forgotten what the manager did for the team last season.
+ 1372) A. might
+ 1373) B. appear having
+ 1374) C. seem to have
+ 1375) D. are understood to have
+  SITE FEEDBACK: ‣ We can use subject + seem/appear + perfect infinitive (to have forgotten) to report a past event. /  ‣ We can also use subject + passive reporting verb (are understood) + perfect infinitive (to have forgotten) to report a past event.
+Q 948 [checkbox, pick 2] The terrorist group _______ trying to recruit new members.
+ 1376) A. might be
+ 1377) B. is believed to be
+ 1378) C. seems to
+ 1379) D. there appears to
+  SITE FEEDBACK: ‣ We use subject + passive reporting verb (is believed) + continuous infinitive (to be trying) to report a present event. /  ‣ We can also use might or may to speculate and say that something is possible, but that maybe it isn’t true.
+Q 949 [checkbox, pick 2] Apple _______ looking to buy a Formula 1.
+ 1380) A. is apparently
+ 1381) B. is said that it is
+ 1382) C. is said to be
+ 1383) D. is believed
+  SITE FEEDBACK: ‣ We use subject + passive reporting verb (is said) + continuous infinitive (to be looking) to report a present event. /  ‣ We can also use apparently at the beginning of the sentence or in mid position to mean ‘it seems that’.
+Q 950 [checkbox, pick 2] The murder suspect _______ have been hiding in the Netherlands.
+ 1384) A. might to
+ 1385) B. is thought to
+ 1386) C. is though that
+ 1387) D. might
+  SITE FEEDBACK: ‣ We use subject + passive reporting verb (is thought) + perfect infinitive (to have been hiding) to report a past event. /  ‣ We can also use might or may + the perfect infinitive (have been hiding) to speculate and say that something was possible, but that maybe it wasn't true. /  ‣ We use the perfect continuous infinitive (have been hiding) when we are talking about the duration of a situation from earlier in the past.
+Q 951 [checkbox, pick 2] _______ many homeowners don't want to risk selling their properties.
+ 1388) A. There seems that
+ 1389) B. It would appear that
+ 1390) C. Apparently,
+ 1391) D. It apparently
+  SITE FEEDBACK: ‣ We can use it appears/seems that or also it would appear/seem that + subject + verb … at the beginning of the sentence to distance ourselves from the information after it. /  ‣ We can also use apparently at the beginning of the sentence or in mid position to mean ‘it seems that’.
+Q 935 [gaps] The actor is {1} have a degenerative eye condition. {2} , he is completely blind and housebound.
+  {1} options: seems to | reported to | apparently
+  {2} options: There seems | It appears | Apparently
+  SITE FEEDBACK: Correct answer: reported to/Apparently /  ‣ We use subject + passive reporting verb (is reported) + to infinitive (to have) to report a present event. /  ‣ We can use apparently or it appears/seems that + subject + verb ... at the beginning of the sentence to distance ourselves from the information after it.
+Q 940 [gaps] {1} to a new report, the teenager {2} using drugs.
+  {1} options: According | Apparently | It seems
+  {2} options: is said to | might be | seems to
+  SITE FEEDBACK: Correct answer: According/might be /  ‣ We can use according to + the source of the information at the beginning of the sentence to distance ourselves from what we are going to say.
+
+=== PAGE /grammar-points/b2/narrative-tenses-used-to-would/
+Q 801 [gaps] Story 2 /  Last week I 6 {1} a car accident. I 7 {2} attention to the road and 8 {3} that a traffic light at a T-junction 9 {4} red when suddenly I 10 {5} into another car.
+  {1} options: was having | had had | had
+  {2} options: wasn't paying | didn't pay | hadn't paid
+  {3} options: wasn't seeing | didn't see | hadn't been seeing
+  {4} options: had just turned | had just been turning | was just turning
+  {5} options: was crashing | had crashed | crashed
+  SITE FEEDBACK: Feedback /  6 Correct answer: had /  ‣ This describes a past event in chronological order; one of the main events of a story. /  7 Correct answer: wasn't paying /  ‣ We use the past continuous because this was an action in progress at the time. /  8 Correct answer: didn't see /  ‣ This describes a past event in chronological order; one of the main events of a story. /  9 Correct answer: had just turned /  ‣ We use the past perfect because this event had happened earlier in the past. /  10 Correct answer: crashed /  ‣ This describes a past event in chronological order; one of the main events of a story.
+Q 802 [gaps] Story 3 /  When I was a kid, we 11 {1} in a big house near Denver, and we 12 {2} a nice fireplace.
+  {1} options: had lived | would live | used to live
+  {2} options: used to have | would have | were having
+  SITE FEEDBACK: Feedback /  11 Correct answer: used to live /  12 Correct answer: used to have /  ‣ We can use used to/would + infinitive to talk about things that we did repeatedly in the past. /  ‣ But we can only use used to to talk about permanent situations or states (stative verbs) which are not longer true.
+Q 803 [gaps] Story 4 /  After his arrest, the bank robber said that he 13 {1} the bank because he 14 {2} through financial difficulties at the time; he also said that the gun he 15 {3} to commit the robbery 16 {4} from one of his neighbours a few days before.
+  {1} options: was robbing | used to rob | had robbed
+  {2} options: was going | had gone | went
+  {3} options: had been using | used | had used
+  {4} options: had stolen | had been stolen | was being stolen
+  SITE FEEDBACK: Feedback /  13 Correct answer: had robbed /  ‣ We use the past perfect because this event had happened earlier in the past. /  14 Correct answer: was going /  ‣ We use the past continuous because this action was in progress at the time of the event. /  15 Correct answer: had used /  ‣ We use the past perfect because this event had happened earlier in the past. /  16 Correct answer: had been stolen /  ‣ We use the past perfect because this event had happened earlier in the past. /  ‣ We need a passive form because the subject is the receiver of the action (stealing), and not the doer of the action.
+Q 804 [gaps] Story 5 /  Last night I 17 {1} home when I 18 {2} a friend who I 19 {3} in a long time. I 20 {4} him effusively before realising it wasn't my friend.
+  {1} options: would walk | was walking | walked
+  {2} options: would see | saw | was seeing
+  {3} options: hadn't seen | didn't see | hadn't been seeing
+  {4} options: hugged | would hug | was hugging
+  SITE FEEDBACK: Feedback /  17 Correct answer: was walking /  ‣ This was an action in progress at the time we are describing. /  ‣ We often use the past continuous to set the scene of a story. /  18 Correct answer: saw /  ‣ This describes a past event in chronological order; one of the main events of a story. /  19 Correct answer: hadn't seen /  ‣ We use the past perfect simple with stative verbs to talk about states or situations that had started earlier in the past. /  20 Correct answer: hugged /  ‣ This describes a past event in chronological order; one of the main events of a story.
+Q 805 [checkbox, pick 2] I remember that when I was in 8th grade there was a bully in my class who _______ on me. Choose two correct answers
+ 1090) A. always used to pick
+ 1091) B. had always picked
+ 1092) C. would always pick
+ 1093) D. used always to pick
+  SITE FEEDBACK: ‣ We can use used to/would + infinitive to talk about things that we did repeatedly in the past.
+Q 809 [radio] I _______ so hard and for so long, that when I saw that I _______ the exam I was in tears.
+ 1106) A. had been studying / had failed
+ 1107) B. had studied / was failing
+ 1108) C. studied / failed
+ 1109) D. had been studying / failed
+  SITE FEEDBACK: ‣ In the first gap, we use the past perfect continuous because are describing a continuous action that had started earlier in the past and had not finished, or had just finished. /  ‣ In the second gap, we use the past perfect simple because this event had happened earlier in the past.
+Q 806 [checkbox, pick 2] In the living room of my childhood house, we _______ one of those gigantic encyclopaedias. Choose two correct answers
+ 1094) A. 'd had
+ 1095) B. had
+ 1096) C. used to have
+ 1097) D. would have
+  SITE FEEDBACK: ‣ We can use used to or the past simple to talk about past permanent situations or states (stative verbs).
+Q 807 [checkbox, pick 2] Every time the telephone rang, my grandpa _______: "If it's the bank, say I'm not home." Choose two correct answers
+ 1098) A. was saying
+ 1099) B. had said
+ 1100) C. used to say
+ 1101) D. would say
+  SITE FEEDBACK: ‣ We can use used to/would + infinitive to talk about things that we did repeatedly in the past.
+Q 810 [radio] I went into the bathroom and saw that somebody _______ the bath tap open and water _______ over the edge of the tub.
+ 1110) A. had left / spilled
+ 1111) B. left / had been spilling
+ 1112) C. had been leaving / was spilling
+ 1113) D. had left / was spilling
+  SITE FEEDBACK: ‣ In the first gap, we use the past perfect because this event had happened earlier in the past. /  ‣ In the second gap, we use the past continuous because this action was in progress at the time of the event.
+Q 808 [checkbox, pick 2] Whenever I asked her when she would stop smoking, she ______ me, 'Very soon.' Choose two correct answers
+ 1102) A. would tell
+ 1103) B. had been telling
+ 1104) C. told
+ 1105) D. was telling
+  SITE FEEDBACK: ‣ We can used to/would + infinitive to talk about things that we did repeatedly in the past. /  ‣ We can also use the past simple to talk about past habits.
+Q 812 [radio] The sun _______ when we went out, but we could see that it _______ because the ground was wet.
+ 1118) A. was shining / had been raining
+ 1119) B. was shining / was raining
+ 1120) C. shone / had been raining
+ 1121) D. shone / had rained
+  SITE FEEDBACK: ‣ In the first gap, we use the past continuous because this action was in progress at the time of the event. /  ‣ In the second gap, we use the past perfect continuous because we are describing a continuous action that had started earlier in the past and had not finished, or had just finished.
+Q 811 [checkbox, pick 2] When I was young I _______ very long hair. I remember I _______ a long time blow-drying it every time I had a shower. Choose two correct answers
+ 1114) A. used to have / used to spend
+ 1115) B. would have / used to spend
+ 1116) C. had / had spent
+ 1117) D. used to have / would spend
+  SITE FEEDBACK: ‣ In the first gap, we use used to (NOT would) because we are talking about a permanent situation or state (stative verbs) which is not longer true. /  ‣ In the second gap, we can use used to or would because we are talking about a past repeated action.
+Q 813 [radio] I _____ the light and everybody _____, 'Happy birthday!'
+ 1122) A. had switched on / was shouting
+ 1123) B. switched on / had shouted
+ 1124) C. was switching on / shouted
+ 1125) D. switched on / shouted
+  SITE FEEDBACK: ‣ We use the past simple to talk about past events in chronological order; one of the main events of a story.
+Q 814 [radio] We _______ for approximately ten minutes when the car stopped running; we _______ of petrol.
+ 1126) A. had driven / ran out
+ 1127) B. had been driving / had run out
+ 1128) C. were driving / ran out
+ 1129) D. drove / had been running out
+  SITE FEEDBACK: ‣ In the first gap, we use the past perfect continuous because are describing a continuous action that had started earlier in the past and had not finished, or had just finished. /  ‣ In the second gap, we use the past perfect simple because this event had happened earlier in the past.
+
+=== PAGE /grammar-points/b2/discourse-markers/
+Q 860 [radio] _______, we liked the technical support we received from the three companies, although X-Tech and Fast-on were a bit faster.
+ 1232) A. On the whole
+ 1233) B. After all
+ 1234) C. All in all
+ 1235) D. On the whole / All in all
+  SITE FEEDBACK: ‣ We use all in all to mean ‘taking into consideration all the parts of the situation’. /  ‣ We can use on the whole to mean 'generally', 'considering the whole of something'.
+Q 864 [radio] I think Jacky needs to talk to you about some business. _______, she's lost a few pounds and looks fantastic.
+ 1248) A. As a matter of fact
+ 1249) B. By the way / Incidentally
+ 1250) C. By the way
+ 1251) D. Incidentally
+  SITE FEEDBACK: ‣ We can use by the way or incidentally to change the subject, to say something that you have just thought and that doesn’t have to be connected to what was being said before.
+Q 865 [radio] _______ social media marketing is concerned, it's maybe one of the areas of marketing which is changing faster.
+ 1252) A. As far as
+ 1253) B. As regards
+ 1254) C. In other words
+ 1255) D. In fact
+  SITE FEEDBACK: ‣ We can use regarding…, as regards…, or as far as … is concerned to mean ‘in connection to’. We use them to introduce a topic.
+
+=== PAGE /grammar-points/b2/get/
+Q 836 [checkbox, pick 2] Did you _______? (=become hurt) Choose TWO correct options
+ 1144) A. get hurt
+ 1145) B. get an injury
+ 1146) C. get injury
+ 1147) D. get hurting
+  SITE FEEDBACK: ‣ We can use get + adjective/past participle= to mean 'become'. /  ‣ We can also use get + noun to mean 'experience'.
+Q 839 [radio] You _______ kidding. (=must be joking/can't be serious)
+ 1170) A. get to be
+ 1171) B. get to
+ 1172) C. must get to be
+ 1173) D. 've got to be
+  SITE FEEDBACK: ‣ We can use have got to to mean 'have to', 'must'. Have got to is more informal than have to. /  ‣ You can review this topic here: Have – auxiliary or main verb.
+Q 840 [radio] What time will you _______? (=arrive)
+ 1183) A. get to here
+ 1184) B. get to be here
+ 1185) C. get here
+ 1186) D. 've got here
+  SITE FEEDBACK: ‣ We can use get (to) + place to mean ‘arrive’ or ‘reach’. /  ‣ We don’t use to before here because we don’t use a preposition with verbs of movement + here/there: come here, go there, drive there, fly here, etc.
+Q 841 [radio] You should _______. (=pay someone to do your nails)
+ 1196) A. get someone do your nails
+ 1197) B. get your nails
+ 1198) C. get to do your nails
+ 1199) D. get your nails done
+  SITE FEEDBACK: ‣ We can use get instead of have in the structure get + something + past participle. /  ‣ We use get/have something done when we want to talk about something that someone else does for us, usually because we pay them, or because we persuade or ask them to do it. /  ‣ Review this topic here: have something done.
+Q 842 [radio] Can you _______, please? (=bring)
+ 1200) A. get to bring the sugar
+ 1201) B. get to the sugar
+ 1202) C. get bringing the sugar
+ 1203) D. get me the sugar
+  SITE FEEDBACK: ‣ We can use get + object to mean ‘bring’.
+Q 843 [radio] I can’t _______ still at the dinner table. (=make my child sit)
+ 1204) A. get my child to sit
+ 1205) B. get to sit my child
+ 1206) C. get sitting my child
+ 1207) D. get my child sit
+  SITE FEEDBACK: ‣ We can use get + someone + to do something to mean ‘make or persuade someone to do something’.
+Q 845 [radio] I _______. Could you be more specific? (=understand you)
+ 1212) A. didn't get to you
+ 1213) B. didn't get understand you
+ 1214) C. didn't get you
+ 1215) D. didn't got you
+  SITE FEEDBACK: ‣ We can use get + direct object to mean ‘understand’.
+Q 846 [radio] Can you help me _______ the room upstairs? (=move)
+ 1216) A. get this sofa to
+ 1217) B. get this sofa
+ 1218) C. 've got this sofa to
+ 1219) D. get moving this sofa to
+  SITE FEEDBACK: ‣ We can use get something + (preposition) + place to mean 'move', 'take'.
+Q 847 [radio] I _______ a year in my new job. (=receive/earn money)
+ 1220) A. 've got £22,000
+ 1221) B. get £22,000
+ 1222) C. get to earning
+ 1223) D. get earning
+  SITE FEEDBACK: ‣ We can use get + object to mean ‘receive’, 'earn'.
+Q 848 [radio] Did you _______? (= receive)
+ 1224) A. get received my message
+ 1225) B. get my message received
+ 1226) C. get receiveing my message
+ 1227) D. get my message
+  SITE FEEDBACK: ‣ We can use get + object to mean ‘receive’.
+
+=== PAGE /grammar-points/b2/reflexive-reciprocal-pronouns/
+Q 728 [radio] Cooperation should be promoted by the governments _______.
+ 970) A. them
+ 971) B. yourselves
+ 972) C. one another
+ 973) D. themselves
+  SITE FEEDBACK: ‣ We can use a reflexive pronoun after the subject or at the end of the sentence to emphasise that the subject does the action, and nobody else. /  ‣ In this case, we have a passive sentence, so instead of the subject we are emphasising that the agent did the action. /  ‣ Governments themselves should promote cooperation= Cooperation should be promoted by the governments themselves.
+Q 729 [radio] I hadn't realised how much they hated _______.
+ 974) A. themselfs
+ 975) B. one another
+ 976) C. them
+ 977) D. -
+  SITE FEEDBACK: ‣ We use each other or one another when person A does something to person B, and person B does something to person A.
+Q 730 [radio] He lives _______.
+ 978) A. by himself
+ 979) B. his own
+ 980) C. himself
+ 981) D. him
+  SITE FEEDBACK: ‣ We can say by myself/yourself/etc. or on my/your/etc. own to mean ‘alone, without anybody else’, or also to mean ‘without anybody’s help’.
+Q 731 [radio] The people _______ are organising community mobilisation efforts.
+ 982) A. itself
+ 983) B. each other
+ 984) C. by their own
+ 985) D. themselves
+  SITE FEEDBACK: ‣ We also use a reflexive pronoun to emphasise that the subject does the action, and nobody else. In this sense, we can use the reflexive at the end of the sentence or after the subject.
+Q 732 [radio] You can't be independent until you're able to look after _______.
+ 986) A. you
+ 987) B. -
+ 988) C. yourself
+ 989) D. your own
+  SITE FEEDBACK: ‣ We can use reflexive pronouns after most prepositions if they refer back to the subject.
+Q 733 [checkbox, pick 2] Did she do it _______ or did you help her? Choose TWO correct options
+ 990) A. her
+ 991) B. herself
+ 992) C. by her own
+ 993) D. on her own
+  SITE FEEDBACK: ‣ We can say by myself/yourself/etc. or on my/your/etc. own to mean ‘alone, without anybody else’, or also to mean ‘without anybody’s help’. /  ‣ In this sentence, we can also use herself to emphasise that the subject does the action, and nobody else.
+Q 734 [radio] We need to relax _______ and enjoy _______ a bit more often.
+ 994) A. - / -
+ 995) B. ourselves / ourselves
+ 996) C. - / ourselves
+ 997) D. ourselves / -
+  SITE FEEDBACK: ‣ Students of English often make mistakes when they use some verbs which are used reflexively in their language but not in English. Some of these verbs are dress, shave, wash, relax, hurry, or open. /  ‣ Enjoy is not one of these verbs.
+Q 735 [radio] He listens to _______ more than he listens to the others.
+ 998) A. himself
+ 999) B. his own
+ 1000) C. him
+ 1001) D. he
+  SITE FEEDBACK: ‣ We can use reflexive pronouns after most prepositions if they refer back to the subject.
+Q 736 [checkbox, pick 2] They text _______ like one hundred times a day. Choose TWO correct options
+ 1002) A. themselves
+ 1003) B. each other
+ 1004) C. them
+ 1005) D. one another
+  SITE FEEDBACK: ‣ We use each other or one another when person A does something to person B, and person B does something to person A.
+Q 737 [radio] She looked behind _______ because she thought she was being followed.
+ 1006) A. her
+ 1007) B. herself
+ 1008) C. her own
+ 1009) D. itself
+  SITE FEEDBACK: ‣ We can use reflexive pronouns after most prepositions if they refer back to the subject. However, we don’t use reflexive pronouns after prepositions of place or after with when it means ‘accompanied by’.
+
+=== PAGE /grammar-points/b2/generic-pronouns/
+Q 747 [gaps] I don't believe anyone when {1} tell me how good {2} are at something.
+  {1} options: they | he | anyone
+  {2} options: anyone | they | he
+  SITE FEEDBACK: Correct answer: they/they /  ‣ Anyone is a singular word. /  ‣ In informal English, we use they, them or their to refer to a singular generic person who could be male or female. This use is considered incorrect by many grammarians, but it is very common, even in written language.
+Q 749 [checkbox, pick 2] _______ never know who _______ enemies are. Choose TWO correct answers
+ 1010) A. They / their
+ 1011) B. You / your
+ 1012) C. We / our
+ 1013) D. One / one's
+  SITE FEEDBACK: ‣ We could also say 'One never knows who one's enemies are.' (=more formal)
+Q 750 [checkbox, pick 2] Improving _______ relationship with others should be a priority in life. Choose TWO correct answers
+ 1014) A. our
+ 1015) B. their
+ 1016) C. his
+ 1017) D. one's
+  SITE FEEDBACK: ‣ We could also say 'Improving your relationship with others should be a priority in life.'
+Q 754 [checkbox, pick 2] Picking _______ nose with dirty fingers or fingernails may increase risks of infection. Choose TWO correct answers
+ 1030) A. his
+ 1031) B. one's
+ 1032) C. your
+ 1033) D. their
+  SITE FEEDBACK: ‣ We can use one's, your or our as possessive forms referring to people in general including the speaker or hearer.
+Q 755 [checkbox, pick 2] At first sight _______ may think that there has to be an easy solution to the problem. Choose TWO correct answers
+ 1034) A. one
+ 1035) B. they
+ 1036) C. we
+ 1037) D. he
+  SITE FEEDBACK: ‣ We can use one, we or you to refer to people in general, including the speaker and the hearer.
+Q 756 [radio] Whoever said that should think twice before _______ speak again.
+ 1038) A. one
+ 1039) B. you
+ 1040) C. we
+ 1041) D. they
+  SITE FEEDBACK: ‣ Whoever refers to a person. /  ‣ In informal English, we use they, them or their to refer to a singular generic person who could be male or female.
+Q 757 [checkbox, pick 2] _______ should never judge a person by external appearances. Choose TWO correct answers
+ 1042) A. He
+ 1043) B. One
+ 1044) C. They
+ 1045) D. You
+  SITE FEEDBACK: ‣ We can use one, you or we to refer to people in general, including the speaker and the hearer.
+
+=== PAGE /grammar-points/b2/there-and-it/
+Q 773 [gaps] {1} 's very cold today; {2} 's been snowing all night.
+  {1} options: It | There
+  {2} options: it | there
+  SITE FEEDBACK: Correct answer: It/it /  ‣ We use it to talk about the weather.
+Q 774 [gaps] {1} 's a police officer at the door; {2} seems that we've been making too much noise.
+  {1} options: It | There
+  {2} options: it | there
+  SITE FEEDBACK: Correct answer: There/it /  ‣ In the first sentence, we use there because we use there to say that something exists somewhere (a police officer at the door). /  ‣ In the second sentence, we use it because we say it seems + that clause; and remember that we use there seems + to infinitive (NOT + that clause)
+Q 779 [radio] _______ 's very cozy in our boat and _______ 's plenty of room for my wife and me.
+ 1050) A. It / it
+ 1051) B. It / there
+ 1052) C. There / it
+ 1053) D. There / there
+  SITE FEEDBACK: ‣ We cannot say there's very cosy because we should use a noun after there + be. /  ‣ We use there in 'there's plenty of room' because we use there to talk about the existence of something (room) somewhere (in our boat).
+Q 780 [radio] _______ 's been a long journey. Is _______ anywhere we can have some rest?
+ 1054) A. It / it
+ 1055) B. It / there
+ 1056) C. There / it
+ 1057) D. There / there
+  SITE FEEDBACK: ‣ We use it to talk about distance. /  ‣ We use there to talk about the existence of something, e.g anywhere (=a place).
+Q 781 [radio] _______ 's nothing on TV tonight; _______ 's a pity that we don't have Netflix.
+ 1058) A. It / it
+ 1059) B. It / there
+ 1060) C. There / it
+ 1061) D. There / there
+  SITE FEEDBACK: ‣ We use there to say that something (nothing) exists somewhere (on TV). /  ‣ We can use it + be + noun (a pity) + that clause (that we don't have Netflix).
+Q 782 [radio] _______ would have been much better to stay; _______ won't be any restaurants open today because _______ 's a holiday.
+ 1062) A. It / there / it
+ 1063) B. It / it / there
+ 1064) C. There / there / it
+ 1065) D. There / it / there
+  SITE FEEDBACK: ‣ We use it + be + adjective (much better) + to infinitive (to stay). /  ‣ We use there to say that something (restaurants) exists somewhere. /  ‣ We use it to talk about time and dates.
+Q 783 [radio] _______ used to be an amusement park where we lived; _______ was very exciting to go there with the children.
+ 1066) A. It / it
+ 1067) B. It / there
+ 1068) C. There / it
+ 1069) D. There / there
+  SITE FEEDBACK: ‣ We use there to say that something (an amusement park) exists somewhere (where we lived). /  ‣ We use it + be + adjective (very exciting) + to infinitive (to go).
+Q 784 [radio] _______ 's too late; _______ won't be any seats left when we arrive.
+ 1070) A. It / it
+ 1071) B. It / there
+ 1072) C. There / it
+ 1073) D. There / there
+  SITE FEEDBACK: ‣ We use it to talk about time and dates. /  ‣ We use there to talk about the existence of something (seats) somewhere.
+Q 785 [radio] _______ 's somebody at the door. Open it, _______ must be Carl.
+ 1074) A. It / it
+ 1075) B. It / there
+ 1076) C. There / it
+ 1077) D. There / there
+  SITE FEEDBACK: ‣ We use there to say that something (somebody) exists somewhere (at the door). /  ‣ We use it to refer to something that we have already mentioned. (it= somebody)
+Q 786 [radio] _______ takes two hours to get there; _______ would be better if we left now.
+ 1078) A. It / it
+ 1079) B. It / there
+ 1080) C. There / it
+ 1081) D. There / there
+  SITE FEEDBACK: ‣ We use it to talk about time. /  ‣ In the second gap we cannot use there because we should use there + be + noun (not adjective).
+Q 787 [radio] _______ seems to be a problem; _______ looks like someone has erased all the information.
+ 1082) A. It / it
+ 1083) B. It / there
+ 1084) C. There / it
+ 1085) D. There / there
+  SITE FEEDBACK: ‣ We use there to say that something (a problem) exists somewhere. /  ‣ We use it to refer to something that we have already mentioned (it= the problem, the situation).
+Q 788 [radio] _______ used to be very cold at night but _______ didn't matter, because we had a fire place.
+ 1086) A. It / it
+ 1087) B. It / there
+ 1088) C. There / it
+ 1089) D. There / there
+  SITE FEEDBACK: ‣ We use it to talk about he weather. /  ‣ In the second gap, we use it to refer to something that we have already mentioned (it= the fact that it was cold).
+
+=== PAGE /grammar-points/b2/clauses-contrast-purpose-reason-result/
+Q 677 [radio] Internet access has been growing exponentially across the country. _______ , growth in rural areas is much slower.
+ 860) A. However
+ 861) B. Even though
+ 862) C. Although
+ 863) D. Despite
+  SITE FEEDBACK: ‣ We use however to connect two different sentences. We normally use however at the beginning of the second sentence after a full stop (.) or a semi-colon (;). However is followed by a comma. /  ‣ We cannot use although or even though because we never use a comma after although or even though. /  ‣ We cannot use despite because it should be followed by a noun or a -ing verb, and not by a comma.
+Q 678 [radio] He became a very nice and well-educated man _______ having a very difficult childhood.
+ 864) A. because of
+ 865) B. although
+ 866) C. so that
+ 867) D. in spite of
+  SITE FEEDBACK: ‣ In this sentence, we need to express contrast. The only two connectors of contrast are in spite of and although. /  ‣ We cannot use although because it should be followed by a clause (subject + verb). /  ‣ Despite and in spite of are normally followed by a noun or a -ing verb (having).
+Q 679 [radio] Scientists have discovered a new technique _______ measuring the speed at which the universe is expanding.
+ 868) A. to
+ 869) B. for
+ 870) C. so as to
+ 871) D. due to
+  SITE FEEDBACK: ‣ We don't normally use for + -ing verb to express purpose, but we say for + -ing verb to say what something is used for: a new technique (which is used) for measuring ... /  ‣ We cannot use to or so as to because they must be followed by an infinitive.
+Q 680 [radio] _______ technological advances, the world is becoming a global community.
+ 872) A. Since
+ 873) B. As
+ 874) C. Because of
+ 875) D. Despite
+  SITE FEEDBACK: ‣ In this sentence, we need to express reason because technological advances are the reason for the world to become a global community. /  ‣ In order to express reason, we can use because of + noun (technological advances). /  ‣ We cannot use since or as because they should be followed by a clause (subject + verb).
+Q 681 [radio] Clever people ask better questions, and _______, they get better answers.
+ 876) A. as a result
+ 877) B. however
+ 878) C. so that
+ 879) D. because
+  SITE FEEDBACK: ‣ In this sentence, we need to express result because getting better answers is the result of asking better questions. /  ‣ As a result is the only connector of result that we have.
+Q 682 [radio] Some prisons have been closed in the Netherlands _______ a lack of prisoners.
+ 880) A. because
+ 881) B. due to
+ 882) C. despite
+ 883) D. so as to
+  SITE FEEDBACK: ‣ We need to express reason, because the lack of prisoners is the reason why some prisons have been closed. /  ‣ We use due to + noun (a lack of prisoners). /  ‣ Because cannot be used here because it should be followed by a clause (subject + verb).
+Q 683 [radio] He asked a stupid question, _______ I gave him a stupid answer.
+ 884) A. so
+ 885) B. so that
+ 886) C. although
+ 887) D. due to
+  SITE FEEDBACK: ‣ We need to express result because giving a stupid answer is the result of being asked a stupid question. /  ‣ The only connector of result that we have is so. We can use so + subject + verb at the end of a sentence to mean ‘this is why’. /  ‣ So that is a connector of purpose (not result).
+Q 684 [radio] The company had to close down _______ the decline in profits.
+ 888) A. despite
+ 889) B. because
+ 890) C. owing to
+ 891) D. so that
+  SITE FEEDBACK: ‣ We need to express reason, because the decline in profits is the reason for the closure of the company. /  ‣ Before a noun (the decline in profits) we can use because of, owing to, due to or on account of in order to express reason. /  ‣ We cannot use because before a noun.
+Q 685 [radio] _______ it was very late, we decided to have room service and watch a movie.
+ 892) A. Owing to
+ 893) B. Because of
+ 894) C. However
+ 895) D. As
+  SITE FEEDBACK: ‣ We need to express reason, because being late was the reason for us to order room service. /  ‣ We cannot use owing to or because of before a clause (subject + verb). They must be used before a noun. /  ‣ In order to express reason, we can use as followed by subject + verb (it was late).
+Q 686 [radio] Take the map _______ we get lost.
+ 896) A. for
+ 897) B. in case
+ 898) C. in order to
+ 899) D. so
+  SITE FEEDBACK: ‣ We need to express purpose, because not getting lost is the purpose of taking the map. /  ‣ To express purpose, we can also use in case + subject + verb. We use this form to talk about precautions, when we do something because if we don’t do it something not wanted might happen, for example, we might get lost.
+
+=== PAGE /grammar-points/b2/have-auxiliary-main-verb/
+Q 647 [radio] Don't call at 10 because we _______ dinner.
+ 820) A. 'll have had
+ 821) B. 'll have dinner
+ 822) C. 'll be having
+ 823) D. 'll having
+  SITE FEEDBACK: ‣ Have meaning ‘take’ (a shower, a drink, etc.), ‘give’ (a party), etc. is a dynamic verb, so it can be used in continuous forms. /  ‣ We use the future continuous to talk about actions that will be in progress at a certain time in the future.
+Q 648 [radio] The two robbers are believed _______ in a white sports car.
+ 824) A. to have fled
+ 825) B. to flee
+ 826) C. to have been fled
+ 827) D. to be fled
+  SITE FEEDBACK: ‣ We use a subject (he, the minister, etc.) + the passive of a reporting verb (is said, is believed, etc.) + to infinitive, to give information when we don’t know for sure whether it is true or not, or when we want to distance ourselves from the source of the information. /  ‣ When we are talking about a past event, we should use the perfect infinitive (to have been, to have done, etc.). You can do some practice on this grammar point here: Passive of reporting verbs
+Q 649 [radio] If I _______ met you, I wouldn't _______ known the true meaning of love.
+ 828) A. hadn't / had
+ 829) B. hadn't / have
+ 830) C. had / have got
+ 831) D. haven't / got
+  SITE FEEDBACK: ‣ We use the perfect forms of would, could or might (would have done, might have been, etc.) to talk about imaginary situations in the past. This is the third conditional. You can do some practice on the third conditional here: Second and third conditionals
+Q 650 [radio] I _______ this book for a long time, and I think I'll never finish it.
+ 832) A. 've written
+ 833) B. have to write
+ 834) C. have it written
+ 835) D. 've been writing
+  SITE FEEDBACK: ‣ We use the present perfect continuous with dynamic verbs for situations which started in the past and are still going on or have just finished.
+Q 651 [radio] I _______ a drink with Mark tonight.
+ 836) A. have
+ 837) B. have to
+ 838) C. 'm having
+ 839) D. 'll have had
+  SITE FEEDBACK: ‣ We use the present continuous to talk or ask about future actions that are already planned or decided. You can review future forms here: Future forms – will, be going to, present continuous /  ‣ Have meaning ‘take’ (a shower, a drink, etc.), ‘give’ (a party), etc. is a dynamic verb, so it can be used in continuous forms.
+Q 652 [radio] Come back tomorrow morning. I _______ your suit by then.
+ 840) A. will have finished
+ 841) B. have finished
+ 842) C. 'm having finished
+ 843) D. will have finish
+  SITE FEEDBACK: ‣ We use the future perfect will + have + past participle for actions that will happen or will be finished before a certain time in the future or before another action. Common time expressions with the future perfect: by ... (by Friday, by tomorrow, etc.), by the time ... (by the time you arrive, by the time they finish, etc.), before ... (before Monday, etc.). /  ‣ You can do some practice on the future perfect and the future continuous here: Future perfect and future continuous.
+Q 653 [radio] Did you _______ when you bought the new glasses?
+ 844) A. have tested your eyes
+ 845) B. have your eyes tested
+ 846) C. had your eyes tested
+ 847) D. have to test your eyes
+  SITE FEEDBACK: ‣ We use the structure have + object + past participle (‘have something done’) to mean that we get/pay somebody else to do something for us. /  ‣ Here you have more practice on this grammar point: Have something done
+Q 654 [checkbox, pick 2] Which two sentences are correct? Choose TWO correct options
+ 848) A. You've got to be joking.
+ 849) B. You must have be joking
+ 850) C. You have to be joking
+ 851) D. You've to be joking
+  SITE FEEDBACK: ‣ We can use have to or have got to (more informal) to talk about obligation. /  ‣ Have to is a main verb and does not have contracted forms ('s/'ve)
+Q 655 [radio] _______ wait for a long time to see the doctor?
+ 852) A. Had you got to
+ 853) B. Had you
+ 854) C. Have you
+ 855) D. Did you have to
+  SITE FEEDBACK: ‣ The verb have in have to is not an auxiliary verb. This means that it doesn’t have interrogative and negative forms, so we need to use do/does or did for questions in present and past and don’t/doesn’tor didn’t for negatives.
+Q 656 [radio] You'd already finished your degree when we met, _______ you?
+ 856) A. haven't
+ 857) B. had you not
+ 858) C. didn't
+ 859) D. hadn't
+  SITE FEEDBACK: ‣ Have is an auxiliary verb in the present perfect and past perfect. This means that we use it for question tags.
+
+=== PAGE /grammar-points/b1-b2/quantifiers/
+Q 614 [radio] Nick, John, I need some money. Does _______ of you have any money I can borrow?
+ 771) A. none
+ 772) B. either
+ 773) C. neither
+ 807) D. some
+  SITE FEEDBACK: ‣ We can use either of + object pronoun to talk about the choice between two possibilities. /  ‣ Does either of you have money?= Does one or the other have money?
+Q 617 [radio] _______ boy brought a coat.
+ 783) A. Neither
+ 784) B. Both
+ 785) C. All
+ 808) D. None
+  SITE FEEDBACK: ‣ We can use neither + singular noun. We cannot use any of the other options + singular noun.
+Q 618 [radio] Neither my uncle ___ my aunt could come to the party.
+ 786) A. and
+ 787) B. or
+ 788) C. nor
+ 809) D. but
+  SITE FEEDBACK: ‣ We say neither A nor B.
+Q 619 [radio] Which sentence is correct?
+ 789) A. Both we have been to Italy.
+ 790) B. We have both been to Italy.
+ 791) C. We have been to Italy both.
+ 810) D. Both us have been to Italy.
+  SITE FEEDBACK: ‣ We can use both in mid position. That is before the main verb or after the verb be when it is the main verb. Or after the first auxiliary verb when there is one or more auxiliary verbs.
+Q 620 [radio] I'd like to have money, but I don't have _______.
+ 792) A. no
+ 793) B. none
+ 794) C. any
+ 811) D. neither
+  SITE FEEDBACK: ‣ We use any in negative sentences, and it can be used as a pronoun, i.e. not followed by a noun. /  ‣ No cannot be used as a pronoun, none cannot be used with a negative verb, and neither can only be used when we are talking about two choices.
+Q 621 [radio] He has two brothers, but I haven't met _______ of them.
+ 795) A. either
+ 796) B. neither
+ 797) C. no
+ 798) D. none
+  SITE FEEDBACK: ‣ We can use either when we are talking about two possibilities. And we can use it with a negative verb. /  ‣ We could also say 'but I have met neither of them', with a positive verb.
+Q 622 [radio] I have to read three books but I haven't read _______ yet.
+ 799) A. none
+ 800) B. neither
+ 801) C. either
+ 802) D. any
+  SITE FEEDBACK: ‣ We can use any in negative sentences to mean 'none', and it can be used as a pronoun, i.e. not followed by a noun. /  ‣ We cannot use either or neither because we are not talking about two elements, and we cannot use none with a positive verb.
+Q 623 [radio] I watched five films during the festival, but _______ of them was good.
+ 803) A. either
+ 804) B. neither
+ 805) C. none
+ 806) D. any
+  SITE FEEDBACK: ‣ We can use none of + noun/pronoun to mean ‘not one, or not any of a group of people or things’. /  ‣ We cannot use either or neither because we are not talking about two elements, and we cannot use any in an affirmative sentence to mean 'none'.
+Q 624 [radio] _______ students I know passed the exam.
+ 812) A. Most of the
+ 813) B. Most
+ 814) C. All
+ 815) D. None
+  SITE FEEDBACK: ‣ We can use most + noun to talk about all people or things in general or most of the + noun to talk about specific things or people. /  ‣ In this case we are talking about some specific students.
+Q 625 [radio] We spent _______ day outdoors.
+ 816) A. All of
+ 817) B. All
+ 818) C. All of the
+ 819) D. All the
+  SITE FEEDBACK: ‣ We say all day, all night, all month, all year, etc. to mean ‘the entire day/night/month/etc.’ /  ‣ We don’t use an article or a preposition when we use all + time expression.
+
+=== PAGE /grammar-points/b1-b2/clauses-contrast-purpose/
+Q 569 [radio] He won the race _______ being in his best form.
+ 691) A. in order not to
+ 692) B. in spite of not
+ 693) C. however not
+ 694) D. for not
+  SITE FEEDBACK: ‣ We can use despite or in spite of + -ing verb to express contrast.
+Q 572 [radio] The house is very well maintained _______ being an old property.
+ 703) A. in spite
+ 704) B. although
+ 705) C. despite
+ 706) D. even though
+  SITE FEEDBACK: ‣ We can use despite or in spite of + -ing verb to express contrast.
+Q 576 [radio] I went to the library _______ some books I needed.
+ 719) A. for borrowing
+ 720) B. for
+ 721) C. for to borrow
+ 722) D. for borrow
+  SITE FEEDBACK: ‣ We can use for + noun to talk about purpose.
+
+=== PAGE /grammar-points/b1-b2/whatever-whenever-wherever-whoever-however/
+Q 599 [radio] I will find _______ told the manager that I was lazy.
+ 731) A. whatever
+ 732) B. whenever
+ 733) C. whichever
+ 734) D. whoever
+  SITE FEEDBACK: ‣ The sentence means that it doesn't matter who told the manager, I will find this person.
+Q 600 [radio] He'll never forgive you, _______ reasons you might have had to do it.
+ 735) A. however
+ 736) B. whatever
+ 737) C. wherever
+ 738) D. whoever
+  SITE FEEDBACK: ‣ This sentence means that it doesn't matter what reasons you had to do it, he will never forgive you anyway.
+Q 601 [radio] ______ you looked from the top, the views were amazing.
+ 739) A. Whoever
+ 740) B. Wherever
+ 741) C. Whenever
+ 742) D. However
+  SITE FEEDBACK: ‣ This sentence means that anywhere that you looked from the top, it didn't matter where, the views were amazing.
+Q 602 [radio] I feel very nervous _______ I see her.
+ 743) A. wherever
+ 744) B. however
+ 745) C. whoever
+ 746) D. whenever
+  SITE FEEDBACK: ‣ This sentence means that I feel very nervous every time I see her, it doesn't matter when.
+Q 603 [radio] I will support you, _______ you decide.
+ 747) A. whatever
+ 748) B. however
+ 749) C. whoever
+ 750) D. wherever
+  SITE FEEDBACK: ‣ This sentence means that it doesn't matter what you decide, you may decide anything but I will support you anyway.
+Q 604 [radio] Use any of the two methods, _______ is easier for you.
+ 751) A. whoever
+ 752) B. whenever
+ 753) C. however
+ 754) D. whichever
+  SITE FEEDBACK: ‣ This sentence means that you can use any method that is easier for you, it doesn't matter which.
+Q 605 [radio] Use about three spoonfuls of flour or _______ much you need.
+ 755) A. whatever
+ 756) B. whoever
+ 757) C. however
+ 758) D. whichever
+  SITE FEEDBACK: ‣ This sentence means that it doesn't matter how much floor you need, you should use it.
+Q 606 [radio] _______ I try to call you, you don't pick up the phone.
+ 759) A. Whenever
+ 760) B. Wherever
+ 761) C. However
+ 762) D. Whatever
+  SITE FEEDBACK: ‣ This sentence means that you don't pick up the phone at any time I call you, it doesn't matter when.
+Q 607 [radio] I'd like to thank _______ it was that helped me.
+ 763) A. whatever
+ 764) B. whoever
+ 765) C. however
+ 766) D. whichever
+  SITE FEEDBACK: ‣ This sentence means that it doesn't matter who helped me, I just want to thank this person.
+Q 608 [radio] We'll find you _______ you try to run.
+ 767) A. whatever
+ 768) B. whoever
+ 769) C. however
+ 770) D. wherever
+  SITE FEEDBACK: ‣ This sentence means that it doesn't matter where you try to run, we will find you in any possible place.
+
+=== PAGE /grammar-points/b1-b2/passive-reporting-verbs/
+Q 469 [radio] The prime minister _______ his resignation tomorrow.
+ 578) A. is expected to have announced
+ 579) B. is expected that he will
+ 580) C. is expected to will announce
+ 581) D. is expected to announce
+  SITE FEEDBACK: ‣ When we use the passive form of a reporting verb after the real subject of sentence (and NOT after it), we need to use an infinitive after the passive of the reporting verb. /  ‣ In this case, we use the simple infinitive because the meaning is future.
+Q 470 [radio] A suspect _______ after the murder.
+ 582) A. is reported to have been arrested
+ 583) B. is reported that was arrested
+ 584) C. is reported that he was arrested
+ 585) D. is reported to be arresting
+  SITE FEEDBACK: ‣ When we use the passive form of a reporting verb after the real subject of sentence (and NOT after it), we need to use an infinitive after the passive of the reporting verb. /  ‣ In this case, we use the perfect infinitive because the action happened in the past; before the reporting.
+Q 471 [radio] The couple _______ by the end of the year.
+ 586) A. are rumored they will get married
+ 587) B. are rumored to get married
+ 588) C. are rumored that will get married
+ 589) D. are rumored to have got married
+  SITE FEEDBACK: ‣ When we use the passive form of a reporting verb after the real subject of sentence (and NOT after it), we need to use an infinitive after the passive of the reporting verb. /  ‣ In this case, we use the simple infinitive because the meaning is future.
+Q 472 [radio] He _______ the best neurosurgeon of all time.
+ 590) A. is considered be
+ 591) B. is considered that he was
+ 592) C. is considered to have been
+ 593) D. is considered that it was
+  SITE FEEDBACK: ‣ When we use the passive form of a reporting verb after the real subject of sentence (and NOT after it), we need to use an infinitive after the passive of the reporting verb. /  ‣ In this case, we use the perfect infinitive because the meaning is past; before the reporting. /  ‣ The other three options are grammatically incorrect.
+Q 473 [radio] The side effects of this drug _______ severe.
+ 594) A. think to be
+ 595) B. are thought that they are
+ 596) C. are thought they have been
+ 597) D. are thought to be
+  SITE FEEDBACK: ‣ When we use the passive form of a reporting verb after the real subject of sentence (and NOT after it), we need to use an infinitive after the passive of the reporting verb. /  ‣ In this case, we use the simple infinitive because the meaning is present; the side effects might be severe now.
+Q 474 [radio] It _______ for quite some time.
+ 598) A. is said to happen
+ 599) B. is said that this has been happening
+ 600) C. is said this to be happening
+ 601) D. is said this to have happened
+  SITE FEEDBACK: ‣ When we use the passive of a reporting verb in a sentence after an introductory it, it is followed by that + subject + verb.
+Q 475 [radio] These measures _______ necessary for the safety and security of the nation.
+ 602) A. are claimed that they are
+ 603) B. are claimed are
+ 604) C. are claimed to being
+ 605) D. are claimed to be
+  SITE FEEDBACK: ‣ When we use the passive form of a reporting verb after the real subject of sentence (and NOT after it), we need to use an infinitive after the passive of the reporting verb. /  ‣ In this case, we use the simple infinitive because the meaning is present; the measures might be necessary now.
+Q 476 [radio] He _______ innocent until we can find evidence proving that he is guilty.
+ 606) A. is presumed to be
+ 607) B. is presumed that he is
+ 608) C. is presumed is
+ 609) D. is presumed be
+  SITE FEEDBACK: ‣ When we use the passive form of a reporting verb after the real subject of sentence (and NOT after it), we need to use an infinitive after the passive of the reporting verb. /  ‣ In this case, we use the simple infinitive because the meaning is present; he might be innocent now.
+Q 477 [radio] Hundreds of people _______ killed in the earthquake.
+ 610) A. are reported that they were
+ 611) B. are reported to have been
+ 612) C. are reported that they are
+ 613) D. are reported to be
+  SITE FEEDBACK: ‣ When we use the passive form of a reporting verb after the real subject of sentence (and NOT after it), we need to use an infinitive after the passive of the reporting verb. /  ‣ In this case, we use the perfect infinitive because the event happened in the past; before the reporting.
+Q 478 [radio] The illness _____ a hereditary condition.
+ 614) A. is thought to be
+ 615) B. is thought be
+ 616) C. is thought that it is
+ 617) D. is thought is
+  SITE FEEDBACK: ‣ When we use the passive form of a reporting verb after the real subject of sentence (and NOT after it), we need to use an infinitive after the passive of the reporting verb. /  ‣ In this case, we use the simple infinitive because the meaning is present.
+Q 447 [gaps] People think she is in Wales. /  3 She {1} in Wales. /  4 It {2} in Wales.
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Feedback /  3 Correct answer: is thought to be /  ‣ When we use the passive form of a reporting verb after the real subject of sentence (and NOT after it), we need to use an infinitive after the passive of the reporting verb. /  ‣ In this case, we use the simple infinitive because the meaning is present; she may be in Wales now. /  4 Correct answer: is thought that she is /  ‣ When we use the passive of a reporting verb in a sentence after an introductory it, it is followed by that + subject + verb.
+Q 448 [gaps] The police say that he is hiding in the city. /  5 He {1} in the city. /  6 It {2} in the city.
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Feedback /  5 Correct answer: is said to be hiding /  ‣ When we use the passive form of a reporting verb after the real subject of sentence (and NOT after it), we need to use an infinitive after the passive of the reporting verb. /  ‣ In this case, we use the continuous infinitive because it's a dynamic verb and the action is in progress now. /  6 Correct answer: is said that he is hiding /  ‣ When we use the passive of a reporting verb in a sentence after an introductory it, it is followed by that + subject + verb.
+Q 462 [gaps] People know the suspect is dealing with drugs. /  7 The suspect {1} with drugs. /  8 It {2} with drugs.
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Feedback /  7 Correct answer: is known to be dealing /  ‣ When we use the passive form of a reporting verb after the real subject of sentence (and NOT after it), we need to use an infinitive after the passive of the reporting verb. /  ‣ In this case, we use the continuous infinitive because it's a dynamic verb and the action is in progress now. /  8 Correct answer: is known that the suspect is dealing /  ‣ When we use the passive of a reporting verb in a sentence after an introductory it, it is followed by that + subject + verb.
+Q 463 [gaps] People considered the government had spent too much. /  9 The government {1} too much. /  10 It {2} too much.
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Feedback /  9 Correct answer: was considered to have spent /  ‣ When we use the passive form of a reporting verb after the real subject of sentence (and NOT after it), we need to use an infinitive after the passive of the reporting verb. /  ‣ In this case, we use the perfect infinitive because the action happened earlier in the past; before the reporting. /  10 Correct answer: was considered that the government had spent /  ‣ When we use the passive of a reporting verb in a sentence after an introductory it, it is followed by that + subject + verb.
+Q 465 [gaps] People expect that the president will arrive very soon. /  3 The president {1} very soon. /  4 It {2} very soon.
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Feedback /  3 Correct answer: is expected to arrive /  ‣ When we use the passive form of a reporting verb after the real subject of sentence (and NOT after it), we need to use an infinitive after the passive of the reporting verb. /  ‣ In this case, we use the simple infinitive because the meaning is future. /  4 Correct answer: is expected that the president will arrive /  ‣ When we use the passive of a reporting verb in a sentence after an introductory it, it is followed by that + subject + verb.
+Q 466 [gaps] People thought he was a hero. /  5 He {1} a hero. /  6 It {2} a hero.
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Feedback /  5 Correct answer: was thought to be /  ‣ When we use the passive form of a reporting verb after the real subject of sentence (and NOT after it), we need to use an infinitive after the passive of the reporting verb. /  ‣ In this case, we use the simple infinitive because the meaning is simultaneous to the reporting; he was thought to be a hero at that same moment in time. /  6 Correct answer: was thought that he was /  ‣ When we use the passive of a reporting verb in a sentence after an introductory it, it is followed by that + subject + verb.
+Q 467 [gaps] People know she lied to her manager. /  7 She {1} to her manager. /  8 It {2} to her manager.
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Feedback /  7 Correct answer: is known to have lied /  ‣ When we use the passive form of a reporting verb after the real subject of sentence (and NOT after it), we need to use an infinitive after the passive of the reporting verb. /  ‣ In this case, we use the perfect infinitive because the action happened in the past; before the reporting. /  8 Correct answer: is known that she lied /  ‣ When we use the passive of a reporting verb in a sentence after an introductory it, it is followed by that + subject + verb.
+Q 468 [gaps] They say he is feeling better. /  9 He {1} better. /  10 It {2} better.
+  {1} free text
+  {2} free text
+  SITE FEEDBACK: Feedback /  9 Correct answer: is said to be feeling /  ‣ When we use the passive form of a reporting verb after the real subject of sentence (and NOT after it), we need to use an infinitive after the passive of the reporting verb. /  ‣ In this case, we use the continuous infinitive because it’s a dynamic verb and the action is in progress now. /  10 Correct answer: is said that he is feeling /  ‣ When we use the passive of a reporting verb in a sentence after an introductory it, it is followed by that + subject + verb.
+
+=== PAGE /grammar-points/b1-b2/have-something-done/
+Q 529 [radio] I don't have my watch. I'm _______ at the shop.
+ 651) A. having to repair it
+ 652) B. having it repaired
+ 653) C. having it repair
+ 654) D. repairing
+  SITE FEEDBACK: ‣ We use have + object + past participle when we want to talk about something that someone else does for us, usually because we pay them, or because we persuade or ask them to do it.
+Q 530 [radio] We need to _______. They are really dirty.
+ 655) A. have the windows clean
+ 656) B. have the windows to clean
+ 657) C. get to clean the windows
+ 658) D. get the windows cleaned
+  SITE FEEDBACK: ‣ In informal English, we can use get + object + past participle with the same meaning as have + object + past participle.
+Q 535 [radio] I'll get _______ my tires.
+ 675) A. someone to replace
+ 676) B. someone replace
+ 677) C. to replace
+ 678) D. someone replacing
+  SITE FEEDBACK: ‣ Apart from have/get something done, we can also use the structures get + someone + to do something or have + someone + do something to talk about someone doing something for us.
+Q 531 [radio] I'm _______ by a local dressmaker.
+ 659) A. having my dress made
+ 660) B. getting to make my dress
+ 661) C. having my dress make
+ 662) D. making my dress
+  SITE FEEDBACK: ‣ We use have + object + past participle when we want to talk about something that someone else does for us, usually because we pay them, or because we persuade or ask them to do it.
+Q 532 [radio] I _______ at the pub last night.
+ 663) A. had stolen my jacket
+ 664) B. got my jacket to steal
+ 665) C. got my jacket stolen
+ 666) D. stole my jacket
+  SITE FEEDBACK: ‣ =my jacket was stolen /  ‣ We can also use have/get something done with a passive meaning when something bad happens to us.
+Q 533 [radio] We _______ to our house every week.
+ 667) A. have our food to delivered
+ 668) B. have delivered our food
+ 669) C. get to deliver our food
+ 670) D. have our food delivered
+  SITE FEEDBACK: ‣ We use have + object + past participle when we want to talk about something that someone else does for us, usually because we pay them, or because we persuade or ask them to do it.
+Q 534 [radio] We should _______ soon.
+ 671) A. have our grass cut
+ 672) B. have to cut our grass
+ 673) C. got our grass to cut
+ 674) D. got cut our grass
+  SITE FEEDBACK: ‣ We use have + object + past participle when we want to talk about something that someone else does for us, usually because we pay them, or because we persuade or ask them to do it.
+Q 536 [radio] You should have _______ the engine.
+ 679) A. a mechanic check
+ 680) B. a mechanic to check
+ 681) C. a mechanic checking
+ 682) D. a mechanic to have checked
+  SITE FEEDBACK: ‣ Apart from have/get something done, we can also use the structures get + someone + to do something or have + someone + do something to talk about someone doing something for us.
+Q 537 [radio] We are going to _______ before the trip.
+ 683) A. have the oil to change
+ 684) B. have changed the oil
+ 685) C. get the oil change
+ 686) D. get the oil changed
+  SITE FEEDBACK: ‣ In informal English, we can use get + object + past participle with the same meaning as have + object + past participle.
+Q 538 [radio] Please, can you _______ the tables before you leave?
+ 687) A. get Tim to clean
+ 688) B. have Tim cleaning
+ 689) C. get Tim clean
+ 690) D. have Tim to clean
+  SITE FEEDBACK: ‣ Apart from have/get something done, we can also use the structures get + someone + to do something or have + someone + do something to talk about someone doing something for us.
+
+=== PAGE /grammar-points/b1-b2/reporting-verbs/
+Q 509 [radio] He _______ me to stop buying so much stuff online.
+ 621) A. convinced
+ 622) B. said
+ 623) C. recommend
+  SITE FEEDBACK: ‣ Use convince + someone + to + infinitive.
+Q 510 [radio] I don't blame you _______ to move to another house. I don't like this house either.
+ 624) A. to want
+ 625) B. that you want
+ 626) C. for wanting
+  SITE FEEDBACK: ‣ Use blame + someone + for + -ing verb.
+Q 511 [radio] I suggest _______ the police right now.
+ 627) A. you to call
+ 628) B. you call
+ 629) C. to call
+  SITE FEEDBACK: ‣ We can use suggest + -ing, or also suggest + (that) clause.
+Q 512 [radio] She _______ us not to drink that water.
+ 630) A. informed
+ 631) B. insisted
+ 632) C. warned
+  SITE FEEDBACK: ‣ Use warn + someone + to + infinitive. /  ‣ Remember that the negative infinitive is not + to + infinitive.
+Q 513 [radio] She _______ anything to do with what happened.
+ 633) A. said not to have
+ 634) B. denied having
+ 635) C. insisted not having
+  SITE FEEDBACK: ‣ Use deny + -ing verb.
+Q 514 [radio] "I wish I had been there with you." She _______ there with me.
+ 636) A. regretted not being
+ 637) B. denied being
+ 638) C. announced that she wasn't
+  SITE FEEDBACK: ‣ Use regret + -ing verb.
+Q 515 [radio] They _______ me not to talk to you anymore.
+ 639) A. suggested
+ 640) B. said
+ 641) C. advised
+  SITE FEEDBACK: ‣ Use advise + someone + to + infinitive. /  ‣ Remember that the negative infinitive is not + to + infinitive.
+Q 516 [radio] "I won't lend you any more money." He _______ to lend me any more money.
+ 642) A. admitted
+ 643) B. informed
+ 644) C. refused
+  SITE FEEDBACK: ‣ Use refuse + to + infinitive.
+Q 517 [radio] She _______ me to invite Jim to the party.
+ 645) A. said
+ 646) B. suggested
+ 647) C. reminded
+  SITE FEEDBACK: ‣ Use remind + someone + to + infinitive.
+Q 518 [radio] They _______ me if I didn't tell them where you were.
+ 648) A. promised they kill
+ 649) B. threatened to kill
+ 650) C. warned to kill
+  SITE FEEDBACK: ‣ Use threatened + to + infinitive.
+
+=== PAGE /grammar-points/b1-b2/passive-voice-all-tenses/
+Q 437 [radio] This kind of job used _______ only by professionals in the past.
+ 542) A. to being done
+ 543) B. to be done
+ 544) C. to do
+ 545) D. to been done
+  SITE FEEDBACK: ‣ We need the passive to infinitive: to be + past participle (the infinitive of be + past participle).

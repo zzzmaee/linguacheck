@@ -1,0 +1,2029 @@
+=== PAGE /grammar-points/a1/adverbs-manner/ | Adverbs of manner (slowly) or adjectives (slow)? | level a1
+--- QUIZ 490
+CONTEXT:
+Exercise 2
+ Complete the following sentences with the correct adjectives or adverbs of manner.
+Q 4284 [radio] He normally drives very _____.
+ 6132) A. slow
+ 6133) B. fastly
+ 6134) C. fast
+Q 4285 [radio] I passed _____.
+ 6135) A. easily the test
+ 6136) B. the test easily
+ 6137) C. easy the test
+Q 4286 [radio] The people in this company work very _____.
+ 6138) A. hard
+ 6139) B. hardly
+ 6140) C. good
+Q 4287 [radio] She is a _____ teacher.
+ 6141) A. well
+ 6142) B. good
+ 6143) C. goodly
+Q 4288 [radio] She teaches English very _____.
+ 6144) A. good
+ 6145) B. goodly
+ 6146) C. well
+Q 4290 [radio] You answered _____.
+ 6150) A. correctly the question
+ 6151) B. the question correctly
+ 6152) C. the question correct
+Q 4289 [radio] The article describes the situation very _____.
+ 6147) A. simple
+ 6148) B. simplely
+ 6149) C. simply
+Q 4292 [radio] They live _____ in Munich.
+ 6156) A. happy
+ 6157) B. happyly
+ 6158) C. happily
+Q 4291 [radio] After the break, we _____.
+ 6153) A. finished the job easily
+ 6154) B. easily finished the job
+ 6155) C. finished the job easy
+Q 4293 [radio] He didn't speak _____ English.
+ 6159) A. clearly
+ 6160) B. clear
+ 6161) C. well
+
+=== PAGE /grammar-points/a1/adverbs-manner/ | Adverbs of manner (slowly) or adjectives (slow)? | level a1
+--- QUIZ 491
+CONTEXT:
+Exercise 3
+ Complete the sentences using adjectives or adverbs. Use the adjectives in the list and the adverbs formed from those adjectives.
+ clear – easy – fast – incorrect – patient – quick
+ EXAMPLE: I need a quick answer.
+ EXAMPLE: He answered my question very quickly
+Q 4294 [gaps] Please, can you speak {1} ? I don't understand you.
+  {1} free text
+Q 4295 [gaps] He won the race. He ran very {1} .
+  {1} free text
+Q 4296 [gaps] Your answer is {1} . Can you answer it again?
+  {1} free text
+Q 4297 [gaps] We were one hour late, but he waited {1} until we arrived.
+  {1} free text
+Q 4298 [gaps] It was an {1} question. I answered it without thinking.
+  {1} free text
+Q 4299 [gaps] You answered the question {1} . Can you answer it again?
+  {1} free text
+Q 4300 [gaps] Please, be {1} with him. He's young and inexperienced.
+  {1} free text
+Q 4301 [gaps] He's a really {1} runner. He wins a lot of races.
+  {1} free text
+Q 4302 [gaps] The water isn't {1} ; it's dirty.
+  {1} free text
+Q 4303 [gaps] We climbed the mountain {1} . We weren't tired after doing it.
+  {1} free text
+
+=== PAGE /grammar-points/a1/be-going-to-plans-predictions/ | Be going to: Plans and predictions | level a1
+--- QUIZ 486
+CONTEXT:
+Exercise 1
+ Use the verbs in brackets to complete these sentences with be going to affirmative or negative.
+Q 4253 [gaps] I {1} (borrow) some books from the library today.
+  {1} free text
+Q 4259 [gaps] He {1} (not pay) your money back.
+  {1} free text
+Q 4263 [gaps] The drone is out of control. It {1} (crash)!
+  {1} free text
+Q 4260 [gaps] They aren't playing well. They {1} (not win) the match.
+  {1} free text
+Q 4255 [gaps] We {1} (have) a picnic tomorrow.
+  {1} free text
+Q 4256 [gaps] She {1} (fly) to New York next week.
+  {1} free text
+Q 4261 [gaps] You can take the newspaper. I {1} (not read) it.
+  {1} free text
+Q 4262 [gaps] I need to tell you something, but you {1} (not believe) me.
+  {1} free text
+Q 4264 [gaps] Look at the sun! It {1} (be) a beautiful day.
+  {1} free text
+Q 4265 [gaps] I {1} (not argue) with you.
+  {1} free text
+
+=== PAGE /grammar-points/a1/be-going-to-plans-predictions/ | Be going to: Plans and predictions | level a1
+--- QUIZ 487
+CONTEXT:
+Exercise 2
+ Use the words in brackes to write questions using be going to.
+Q 4257 [gaps] Which dress {1} (she/wear) for the party?
+  {1} free text
+Q 4258 [gaps] What {1} (you/do) after you graduate from university?
+  {1} free text
+Q 4266 [gaps] What time {1} (they/pick) you up at the airport?
+  {1} free text
+Q 4267 [gaps] How {1} (we/survive) here? There's no food.
+  {1} free text
+Q 4268 [gaps] Where {1} (he/stay) tonight?
+  {1} free text
+Q 4269 [gaps] I'm hungry. {1} (you/eat) that pie?
+  {1} free text
+Q 4270 [gaps] Doctor, {1} (it/hurt)?
+  {1} free text
+Q 4271 [gaps] What {1} (you/watch) on Netflix today?
+  {1} free text
+Q 4272 [gaps] What {1} (he/say) at the press conference today?
+  {1} free text
+Q 4273 [gaps] How {1} (they/solve) this problem?
+  {1} free text
+
+=== PAGE /grammar-points/a1/be-going-to-plans-predictions/ | Be going to: Plans and predictions | level a1
+--- QUIZ 488
+CONTEXT:
+Exercise 3
+ Complete this email with the affirmative, negative or interrogative forms of be going to. Use the words in brackets.
+Q 4254 [gaps] Hi Tim, /  How are you? 1 {1} (you/visit) us this summer? In July we 2 {2} (have) a big party. It 3 {3} (be) really fun. I want to have some great music, so I 4 {4} (find) a good DJ. My parents 5 {5} (pay) for the food and drinks. /  My sister 6 {6} (not be) there because she 7 {7} (travel) to Canada with a friend. Sorry! They 8 {8} (fly) to Montreal and then they 9 {9} (go) to Vancouver by train. They 10 {10} (not come) back until August. /  Hope you can come to the party! /  Ben
+  {1} free text
+  {2} free text
+  {3} free text
+  {4} free text
+  {5} free text
+  {6} free text
+  {7} free text
+  {8} free text
+  {9} free text
+  {10} free text
+
+=== PAGE /grammar-points/a1/superlative-adjectives/ | Superlative adjectives: The oldest, the most important, etc. | level a1
+--- QUIZ 483
+CONTEXT:
+Exercise 1
+ Write the superlative forms of these adjectives.
+ EXAMPLE: poor ⇒ the poorest
+Q 4224 [gaps] young ⇒ {1}
+  {1} free text
+Q 4225 [gaps] sad ⇒ {1}
+  {1} free text
+Q 4226 [gaps] remote ⇒ {1}
+  {1} free text
+Q 4227 [gaps] smelly ⇒ {1}
+  {1} free text
+Q 4228 [gaps] bad ⇒ {1}
+  {1} free text
+Q 4229 [gaps] amazing ⇒ {1}
+  {1} free text
+Q 4230 [gaps] pretty ⇒ {1}
+  {1} free text
+Q 4231 [gaps] flat ⇒ {1}
+  {1} free text
+Q 4232 [gaps] short ⇒ {1}
+  {1} free text
+Q 4233 [gaps] exciting ⇒ {1}
+  {1} free text
+
+=== PAGE /grammar-points/a1/superlative-adjectives/ | Superlative adjectives: The oldest, the most important, etc. | level a1
+--- QUIZ 484
+CONTEXT:
+Exercise 2
+ Choose the correct superlative or comparative forms to complete these sentences.
+Q 4234 [radio] Which is _____ planet from the sun?
+ 6102) A. the farest
+ 6103) B. the most far
+ 6104) C. the farthest
+Q 4236 [radio] _____ the world lives in Indonesia.
+ 6105) A. The oldest man of
+ 6106) B. The oldest man in
+ 6107) C. The most old man of
+Q 4237 [radio] David is very good at playing football, but Jason is _____.
+ 6108) A. best
+ 6109) B. the best
+ 6110) C. better
+Q 4238 [radio] It was _____ day of my life.
+ 6111) A. the most happy
+ 6112) B. the most happiest
+ 6113) C. the happiest
+Q 4239 [radio] What is _____ phone on the market?
+ 6114) A. the thinnest
+ 6115) B. thinnest
+ 6116) C. the most thin
+Q 4240 [radio] Last summer was _____ season ever recorded.
+ 6117) A. the dryest
+ 6118) B. the most dry
+ 6119) C. the driest
+Q 4241 [radio] I'm 10 years _____ than my wife.
+ 6120) A. oldest
+ 6121) B. the oldest
+ 6122) C. older
+Q 4242 [radio] He is _____ person in my life.
+ 6123) A. the most important
+ 6124) B. the more important
+ 6125) C. the importantest
+Q 4243 [radio] Our graduates earn _____ salaries in every U.S. state.
+ 6126) A. the higher
+ 6127) B. the highest
+ 6128) C. the most high
+Q 4244 [radio] That was _____ moment of my life.
+ 6129) A. the sadest
+ 6130) B. the saddest
+ 6131) C. the most sad
+
+=== PAGE /grammar-points/a1/superlative-adjectives/ | Superlative adjectives: The oldest, the most important, etc. | level a1
+--- QUIZ 485
+CONTEXT:
+Exercise 3
+ Write superlative adjectives using the adjectives in brackets. Include the.
+ EXAMPLE: She is the most intelligent (intelligent) student in my class.
+Q 4223 [gaps] July is {1} (dry) month in southern Spain. It hardly ever rains.
+  {1} free text
+Q 4235 [gaps] One World Trade Center is {1} (tall) building in New York.
+  {1} free text
+Q 4245 [gaps] She is {1} (healthy) person I know.
+  {1} free text
+Q 4246 [gaps] Egypt is one of {1} (ancient) civilizations.
+  {1} free text
+Q 4247 [gaps] He was {1} (fast) runner in 2017.
+  {1} free text
+Q 4248 [gaps] What month is {1} (hot) in Scotland?
+  {1} free text
+Q 4249 [gaps] She described her year in Singapore as {1} (amazing) experience of her life.
+  {1} free text
+Q 4250 [gaps] What is {1} (bad) neighbourhood in London?
+  {1} free text
+Q 4251 [gaps] It was {1} (slow) car on the circuit.
+  {1} free text
+Q 4252 [gaps] We sell {1} (red) and most perfect apples.
+  {1} free text
+
+=== PAGE /grammar-points/a1/comparative-adjectives/ | Comparative adjectives: Older than, more important than, etc. | level a1
+--- QUIZ 480
+CONTEXT:
+Exercise 1
+ Write the opposite of these adjectives. Use the comparative form of adjectives in the box below.
+ bad – big – difficult – expensive – far – fat – happy – hot – old – short
+Q 4193 [gaps] younger ⇒ {1}
+  {1} free text
+Q 4194 [gaps] colder ⇒ {1}
+  {1} free text
+Q 4195 [gaps] better ⇒ {1}
+  {1} free text
+Q 4196 [gaps] thinner ⇒ {1}
+  {1} free text
+Q 4197 [gaps] cheaper ⇒ {1}
+  {1} free text
+Q 4198 [gaps] nearer ⇒ {1}
+  {1} free text
+Q 4199 [gaps] sadder ⇒ {1}
+  {1} free text
+Q 4200 [gaps] smaller ⇒ {1}
+  {1} free text
+Q 4201 [gaps] easier ⇒ {1}
+  {1} free text
+Q 4202 [gaps] taller ⇒ {1}
+  {1} free text
+
+=== PAGE /grammar-points/a1/comparative-adjectives/ | Comparative adjectives: Older than, more important than, etc. | level a1
+--- QUIZ 481
+CONTEXT:
+Exercise 2
+ Choose the correct comparative adjectives to complete these sentences.
+Q 4203 [radio] My brother is older than _____.
+ 6072) A. me
+ 6073) B. mine
+ 6074) C. my
+Q 4204 [radio] We are better _____.
+ 6075) A. than them
+ 6076) B. than their
+ 6077) C. that them
+Q 4205 [radio] Travelling by bus is _____ travelling by car.
+ 6078) A. comfortabler than
+ 6079) B. more comfortable that
+ 6080) C. more comfortable than
+Q 4207 [radio] The last test was more difficult than this test. This test is _____.
+ 6084) A. less difficult
+ 6085) B. dificultless
+ 6086) C. less difficult than
+Q 4206 [radio] This exam was _____ the last one.
+ 6081) A. more easy
+ 6082) B. easier than
+ 6083) C. more easier than
+Q 4208 [radio] Robert is _____ than his opponent.
+ 6087) A. very stronger
+ 6088) B. much strong
+ 6089) C. much stronger
+Q 4209 [radio] Kevin is funny, but George is ____.
+ 6090) A. more funny than
+ 6091) B. funnier
+ 6092) C. funnier than
+Q 4210 [radio] Your house is far, but my house is _____.
+ 6093) A. more far
+ 6094) B. farer
+ 6095) C. further
+Q 4211 [radio] Kate is _____ than her sister.
+ 6096) A. friendly
+ 6097) B. friendlier
+ 6098) C. more friendlier
+Q 4212 [radio] Everybody hates him. He really thinks that women are _____ men.
+ 6099) A. intelligentless than
+ 6100) B. less intelligent that
+ 6101) C. less intelligent than
+
+=== PAGE /grammar-points/a1/comparative-adjectives/ | Comparative adjectives: Older than, more important than, etc. | level a1
+--- QUIZ 482
+CONTEXT:
+Exercise 3
+ Write comparative adjectives using the adjectives in brackets. Include than when necessary
+Q 4213 [gaps] I like the black sofa, but I think the brown sofa is {1} (comfortable).
+  {1} free text
+Q 4214 [gaps] This bar is {1} (noisy) the bars in my street.
+  {1} free text
+Q 4215 [gaps] Marseille is much {1} (hot) Paris.
+  {1} free text
+Q 4216 [gaps] The helicopter was loud, but the ambulance was {1} (loud).
+  {1} free text
+Q 4217 [gaps] Do you think Manchester United is {1} (good) Manchester City this year?
+  {1} free text
+Q 4218 [gaps] The novel is much {1} (interesting) the film.
+  {1} free text
+Q 4219 [gaps] Canadians are {1} (rich) in the past.
+  {1} free text
+Q 4220 [gaps] This summer was {1} (wet) last summer.
+  {1} free text
+Q 4221 [gaps] I liked the old version of the game, but the new version is much {1} (exciting).
+  {1} free text
+Q 4222 [gaps] Sorry, 8 o'clock is very late. Can we meet a bit {1} (early)?
+  {1} free text
+
+=== PAGE /grammar-points/a1/much-many-lot-little-few/ | Much, many, a lot of, a little, a few | level a1
+--- QUIZ 477
+CONTEXT:
+Exercise 1
+ Choose much, many, a lot of, a little, a few, etc. to complete the sentences
+Q 4163 [gaps] If I want to pass the exam, I need to study {1} .
+  {1} options: a lot of | a lot | many
+Q 4164 [gaps] There aren't {1} things to do in this village.
+  {1} options: a lot | many | much
+Q 4165 [gaps] {1} sugar do you take in your tea?
+  {1} options: How many | How little | How much
+Q 4166 [gaps] There was {1} tension at the meeting.
+  {1} options: much | a lot of | many
+Q 4167 [gaps] Dad, I need {1} money for school.
+  {1} options: many | a little | a few
+Q 4168 [gaps] There are {1} things that you can do to improve your writing.
+  {1} options: a few | a little | any
+Q 4169 [gaps] There is {1} milk in the fridge. We need to buy some.
+  {1} options: no | any | none
+Q 4170 [gaps] He doesn't have {1} hobbies.
+  {1} options: no | any | none
+Q 4171 [gaps] 'How many computers do you have?' ' {1} .'
+  {1} options: None | No | Any
+Q 4172 [gaps] I can help you; I have {1} time today.
+  {1} options: a lot of | much | many
+
+=== PAGE /grammar-points/a1/much-many-lot-little-few/ | Much, many, a lot of, a little, a few | level a1
+--- QUIZ 478
+CONTEXT:
+Exercise 2
+ Choose the correct words much, many, a lot of, a little, a few, to complete these sentences.
+Q 4173 [radio] 'How much water do you drink?' '_____.'
+ 6042) A. Much
+ 6043) B. A lot of
+ 6044) C. A lot
+Q 4174 [radio] _____ goals did they score?
+ 6045) A. How many
+ 6046) B. How much
+ 6047) C. How little
+Q 4175 [radio] Nowadays we don't use _____ cash, because we use our credit cards.
+ 6048) A. many
+ 6049) B. much
+ 6050) C. a lot
+Q 4176 [radio] There's _____ pressure on the players.
+ 6051) A. a lot of
+ 6052) B. much
+ 6053) C. many
+Q 4177 [radio] They got married _____ months after they met for the first time.
+ 6054) A. much
+ 6055) B. a little
+ 6056) C. a few
+Q 4178 [radio] 'How much milk do you want in your coffee?' 'Only _____.'
+ 6057) A. a little
+ 6058) B. a few
+ 6059) C. much
+Q 4179 [radio] There were _____ problems during the festival.
+ 6060) A. any
+ 6061) B. no
+ 6062) C. none
+Q 4180 [radio] I don't want _____ gifts.
+ 6063) A. none
+ 6064) B. no
+ 6065) C. any
+Q 4181 [radio] 'How many gifts do you want?' '_____.'
+ 6066) A. None
+ 6067) B. Any
+ 6068) C. No
+Q 4182 [radio] I eat _____ vegetables.
+ 6069) A. much
+ 6070) B. a lot of
+ 6071) C. many
+
+=== PAGE /grammar-points/a1/much-many-lot-little-few/ | Much, many, a lot of, a little, a few | level a1
+--- QUIZ 479
+CONTEXT:
+Exercise 3
+ Complete the sentences using these words.
+ much – how much – many – how many – a lot of – a lot – a little – a few – any – no – none
+ EXAMPLE: How many hours did you work yesterday?
+Q 4183 [gaps] He has {1} paintings. It's a really big collection.
+  {1} free text
+Q 4184 [gaps] {1} salt do you put in your food?
+  {1} free text
+Q 4185 [gaps] I normally use {1} makeup, but not much, only some lipstick.
+  {1} free text
+Q 4189 [gaps] It rained {1} last week; it rained every day.
+  {1} free text
+Q 4188 [gaps] They only scored one goal. They didn't have {1} opportunities to score; maybe two or three.
+  {1} free text
+Q 4186 [gaps] Please, I just need 5 minutes of your time. I only have {1} questions.
+  {1} free text
+Q 4187 [gaps] We had {1} problems. It was 100% perfect.
+  {1} free text
+Q 4190 [gaps] We need to be fast; we haven't got {1} time, only 20 minutes.
+  {1} free text
+Q 4191 [gaps] I didn't see {1} people in the room. It was completely empty.
+  {1} free text
+Q 4192 [gaps] 'How many cups of coffee did you have?' ' {1} . I don't drink coffee.'
+  {1} free text
+
+=== PAGE /grammar-points/a1/there-is-there-are/ | There is, there are / there was, there were | level a1
+--- QUIZ 474
+CONTEXT:
+Exercise 1
+ Complete the conversation below with there’s, there are, there isn’t, there aren’t, is there, are there. Use SHORT FORMS when possible.
+Q 4142 [gaps] PHILLIP: Good morning. Can you give me some information about the house in St. Patrick's street? /  REAL ESTATE AGENT: Yes, of course. It's a very nice, big apartment. 1 {1} three bedrooms. /  PHILLIP: 2 {2} a bathroom in each bedroom? /  REAL ESTATE AGENT: No, 3 {3} . The main bedroom has got a bathroom, but 4 {4} any bathrooms in the other two bedrooms. /  PHILLIP: 5 {5} a dining room? /  REAL ESTATE AGENT: No, 6 {6} , but there's a large living room with a dining area. /  PHILLIP: 7 {7} any balconies? /  REAL ESTATE AGENT: No, 8 {8} , I'm afraid. /  PHILLIP: And 9 {9} a garage? /  REAL ESTATE AGENT: Yes, 10 {10} a garage at the front of the house.
+  {1} free text
+  {2} free text
+  {3} free text
+  {4} free text
+  {5} free text
+  {6} free text
+  {7} free text
+  {8} free text
+  {9} free text
+  {10} free text
+
+=== PAGE /grammar-points/a1/there-is-there-are/ | There is, there are / there was, there were | level a1
+--- QUIZ 475
+CONTEXT:
+Exercise 2
+ Choose the correct forms of there is, there are, it is, they are, to complete these sentences.
+Q 4143 [radio] In my street, _____ a bakery, a supermarket and two restaurants.
+ 6012) A. there's
+ 6013) B. there are
+ 6014) C. are there
+Q 4144 [radio] 'Is there a new printer in the office?' 'Yes, ____.'
+ 6015) A. there's
+ 6016) B. there are
+ 6017) C. there is
+Q 4145 [radio] When I opened the door, _____ a police officer standing in front of me.
+ 6018) A. there were
+ 6019) B. there was
+ 6020) C. there is
+Q 4146 [radio] You can go now. _____ any danger.
+ 6021) A. There isn't
+ 6022) B. There is
+ 6023) C. There aren't
+Q 4147 [radio] _____ any people in the restaurant last night?
+ 6024) A. Was there
+ 6025) B. Were there
+ 6026) C. Are there
+Q 4148 [radio] _____ some money on the table.
+ 6027) A. There's
+ 6028) B. There isn't
+ 6029) C. There are
+Q 4149 [radio] _____ many students in class yesterday.
+ 6030) A. There aren't
+ 6031) B. There wasn't
+ 6032) C. There weren't
+Q 4150 [radio] 'Are there many restaurants in your neighbourhood?' 'Yes, _____.'
+ 6033) A. there is
+ 6034) B. there're
+ 6035) C. there are
+Q 4151 [radio] _____ milk and cookies in the kitchen.
+ 6036) A. There are
+ 6037) B. There is
+ 6038) C. There aren't
+Q 4152 [radio] _____ a question in the exam that I couldn't answer.
+ 6039) A. There is
+ 6040) B. There was
+ 6041) C. There were
+
+=== PAGE /grammar-points/a1/there-is-there-are/ | There is, there are / there was, there were | level a1
+--- QUIZ 476
+CONTEXT:
+Exercise 3
+ Complete the sentences using the affirmative, negative or interrogative forms of there + be in present or past.
+Q 4153 [gaps] When I was young, {1} a very good player in my team.
+  {1} free text
+Q 4154 [gaps] {1} any good films on TV today.
+  {1} free text
+Q 4155 [gaps] Everything was perfect. {1} any problems.
+  {1} free text
+Q 4160 [gaps] {1} many people at the cinema last night?
+  {1} free text
+Q 4156 [gaps] Do you want to eat out? {1} a new restaurant in the center.
+  {1} free text
+Q 4159 [gaps] Why {1} two boxes on the sofa? Can you take them away, please?
+  {1} free text
+Q 4157 [gaps] Ten years ago, {1} more shops; now many people buy online.
+  {1} free text
+Q 4158 [gaps] I'm very hungry. {1} any food left?
+  {1} free text
+Q 4161 [gaps] Why {1} a Civil War in the USA in 1861?
+  {1} free text
+Q 4162 [gaps] We need to go shopping; {1} any food in the fridge.
+  {1} free text
+
+=== PAGE /grammar-points/a1/a-some-any-countable-uncountable/ | A, some, any: Countable and uncountable nouns | level a1
+--- QUIZ 471
+CONTEXT:
+Exercise 1
+ Choose a, some, any to complete the sentences below.
+Q 4112 [gaps] I need {1} information about the city.
+  {1} options: some | any | an
+Q 4114 [gaps] I always have {1} egg for breakfast.
+  {1} options: some | an | any
+Q 4113 [gaps] Can you help me? I need {1} advice.
+  {1} options: an | some | any
+Q 4116 [gaps] We don't have {1} money.
+  {1} options: some | any | a
+Q 4118 [gaps] Can I have {1} milk, please?
+  {1} options: any | a | some
+Q 4115 [gaps] Have you got {1} pen?
+  {1} options: a | any | some
+Q 4117 [gaps] We didn't see {1} people in the streets.
+  {1} options: a | some | any
+Q 4119 [gaps] Does Peter have {1} magazines in his office?
+  {1} options: a | any | some
+Q 4120 [gaps] Do you want {1} chips?
+  {1} options: any | a | some
+Q 4121 [gaps] My wife doesn't want {1} dog.
+  {1} options: any | a | some
+
+=== PAGE /grammar-points/a1/a-some-any-countable-uncountable/ | A, some, any: Countable and uncountable nouns | level a1
+--- QUIZ 472
+CONTEXT:
+Exercise 2
+ Choose the correct option to complete these sentences.
+Q 4122 [radio] I didn't see _____ in the library.
+ 5982) A. any classmates
+ 5983) B. some classmates
+ 5984) C. any classmate
+Q 4123 [radio] I have _____ in my house.
+ 5985) A. some new furnitures
+ 5986) B. a new furniture
+ 5987) C. some new furniture
+Q 4124 [radio] Can I have _____ apple, please?
+ 5988) A. an
+ 5989) B. some
+ 5990) C. any
+Q 4125 [radio] They gave me _____ for my collection.
+ 5991) A. some old books
+ 5992) B. an old books
+ 5993) C. some old book
+Q 4126 [radio] The hotel where I'm staying has _____.
+ 5994) A. swimming pool
+ 5995) B. a swimming pool
+ 5996) C. some swimming pool
+Q 4127 [radio] She speaks _____ English.
+ 5997) A. some
+ 5998) B. any
+ 5999) C. an
+Q 4129 [radio] I didn't get _____ from you or your partner.
+ 6003) A. an calls
+ 6004) B. any calls
+ 6005) C. any call
+Q 4128 [radio] Can you give me _____ bread?
+ 6000) A. a
+ 6001) B. any
+ 6002) C. some
+Q 4130 [radio] Have you got _____?
+ 6006) A. any brother or sister
+ 6007) B. some brothers or sisters
+ 6008) C. any brothers or sisters
+Q 4131 [radio] She gave me _____.
+ 6009) A. a terrible new
+ 6010) B. some terrible news
+ 6011) C. a terrible news
+
+=== PAGE /grammar-points/a1/a-some-any-countable-uncountable/ | A, some, any: Countable and uncountable nouns | level a1
+--- QUIZ 473
+CONTEXT:
+Exercise 3
+ Complete the sentences using a, some, any and the words in the box.
+ advice – big problem – coin – DVDs – eggs – French – fresh air – nice cities – pen – questions – sausage
+ EXAMPLE: Can you lend me ⇒ a pen to write the composition?
+Q 4132 [gaps] We visited {1} during our trip to China.
+  {1} free text
+Q 4133 [gaps] Mary has a DVD player, but she doesn't have {1} .
+  {1} free text
+Q 4134 [gaps] I'm not sure of what to do. Can you give me {1} ?
+  {1} free text
+Q 4135 [gaps] I had some rice and {1} for lunch.
+  {1} free text
+Q 4136 [gaps] You can ask me now if you want. Do you have {1} ?
+  {1} free text
+Q 4137 [gaps] I have {1} with my boss. She hates me.
+  {1} free text
+Q 4139 [gaps] It's very hot here. I need {1} .
+  {1} free text
+Q 4138 [gaps] Have you got {1} ? I need it for the coffee vending machine.
+  {1} free text
+Q 4140 [gaps] I want to cook an omelette, but I don't have {1} .
+  {1} free text
+Q 4141 [gaps] Do you speak {1} ?
+  {1} free text
+
+=== PAGE /grammar-points/a1/past-simple-negatives-questions/ | Past simple: Negatives and questions | level a1
+--- QUIZ 468
+CONTEXT:
+Exercise 1
+ Choose the correct past simple forms to complete the sentences below.
+Q 4082 [gaps] Where {1} on holiday last summer?
+  {1} options: did you go | went you | did you went
+Q 4083 [gaps] They {1} until 5 o'clock in the afternoon.
+  {1} options: didn't arrive | weren't arrived | didn't arrived
+Q 4094 [gaps] They {1} sure of what to do.
+  {1} options: didn't be | didn't were | weren't
+Q 4095 [gaps] We {1} after midnight.
+  {1} options: did arrive | didn't arrived | arrived
+Q 4096 [gaps] {1} the present?
+  {1} options: did you liked | Were you like | Did you like
+Q 4097 [gaps] Sara {1} the film because she was asleep.
+  {1} options: didn't watched | weren't watch | didn't watch
+Q 4098 [gaps] John and Felicity {1} married last year.
+  {1} options: got | were get | did get
+Q 4099 [gaps] She {1} ready for the test.
+  {1} options: didn't was | wasn't | didn't be
+Q 4100 [gaps] I {1} the question. Can you repeat it?
+  {1} options: wasn't understood | didn't understand | didn't understood
+Q 4101 [gaps] {1} when he saw you?
+  {1} options: Did he smiled | Did he smile | Was he smile
+
+=== PAGE /grammar-points/a1/past-simple-negatives-questions/ | Past simple: Negatives and questions | level a1
+--- QUIZ 469
+CONTEXT:
+Exercise 2
+ Choose the correct past simple forms to complete these sentences.
+Q 4084 [radio] We _____ a bus to Chicago last week.
+ 5952) A. were took
+ 5953) B. did took
+ 5954) C. took
+Q 4085 [radio] _____ to the party last weekend?
+ 5955) A. Did you go
+ 5956) B. Went you
+ 5957) C. Did you went
+Q 4086 [radio] Yesterday I ____ the train, but I ____ late for work.
+ 5958) A. did miss / were not
+ 5959) B. missed / didn't be
+ 5960) C. missed / wasn't
+Q 4087 [radio] They _____ a swimming pool in their backyard last summer.
+ 5961) A. did put
+ 5962) B. putted
+ 5963) C. put
+Q 4088 [radio] Where _____ this afternoon?
+ 5964) A. were he go
+ 5965) B. did he go
+ 5966) C. did he went
+Q 4089 [radio] She _____ home early from the party yesterday.
+ 5967) A. came
+ 5968) B. camed
+ 5969) C. didn't came
+Q 4090 [radio] How much _____ for it?
+ 5970) A. did you paid
+ 5971) B. did you pay
+ 5972) C. paid you
+Q 4091 [radio] They _____ the play very much.
+ 5973) A. weren't enjoy
+ 5974) B. didn't enjoyed
+ 5975) C. didn't enjoy
+Q 4092 [radio] When _____ that crazy idea?
+ 5976) A. did you got
+ 5977) B. did you get
+ 5978) C. got you
+Q 4093 [radio] Where _____ last night?
+ 5979) A. were you
+ 5980) B. did you be
+ 5981) C. did you were
+
+=== PAGE /grammar-points/a1/past-simple-negatives-questions/ | Past simple: Negatives and questions | level a1
+--- QUIZ 470
+CONTEXT:
+Exercise 3
+ Complete the conversation using the words in brackets to make past simple positive, negative, and questions.
+Q 4102 [gaps] Emma: Where {1} (you/travel) this summer?
+  {1} free text
+Q 4103 [gaps] Phil: We {1} (go) to Playa del Carmen, in Mexico.
+  {1} free text
+Q 4104 [gaps] Emma: Where {1} (you/stay)?
+  {1} free text
+Q 4105 [gaps] Phil: We {1} (stay) in a nice beach resort.
+  {1} free text
+Q 4106 [gaps] Emma: {1} (your children/like) it?
+  {1} free text
+Q 4107 [gaps] Phil: Of course! They {1} (spend) all week on the beach.
+  {1} free text
+Q 4108 [gaps] Emma: {1} (be/you) there for one week?
+  {1} free text
+Q 4109 [gaps] Phil: Yes. We {1} (come) back last Sunday.
+  {1} free text
+Q 4110 [gaps] Emma: {1} (your wife/enjoy) the trip too?
+  {1} free text
+Q 4111 [gaps] Phil: Yes, she {1} , although she {2} (not like) the food too much.
+  {1} free text
+  {2} free text
+
+=== PAGE /grammar-points/a1/past-simple-regular-irregular/ | Past simple: Regular/irregular verbs | level a1
+--- QUIZ 465
+CONTEXT:
+Exercise 1
+ Write the past simple forms of the regular verbs in brackets to complete these sentences.
+Q 4061 [gaps] I {1} (study) all night yesterday.
+  {1} free text
+Q 4062 [gaps] We {1} (play) poker after dinner.
+  {1} free text
+Q 4063 [gaps] After escaping from prison, he {1} (rob) a bank.
+  {1} free text
+Q 4064 [gaps] He {1} (start) playing chess at the age of 7.
+  {1} free text
+Q 4065 [gaps] We {1} (arrive) home very late.
+  {1} free text
+Q 4066 [gaps] We {1} (visit) the Louvre while we were in Paris.
+  {1} free text
+Q 4067 [gaps] He {1} (try) to escape.
+  {1} free text
+Q 4068 [gaps] I {1} (stop) smoking when I was 30.
+  {1} free text
+Q 4069 [gaps] When I was a child, I {1} (hate) fish.
+  {1} free text
+Q 4070 [gaps] We really {1} (enjoy) the concert.
+  {1} free text
+
+=== PAGE /grammar-points/a1/past-simple-regular-irregular/ | Past simple: Regular/irregular verbs | level a1
+--- QUIZ 466
+CONTEXT:
+Exercise 2
+ Write the past simple forms of the irregular verbs in brackets to complete these sentences.
+Q 4071 [gaps] I {1} (find) my true love when I was 50.
+  {1} free text
+Q 4072 [gaps] We {1} (buy) this sofa in the shop at the end of the street.
+  {1} free text
+Q 4073 [gaps] We never {1} (wear) uniforms in school.
+  {1} free text
+Q 4074 [gaps] I {1} (forget) to tell you something important.
+  {1} free text
+Q 4075 [gaps] I {1} (see) Peter at the theater last week.
+  {1} free text
+Q 4076 [gaps] After the meeting, I {1} (speak) with my boss.
+  {1} free text
+Q 4077 [gaps] Yesterday I {1} (drive) to work.
+  {1} free text
+Q 4078 [gaps] She {1} (run) her first marathon when she was 18.
+  {1} free text
+Q 4079 [gaps] I {1} (make) a lot of mistakes during the match.
+  {1} free text
+Q 4080 [gaps] Somebody {1} (eat) my biscuits without telling me.
+  {1} free text
+
+=== PAGE /grammar-points/a1/past-simple-regular-irregular/ | Past simple: Regular/irregular verbs | level a1
+--- QUIZ 467
+CONTEXT:
+Exercise 3
+ Complete the text with these verbs in past simple.
+ arrive – ask – fly – go – pay – say – stop – take – tell – think – want
+Q 4081 [gaps] Two summers ago, we 1 {1} on a trip to New York. We 2 {2} from Manchester to John F. Kennedy International Airport. The journey was long, but we were very excited; we are from a little village and we really 3 {3} to visit a megacity like New York. When we 4 {4} at our destination, we 5 {5} a taxi to our hotel in Manhattan. The taxi driver was very nice and 6 {6} us lots of things about New York and Manhattan.  /  "How much is it?" I asked the taxi driver when he 7 {7} his car in front of the hotel. When he 8 {8} that it was 95 dollars, I 9 {9} that it wasn't possible, but it was! For the first –and I hope the last– time in my life, I 10 {10} 95 dollars for a taxi. I guess that's one of the problems of big cities, they are really expensive.
+  {1} free text
+  {2} free text
+  {3} free text
+  {4} free text
+  {5} free text
+  {6} free text
+  {7} free text
+  {8} free text
+  {9} free text
+  {10} free text
+
+=== PAGE /grammar-points/a1/object-pronouns/ | Object pronouns vs subject pronouns: Me or I, she or her? | level a1
+--- QUIZ 462
+CONTEXT:
+Exercise 1
+ Choose the correct subject pronouns or object pronouns to complete the following sentences.
+Q 4031 [gaps] What time can I call {1} ?
+  {1} options: him | he
+Q 4035 [gaps] {1} never listens to {2} .
+  {1} options: Him | He
+  {2} options: us | we
+Q 4036 [gaps] 'Do you like my new glasses?' 'Yes, {1} love {2} .
+  {1} options: me | I
+  {2} options: them | they | it
+Q 4037 [gaps] Tom loves his rabbits. {1} plays with {2} in the garden every day.
+  {1} options: He | Him
+  {2} options: them | they
+Q 4038 [gaps] Please, call {1} soon; {2} am very worried.
+  {1} options: I | me
+  {2} options: me | I
+Q 4039 [gaps] Look, Sara and Kevin. Can you see {1} ?
+  {1} options: they | you | them
+Q 4040 [gaps] Tell John that {1} can meet {2} at the canteen.
+  {1} options: him | he | she
+  {2} options: they | us | we
+Q 4041 [gaps] I like your earrings. Can {1} see {2} ?
+  {1} options: I | me
+  {2} options: them | they
+Q 4044 [gaps] Look at that man. Who is {1} ?
+  {1} options: he | him
+Q 4045 [gaps] That man over there is David. I work with {1} .
+  {1} options: he | him | her
+
+=== PAGE /grammar-points/a1/object-pronouns/ | Object pronouns vs subject pronouns: Me or I, she or her? | level a1
+--- QUIZ 463
+CONTEXT:
+Exercise 2
+ Replace the underlined words with the correct subject pronouns or object pronouns.
+Q 4032 [gaps] I can't find my keys. ⇒ I can't find {1} .
+  {1} free text
+Q 4048 [gaps] Rachel helps the students. ⇒ {1} helps {2} .
+  {1} free text
+  {2} free text
+Q 4056 [gaps] I need to tell John the truth. ⇒ I need to tell {1} the truth.
+  {1} free text
+Q 4053 [gaps] My dad and I love chocolate. ⇒ {1} love {2} .
+  {1} free text
+  {2} free text
+Q 4054 [gaps] Suzan and Tom call their daughter every day. ⇒ {1} call {2} every day.
+  {1} free text
+  {2} free text
+Q 4058 [gaps] I like cooking for my children. ⇒ I like cooking for {1} .
+  {1} free text
+Q 4055 [gaps] Give the documents to Carmen. ⇒ Give {1} to {2} .
+  {1} free text
+  {2} free text
+Q 4057 [gaps] Tom often plays football with my friends and me . ⇒ {1} often plays football with {2} .
+  {1} free text
+  {2} free text
+Q 4060 [gaps] How old is Emma? ⇒ How old is {1} ?
+  {1} free text
+Q 4059 [gaps] I need the scissors to cut the paper. ⇒ I need {1} to cut {2} .
+  {1} free text
+  {2} free text
+
+=== PAGE /grammar-points/a1/object-pronouns/ | Object pronouns vs subject pronouns: Me or I, she or her? | level a1
+--- QUIZ 464
+CONTEXT:
+Exercise 3
+ Complete the sentences using the correct subject pronouns or object pronouns.
+Q 4033 [gaps] I'm not dangerous. Don't be afraid of {1} .
+  {1} free text
+Q 4034 [gaps] I don't like this music; {1} is boring. Can you stop {2} ?
+  {1} free text
+  {2} free text
+Q 4042 [gaps] That's my money. Can you give {1} to {2} ? I need it.
+  {1} free text
+  {2} free text
+Q 4043 [gaps] Susan is in trouble and {1} needs help. We have to help {2} .
+  {1} free text
+  {2} free text
+Q 4046 [gaps] Jack is very special. I think I'm in love with {1} .
+  {1} free text
+Q 4047 [gaps] We are going to the cinema. Do you want to come with {1} ?
+  {1} free text
+Q 4049 [gaps] I don't want to eat this cheese. {1} smells horrible.
+  {1} free text
+Q 4050 [gaps] Don't eat cookies. {1} are very unhealthy.
+  {1} free text
+Q 4051 [gaps] I can't find Sally. Where is {1} ?
+  {1} free text
+Q 4052 [gaps] {1} need help. Can you help us?
+  {1} free text
+
+=== PAGE /grammar-points/a1/was-were/ | Was/were: Past simple of ‘be’ | level a1
+--- QUIZ 459
+CONTEXT:
+Exercise 1
+ Choose was/were or am/is/are to complete the following sentences.
+Q 4001 [gaps] My son {1} short in school, but now he {2} tall.
+  {1} options: was | were
+  {2} options: am | are | is
+Q 4002 [gaps] ' {1} you at the stadium yesterday?' 'Yes, I {2} .'
+  {1} options: Was | Were
+  {2} options: 's | were | was
+Q 4003 [gaps] Yesterday Philip and Emma {1} in London. Today they {2} in Paris.
+  {1} options: were | was
+  {2} options: is | am | are
+Q 4004 [gaps] Sara and I {1} at home that night, and you {2} with us.
+  {1} options: were | was
+  {2} options: were | was
+Q 4005 [gaps] Yesterday we {1} late for the concert, and today I {2} late for class.
+  {1} options: was | were
+  {2} options: am | is | are
+Q 4006 [gaps] Asim {1} born in Egypt, and I {2} born in Birmingham.
+  {1} options: were | is | was
+  {2} options: am | were | was
+Q 4007 [gaps] ' {1} you excited about the trip?' 'Yes, we {2} very excited.'
+  {1} options: Were | Was
+  {2} options: were | 're | was
+Q 4008 [gaps] ' {1} Kate angry yesterday after the meeting?' 'No, but I think she {2} angry now.'
+  {1} options: Were | Was
+  {2} options: am | is | are
+Q 4009 [gaps] ' {1} you at the beach last Sunday?' 'Yes, I {2} .
+  {1} options: Was | Were
+  {2} options: was | were
+Q 4010 [gaps] The weather {1} nice today, but it {2} horrible last weekend.
+  {1} options: are | was | is
+  {2} options: were | was
+
+=== PAGE /grammar-points/a1/was-were/ | Was/were: Past simple of ‘be’ | level a1
+--- QUIZ 460
+CONTEXT:
+Exercise 2
+ Complete the following sentences with was/were or wasn’t/weren’t.
+Q 4011 [gaps] Where {1} you last night? I called you, but you {2} at home.
+  {1} free text
+  {2} free text
+Q 4022 [gaps] ' {1} Sandra happy after the exam?' 'No, she {2} .'
+  {1} free text
+  {2} free text
+Q 4023 [gaps] I remember I {1} very worried, but you {2} calm.
+  {1} free text
+  {2} free text
+Q 4024 [gaps] Betty and Paul {1} at home; they {2} at the cinema
+  {1} free text
+  {2} free text
+Q 4025 [gaps] ' {1} you tired after the concert?' 'Yes, I {2} .'
+  {1} free text
+  {2} free text
+Q 4026 [gaps] I'm very sorry. You {1} right, and I {2} wrong.
+  {1} free text
+  {2} free text
+Q 4027 [gaps] 'Were your parents at the meeting?' 'My dad {1} there, but my mum {2} .'
+  {1} free text
+  {2} free text
+Q 4028 [gaps] We {1} late! We {2} early. The concert was at 8 and we arrived at 7.
+  {1} free text
+  {2} free text
+Q 4029 [gaps] Vivian {1} at the meeting, but I {2} there. I always go to the meetings.
+  {1} free text
+  {2} free text
+Q 4030 [gaps] ' {1} Tim with you?' 'No, only Sally and Peter {2} there with me.'
+  {1} free text
+  {2} free text
+
+=== PAGE /grammar-points/a1/was-were/ | Was/were: Past simple of ‘be’ | level a1
+--- QUIZ 461
+CONTEXT:
+Exercise 3
+ Write questions using was/were and the words below. Put the words in the correct order.
+ EXAMPLE: you / what time / at the station ⇒ What time were you at the station?
+Q 4012 [gaps] the keys / where ⇒ {1} ?
+  {1} free text
+Q 4013 [gaps] Robin / why / at the meeting ⇒ {1} ?
+  {1} free text
+Q 4014 [gaps] born / she / when ⇒ {1} ?
+  {1} free text
+Q 4015 [gaps] how expensive / the hotel ⇒ {1} ?
+  {1} free text
+Q 4016 [gaps] why / you / angry ⇒ {1} ?
+  {1} free text
+Q 4017 [gaps] unconscious / I / after the accident ⇒ {1} ?
+  {1} free text
+Q 4018 [gaps] the questions / difficult ⇒ {1} ?
+  {1} free text
+Q 4019 [gaps] the accident / what time ⇒ {1} ?
+  {1} free text
+Q 4020 [gaps] you / how often / in contact with them ⇒ {1} ?
+  {1} free text
+Q 4021 [gaps] where / you and Tom / last night ⇒ {1} ?
+  {1} free text
+
+=== PAGE /grammar-points/a1/present-simple-present-continuous/ | Present simple or present continuous? | level a1
+--- QUIZ 456
+CONTEXT:
+Exercise 1
+ Choose the correct present simple or present continuous form to complete the dialogues below.
+Q 3980 [gaps] Cindy: What {1} ?
+  {1} options: do you do | are you doing | you are doing
+Q 3982 [gaps] Robert: I'm listening to the radio. They {1} about football.
+  {1} options: talking | are talking | talk
+Q 3981 [gaps] Cindy: {1} to the radio?
+  {1} options: Are you often listening | Do you listen often | Do you often listen
+Q 3983 [gaps] Robert: Yes. I {1} the radio.
+  {1} options: 'm like | 'm liking | like
+Q 3984 [gaps] Cindy: {1} to sports programmes?
+  {1} options: Do you listen often | Do you often listen | Are you often listening
+Q 3985 [gaps] Robert: Not usually, but today I {1} to know what they say about my team.
+  {1} options: 'm want | 'm wanting | want
+Q 3986 [gaps] Terry: What {1} ?
+  {1} options: are you doing | do you do | are you do
+Q 3987 [gaps] Lisa: I'm an architect, but I {1} at the moment.
+  {1} options: 'm not working | 'm not work | don't work
+Q 3988 [gaps] Terry: {1} for a job?
+  {1} options: Are you looking | Do you look | Do you looking
+Q 3989 [gaps] Lisa: Yes. I {1} to find a job soon.
+  {1} options: need | 'm need | 'm needing
+
+=== PAGE /grammar-points/a1/present-simple-present-continuous/ | Present simple or present continuous? | level a1
+--- QUIZ 457
+CONTEXT:
+Exercise 2
+ Complete the following sentences choosing the correct present simple or present continuous forms.
+Q 3990 [radio] You can take the newspaper. I _____ it.
+ 5913) A. 'm not reading
+ 5914) B. don't read
+ 5915) C. 'm not read
+Q 3991 [radio] I _____ to work by car, but today I'm going by bus.
+ 5916) A. usually go
+ 5917) B. 'm usually going
+ 5918) C. usually going
+Q 3992 [radio] 'Where is John?' 'He _____ a shower.'
+ 5919) A. has
+ 5920) B. having
+ 5921) C. 's having
+Q 3993 [radio] I _____ exercise very often.
+ 5922) A. 'm not doing
+ 5923) B. don't do
+ 5924) C. 'm not do
+Q 3994 [radio] Can you hear that? Our neighbours _____.
+ 5925) A. argue
+ 5926) B. arguing
+ 5927) C. are arguing
+Q 3995 [radio] Our neighbours _____ almost every day.
+ 5928) A. argue
+ 5929) B. do argue
+ 5930) C. are arguing
+Q 3996 [radio] What time _____ work on Fridays?
+ 5931) A. is she start
+ 5932) B. does she start
+ 5933) C. is she starting
+Q 3997 [radio] I'm hungry. I _____ to eat something.
+ 5934) A. 'm wanting
+ 5935) B. 'm want
+ 5936) C. want
+Q 3998 [radio] 'Where is Jane?' 'In the living room. She___________ a movie.'
+ 5937) A. 's watching
+ 5938) B. watching
+ 5939) C. watches
+Q 3999 [radio] I _____________ TV when I'm having dinner.
+ 5940) A. 'm never watching
+ 5941) B. never watch
+ 5942) C. 'm never watch
+
+=== PAGE /grammar-points/a1/present-simple-present-continuous/ | Present simple or present continuous? | level a1
+--- QUIZ 458
+CONTEXT:
+Exercise 3
+ Complete the following postcard with the verbs in brackets in present simple or present continuous.
+Q 4000 [gaps] Dear Kate, /  I 1 {1} (write) from New York. This is my second year here. Can you believe it? Right now I 2 {2} (sit) in a coffee shop in Manhattan. Lots of business people 3 {3} (walk) fast in the street, and lots of tourists 4 {4} (look) at the amazing buildings around them.  /  This is a great city. Every morning, I 5 {5} (get up) early and I 6 {6} (go) for a run in Central Park. Then I 7 {7} (have) some coffee and bagels before going to work. Now I 8 {8} (have) a cappuccino and a bagel in a Starbucks near my office. I 9 {9} (love) my job, and I'm happy because my business 10 {10} (expand) very quickly.  /  I hope to see you soon.  /  Take care,  /  Sally.
+  {1} free text
+  {2} free text
+  {3} free text
+  {4} free text
+  {5} free text
+  {6} free text
+  {7} free text
+  {8} free text
+  {9} free text
+  {10} free text
+
+=== PAGE /grammar-points/a1/present-continuous/ | Present continuous: I’m doing, I’m not doing, Are you doing? | level a1
+--- QUIZ 453
+CONTEXT:
+Exercise 1
+ Write positive or negative sentences in present continuous using the verbs in brackets. Use Use short forms when possible.
+Q 3950 [gaps] He {1} (save) money because he wants to buy a car.
+  {1} free text
+Q 3951 [gaps] You {1} (not listen) to me.
+  {1} free text
+Q 3952 [gaps] My parents {1} (look) for a new apartment.
+  {1} free text
+Q 3953 [gaps] The victim {1} (not cooperate) with the police.
+  {1} free text
+Q 3954 [gaps] We {1} (plan) a trip to Japan.
+  {1} free text
+Q 3955 [gaps] I {1} (cook) fish for dinner.
+  {1} free text
+Q 3956 [gaps] The water {1} (boil). You can put the pasta now.
+  {1} free text
+Q 3957 [gaps] He {1} (not train) because he has health problems.
+  {1} free text
+Q 3958 [gaps] I {1} (not work) at present. I'm unemployed.
+  {1} free text
+Q 3959 [gaps] It {1} (not rain) now. We can go to the park.
+  {1} free text
+
+=== PAGE /grammar-points/a1/present-continuous/ | Present continuous: I’m doing, I’m not doing, Are you doing? | level a1
+--- QUIZ 454
+CONTEXT:
+Exercise 2
+ Write questions and short answers in present continuous with the words in brackets. Use Use short forms when possible.
+Q 3960 [gaps] A: {1} (you/cry)? / B: No, I {2} .
+  {1} free text
+  {2} free text
+Q 3961 [gaps] A: {1} (your father/recover) well after the operation? / B: Yes, he {2} .
+  {1} free text
+  {2} free text
+Q 3962 [gaps] A: {1} (they/try) to find a solution? / B: Yes, they {2} .
+  {1} free text
+  {2} free text
+Q 3963 [gaps] A: {1} (the baby/sleep)? / B: No, she {2} .
+  {1} free text
+  {2} free text
+Q 3964 [gaps] A: {1} (we/do) the right thing? / B: Yes, we {2} .
+  {1} free text
+  {2} free text
+Q 3965 [gaps] A: {1} (he/study) for his exams? / B: No, he {2} .
+  {1} free text
+  {2} free text
+Q 3966 [gaps] A: {1} (you eat) my pizza? / B: Yes, I {2} .
+  {1} free text
+  {2} free text
+Q 3967 [gaps] A: {1} (you/pay) by credit card? / B: No, I {2} .
+  {1} free text
+  {2} free text
+Q 3968 [gaps] A: {1} (they/win) the match? / B: Yes, they {2} .
+  {1} free text
+  {2} free text
+Q 3969 [gaps] A: {1} (Tom/run) in the race? / B: No, he {2} . He's here with me.
+  {1} free text
+  {2} free text
+
+=== PAGE /grammar-points/a1/present-continuous/ | Present continuous: I’m doing, I’m not doing, Are you doing? | level a1
+--- QUIZ 455
+CONTEXT:
+Exercise 3
+ Complete the dialogues with the verbs in brackets in present continuous. Use short forms when possible.
+Q 3970 [gaps] Suzan: Hi Mark. What {1} (you/do)?
+  {1} free text
+Q 3971 [gaps] Mark: I {1} (watch) TV.
+  {1} free text
+Q 3972 [gaps] Suzan: What {1} (you/watch)?
+  {1} free text
+Q 3973 [gaps] Mark: A football match. Liverpool {1} (play) against Manchester United.
+  {1} free text
+Q 3974 [gaps] Suzan: {1} (you/enjoy) it?
+  {1} free text
+Q 3975 [gaps] Mark: Yes, I {1} . It's a great match.
+  {1} free text
+Q 3976 [gaps] Suzan: {1} (your team/win)?
+  {1} free text
+Q 3977 [gaps] Mark: Yes! But what about you? What {1} (you/do)?
+  {1} free text
+Q 3978 [gaps] Suzan: I'm with Alice. We {1} (study) for our maths exam.
+  {1} free text
+Q 3979 [gaps] Mark: Well, I'm sure you {1} (not enjoy) maths. Do you want to take a break and come to my house?
+  {1} free text
+
+=== PAGE /grammar-points/a1/can-cant/ | Can, can’t: Ability, possibility, permission | level a1
+--- QUIZ 450
+CONTEXT:
+Exercise 1
+ Choose the correct option to complete the sentences.
+Q 3920 [gaps] {1} ask you a question?
+  {1} options: I can | Can I | Do I can
+Q 3921 [gaps] I {1} . The music is too loud.
+  {1} options: can't to hear | don't can hear | can't hear
+Q 3925 [gaps] 'Can you play the piano?' 'Yes, I {1} .'
+  {1} options: play | can | do
+Q 3922 [gaps] He {1} four languages.
+  {1} options: can speaks | can speak | cans speak
+Q 3923 [gaps] He says that he {1} me.
+  {1} options: can't helps | can't help | can't to help
+Q 3924 [gaps] {1} a ham and cheese pizza, please?
+  {1} options: Do I can have | Can I have | Can I to have
+Q 3926 [gaps] 'Can I smoke here?' 'No, you {1} .'
+  {1} options: don't | can't | aren't
+Q 3927 [gaps] We {1} use our phones in class.
+  {1} options: don't can | can't to | cannot
+Q 3928 [gaps] He {1} my car if he needs it.
+  {1} options: can use | cans use | can to use
+Q 3929 [gaps] {1} the window, please?
+  {1} options: Do you can open | Can you to open | Can you open
+
+=== PAGE /grammar-points/a1/can-cant/ | Can, can’t: Ability, possibility, permission | level a1
+--- QUIZ 451
+CONTEXT:
+Exercise 2
+ Write affirmative (+) and negative (-) sentences using can, can’t with the words below.
+Q 3930 [gaps] She / dance / very well. ⇒ She {1} .  (+)
+  {1} free text
+Q 3931 [gaps] I / finish / the composition for tomorrow. ⇒ I {1} for tomorrow.  (-)
+  {1} free text
+Q 3932 [gaps] You / park / your car here. ⇒ You {1} here.  (-)
+  {1} free text
+Q 3933 [gaps] Jim / come / to the concert with us. ⇒ Jim {1} with us.  (+)
+  {1} free text
+Q 3934 [gaps] She / meet / you at 7. ⇒ She {1} .  (-)
+  {1} free text
+Q 3935 [gaps] You / use / this app to view documents. ⇒ You {1} to view documents.   (+)
+  {1} free text
+Q 3936 [gaps] We / lose / this match. ⇒ We {1} .  (-)
+  {1} free text
+Q 3937 [gaps] They / understand / my decision. ⇒ They {1} .  (-)
+  {1} free text
+Q 3938 [gaps] She / stay / at my house tonight. ⇒ She {1} tonight.  (+)
+  {1} free text
+Q 3939 [gaps] You / see / the sea from the balcony. ⇒ You {1} from the balcony.  (-)
+  {1} free text
+
+=== PAGE /grammar-points/a1/can-cant/ | Can, can’t: Ability, possibility, permission | level a1
+--- QUIZ 452
+CONTEXT:
+Exercise 3
+ Complete this job interview with can, can’t and the words in brackets.
+Q 3940 [gaps] Interviewer: {1} (you/drive)?
+  {1} free text
+Q 3941 [gaps] Ann: Yes, I {1} . I have a driving license and a car.
+  {1} free text
+Q 3942 [gaps] Interviewer: {1} (you/accept) criticism?
+  {1} free text
+Q 3943 [gaps] Ann: I {1} (not accept) negative criticism, but I {2} (accept) constructive criticism.
+  {1} free text
+  {2} free text
+Q 3944 [gaps] Interviewer: {1} (you/use) the Microsoft Office Suite?
+  {1} free text
+Q 3945 [gaps] Ann: Yes, I {1} . I have a lot of experience using Word, Excel, and PowerPoint.
+  {1} free text
+Q 3946 [gaps] Interviewer: {1} (speak) German or French?
+  {1} free text
+Q 3947 [gaps] Ann: I {1} (speak) German very well, but I {2} (not speak) French very fluently.
+  {1} free text
+  {2} free text
+Q 3948 [gaps] Interviewer: When {1} (you/start)?
+  {1} free text
+Q 3949 [gaps] Ann: I {1} (be) here tomorrow morning if you want.
+  {1} free text
+
+=== PAGE /grammar-points/a1/adverbs-frequency/ | Adverbs of frequency with present simple | level a1
+--- QUIZ 447
+CONTEXT:
+Exercise 1
+ Order the following sentences, which contain adverbs of frequency.
+Q 3890 [radio] Which sentence is correct?
+ 7870) A. Our teacher is often late.
+ 7871) B. Our teacher often is late.
+ 7872) C. Is often our teacher late?
+ 7873) D. Often our teacher is late.
+Q 3891 [radio] Which sentence is correct?
+ 7874) A. Never we eat fast food.
+ 7875) B. We eat never fast food.
+ 7876) C. We eat fast food never.
+ 7877) D. We never eat fast food.
+Q 3892 [radio] Which sentence is correct?
+ 7878) A. My father doesn't hardly ever watch football on TV.
+ 7879) B. My father watches hardly ever football on TV.
+ 7880) C. My father watches football on TV hardly ever.
+ 7881) D. My father hardly ever watches football on TV.
+Q 3893 [radio] Which sentence is correct?
+ 7882) A. Do often you go to the cinema?
+ 7883) B. Do you often go to the cinema?
+ 7884) C. Do you go often to the cinema?
+ 7885) D. Do you go to the cinema often?
+Q 3894 [radio] Which sentence is correct?
+ 7886) A. He usually doesn't go to bed late.
+ 7887) B. He doesn't go to bed late usually.
+ 7888) C. He doesn't usually go to bed late.
+ 7889) D. Does he go usually late to bed?
+Q 3895 [radio] Which sentence is correct?
+ 7850) A. I every week have piano lessons.
+ 7851) B. I have every week piano lessons.
+ 7852) C. I have piano lessons every week.
+ 7853) D. I every week have piano lessons.
+Q 3896 [radio] Which sentence is correct?
+ 7854) A. They always are very tired after the match.
+ 7855) B. They are always very tired after the match.
+ 7856) C. They are very tired after the match always.
+ 7857) D. Always they are very tired after the match.
+Q 3897 [radio] Which sentence is correct?
+ 7858) A. We always have breakfast at home.
+ 7859) B. Always we have breakfast at home.
+ 7860) C. We have always breakfast at home.
+ 7861) D. We have breakfast at home always.
+Q 3898 [radio] Which sentence is correct?
+ 7862) A. She doesn't wear jeans often.
+ 7863) B. She often doesn't wear jeans.
+ 7864) C. Often she doesn't wear jeans.
+ 7865) D. She doesn't often wear jeans.
+Q 3899 [radio] Which sentence is correct?
+ 7866) A. Are you sometimes tired at the end of the class?
+ 7867) B. Are sometimes you tired at the end of the class?
+ 7868) C. Are you tired sometimes at the end of the class?
+ 7869) D. You are sometimes tired at the end of the class?
+
+=== PAGE /grammar-points/a1/adverbs-frequency/ | Adverbs of frequency with present simple | level a1
+--- QUIZ 448
+CONTEXT:
+Exercise 2
+ Choose the correct options to complete the sentences.
+Q 3900 [radio] Tom _____ to the radio.
+ 5883) A. never listens
+ 5884) B. doesn't never listen
+ 5885) C. never doesn't listen
+Q 3901 [radio] _____ in class on time?
+ 5886) A. Is always your teacher
+ 5887) B. Is your teacher always
+ 5888) C. Always is your teacher
+Q 3902 [radio] He _____ his homework.
+ 5889) A. hardly ever doesn't do
+ 5890) B. doesn't hardly ever do
+ 5891) C. hardly ever does
+Q 3903 [radio] He _____ to class.
+ 5892) A. doesn't always go
+ 5893) B. always doesn't go
+ 5894) C. doesn't go always
+Q 3904 [radio] Alice and Tom _____.
+ 5895) A. cook every day dinner
+ 5896) B. every day cook diner
+ 5897) C. cook dinner every day
+Q 3905 [radio] She _____ during dinner.
+ 5898) A. has hardly ever wine
+ 5899) B. hardly ever has wine
+ 5900) C. has wine hardly ever
+Q 3906 [radio] What time _____ at the weekend?
+ 5901) A. do you usually get up
+ 5902) B. usually do you get up
+ 5903) C. usually you get up
+Q 3907 [radio] We _____ our mistakes.
+ 5904) A. don't often admit
+ 5905) B. often don't admit
+ 5906) C. don't admit often
+Q 3908 [radio] Mark _____.
+ 5907) A. always is busy
+ 5908) B. is busy always
+ 5909) C. is always busy
+Q 3909 [radio] My brother _____.
+ 5910) A. reads comics sometimes
+ 5911) B. sometimes reads comics
+ 5912) C. reads sometimes comics
+
+=== PAGE /grammar-points/a1/adverbs-frequency/ | Adverbs of frequency with present simple | level a1
+--- QUIZ 449
+CONTEXT:
+Exercise 3
+ Rewrite the sentences using the adverbs of frequency or the expressions of frequency in the correct position.
+Q 3910 [gaps] She has a shower in the morning. (always) ⇒ She {1} .
+  {1} free text
+Q 3911 [gaps] Where do you go running? (usually) ⇒ Where {1} ?
+  {1} free text
+Q 3912 [gaps] She is full of energy. (always) ⇒ She {1} .
+  {1} free text
+Q 3914 [gaps] My parents approve of my friends. (hardly ever) ⇒ My parents {1} .
+  {1} free text
+Q 3918 [gaps] I listen to the radio. (every night) ⇒ I {1} .
+  {1} free text
+Q 3913 [gaps] He is strict with his students. (sometimes) ⇒ He {1} .
+  {1} free text
+Q 3915 [gaps] I don't ask for help when I need it. (usually) ⇒ I {1} when I need it.
+  {1} free text
+Q 3916 [gaps] He is late for school. (never) ⇒ He {1} .
+  {1} free text
+Q 3917 [gaps] You make mistakes. (often) ⇒ You {1} .
+  {1} free text
+Q 3919 [gaps] I meditate. (usually/twice a day) ⇒ I {1} .
+  {1} free text
+
+=== PAGE /grammar-points/a1/at-in-on-prepositions-of-place/ | At, in, on: Prepositions of place | level a1
+--- QUIZ 444
+CONTEXT:
+Exercise 1
+ Choose at, in, on to complete the sentences.
+Q 3860 [gaps] They are sitting {1} the table.
+  {1} options: in | at | on
+Q 3861 [gaps] I want to spend a year {1} Barcelona.
+  {1} options: on | in | at
+Q 3862 [gaps] The milk isn't {1} the fridge. Where is it?
+  {1} options: at | on | in
+Q 3863 [gaps] Is Peter's office {1} the first or the second floor?
+  {1} options: on | in | at
+Q 3864 [gaps] Why are all these clothes {1} the bed?
+  {1} options: at | on | in
+Q 3865 [gaps] Please, put the clothes {1} the wardrobe.
+  {1} options: at | in | on
+Q 3866 [gaps] Are you {1} home?
+  {1} options: at the | at | in the
+Q 3867 [gaps] I don't want to see her {1} the party tonight.
+  {1} options: at | on | in
+Q 3868 [gaps] I like the sea, but I prefer swimming {1} a swimming pool.
+  {1} options: in | at | on
+Q 3869 [gaps] Please, call me when you are {1} the bus.
+  {1} options: in | on | at
+
+=== PAGE /grammar-points/a1/at-in-on-prepositions-of-place/ | At, in, on: Prepositions of place | level a1
+--- QUIZ 445
+CONTEXT:
+Exercise 2
+ Choose the correct prepositions of place (at, in, on) to complete the sentences.
+Q 3870 [radio] The museum is _____ the end of the street.
+ 5853) A. at
+ 5854) B. in
+ 5855) C. on
+Q 3871 [radio] I study _____ the university of Toronto.
+ 5856) A. at
+ 5857) B. in
+ 5858) C. on
+Q 3872 [radio] This is the best film you can see _____ the cinema now.
+ 5859) A. at
+ 5860) B. in
+ 5861) C. on
+Q 3873 [radio] 'Where's Alice?' 'She's _____ the attic.'
+ 5862) A. at
+ 5863) B. in
+ 5864) C. on
+Q 3874 [radio] People are usually nervous on their first day _____ work.
+ 5865) A. at
+ 5866) B. in
+ 5867) C. on
+Q 3875 [radio] Can you give me the book _____ that shelf?
+ 5868) A. at
+ 5869) B. in
+ 5870) C. on
+Q 3876 [radio] It's the second door _____ the right.
+ 5871) A. at
+ 5872) B. in
+ 5873) C. on
+Q 3877 [radio] All the stories _____ the book are very special.
+ 5874) A. at
+ 5875) B. in
+ 5876) C. on
+Q 3878 [radio] We were _____ Australia last summer.
+ 5877) A. at
+ 5878) B. in
+ 5879) C. on
+Q 3879 [radio] I always read when I'm _____ the train.
+ 5880) A. at
+ 5881) B. in
+ 5882) C. on
+
+=== PAGE /grammar-points/a1/at-in-on-prepositions-of-place/ | At, in, on: Prepositions of place | level a1
+--- QUIZ 446
+CONTEXT:
+Exercise 3
+ Complete the sentences using the correct prepositions of place: at, in, on.
+Q 3880 [gaps] I'm {1} the greengrocer's. Do you need anything?
+  {1} free text
+Q 3881 [gaps] You left your keys {1} the sofa.
+  {1} free text
+Q 3882 [gaps] My daughter keeps her money {1} a piggy bank.
+  {1} free text
+Q 3883 [gaps] We want to have a picnic {1} the lake.
+  {1} free text
+Q 3884 [gaps] Who is that man {1} the window?
+  {1} free text
+Q 3885 [gaps] The cookies are {1} the jar.
+  {1} free text
+Q 3886 [gaps] I can't sleep {1} the bus.
+  {1} free text
+Q 3887 [gaps] The two main bedrooms are {1} the ground floor.
+  {1} free text
+Q 3888 [gaps] All the people {1} the room applauded.
+  {1} free text
+Q 3889 [gaps] Tourism {1} Europe is very important.
+  {1} free text
+
+=== PAGE /grammar-points/a1/at-in-on-prepositions-time/ | At, in, on: Prepositions of time | level a1
+--- QUIZ 441
+CONTEXT:
+Exercise 1
+ Choose at, in, on to complete the sentences.
+Q 3830 [gaps] See you {1} Friday.
+  {1} options: in | at | on
+Q 3831 [gaps] I brush my teeth {1} the morning.
+  {1} options: at | on | in
+Q 3832 [gaps] The match is {1} 4 o'clock.
+  {1} options: in | at | on
+Q 3833 [gaps] We have lunch {1} midday.
+  {1} options: in | at | on
+Q 3834 [gaps] I'm busy {1} the moment.
+  {1} options: on | at | in
+Q 3835 [gaps] My parents always visit me {1} my birthday.
+  {1} options: in | at | on
+Q 3836 [gaps] He was born {1} the 19th century
+  {1} options: in | on | at
+Q 3837 [gaps] He usually goes on holiday {1} July
+  {1} options: on | at | in
+Q 3838 [gaps] They always get together {1} Christmas.
+  {1} options: on | at | in
+Q 3839 [gaps] You can come {1} the weekend.
+  {1} options: in | at
+
+=== PAGE /grammar-points/a1/at-in-on-prepositions-time/ | At, in, on: Prepositions of time | level a1
+--- QUIZ 442
+CONTEXT:
+Exercise 2
+ Choose the correct prepositions of time (at, in, on) to complete the sentences.
+Q 3840 [radio] I have to meet the clients _____ lunchtime.
+ 5823) A. at
+ 5824) B. in
+ 5825) C. on
+Q 3841 [radio] This happened _____ the 80s.
+ 5826) A. at
+ 5827) B. in
+ 5828) C. on
+Q 3842 [radio] We want to go for a drink after the concert _____ Friday evening
+ 5829) A. at
+ 5830) B. in
+ 5831) C. on
+Q 3843 [radio] You can plant these flowers _____ the autumn.
+ 5850) A. at
+ 5851) B. in
+ 5852) C. on
+Q 3844 [radio] Is your neighbourhood quiet _____ night?
+ 5832) A. at
+ 5833) B. in
+ 5834) C. on
+Q 3845 [radio] I will retire _____ 2030.
+ 5835) A. at
+ 5836) B. in
+ 5837) C. on
+Q 3846 [radio] My birthday is _____ the 10th of January.
+ 5838) A. at
+ 5839) B. in
+ 5840) C. on
+Q 3847 [radio] I usually go to bed _____ midnight.
+ 5841) A. at
+ 5842) B. in
+ 5843) C. on
+Q 3848 [radio] I don't work _____ Christmas day.
+ 5844) A. at
+ 5845) B. in
+ 5846) C. on
+Q 3849 [radio] We usually stay home _____ Easter.
+ 5847) A. at
+ 5848) B. in
+ 5849) C. on
+
+=== PAGE /grammar-points/a1/at-in-on-prepositions-time/ | At, in, on: Prepositions of time | level a1
+--- QUIZ 443
+CONTEXT:
+Exercise 3
+ Complete the sentences using the correct prepositions of time: at, in, on.
+Q 3851 [gaps] Fish is a healthy option {1} dinnertime.
+  {1} free text
+Q 3850 [gaps] The interview is {1} 8 o'clock {2} Monday morning.
+  {1} free text
+  {2} free text
+Q 3852 [gaps] The snow melts {1} the spring.
+  {1} free text
+Q 3853 [gaps] Every year, I visit my parents {1} Thanksgiving Day.
+  {1} free text
+Q 3854 [gaps] {1} summer, we go fishing {2} weekends.
+  {1} free text
+  {2} free text
+Q 3855 [gaps] I'm unemployed {1} the moment.
+  {1} free text
+Q 3856 [gaps] Classes end {1} the 4th of July.
+  {1} free text
+Q 3857 [gaps] We don't know what will happen {1} the future.
+  {1} free text
+Q 3858 [gaps] You can visit us {1} June.
+  {1} free text
+Q 3859 [gaps] You need to raise your hand {1} the same time.
+  {1} free text
+
+=== PAGE /grammar-points/a1/whose-possessive-s/ | Whose, possessive ‘s: Whose is this? It’s Mike’s | level a1
+--- QUIZ 438
+CONTEXT:
+Exercise 1
+ Choose the correct option to complete the sentences.
+Q 3800 [gaps] George is {1} .
+  {1} options: the new boyfriend of my sister | my sisters' new boyfriend | my sister's new boyfriend
+Q 3801 [gaps] All {1} are broken.
+  {1} options: the boys toys | the boys' toys | the toys of the boys
+Q 3802 [gaps] The {1} are yellow.
+  {1} options: book's pages | books pages | pages of the book
+Q 3803 [gaps] This is {1} .
+  {1} options: Hellen's house | Hellens house | the house of Hellen
+Q 3804 [gaps] This is {1} .
+  {1} options: my dogs collar | the collar of my dog | my dog's collar
+Q 3805 [gaps] You need to clean {1} .
+  {1} options: the floor of the house | the floor's houses | the house's floor
+Q 3806 [gaps] These are {1} . (= One car belongs to Tom and another car to Jenny.)
+  {1} options: the cars of Tom and Jenny | Tom's and Jenny's cars | Tom and Jenny's cars
+Q 3807 [gaps] This is {1} . (=Two people have one car.)
+  {1} options: the car of Tom and Jenny | Tom and Jenny's car | Tom's and Jenny's car
+Q 3808 [gaps] {1} helps me with my homework.
+  {1} options: The friend of my mum | My mum's friend | My mums' friend
+Q 3809 [gaps] I need to paint {1} .
+  {1} options: the playroom of the children | the childrens' playroom | the children's playroom
+
+=== PAGE /grammar-points/a1/whose-possessive-s/ | Whose, possessive ‘s: Whose is this? It’s Mike’s | level a1
+--- QUIZ 439
+CONTEXT:
+Exercise 2
+ Choose the correct forms: whose, who’s possessive ‘s, etc.
+Q 3810 [radio] _____ picture is this?
+ 5793) A. Whose
+ 5794) B. Who's
+ 5795) C. Whos
+Q 3811 [radio] _____ is ill.
+ 5796) A. The father of Allan
+ 5797) B. Father's Edgar
+ 5798) C. Allan's father
+Q 3812 [radio] _____ that man at the table?
+ 5799) A. Whos
+ 5800) B. Who's
+ 5801) C. Whose
+Q 3813 [radio] The shop is at _____.
+ 5802) A. the end of the street
+ 5803) B. the street's end
+ 5804) C. the end's street
+Q 3814 [radio] _____ is very expensive.
+ 5805) A. New car's Lucy
+ 5806) B. Lucy's new car
+ 5807) C. The new car of Lucy
+Q 3815 [radio] I love _____.
+ 5808) A. the new book of Rowling
+ 5809) B. the new book's Rowling
+ 5810) C. Rowling's new book
+Q 3816 [radio] _____ is this absurd idea?
+ 5811) A. Who's
+ 5812) B. Whose
+ 5813) C. Whos'
+Q 3817 [radio] _____ the person in the photo?
+ 5814) A. Who's
+ 5815) B. Whos'
+ 5816) C. Whose
+Q 3818 [radio] In this school, 100% of _____ are recycled. All the students recycle their textbooks.
+ 5817) A. the textbooks' students
+ 5818) B. the students' textbooks
+ 5819) C. the student's textbooks
+Q 3819 [radio] _____ is next Sunday.
+ 5820) A. Sheila and Mike's wedding
+ 5821) B. Sheila's and Mike's wedding
+ 5822) C. the wedding of Sheila and Mike
+
+=== PAGE /grammar-points/a1/whose-possessive-s/ | Whose, possessive ‘s: Whose is this? It’s Mike’s | level a1
+--- QUIZ 440
+CONTEXT:
+Exercise 3
+ Rewrite the sentences using the possessive ‘s as in the example.
+ EXAMPLE: The box belongs to Jane. ⇒ It’s Jane’s box.
+Q 3820 [gaps] The balls belong to the players. ⇒ They are {1} .
+  {1} free text
+Q 3821 [gaps] The computer belongs to Sara. ⇒ It's {1} .
+  {1} free text
+Q 3823 [gaps] I hate the moustache that belongs to my brother. ⇒ I hate {1} .
+  {1} free text
+Q 3824 [gaps] This car belongs to Sam and Pam. ⇒ It's {1} .
+  {1} free text
+Q 3822 [gaps] The money belongs to the workers. ⇒ It's {1} .
+  {1} free text
+Q 3825 [gaps] These bikes belong to Mike and John (one bike to each person). ⇒ They are {1} .
+  {1} free text
+Q 3826 [gaps] These documents belong to the women. ⇒ They are {1} .
+  {1} free text
+Q 3827 [gaps] This glass belongs to Mathew. ⇒ It's {1} .
+  {1} free text
+Q 3828 [gaps] This award belongs to the actresses. ⇒ It's {1} .
+  {1} free text
+Q 3829 [gaps] This suitcase belongs to Kate and David. ⇒ It's {1} .
+  {1} free text
+
+=== PAGE /grammar-points/a1/questions/ | Questions: Word order and question words | level a1
+--- QUIZ 434
+CONTEXT:
+Exercise 1
+ Choose the correct questions.
+Q 3759 [radio] _____ to the gym?
+ 7810) A. How often you go
+ 7811) B. How often you do go
+ 7812) C. How often do you go
+ 7813) D. How often go you
+Q 3760 [radio] _____ ?
+ 7814) A. What time does she get up
+ 7815) B. What time she does get up
+ 7816) C. What time she gets up
+ 7817) D. What time gets up she
+Q 3761 [radio] _____ ?
+ 7818) A. Who is the man over there
+ 7819) B. Who the man over there is
+ 7820) C. Who the man is over there
+ 7821) D. Who over there is the man
+Q 3762 [radio] _____?
+ 7822) A. Where your sister is from
+ 7823) B. Where is your sister from
+ 7824) C. Where from is your sister
+ 7825) D. Where does your sister be from
+Q 3763 [radio] _____?
+ 7826) A. He does exercise
+ 7827) B. He does do exercise
+ 7828) C. Do he does exercise
+ 7829) D. Does he do exercise
+Q 3764 [radio] _____?
+ 7830) A. Why you do want this job
+ 7831) B. Why you want this job
+ 7832) C. Why do you want this job
+ 7833) D. Why want you this job
+Q 3765 [radio] _____ for breakfast?
+ 7834) A. What they have
+ 7835) B. What they do have
+ 7836) C. What do they have
+ 7837) D. What have they
+Q 3766 [radio] _____?
+ 7838) A. When you are free
+ 7839) B. When free are you
+ 7840) C. When do you be free
+ 7841) D. When are you free
+Q 3767 [radio] _____?
+ 7842) A. How your sister is old
+ 7843) B. How old is your sister
+ 7844) C. How old your sister is
+ 7845) D. How old does your sister be
+Q 3768 [radio] _____?
+ 7846) A. Is your friend from Canada
+ 7847) B. Is from Canada your friend
+ 7848) C. Your friend is from Canada
+ 7849) D. Does your friend be from Canada
+
+=== PAGE /grammar-points/a1/questions/ | Questions: Word order and question words | level a1
+--- QUIZ 435
+CONTEXT:
+Exercise 2
+ Complete the sentences with the correct question word.
+ what – what time – where (x2) – when – why – who – how (x2) – how old – how often
+ EXAMPLE: ‘What do you have for breakfast?’ ‘A sandwich.’
+Q 3769 [gaps] ' {1} do you buy your vegetables?' 'In the market.'
+  {1} free text
+Q 3770 [gaps] ' {1} is your father?' 'He's 57.'
+  {1} free text
+Q 3771 [gaps] ' {1} are you in the library?' 'Because I have an exam and I need to study.'
+  {1} free text
+Q 3772 [gaps] ' {1} do you have your exam?' 'Next Monday.'
+  {1} free text
+Q 3773 [gaps] ' {1} do they have their breakfast?' 'At 7.'
+  {1} free text
+Q 3774 [gaps] ' {1} do you call when you need help?' 'Peter.'
+  {1} free text
+Q 3775 [gaps] ' {1} does John call you?' 'Every day.'
+  {1} free text
+Q 3776 [gaps] ' {1} do you go to work?' 'By bus.'
+  {1} free text
+Q 3777 [gaps] ' {1} tall is Ronny?' 'He's six feet tall.'
+  {1} free text
+Q 3778 [gaps] ' {1} do you spend your holidays?' 'We always go to a little village near the sea.'
+  {1} free text
+
+=== PAGE /grammar-points/a1/questions/ | Questions: Word order and question words | level a1
+--- QUIZ 436
+CONTEXT:
+Exercise 3
+ Write questions about the underlined words. We give you the question word.
+ EXAMPLE: We are in Scotland. ⇒ Where are you?
+Q 3780 [gaps] She reads magazines. ⇒ What {1} ?
+  {1} free text
+Q 3781 [gaps] My birthday is on 10th April. ⇒ When {1} ?
+  {1} free text
+Q 3782 [gaps] She lives in a big house. ⇒ Where {1} ?
+  {1} free text
+Q 3783 [gaps] I study because I want to learn. ⇒ Why {1} ?
+  {1} free text
+Q 3784 [gaps] She is sometimes wrong. ⇒ How often {1} ?
+  {1} free text
+Q 3785 [gaps] I love Christina. ⇒ Who {1} ?
+  {1} free text
+Q 3786 [gaps] I keep the money in a safe.. ⇒ Where {1} ?
+  {1} free text
+Q 3787 [gaps] I'm tired because it's very late. ⇒ Why {1} ?
+  {1} free text
+Q 3788 [gaps] My doctor is Dr Stevens. ⇒ Who {1} ?
+  {1} free text
+Q 3789 [gaps] I clean the windows with water and vinegar. ⇒ How {1} ?
+  {1} free text
+
+=== PAGE /grammar-points/a1/questions/ | Questions: Word order and question words | level a1
+--- QUIZ 437
+CONTEXT:
+Exercise 4
+ Write questions about the underlined words. In the question, use the same verb as in the original sentence.
+ where (x2) – when (x2) – what colour – why – who – how – how old – how often (x2)
+ EXAMPLE: We are in Scotland. ⇒ Where are you?
+Q 3790 [gaps] He is sometimes late for class. ⇒ {1} ?
+  {1} free text
+Q 3791 [gaps] I go to the mountains in summer. ⇒ {1} ?
+  {1} free text
+Q 3795 [gaps] I go to the mountains in summer. ⇒ {1} ?
+  {1} free text
+Q 3792 [gaps] His car is red. ⇒ {1} ?
+  {1} free text
+Q 3793 [gaps] I am very tired after work. ⇒ {1} ?
+  {1} free text
+Q 3794 [gaps] I am very tired after work. ⇒ {1} ?
+  {1} free text
+Q 3796 [gaps] Jerry is 20 years old. {1} ?
+  {1} free text
+Q 3797 [gaps] He sees Sarah every weekend. ⇒ {1} ?
+  {1} free text
+Q 3798 [gaps] He sees Sarah every weekend. ⇒ {1} ?
+  {1} free text
+Q 3799 [gaps] I call her because I love her. ⇒ {1} ?
+  {1} free text
+
+=== PAGE /grammar-points/a1/present-simple/ | Present simple: I do, I don’t, Do I? | level a1
+--- QUIZ 430
+CONTEXT:
+Exercise 1
+ Choose the correct present simple forms to complete the following sentences.
+Q 3728 [gaps] I {1} tea.
+  {1} options: not drink | don't drink | drink not
+Q 3729 [gaps] She {1} two brothers.
+  {1} options: haves | have | has
+Q 3730 [gaps] Tom {1} work until 10 today.
+  {1} options: doesn't start | do not start | doesn't starts
+Q 3731 [gaps] {1} an instrument?
+  {1} options: You play | Do you play | You do play
+Q 3732 [gaps] The museum {1} at 10 o'clock.
+  {1} options: does open | open | opens
+Q 3733 [gaps] Peter and Megan often {1} to the cinema.
+  {1} options: go | do go | goes
+Q 3734 [gaps] John {1} very late.
+  {1} options: doesn't gets up | do not get up | doesn't get up
+Q 3735 [gaps] What time {1} home in the morning?
+  {1} options: they do leave | do they leave | they leave
+Q 3736 [gaps] What language {1} ?
+  {1} options: does he studies | does he study | do he studies
+Q 3737 [gaps] My son never {1} cartoons.
+  {1} options: watches | watch | watchs
+
+=== PAGE /grammar-points/a1/present-simple/ | Present simple: I do, I don’t, Do I? | level a1
+--- QUIZ 431
+CONTEXT:
+Exercise 2
+ Transform the following sentences into negatives.
+ EXAMPLE: I love pizza. ⇒ I don’t love pizza.
+Q 3738 [gaps] He is a student. ⇒ He {1} a student.
+  {1} free text
+Q 3739 [gaps] Peter works in an office. ⇒ Peter {1} in an office.
+  {1} free text
+Q 3740 [gaps] My parents live in Arizona. ⇒ My parents {1} in Arizona.
+  {1} free text
+Q 3741 [gaps] Suzan likes cats. ⇒ Suzan {1} cats.
+  {1} free text
+Q 3742 [gaps] He has brothers and sisters. ⇒ He {1} any brothers or sisters.
+  {1} free text
+Q 3743 [gaps] She speaks three languages. ⇒ She {1} three languages.
+  {1} free text
+Q 3744 [gaps] John and I want to be musicians. ⇒ John and I {1} to be musicians.
+  {1} free text
+Q 3745 [gaps] They play tennis. ⇒ They {1} tennis.
+  {1} free text
+Q 3746 [gaps] She gets home late. ⇒ She {1} home late.
+  {1} free text
+Q 3747 [gaps] Anna and Paul live in the center. ⇒ Anna and Paul {1} in the center.
+  {1} free text
+
+=== PAGE /grammar-points/a1/present-simple/ | Present simple: I do, I don’t, Do I? | level a1
+--- QUIZ 432
+CONTEXT:
+Exercise 3
+ Write questions in present simple.
+ EXAMPLE: Peter / drive / a fast car. ⇒ Does Peter drive a fast car?
+Q 3748 [gaps] Laura / play / tennis ⇒ {1} ?
+  {1} free text
+Q 3749 [gaps] you / speak / English ⇒ {1} ?
+  {1} free text
+Q 3750 [gaps] you / want / some coffee ⇒ {1} ?
+  {1} free text
+Q 3751 [gaps] Where / he / live ⇒ Where {1} ?
+  {1} free text
+Q 3752 [gaps] How often / they / go to the cinema ⇒ How often {1} ?
+  {1} free text
+Q 3753 [gaps] What time / Suzan / start work ⇒ What time {1} ?
+  {1} free text
+Q 3754 [gaps] Where / she / work ⇒ Where {1} ?
+  {1} free text
+Q 3755 [gaps] you / listen to music ⇒ {1} ?
+  {1} free text
+Q 3756 [gaps] he / watch / series ⇒ {1} ?
+  {1} free text
+Q 3757 [gaps] How often / they / travel ⇒ How often {1} ?
+  {1} free text
+
+=== PAGE /grammar-points/a1/present-simple/ | Present simple: I do, I don’t, Do I? | level a1
+--- QUIZ 433
+CONTEXT:
+Exercise 4
+ Fill in the gaps with the verbs in brackets in present simple affirmative or negative.
+Q 3758 [gaps] Sara is my daughter. She has (have) two daughters; they are my granddaughters. Sara 1 {1} (not have) much free time because she 2 {2} (work) in a shop. In the week, she 3 {3} (get up) very early and she 4 {4} (go) to bed quite late every day. She 5 {5} (love) Sundays because she 6 {6} (not work) and she 7 {7} (spend) the day with her family. On Sundays, they 8 {8} (not get up) very late because they always 9 {9} (go out). My granddaughters 10 {10} (be) always sad on Sunday evenings because it's the end of the weekend.
+  {1} free text
+  {2} free text
+  {3} free text
+  {4} free text
+  {5} free text
+  {6} free text
+  {7} free text
+  {8} free text
+  {9} free text
+  {10} free text
+
+=== PAGE /grammar-points/a1/adjectives/ | Adjectives: Old, interesting, expensive, etc. | level a1
+--- QUIZ 427
+CONTEXT:
+Exercise 1
+ Choose the correct forms with adjectives to complete the following sentences.
+Q 3696 [gaps] With this makeup, your eyes {1} .
+  {1} options: look different | different look | look differents
+Q 3697 [gaps] These are {1} .
+  {1} options: important documents | documents importants | documents important
+Q 3698 [gaps] {1} in their new house?
+  {1} options: Are happy they | Are they happy | Are they happies
+Q 3699 [gaps] He has {1} .
+  {1} options: a job interesting | an interesting job
+Q 3700 [gaps] Sit down. You {1} .
+  {1} options: look tired | tired look | smell tired
+Q 3701 [gaps] Our holidays {1} .
+  {1} options: fantastic are | are fantastic | are fantastics
+Q 3702 [gaps] John has problems at home. {1} ?
+  {1} options: Are goods his marks | Are his marks good | Are good his marks
+Q 3703 [gaps] Their project {1} .
+  {1} options: interesting looks | tastes interesting | sounds interesting
+Q 3704 [gaps] These cookies {1} .
+  {1} options: are excellent | are excellents | excellent are
+Q 3705 [gaps] Her eyes {1} .
+  {1} options: blue are | are blues | are blue
+
+=== PAGE /grammar-points/a1/adjectives/ | Adjectives: Old, interesting, expensive, etc. | level a1
+--- QUIZ 428
+CONTEXT:
+Exercise 2
+ Put the words in the correct order.
+Q 3706 [radio] Which is the correct order?
+ 7910) A. Your great idea is.
+ 7911) B. Your idea is great.
+ 7912) C. Great your idea is.
+ 7913) D. Your idea great is.
+Q 3707 [radio] Which is the correct order?
+ 7914) A. She an exceptional student is.
+ 7915) B. She is a student exceptional.
+ 7916) C. She is an exceptional student.
+ 7917) D. She a student exceptional is.
+Q 3708 [radio] Which is the correct order?
+ 7918) A. Is this shirt Italian?
+ 7919) B. Is Italian this shirt?
+ 7920) C. This shirt Italian is?
+ 7921) D. This shirt is Italian?
+Q 3709 [radio] Which is the correct order?
+ 7922) A. That restaurant very dirty is.
+ 7923) B. That is a restaurant very dirty.
+ 7924) C. Very dirty is that restaurant.
+ 7925) D. That restaurant is very dirty.
+Q 3710 [radio] Which is the correct order?
+ 7926) A. He a Korean car has.
+ 7927) B. He has a Korean car.
+ 7928) C. He has a car Korean.
+ 7929) D. A car Korean he has.
+Q 3711 [radio] Which is the correct order?
+ 7890) A. This is our restaurant favourite.
+ 7891) B. Our favourite restaurant is this.
+ 7892) C. Is this our restaurant favourite?
+ 7893) D. This is our favourite restaurant.
+Q 3713 [radio] Which is the correct order?
+ 7894) A. It's a building very modern.
+ 7895) B. It's a very modern building.
+ 7896) C. Very modern it's a building.
+ 7897) D. A building very modern is.
+Q 3714 [radio] Which is the correct order?
+ 7898) A. Are your friends German?
+ 7899) B. Are German your friends?
+ 7900) C. German are your friends?
+ 7901) D. Your friends are German?
+Q 3715 [radio] Which is the correct order?
+ 7902) A. This language difficult is.
+ 7903) B. A language difficult this is.
+ 7904) C. This is a difficult language.
+ 7905) D. This is a language difficult.
+Q 3716 [radio] Which is the correct order?
+ 7906) A. This language is difficult.
+ 7907) B. This language difficult is.
+ 7908) C. Is difficult this language?
+ 7909) D. This language is difficult?
+
+=== PAGE /grammar-points/a1/adjectives/ | Adjectives: Old, interesting, expensive, etc. | level a1
+--- QUIZ 429
+CONTEXT:
+Exercise 3
+ Complete the senteces using (a/an) adjective + noun or using be + adjective.
+ EXAMPLE: heavy / table ⇒ This table is heavy . It’s a heavy table.
+Q 3717 [gaps] exam / easy ⇒ This exam {1} . It's {2}
+  {1} free text
+  {2} free text
+Q 3718 [gaps] watch / old ⇒ This watch {1} . It's {2} .
+  {1} free text
+  {2} free text
+Q 3719 [gaps] exotic / countries ⇒ These countries {1} . They're {2} .
+  {1} free text
+  {2} free text
+Q 3720 [gaps] view / amazing ⇒ The view {1} . It's {2} .
+  {1} free text
+  {2} free text
+Q 3721 [gaps] difficult / situation ⇒ The situation {1} . It's {2} .
+  {1} free text
+  {2} free text
+Q 3722 [gaps] cars / fast ⇒ These cars {1} . They are {2} .
+  {1} free text
+  {2} free text
+Q 3723 [gaps] dangerous / city ⇒ It's {1} . This city {2} .
+  {1} free text
+  {2} free text
+Q 3724 [gaps] expensive / clothes ⇒ These clothes {1} . They're {2} .
+  {1} free text
+  {2} free text
+Q 3725 [gaps] man / strong ⇒ He's {1} . This man {2}
+  {1} free text
+  {2} free text
+Q 3726 [gaps] box / empty ⇒ This box {1} . It's {2}
+  {1} free text
+  {2} free text

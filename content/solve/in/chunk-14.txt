@@ -1,0 +1,2060 @@
+=== PAGE /grammar-points/a1/a-an-plurals/ | A/an, plurals: Singular and plural forms | level a1
+--- QUIZ 424
+CONTEXT:
+Exercise 1
+ Choose a/an for the following words.
+Q 3666 [gaps] It's {1} animal.
+  {1} options: an | a
+Q 3667 [gaps] I need {1} new bed.
+  {1} options: a | an
+Q 3668 [gaps] It's {1} useful machine.
+  {1} options: an | a
+Q 3669 [gaps] I'm {1} waiter.
+  {1} options: a | an
+Q 3670 [gaps] Do you have {1} umbrella?
+  {1} options: a | an
+Q 3671 [gaps] I'm {1} English teacher.
+  {1} options: an | a
+Q 3672 [gaps] I need {1} hat.
+  {1} options: a | an
+Q 3673 [gaps] Is she {1} student?
+  {1} options: a | an
+Q 3674 [gaps] We have {1} ugly duck.
+  {1} options: a | an
+Q 3675 [gaps] I need {1} hour.
+  {1} options: a | an
+
+=== PAGE /grammar-points/a1/a-an-plurals/ | A/an, plurals: Singular and plural forms | level a1
+--- QUIZ 425
+CONTEXT:
+Exercise 2
+ Write the plurals of the following singular words.
+ EXAMPLE: A nice sofa ⇒ nice sofas
+Q 3676 [gaps] a university ⇒ {1}
+  {1} free text
+Q 3677 [gaps] a sandwich ⇒ {1}
+  {1} free text
+Q 3678 [gaps] a street ⇒ {1}
+  {1} free text
+Q 3679 [gaps] a rich man ⇒ rich {1}
+  {1} free text
+Q 3680 [gaps] one foot ⇒ two {1}
+  {1} free text
+Q 3681 [gaps] a dirty bag ⇒ dirty {1}
+  {1} free text
+Q 3682 [gaps] an expensive watch ⇒ expensive {1}
+  {1} free text
+Q 3683 [gaps] a new phone ⇒ new {1}
+  {1} free text
+Q 3684 [gaps] a nice photograph ⇒ nice {1}
+  {1} free text
+Q 3685 [gaps] One glass of wine ⇒ two {1} of wine
+  {1} free text
+
+=== PAGE /grammar-points/a1/a-an-plurals/ | A/an, plurals: Singular and plural forms | level a1
+--- QUIZ 426
+CONTEXT:
+Exercise 3
+ Write a/an before the singular words and write the plural forms.
+ EXAMPLE: An olive ⇒ olives
+Q 3686 [gaps] {1} bus ⇒ {2}
+  {1} free text
+  {2} free text
+Q 3687 [gaps] {1} nice family ⇒ nice {2}
+  {1} free text
+  {2} free text
+Q 3688 [gaps] {1} Italian child ⇒ Italian {2}
+  {1} free text
+  {2} free text
+Q 3689 [gaps] {1} strong tooth ⇒ strong {2}
+  {1} free text
+  {2} free text
+Q 3690 [gaps] {1} nice dress ⇒ nice {2}
+  {1} free text
+  {2} free text
+Q 3691 [gaps] {1} angry wife ⇒ angry {2}
+  {1} free text
+  {2} free text
+Q 3692 [gaps] {1} uniform ⇒ {2}
+  {1} free text
+  {2} free text
+Q 3693 [gaps] {1} amazing website ⇒ amazing {2}
+  {1} free text
+  {2} free text
+Q 3694 [gaps] {1} elephant ⇒ {2}
+  {1} free text
+  {2} free text
+Q 3695 [gaps] {1} empty library ⇒ empty {2}
+  {1} free text
+  {2} free text
+
+=== PAGE /grammar-points/a1/possessive-adjectives/ | Possessive adjectives and subject pronouns (I/my, you/your, etc.) | level a1
+--- QUIZ 421
+CONTEXT:
+Exercise 1
+ Choose the correct subject pronouns or possessive adjectives to complete the sentences.
+Q 3636 [gaps] Harry is {1} friend. {2} has a nice house.
+  {1} options: my | I
+  {2} options: His | He
+Q 3637 [gaps] {1} are very happy with {2} new dog.
+  {1} options: They | Their
+  {2} options: they | their
+Q 3638 [gaps] We love {1} little dog.
+  {1} options: we | our
+Q 3639 [gaps] {1} wants {2} breakfast.
+  {1} options: He | His
+  {2} options: he | his
+Q 3640 [gaps] We want to see {1} children.
+  {1} options: our | ours
+Q 3641 [gaps] Scotland is famous for {1} rainy weather.
+  {1} options: its | it's
+Q 3642 [gaps] Susan lives on {1} street. {2} house is very near.
+  {1} options: my | I
+  {2} options: His | Her
+Q 3643 [gaps] 'What are those?' ' {1} postcards.'
+  {1} options: They are | It is
+Q 3644 [gaps] I like this place and {1} special atmosphere.
+  {1} options: its | it's
+Q 3645 [gaps] I love this place. {1} very special.
+  {1} options: Its | It's
+
+=== PAGE /grammar-points/a1/possessive-adjectives/ | Possessive adjectives and subject pronouns (I/my, you/your, etc.) | level a1
+--- QUIZ 422
+CONTEXT:
+Exercise 2
+ Choose the correct subject pronouns or possessive adjectives to complete the following sentences.
+Q 3646 [radio] Go to _____ office.
+ 5763) A. you
+ 5764) B. your
+ 5765) C. yours
+Q 3657 [radio] _____ six o'clock. Let's go home.
+ 5766) A. It's
+ 5767) B. Its
+ 5768) C. His
+Q 3658 [radio] Our products are famous for _____ durability.
+ 5769) A. their
+ 5770) B. its
+ 5771) C. they
+Q 3659 [radio] I'm very happy about _____ marks.
+ 5772) A. you
+ 5773) B. your
+ 5774) C. yours
+Q 3660 [radio] Valeria is from Italy, but _____ 's in Ireland now.
+ 5775) A. his
+ 5776) B. her
+ 5777) C. she
+Q 3661 [radio] These are my friends. _____ from Finland.
+ 5778) A. Their
+ 5779) B. They're
+ 5780) C. They
+Q 3662 [radio] The apartment has _____ own private garden.
+ 5781) A. it's
+ 5782) B. its
+ 5783) C. his
+Q 3663 [radio] Are _____ umbrellas here?
+ 5784) A. we
+ 5785) B. ours
+ 5786) C. our
+Q 3664 [radio] Mark and Linda are in _____ caravan.
+ 5787) A. they
+ 5788) B. their
+ 5789) C. its
+Q 3665 [radio] I need _____ tools, please.
+ 5790) A. your
+ 5791) B. you
+ 5792) C. yours
+
+=== PAGE /grammar-points/a1/possessive-adjectives/ | Possessive adjectives and subject pronouns (I/my, you/your, etc.) | level a1
+--- QUIZ 423
+CONTEXT:
+Exercise 3
+ Fill in the gaps with the correct possessive adjectives: my, your, his, her, its, our, their.
+Q 3647 [gaps] Sally is in {1} room.
+  {1} free text
+Q 3648 [gaps] Paul and Benet always help {1} friends.
+  {1} free text
+Q 3649 [gaps] We live with {1} parents.
+  {1} free text
+Q 3650 [gaps] Is that {1} hat?
+  {1} free text
+Q 3651 [gaps] The police officers don't have {1} guns.
+  {1} free text
+Q 3655 [gaps] The best part of this car is {1} price.
+  {1} free text
+Q 3652 [gaps] Amanda lives with {1} parents.
+  {1} free text
+Q 3653 [gaps] I don't like {1} new job.
+  {1} free text
+Q 3654 [gaps] These shoes are famous for {1} comfort.
+  {1} free text
+Q 3656 [gaps] Thomas is in {1} office.
+  {1} free text
+
+=== PAGE /grammar-points/a1/this-that-these-those/ | This, that, these, those | level a1
+--- QUIZ 418
+CONTEXT:
+Exercise 1
+ Complete the sentences with this, that, these, those.
+Q 3605 [gaps] {1} are my trousers.
+  {1} options: This | These
+Q 3606 [gaps] 'Hi, Chris. {1} is my friend Jona.' 'Hi, Jona. Nice to meet you.'
+  {1} options: That | This
+Q 3607 [gaps] Look at {1} birds in the sky.
+  {1} options: these | those
+Q 3608 [gaps] 'What are {1} ?' 'They are my books.'
+  {1} options: that | those
+Q 3609 [gaps] Is {1} hotel nice?
+  {1} options: those | that
+Q 3610 [gaps] Are {1} your friends?
+  {1} options: these | this
+Q 3611 [gaps] Who is {1} man over there?
+  {1} options: this | that
+Q 3612 [gaps] Isn't {1} your friend Erik?
+  {1} options: these | this
+Q 3613 [gaps] Why are {1} boxes here?
+  {1} options: those | these
+Q 3614 [gaps] {1} are my glasses.
+  {1} options: That | These
+
+=== PAGE /grammar-points/a1/this-that-these-those/ | This, that, these, those | level a1
+--- QUIZ 419
+CONTEXT:
+Exercise 2
+ Choose this, that, these, those to complete the following sentences.
+Q 3616 [radio] 'What's _____?' 'It's a calculator.'
+ 5743) A. this
+ 5744) B. these
+Q 3617 [radio] ______ are John and Teresa.
+ 5745) A. This
+ 5746) B. These
+Q 3618 [radio] Hi, Richard, _____ is Julia. (On the phone)
+ 5747) A. this
+ 5748) B. that
+Q 3619 [radio] Look at _____ cloud. It's very strange.
+ 5749) A. this
+ 5750) B. that
+Q 3620 [radio] 'What are _____?' 'They are little cakes.'
+ 5751) A. that
+ 5752) B. those
+Q 3621 [radio] _____ are my keys.
+ 5753) A. That
+ 5754) B. Those
+Q 3622 [radio] Is _____ your mother?
+ 5755) A. this
+ 5756) B. these
+Q 3623 [radio] What is in _____ box over there?
+ 5757) A. this
+ 5758) B. that
+Q 3624 [radio] _____ is my hand!
+ 5759) A. This
+ 5760) B. That
+Q 3625 [radio] _____ are my cats.
+ 5761) A. this
+ 5762) B. those
+
+=== PAGE /grammar-points/a1/this-that-these-those/ | This, that, these, those | level a1
+--- QUIZ 420
+CONTEXT:
+Exercise 3
+ Transform singular sentences into plural sentences and plural sentences into singular sentences using this, that, these, those and other missing words.
+ EXAMPLE: These are my books ⇒ This is my book.
+Q 3626 [gaps] This is a flower ⇒ {1} flowers.
+  {1} free text
+Q 3627 [gaps] That is a box. ⇒ {1} boxes.
+  {1} free text
+Q 3628 [gaps] That is my father. ⇒ {1} my parents.
+  {1} free text
+Q 3629 [gaps] Are those your friends? ⇒ {1} your friend?
+  {1} free text
+Q 3630 [gaps] What are those things? ⇒ What {1} thing?
+  {1} free text
+Q 3631 [gaps] These documents are important. ⇒ {1} important.
+  {1} free text
+Q 3632 [gaps] Are these your shoes? ⇒ {1} your shoe?
+  {1} free text
+Q 3633 [gaps] That's a good car. ⇒ {1} good cars.
+  {1} free text
+Q 3634 [gaps] This is John. ⇒ {1} John and Carla.
+  {1} free text
+Q 3635 [gaps] These are cheap computers. ⇒ {1} a cheap computer.
+  {1} free text
+
+=== PAGE /grammar-points/a2/reported-speech-indirect-speech/ | Reported speech / Indirect speech | level a2
+--- QUIZ 414
+CONTEXT:
+Exercise 1
+ Choose say/said or tell/told to complete the following sentences in reported speech.
+Q 3553 [gaps] He {1} me that he didn't have enough money.
+  {1} options: told | said
+Q 3554 [gaps] I {1} the waiter the soup was cold.
+  {1} options: said | told
+Q 3555 [gaps] Everybody {1} that I had been great.
+  {1} options: said | told
+Q 3556 [gaps] She {1} I was her favourite student.
+  {1} options: said | told
+Q 3557 [gaps] Victor {1} he would change the windows.
+  {1} options: told | said
+Q 3558 [gaps] I {1} the doctor I didn't want to take any medicine.
+  {1} options: told | said
+Q 3559 [gaps] They didn't {1} me anything.
+  {1} options: tell | say
+Q 3560 [gaps] She {1} she worked in a factory.
+  {1} options: said | told
+Q 3561 [gaps] Who {1} you that they wouldn't come?
+  {1} options: said | told
+Q 3562 [gaps] They {1} there was a problem.
+  {1} options: told | said
+
+=== PAGE /grammar-points/a2/reported-speech-indirect-speech/ | Reported speech / Indirect speech | level a2
+--- QUIZ 415
+CONTEXT:
+Exercise 2
+ Choose the correct reported speech forms to complete the sentences below.
+Q 3563 [radio] 'I'm really tired' ⇒ She said that she _____ really tired.
+ 5713) A. is
+ 5714) B. has been
+ 5715) C. was
+Q 3564 [radio] 'I don't want any trouble.' ⇒ He told me he _____ any trouble.
+ 5716) A. didn't want
+ 5717) B. hasn't wanted
+ 5718) C. hadn't wanted
+Q 3565 [radio] 'I'll be at home all afternoon.' ⇒ She said she _____ at home all afternoon.
+ 5719) A. was
+ 5720) B. 'd be
+ 5721) C. 'd been
+Q 3566 [radio] 'I love my family.' ⇒ He told me that _____ loved _____ family.
+ 5722) A. I / my
+ 5723) B. you / your
+ 5724) C. he / his
+Q 3567 [radio] 'I haven't seen Tom.' ⇒ She told me she _____ Tom.
+ 5725) A. hadn't seen
+ 5726) B. haven't seen
+ 5727) C. didn't see
+Q 3568 [radio] 'You have my phone.' ⇒ The man said that _____ had _____ phone.
+ 5734) A. you / his
+ 5735) B. I / your
+ 5736) C. I / his
+Q 3569 [radio] 'I'm trying to concentrate.' ⇒ She said that she _____ to concentrate.
+ 5728) A. was trying
+ 5729) B. tried
+ 5730) C. tries
+Q 3570 [radio] 'I didn't steal any money.' ⇒ The thief said that he _____ any money.
+ 5731) A. hadn't stolen
+ 5732) B. didn't steal
+ 5733) C. hasn't stolen
+Q 3571 [radio] 'I can lend you the money' ⇒ She told me she _____ me the money.
+ 5737) A. can lend
+ 5738) B. could lend
+ 5739) C. lent
+Q 3572 [radio] 'I won't call you again.' ⇒ She told me she _____ again.
+ 5740) A. wouldn't call you
+ 5741) B. didn't call me
+ 5742) C. wouldn't call me
+
+=== PAGE /grammar-points/a2/reported-speech-indirect-speech/ | Reported speech / Indirect speech | level a2
+--- QUIZ 416
+CONTEXT:
+Exercise 3
+ Rewrite the sentences in reported speech, changing the verb tenses and the pronouns appropriately.
+Q 3573 [gaps] 'My sister isn't well.' ⇒ She said that {1} .
+  {1} free text
+Q 3574 [gaps] 'I called you.' ⇒ He said that {1} .
+  {1} free text
+Q 3575 [gaps] 'I won't come back.' ⇒ She told me that {1} .
+  {1} free text
+Q 3576 [gaps] 'I've found a wallet.' ⇒ He said that {1}
+  {1} free text
+Q 3577 [gaps] 'I don't like fish.' ⇒ He told me that {1} .
+  {1} free text
+Q 3578 [gaps] 'I'm looking for a job.' ⇒ She told me that {1} .
+  {1} free text
+Q 3579 [gaps] 'You must show me your passport.' ⇒ She told me that {1} .
+  {1} free text
+Q 3580 [gaps] 'I'll call you soon.' ⇒ He told me that {1} .
+  {1} free text
+Q 3582 [gaps] 'I'm not feeling well.' ⇒ She said that {1} .
+  {1} free text
+Q 3583 [gaps] 'You took my car.' ⇒ She said that {1} .
+  {1} free text
+
+=== PAGE /grammar-points/a2/past-perfect/ | Past perfect | level a2
+--- QUIZ 411
+CONTEXT:
+Exercise 1
+ Read the order in which the events happened and then choose between the past simple or past perfect forms to complete the sentences.
+Q 3523 [gaps] First, I wrote a letter. Second, I showed him the letter. ⇒ I showed him a letter that I {1} .
+  {1} options: 'd written | wrote
+Q 3526 [gaps] First, I wrote a letter. Second, I showed him the letter. ⇒ I wrote a letter and a few days later I {1} it to him.
+  {1} options: 'd shown | showed
+Q 3524 [gaps] First, I looked through the window. Second, it started raining. ⇒ When I looked through the window, it {1} raining.
+  {1} options: had started | started
+Q 3525 [gaps] First, it rained. Second, I looked through the window. ⇒ When I looked through the window, it {1} .
+  {1} options: had rained | rained
+Q 3527 [gaps] First I had dinner. Second, you called. ⇒ When you called, I {1} dinner.
+  {1} options: 'd had | had
+Q 3528 [gaps] First you called. Second, I had dinner. ⇒ When you called, I {1} dinner.
+  {1} options: had | 'd had
+Q 3529 [gaps] First, she bought a T-shirt in the sales. Second, she gave it to me. ⇒ She bought a T-shirt in the sales and {1} it to me as a birthday present.
+  {1} options: gave | had given
+Q 3530 [gaps] First, she bought a T-shirt in the sales. Second, she gave it to me. ⇒ She gave me a T-shirt that she {1} in the sales.
+  {1} options: bought | had bought
+Q 3531 [gaps] First, the teacher arrived. Second, I finished my composition. ⇒ When the teacher arrived, I {1} my composition.
+  {1} options: 'd finished | finished
+Q 3532 [gaps] First, I finished the composition. Second, the teacher arrived. ⇒ When the teacher arrived, I {1} my composition.
+  {1} options: 'd finished | finished
+
+=== PAGE /grammar-points/a2/past-perfect/ | Past perfect | level a2
+--- QUIZ 412
+CONTEXT:
+Exercise 2
+ Choose the correct past simple or past perfect forms to complete the sentences below.
+Q 3533 [radio] Mum was angry because when I sat down to watch TV, I _____ my dinner.
+ 5683) A. hadn't finished
+ 5684) B. didn't finish
+ 5685) C. hadn't finish
+Q 3534 [radio] I couldn't open the door because I _____ the keys at work.
+ 5686) A. 'd forget
+ 5687) B. 'd forgotten
+ 5688) C. forgot
+Q 3535 [radio] When Rita travelled to France, she_____ the Louvre.
+ 5689) A. 'd visited
+ 5690) B. 'd visit
+ 5691) C. visited
+Q 3536 [radio] There were no cookies in the cookie jar. Somebody _____ them all.
+ 5692) A. had eaten
+ 5693) B. 'd eat
+ 5694) C. ate
+Q 3537 [radio] I saw some cookies in the cookie jar and I _____ them all.
+ 5695) A. 'd eaten
+ 5696) B. 'd eat
+ 5697) C. ate
+Q 3539 [radio] I locked the door and then I _____ home.
+ 5701) A. 'd left
+ 5702) B. left
+ 5703) C. 'd leave
+Q 3538 [radio] When I got home I saw that I _____ the door.
+ 5698) A. hadn't locked
+ 5699) B. hadn't lock
+ 5700) C. didn't lock
+Q 3540 [radio] The house was dirty because nobody _____ it.
+ 5704) A. 'd clean
+ 5705) B. had cleaned
+ 5706) C. cleaned
+Q 3541 [radio] She gave me back my book because she _____ reading it.
+ 5707) A. 'd finish
+ 5708) B. 'd finished
+ 5709) C. finished
+Q 3542 [radio] When she finished the book, she _____ it back to me.
+ 5710) A. 'd given
+ 5711) B. 'd give
+ 5712) C. gave
+
+=== PAGE /grammar-points/a2/past-perfect/ | Past perfect | level a2
+--- QUIZ 413
+CONTEXT:
+Exercise 3
+ Complete the sentences using the words in brackets in the past simple or past perfect.
+Q 3543 [gaps] I was worried because Jim {1} (not call) yet.
+  {1} free text
+Q 3544 [gaps] I was so worried that I {1} (call) Jim.
+  {1} free text
+Q 3545 [gaps] I couldn't find the trousers that I {1} (buy) in Camden market.
+  {1} free text
+Q 3546 [gaps] I couldn't find my favourite trousers so I {1} (decide) to wear a skirt.
+  {1} free text
+Q 3548 [gaps] I lied to them and they {1} (get) furious.
+  {1} free text
+Q 3547 [gaps] They were angry, but why? {1} (I/make) a terrible mistake?
+  {1} free text
+Q 3549 [gaps] John asked me if I {1} (see) his dog.
+  {1} free text
+Q 3550 [gaps] John didn't have his dog. Apparently the dog {1} (run) away during some fireworks.
+  {1} free text
+Q 3551 [gaps] I couldn't find the keys. Where {1} (I/put) them?
+  {1} free text
+Q 3552 [gaps] My boss was upset, so I {1} (try) to talk to him.
+  {1} free text
+
+=== PAGE /grammar-points/a2/so-neither/ | So, neither: So am I, neither do I, etc. | level a2
+--- QUIZ 408
+CONTEXT:
+Exercise 1
+ Choose the correct forms with so, neither, too, either to complete the sentences below.
+Q 3492 [gaps] A: 'I haven't written the essay yet.'  B: 'Neither {1} I.'
+  {1} options: haven't | do | have
+Q 3499 [gaps] A: 'I'm very thirsty.'  B: ' {1} .'
+  {1} options: So am I | Too I am | So do I
+Q 3498 [gaps] A: 'Sam won't help us.'  B: 'Neither {1} .
+  {1} options: won't Scotty | will Scotty | does Scotty
+Q 3500 [gaps] A: 'I can't forgive them for what happened.'  B: 'I can't forgive them {1} .'
+  {1} options: neither | either | too
+Q 3501 [gaps] A: 'I drink too much coffee.'  B: ' {1} .'
+  {1} options: So do I | Neither do I | So am I
+Q 3502 [gaps] A: 'Mum was very proud of us.'  B: 'And {1} .'
+  {1} options: so dad was | too was dad | so was dad
+Q 3503 [gaps] Ann will be there and so {1} .
+  {1} options: her sister will | will her sister | is her sister
+Q 3504 [gaps] A: 'You didn't tell the truth.'  B: 'Nor {1} .'
+  {1} options: didn't you | you did | did you
+Q 3505 [gaps] A: 'I watched the match in a pub.'  B: 'So {1} .'
+  {1} options: I did | did I | was I
+Q 3506 [gaps] A: 'I would really like to go.'  B: ' {1} .'
+  {1} options: So did I | Neither would I | So would I
+
+=== PAGE /grammar-points/a2/so-neither/ | So, neither: So am I, neither do I, etc. | level a2
+--- QUIZ 409
+CONTEXT:
+Exercise 2
+ Choose the correct forms with so, neither, too, either to complete the sentences below.
+Q 3493 [radio] A: 'I can't go to the presentation.' B: '_____ .'
+ 5649) A. Neither can't I
+ 5650) B. Neither can I
+ 5651) C. So can I
+Q 3508 [checkbox, pick 2] A: 'I'm not going out tonight.'    B: '_____.'   Choose TWO correct answers
+ 5667) A. Neither I am
+ 5668) B. Neither am I
+ 5669) C. I am either
+ 5670) D. I'm not going out either
+Q 3494 [radio] A: 'I haven't got time.'  B: 'Neither _____.'
+ 5652) A. have I
+ 5653) B. I have
+ 5654) C. do I
+Q 3495 [checkbox, pick 2] A: ‘I went for a run this morning.’ B: ‘_____ .’ Choose TWO correct answers
+ 5655) A. So did I
+ 5656) B. So am I
+ 5657) C. So was I
+ 5682) D. I went for a run too
+Q 3496 [radio] A: 'I never go to the cinema.'  B: '______.'
+ 5658) A. Neither do I
+ 5659) B. Neither am I
+ 5660) C. So am I
+Q 3497 [radio] A: 'Sophia isn't coming with us.'  B: 'And _____.'
+ 5661) A. so isn't Emily
+ 5662) B. neither is Emily
+ 5663) C. either isn't Emily
+Q 3507 [radio] A: 'I want some pizza.'  B: '_____.'
+ 5664) A. So do I
+ 5665) B. Neither do I
+ 5666) C. So I do
+Q 3509 [checkbox, pick 2] A: 'I wasn't scared.' B: '_____.' Choose TWO correct answers
+ 5671) A. Neither was I
+ 5672) B. Neither wasn't I
+ 5673) C. I was scared either
+ 5674) D. I wasn't scared either
+Q 3510 [radio] A: 'I thought it was difficult.'  B: '_____.'
+ 5675) A. Neither did I
+ 5676) B. So I did
+ 5677) C. So did I
+Q 3511 [checkbox, pick 2] A: 'I didn't enjoy the concert.'  B: '_____.' Choose TWO correct answers
+ 5678) A. So didn't I
+ 5679) B. Neither didn't I
+ 5680) C. Neither did I
+ 5681) D. I didn't enjoy it either.
+
+=== PAGE /grammar-points/a2/so-neither/ | So, neither: So am I, neither do I, etc. | level a2
+--- QUIZ 410
+CONTEXT:
+Exercise 3
+ Complete the sentences using so, neither and the words in brackets with the correct auxiliary.
+ EXAMPLE: ‘Michael didn’t play very well’ ‘Neither did James. (James)
+Q 3512 [gaps] 'My phone doesn't work very well.' ' {1} (mine).'
+  {1} free text
+Q 3513 [gaps] 'Emily has passed the exam.' ' {1} (Victor).'
+  {1} free text
+Q 3514 [gaps] 'I live in the city center.' ' {1} (my parents).'
+  {1} free text
+Q 3515 [gaps] 'We went camping last summer.' ' {1} (we).'
+  {1} free text
+Q 3516 [gaps] 'Sofia wasn't very inspired by the teacher.'  ' {1} (Nic).'
+  {1} free text
+Q 3517 [gaps] James didn't say "hello" when he saw us and {1} (Daniel).
+  {1} free text
+Q 3518 [gaps] 'I'm working this weekend.' ' {1} (I).'
+  {1} free text
+Q 3519 [gaps] Ellen should apologise and {1} (you).
+  {1} free text
+Q 3520 [gaps] I won't accept your apology and {1} (my wife).
+  {1} free text
+Q 3521 [gaps] 'I'm not really worried.' ' {1} (I).'
+  {1} free text
+
+=== PAGE /grammar-points/a2/prepositions-of-movement/ | Prepositions of movement: Along, across, over, etc. | level a2
+--- QUIZ 405
+CONTEXT:
+Exercise 1
+ Use the correct prepositions of movement to complete the sentences below.
+Q 3462 [gaps] I flew from San Francisco {1} Zurich with Swiss International Air Lines.
+  {1} options: into | to | from
+Q 3463 [gaps] Every morning I get {1} my bicycle and go to school.
+  {1} options: over | on | in
+Q 3465 [gaps] The cat was on the table; then it jumped {1} the table.
+  {1} options: down | out of | off
+Q 3464 [gaps] We got {1} the car and ran {2} the building.
+  {1} options: off | out of | down
+  {2} options: across | into | on
+Q 3466 [gaps] He fell {1} his motorbike when he was riding very fast.
+  {1} options: below | down | off
+Q 3467 [gaps] The elevator didn't work and we had to walk {1} the stairs to the 15th floor.
+  {1} options: past | over | up
+Q 3468 [gaps] He escaped {1} a door in the back of the building.
+  {1} options: into | across | through
+Q 3469 [gaps] We took a boat {1} the river.
+  {1} options: across | towards | through
+Q 3470 [gaps] The robber broke his leg when he tried to jump {1} a wall.
+  {1} options: through | over | towards
+Q 3471 [gaps] He took the phone and threw it {1} the water.
+  {1} options: under | into | on
+
+=== PAGE /grammar-points/a2/prepositions-of-movement/ | Prepositions of movement: Along, across, over, etc. | level a2
+--- QUIZ 406
+CONTEXT:
+Exercise 2
+ Complete the sentences below using the correct prepositions of movement.
+Q 3472 [radio] When he walked _____ me, he pretended he didn't know me.
+ 5619) A. along
+ 5620) B. through
+ 5621) C. past
+Q 3473 [radio] When he came _____ the sauna, he was sweating a lot.
+ 5622) A. out of
+ 5623) B. off
+ 5624) C. to
+Q 3474 [radio] Walk _____ the yellow line to reach the maternity unit.
+ 5625) A. over
+ 5626) B. into
+ 5627) C. along
+Q 3475 [radio] Many people risk their lives to travel _____ the Mexico-United States border.
+ 5628) A. over
+ 5629) B. past
+ 5630) C. across
+Q 3476 [radio] He threw the ball _____ the fence and it landed on the roof of a car.
+ 5631) A. over
+ 5632) B. up
+ 5633) C. into
+Q 3477 [radio] Salmons swim _____ rivers to lay their eggs.
+ 5634) A. across
+ 5635) B. up
+ 5636) C. over
+Q 3478 [radio] I'm coming _____ the hospital. The doctor has prescribed me some pills.
+ 5637) A. to
+ 5638) B. off
+ 5639) C. from
+Q 3479 [radio] He went _____ the room, walked _____ the big table and turned on the TV.
+ 5640) A. on/across
+ 5641) B. out of/over
+ 5642) C. into/around
+Q 3480 [radio] The cat ran _____ the bed to find refuge.
+ 5643) A. over
+ 5644) B. under
+ 5645) C. into
+Q 3481 [radio] He saw a wasp flying _____ him and ran away.
+ 5646) A. towards
+ 5647) B. into
+ 5648) C. off
+
+=== PAGE /grammar-points/a2/prepositions-of-movement/ | Prepositions of movement: Along, across, over, etc. | level a2
+--- QUIZ 407
+CONTEXT:
+Exercise 3
+ Complete each sentence using the appropriate preposition in the box.
+ across – along – down – from – into – off – out of – over – to – towards – through – up
+ EXAMPLE: When they saw the bull, they got really scared and they ran down the hill really fast.
+Q 3482 [gaps] He jumped from one side of the rock to the other side of the rock. ⇒ He jumped {1} the rock.
+  {1} free text
+Q 3483 [gaps] They ran from one side of the street to the other side of the street. ⇒ They ran {1} the street.
+  {1} free text
+Q 3484 [gaps] The car was going in the direction of the bridge. ⇒ The car was going {1} the bridge.
+  {1} free text
+Q 3488 [gaps] They ran in the trees, from one end to the other end. ⇒ They ran {1} the trees.
+  {1} free text
+Q 3485 [gaps] He took a towel and went inside the bathroom. ⇒ He took a towel and went {1} the bathroom.
+  {1} free text
+Q 3486 [gaps] We walked following the line of the main street. ⇒ We walked {1} the main street.
+  {1} free text
+Q 3487 [gaps] We rode our bikes from a lower position to a higher position on the mountain. ⇒ We rode our bikes {1} the mountain.
+  {1} free text
+Q 3489 [gaps] He was on the stage and then he went away from the stage. ⇒ He went {1} the stage.
+  {1} free text
+Q 3490 [gaps] When she came from the interior of the office to the exterior of the office, she looked upset. ⇒ When she came {1} the office, she looked upset.
+  {1} free text
+Q 3491 [gaps] The place where I'm going to start walking is the gym and my destination is work. ⇒ I'm going to walk {1} the gym {2} work.
+  {1} free text
+  {2} free text
+
+=== PAGE /grammar-points/a2/might-might-not/ | Might, might not: Possibility | level a2
+--- QUIZ 403
+CONTEXT:
+Exercise 1
+ Rewrite the sentences on the right using might, might not.
+ EXAMPLE: Maybe I will not be there. ⇒ I might not be there.
+Q 3441 [gaps] It's possible that I will come tomorrow. ⇒ I {1} tomorrow.
+  {1} free text
+Q 3442 [gaps] Perhaps she doesn't know the truth ⇒ She {1} the truth.
+  {1} free text
+Q 3443 [gaps] Maybe we will have to cancel the wedding. ⇒ We {1} the wedding.
+  {1} free text
+Q 3444 [gaps] Perhaps they will call you for an interview. ⇒ They {1} you for an interview.
+  {1} free text
+Q 3445 [gaps] Perhaps they won't say anything. ⇒ They {1} anything.
+  {1} free text
+Q 3446 [gaps] Perhaps I will never see Karen again. ⇒ I {1} Karen again.
+  {1} free text
+Q 3447 [gaps] It's possible that I will go to Italy next month. ⇒ I {1} to Italy next month.
+  {1} free text
+Q 3448 [gaps] Perhaps she isn't at the office. ⇒ She {1} at the office.
+  {1} free text
+Q 3449 [gaps] Maybe they won't like this solution. ⇒ They {1} this solution.
+  {1} free text
+Q 3450 [gaps] It's possible that my sister will lend me the money. ⇒ My sister {1} the money.
+  {1} free text
+
+=== PAGE /grammar-points/a2/might-might-not/ | Might, might not: Possibility | level a2
+--- QUIZ 402
+CONTEXT:
+Exercise 2
+ Click on the right option for each sentence.
+Q 5008 [radio] Take some water with you.
+ 7710) A. We might be late.
+ 7711) B. I might not go to the party tonight.
+ 7712) C. She might be stuck in traffic.
+ 7713) D. You might get dehydrated.
+ 7714) E. There is a new restaurant we want to try.
+Q 5009 [radio] Don't wait for us.
+ 7715) A. We might be late.
+ 7716) B. I might not go to the party tonight.
+ 7717) C. She might be stuck in traffic.
+ 7718) D. You might get dehydrated.
+ 7719) E. There is a new restaurant we want to try.
+Q 5010 [radio] We might eat out today.
+ 7720) A. We might be late.
+ 7721) B. I might not go to the party tonight.
+ 7722) C. She might be stuck in traffic.
+ 7723) D. You might get dehydrated.
+ 7724) E. There is a new restaurant we want to try.
+Q 5011 [radio] Sally isn't at work yet.
+ 7725) A. We might be late.
+ 7726) B. I might not go to the party tonight.
+ 7727) C. She might be stuck in traffic.
+ 7728) D. You might get dehydrated.
+ 7729) E. There is a new restaurant we want to try.
+Q 5012 [radio] I'm really tired and I need to rest.
+ 7730) A. We might be late.
+ 7731) B. I might not go to the party tonight.
+ 7732) C. She might be stuck in traffic.
+ 7733) D. You might get dehydrated.
+ 7734) E. There is a new restaurant we want to try.
+Q 5013 [radio] If you don't get up early,
+ 7735) A. I may not watch it.
+ 7736) B. You might cut yourself.
+ 7737) C. They might be brothers.
+ 7738) D. He might not have his phone.
+ 7739) E. you might miss your plane.
+Q 5014 [radio] He looks like Jonah.
+ 7740) A. I may not watch it.
+ 7741) B. You might cut yourself.
+ 7742) C. They might be brothers.
+ 7743) D. He might not have his phone.
+ 7744) E. you might miss your plane.
+Q 5015 [radio] Be careful with those scissors.
+ 7745) A. I may not watch it.
+ 7746) B. You might cut yourself.
+ 7747) C. They might be brothers.
+ 7748) D. He might not have his phone.
+ 7749) E. you might miss your plane.
+Q 5016 [radio] He isn't answering.
+ 7750) A. I may not watch it.
+ 7751) B. You might cut yourself.
+ 7752) C. They might be brothers.
+ 7753) D. He might not have his phone.
+ 7754) E. you might miss your plane.
+Q 5017 [radio] They say the film is not very good.
+ 7755) A. I may not watch it.
+ 7756) B. You might cut yourself.
+ 7757) C. They might be brothers.
+ 7758) D. He might not have his phone.
+ 7759) E. you might miss your plane.
+
+=== PAGE /grammar-points/a2/might-might-not/ | Might, might not: Possibility | level a2
+--- QUIZ 404
+CONTEXT:
+Exercise 3
+ Complete each sentence using might, might not and one of the verbs in the box.
+ be – get – go – have – like – play – spend – rain – remember – stay – win
+ EXAMPLE: The food isn’t very good. You might not like it.
+Q 3451 [gaps] 'Where are you going next summer?' 'We don't have any money, so we {1} anywhere.
+  {1} free text
+Q 3452 [gaps] 'Collin isn't at home.' 'He {1} in his office.'
+  {1} free text
+Q 3453 [gaps] He's trained very hard. I think he {1} the competition.
+  {1} free text
+Q 3454 [gaps] 'Why hasn't Nick called him?' 'He {1} his number.'
+  {1} free text
+Q 3455 [gaps] If you don't take a map, you {1} lost.
+  {1} free text
+Q 3457 [gaps] I don't feel like going out. I think I {1} at home.
+  {1} free text
+Q 3456 [gaps] She {1} what happened because she hit her head very hard.
+  {1} free text
+Q 3458 [gaps] Look at those clouds. It {1} this afternoon.
+  {1} free text
+Q 3460 [gaps] If it doesn't rain, I {1} tennis tomorrow.
+  {1} free text
+Q 3461 [gaps] He said he {1} the money he won on a new car.
+  {1} free text
+
+=== PAGE /grammar-points/a2/used-to/ | Used to, didn’t use to: Past habits and states | level a2
+--- QUIZ 399
+CONTEXT:
+Exercise 1
+ Choose the correct forms to complete the sentences below.
+Q 3417 [gaps] What music {1} to like when you were a child?
+  {1} options: did you use | did you used | used you
+Q 3418 [gaps] I {1} listen to music when I was a child.
+  {1} options: didn't use to | didn't used to | usedn't to
+Q 3419 [gaps] We {1} to the cinema at weekends.
+  {1} options: don't use to go | use to go | usually go
+Q 3420 [gaps] They {1} in the country, but now they live in the city
+  {1} options: used to live | used to living | use to live
+Q 3421 [gaps] I {1} the cake you made me last week.
+  {1} options: loved | didn't use to love | used to love
+Q 3422 [gaps] {1} have long hair when you were younger?
+  {1} options: Did you use to | Did you used to | Used you to
+Q 3423 [gaps] She {1} very tall when she was in school.
+  {1} options: didn't use to be | used not to be | didn't used to be
+Q 3424 [gaps] I {1} to bed very late on Fridays and Saturdays.
+  {1} options: normally go | don't use to go | use to go
+Q 3425 [gaps] Robert {1} in a band.
+  {1} options: used to play | use to play | used to playing
+Q 3426 [gaps] I {1} my right arm in a skiing accident when I was 21.
+  {1} options: used to break | broke | use to break
+
+=== PAGE /grammar-points/a2/used-to/ | Used to, didn’t use to: Past habits and states | level a2
+--- QUIZ 400
+CONTEXT:
+Exercise 2
+ Complete the following sentences about how things used to be 50 years ago. Fill in the gaps with the correct form of used to and the words in brackets.
+Q 3428 [gaps] Not too many people {1} (live) in the cities.
+  {1} free text
+Q 3429 [gaps] Salaries {1} (be) much lower.
+  {1} free text
+Q 3436 [gaps] People {1} (not buy) so much stuff.
+  {1} free text
+Q 3430 [gaps] People {1} (not get) divorced.
+  {1} free text
+Q 3432 [gaps] People {1} (not eat) so much processed food; their diet was healthier.
+  {1} free text
+Q 3431 [gaps] People {1} (have) more children and at a younger age.
+  {1} free text
+Q 3433 [gaps] People {1} (not travel) so often, or they just didn't travel at all.
+  {1} free text
+Q 3434 [gaps] People {1} (write) letters because they didn't have computers.
+  {1} free text
+Q 3435 [gaps] People {1} (not live) together before getting married.
+  {1} free text
+Q 3437 [gaps] Families {1} (be) closer and more connected than they are today.
+  {1} free text
+
+=== PAGE /grammar-points/a2/used-to/ | Used to, didn’t use to: Past habits and states | level a2
+--- QUIZ 401
+CONTEXT:
+Exercise 3
+ Complete the text with used to, didn’t use to, did … to and the words in brackets.
+Q 3427 [gaps] INTERVIEWER: What 1 {1} (you/be) like when you were a child? /  SALLY: I remember I 2 {2} (wear) very thick glasses, and I 3 {3} (be) quite short and uncoordinated. To be honest, I 4 {4} (not like) myself very much. However, I'd say I had a very happy childhood. /  INTERVIEWER: What 5 {5} (you/do) for fun? /  SALLY: Oh, I have great memories. We 6 {6} (not have) phones or technology of any kind and the streets 7 {7} (be) safer than now, so we 8 {8} (play) outdoors all the time. /  INTERVIEWER: 9 {9} (you/get) good marks in school? /  SALLY: Yes, I 10 {10} (study) very hard.
+  {1} free text
+  {2} free text
+  {3} free text
+  {4} free text
+  {5} free text
+  {6} free text
+  {7} free text
+  {8} free text
+  {9} free text
+  {10} free text
+
+=== PAGE /grammar-points/a2/present-past-simple-passive/ | Present and past simple passive: ‘be’ + past participle | level a2
+--- QUIZ 396
+CONTEXT:
+Exercise 1
+ Choose the correct present and past simple passive or active forms to complete the following text
+Q 3396 [gaps] The earliest credible evidence of coffee-drinking 1 {1} in the middle of the 15th century in Yemen. It was here in Arabia that roasted coffee seeds 2 {2} for the first time. Coffee 3 {3} then in a very similar way to how we 4 {4} it in the present day. Coffee 5 {5} by Sufi circles to stay awake for their religious rituals. /  In the 16th century, coffee 6 {6} the rest of the Middle East, Persia, Turkey, and northern Africa. And not long after that, coffee 7 {7} to Italy and to the rest of Europe, and to the Americas. /  In Europe, coffee 8 {8} in Venice first, and from Venice, it 9 {9} to the rest of Europe. Coffee became more widely accepted after Pope Clement VIII 10 {10} that it was a Christian beverage in 1600; many people wanted to ban coffee because they said it was a "Muslim drink". The first European coffee house opened in Rome in 1645. /  Adapted from Wikipedia
+  {1} options: appears | is appeared
+  {2} options: boiled | were boiled
+  {3} options: prepared | was prepared
+  {4} options: are prepared | prepare
+  {5} options: used | was used
+  {6} options: reached | was reached
+  {7} options: was exported | exported
+  {8} options: was arrived | arrived
+  {9} options: introduced | was introduced
+  {10} options: was said | said
+
+=== PAGE /grammar-points/a2/present-past-simple-passive/ | Present and past simple passive: ‘be’ + past participle | level a2
+--- QUIZ 397
+CONTEXT:
+Exercise 2
+ Choose the correct present and past simple passive or active forms to complete the sentences below.
+Q 3397 [radio] Mayan _____ in many regions in Guatemala and southern Mexico.
+ 5578) A. speaks
+ 5579) B. is spoke
+ 5580) C. is spoken
+Q 3398 [radio] The match _____ by 4.1 million people.
+ 5581) A. was watched
+ 5582) B. was watch
+ 5583) C. watched
+Q 3399 [radio] Manchego cheese _____ in La Mancha, Spain.
+ 5584) A. produced
+ 5585) B. is produced
+ 5586) C. produces
+Q 3400 [radio] The authorities _____ them about the incident.
+ 5587) A. informed
+ 5588) B. were informed
+ 5589) C. were inform
+Q 3401 [radio] Who _____ this novel?
+ 5590) A. was written
+ 5591) B. wrote
+ 5592) C. did write
+Q 3402 [radio] A lot of celebrities _____ to the party.
+ 5593) A. invited
+ 5594) B. were invited
+ 5595) C. were invite
+Q 3403 [radio] It's important that residents _____ the water for three minutes before drinking it.
+ 5596) A. are boiled
+ 5597) B. were boiled
+ 5598) C. boil
+Q 3404 [radio] A rare species of insect _____ in the Amazon Rain Forest last year.
+ 5599) A. was discovered
+ 5600) B. discovered
+ 5601) C. was discover
+Q 3405 [radio] More than 1,500 passengers died when the Titanic _____.
+ 5602) A. was sunk
+ 5603) B. sank
+ 5604) C. was sink
+Q 3406 [radio] Alcohol _____ to minors or to people who are intoxicated.
+ 5605) A. doesn't sell
+ 5606) B. isn't sold
+ 5607) C. sells
+
+=== PAGE /grammar-points/a2/present-past-simple-passive/ | Present and past simple passive: ‘be’ + past participle | level a2
+--- QUIZ 398
+CONTEXT:
+Exercise 3
+ Transform the following active sentences into passive sentences without by.
+Q 3407 [gaps] Somebody found him in the South of Spain ⇒ He {1} in the South of Spain.
+  {1} free text
+Q 3409 [gaps] Did anyone lock the door last night? ⇒ {1} last night?
+  {1} free text
+Q 3410 [gaps] They paint the house every five years. ⇒ {1} every five years.
+  {1} free text
+Q 3411 [gaps] They made the robot with three sensors.  ⇒ {1} with three sensors.
+  {1} free text
+Q 3408 [gaps] Someone found my keys in the street. ⇒ {1} in the street.
+  {1} free text
+Q 3412 [gaps] Someone injured two police officers during the incident. ⇒ {1} during the incident.
+  {1} free text
+Q 3413 [gaps] They postponed the match because of the rain. ⇒ {1} because of the rain.
+  {1} free text
+Q 3414 [gaps] They teach students to show respect. ⇒ {1} to show respect.
+  {1} free text
+Q 3415 [gaps] The major operators sell the mobile phones. ⇒ {1} by the major operators.
+  {1} free text
+Q 3416 [gaps] They learn something new every day. ⇒ {1} every day.
+  {1} free text
+
+=== PAGE /grammar-points/a2/second-conditional/ | Second conditional | level a2
+--- QUIZ 393
+CONTEXT:
+Exercise 1
+ Choose the correct forms to complete the second conditional sentences below. But be careful; there is ONE first conditional sentence, too.
+Q 3366 [gaps] If I {1} more money, I'd travel more.
+  {1} options: would have | had | have
+Q 3367 [gaps] What would you do if you {1} a lot of money in the street?
+  {1} options: find | 'd find | found
+Q 3368 [gaps] A lot of health problems could be prevented if people {1} better.
+  {1} options: ate | would eat | eat
+Q 3369 [gaps] If I had her number, I {1} her; but I don't have it.
+  {1} options: called | 'd call | call
+Q 3370 [gaps] Our kids would be happier if we {1} in the country.
+  {1} options: live | 'd live | lived
+Q 3371 [gaps] If you lend me the money, I {1} you back before the end of the month.
+  {1} options: 'll pay | 'd pay | paid
+Q 3372 [gaps] If it didn't rain, I {1} to work.
+  {1} options: always cycled | 'd always cycle | 'll always cycle
+Q 3373 [gaps] I'd get a big tattoo on my back if my parents {1} me to do it.
+  {1} options: would allow | allowed | allow
+Q 3374 [gaps] I wouldn't drink that milk if I {1} you.
+  {1} options: was | 'd be | were
+Q 3375 [gaps] You wouldn't have so many accidents if you {1} more carefully.
+  {1} options: drove | drive | 'd drive
+
+=== PAGE /grammar-points/a2/second-conditional/ | Second conditional | level a2
+--- QUIZ 394
+CONTEXT:
+Exercise 2
+ Choose the correct forms to complete the second conditional sentences below. But be careful; there is ONE first conditional sentence, too.
+Q 3376 [radio] If there was a fire in this building, it _____ impossible to escape.
+ 5548) A. 'd be
+ 5549) B. 'll be
+ 5550) C. was
+Q 3377 [radio] I'd have a car if I _____ in the city.
+ 5551) A. 'd live
+ 5552) B. live
+ 5553) C. lived
+Q 3378 [radio] If I _____ more free time, I'd go to the gym every day.
+ 5554) A. 'd have
+ 5555) B. had
+ 5556) C. have
+Q 3379 [radio] If you were more responsible, maybe your parents _____ you to do more things.
+ 5557) A. allowed
+ 5558) B. would allow
+ 5559) C. will allow
+Q 3380 [radio] If you sold your wedding ring, you _____ a lot of money for it.
+ 5560) A. could get
+ 5561) B. 'll get
+ 5562) C. got
+Q 3381 [radio] I _____ here if I wasn't interested in what you are offering.
+ 5563) A. wasn't
+ 5564) B. wouldn't be
+ 5565) C. won't be
+Q 3382 [radio] I don't know the answer. If I knew the answer, I _____ you.
+ 5566) A. 'd tell
+ 5567) B. 'll tell
+ 5568) C. told
+Q 3383 [radio] I'm sure if you _____ the manager, you'd take better decisions.
+ 5569) A. were
+ 5570) B. 'd be
+ 5571) C. are
+Q 3384 [radio] You _____ rich if every person in this country gave you one dollar.
+ 5572) A. were
+ 5573) B. 'll be
+ 5574) C. 'd be
+Q 3385 [radio] If there is any news, I _____ you immediately.
+ 5575) A. 'd inform
+ 5576) B. 'll inform
+ 5577) C. informed
+
+=== PAGE /grammar-points/a2/second-conditional/ | Second conditional | level a2
+--- QUIZ 395
+CONTEXT:
+Exercise 3
+ Complete the following second conditional setences with the verbs in brackets in the correct form. Use would/’d or would not/wouldn’t/’d not + verb in the main clauses.
+Q 3386 [gaps] If John was here, he {1} (know) what to do.
+  {1} free text
+Q 3387 [gaps] I wouldn't work here if I {1} (not enjoy) my job.
+  {1} free text
+Q 3389 [gaps] It's too bad that you don't speak French. If you {1} (speak) French, you {2} (get) the job at the hotel.
+  {1} free text
+  {2} free text
+Q 3388 [gaps] If he {1} (know) the truth, he {2} (kill) you.
+  {1} free text
+  {2} free text
+Q 3390 [gaps] Where would you travel if you {1} (be) rich?
+  {1} free text
+Q 3391 [gaps] I'm sorry, I can't go out. I'd go out if I {1} (not have) this terrible headache.
+  {1} free text
+Q 3392 [gaps] I {1} (not have) a cat if I {2} (not like) animals.
+  {1} free text
+  {2} free text
+Q 3393 [gaps] If I {1} (learn) Japanese, I {2} (try) to find a job in Japan.
+  {1} free text
+  {2} free text
+Q 3394 [gaps] If he {1} (be) a nice person, he {2} (not treat) people so badly.
+  {1} free text
+  {2} free text
+Q 3395 [gaps] I {1} (not go) to that hotel if I {2} (be) you.
+  {1} free text
+  {2} free text
+
+=== PAGE /grammar-points/a2/subject-pronouns-object-pronouns-possessive-pronouns-possessive-adjectives/ | Subject and object pronouns, possessive pronouns and adjectives | level a2
+--- QUIZ 390
+CONTEXT:
+Exercise 1
+ Choose the correct subject pronouns, object pronouns, possessive pronouns, possessive adjectives to complete the sentences below.
+Q 3345 [gaps] Look at this picture. These are my daughters. {1} names are Jane and Laura.
+  {1} options: Them | Their | Theirs
+Q 3346 [gaps] John was born in Bristol, but {1} father was born in Manchester.
+  {1} options: him | your | his
+Q 3347 [gaps] I want to go to a Rihanna concert. I really like {1} .
+  {1} options: hers | her | she
+Q 3348 [gaps] I don't have my mobile phone. Can I use {1} ?
+  {1} options: you | your | yours
+Q 3349 [gaps] We need help. Can you help {1} ?
+  {1} options: we | us | our
+Q 3350 [gaps] Carla and Ned have a really nice car. I love {1} car.
+  {1} options: their | them | theirs
+Q 3351 [gaps] This T-shirt is not mine. Is it {1} ?
+  {1} options: you | yours | your
+Q 3352 [gaps] I am going to see the Rolling Stones. Do you like {1} ?
+  {1} options: their | them | they
+Q 3353 [gaps] We live in a nice house, but {1} neighbours are horrible!
+  {1} options: us | ours | our
+Q 3354 [gaps] I miss my parents. I want to send {1} a postcard.
+  {1} options: they | them | their
+
+=== PAGE /grammar-points/a2/subject-pronouns-object-pronouns-possessive-pronouns-possessive-adjectives/ | Subject and object pronouns, possessive pronouns and adjectives | level a2
+--- QUIZ 391
+CONTEXT:
+Exercise 2
+ Choose the correct subject pronouns, object pronouns, possessive pronouns, possessive adjectives to complete the sentences below.
+Q 3355 [radio] "Do you like pop music?" "No, I don't really like _____."
+ 5521) A. its
+ 5522) B. it
+ 5523) C. her
+Q 3356 [radio] I hate peaches. _____ taste horrible!
+ 5518) A. They
+ 5519) B. Them
+ 5520) C. It
+Q 3357 [radio] Look, Sally is there. I want to ask _____ if she wants to go out tonight.
+ 5524) A. she
+ 5525) B. hers
+ 5526) C. her
+Q 3358 [radio] I never eat sweets. I don't like _____.
+ 5527) A. it
+ 5528) B. their
+ 5529) C. them
+Q 3359 [radio] Ted is a good person. Stop criticising _____!
+ 5530) A. him
+ 5531) B. he
+ 5532) C. his
+Q 3360 [radio] This is not your shoe. It's _____.
+ 5533) A. she
+ 5534) B. her
+ 5535) C. hers
+Q 3361 [radio] "Whose medicines are these?" "They are not _____. Ask Sally, maybe they are _____"
+ 5536) A. me/hers
+ 5537) B. mine/hers
+ 5538) C. my/hers
+Q 3362 [radio] Go away! I hate _____!
+ 5539) A. you
+ 5540) B. yours
+ 5541) C. your
+Q 3363 [radio] You can ask Fred for money. _____ is very generous.
+ 5542) A. He
+ 5543) B. Him
+ 5544) C. His
+Q 3364 [radio] I can't use _____ mobile phone. I think _____ is broken.
+ 5545) A. mine/it
+ 5546) B. my/its
+ 5547) C. my/it
+
+=== PAGE /grammar-points/a2/subject-pronouns-object-pronouns-possessive-pronouns-possessive-adjectives/ | Subject and object pronouns, possessive pronouns and adjectives | level a2
+--- QUIZ 392
+CONTEXT:
+Exercise 3
+ Fill in the gaps with the subject pronouns, object pronouns, possessive pronouns, and possessive adjectives from the box.
+ her – it – its – our – she – them – they – you – you – your – we
+Q 3365 [gaps] Dear James, /  Thanks for 1 {1} email. It was very nice to have news from 2 {2} . I was very happy to hear that you are finally getting married to Maria. It's perfect! I think you will make 3 {3} very happy and 4 {4} will make you very happy, too. /  How did your parents react when you gave 5 {5} the news? Aren't 6 {6} excited? I'm sure they are really happy. I'm really looking forward to seeing you all at the wedding. /  By the way, do you remember that I wanted a tortoise? I already have one. 7 {7} name is Green. Sara and I saw 8 {8} in a pet shop and 9 {9} decided to buy the little thing right away. We are so happy with 10 {10} new pet!  /  Well, I hope to see you soon, James. Please call me if you need any help. /  Love, /  Samuel.
+  {1} free text
+  {2} free text
+  {3} free text
+  {4} free text
+  {5} free text
+  {6} free text
+  {7} free text
+  {8} free text
+  {9} free text
+  {10} free text
+
+=== PAGE /grammar-points/a2/first-conditional-future-time-clauses/ | First conditional and future time clauses | level a2
+--- QUIZ 387
+CONTEXT:
+Exercise 1
+ Choose the correct forms to complete the first conditional sentences below.
+Q 3315 [gaps] If you {1} now, you {2} the train.
+  {1} options: won't leave | don't leave
+  {2} options: 'll miss | miss
+Q 3316 [gaps] Peter {1} his exams if he {2} hard.
+  {1} options: will pass | passes
+  {2} options: will work | works
+Q 3317 [gaps] If it {1} tomorrow, we {2} to the cinema.
+  {1} options: will rain | rains
+  {2} options: go | 'll go
+Q 3318 [gaps] The teacher {1} angry if you {2} late again tomorrow.
+  {1} options: is | will be
+  {2} options: 'll | arrive
+Q 3319 [gaps] I {1} her the news if I {2} her next week.
+  {1} options: 'll tell | tell
+  {2} options: 'll see | see
+Q 3320 [gaps] I {1} some takeaway this evening if I {2} work late.
+  {1} options: have | 'll have
+  {2} options: finish | 'll finish
+Q 3321 [gaps] If you {1} more, you {2} .
+  {1} options: don't practice | won't practice
+  {2} options: don't improve | won't improve
+Q 3322 [gaps] If we {1} the bus, we {2} late.
+  {1} options: don't catch | won't catch
+  {2} options: 'll be | are
+Q 3323 [gaps] You {1} an accident if you {2} so fast.
+  {1} options: have | might have
+  {2} options: will drive | drive
+Q 3324 [gaps] If you {1} to arrive earlier, {2} the train.
+  {1} options: want | 'll want
+  {2} options: take | will take
+
+=== PAGE /grammar-points/a2/first-conditional-future-time-clauses/ | First conditional and future time clauses | level a2
+--- QUIZ 388
+CONTEXT:
+Exercise 2
+ Choose the correct forms to complete the first conditional sentences and future time clauses below.
+Q 3329 [radio] How will you celebrate if you _____ the exams?
+ 5500) A. might pass
+ 5501) B. will pass
+ 5502) C. pass
+Q 3326 [checkbox, pick 2] When you see Tom, you ____ surprised to see how much he has changed. Choose TWO correct options
+ 5491) A. are
+ 5492) B. will be
+ 5493) C. might be
+Q 3325 [radio] We won't find peace until we ____ who did this.
+ 5488) A. find
+ 5489) B. will find
+ 5490) C. should find
+Q 3327 [radio] You will know what true love is as soon as you _____ it.
+ 5494) A. find
+ 5495) B. will find
+ 5496) C. may find
+Q 3330 [checkbox, pick 2] If you don't believe me, _____ John. Choose TWO correct options
+ 5503) A. ask
+ 5504) B. you ask
+ 5505) C. you should ask
+Q 3331 [radio] If I _____ a job soon, I won't have enough money for the rent.
+ 5506) A. won't find
+ 5507) B. don't find
+ 5508) C. should find
+Q 3328 [radio] I _____ it until I see it.
+ 5497) A. won't believe
+ 5498) B. don't believe
+ 5499) C. am not believing
+Q 3332 [radio] If you open those files attached to your email, your computer ____ infected.
+ 5509) A. get
+ 5510) B. gets
+ 5511) C. might get
+Q 3333 [radio] When I _____ older, I'll buy a Ferrari.
+ 5512) A. am
+ 5513) B. might be
+ 5514) C. will be
+Q 3334 [checkbox, pick 2] If he studies more, he _____ the exam. Choose TWO correct options
+ 5515) A. pass
+ 5516) B. 'll pass
+ 5517) C. might pass
+
+=== PAGE /grammar-points/a2/first-conditional-future-time-clauses/ | First conditional and future time clauses | level a2
+--- QUIZ 389
+CONTEXT:
+Exercise 3
+ Complete the following first conditional sentences with the verbs in brackets in the correct form. Use will/won’t in the main clause.
+Q 3335 [gaps] If I get up late, I {1} the bus. (get up/miss)
+  {1} free text
+Q 3336 [gaps] If I {1} the bus, I {2} late for class. (miss/be)
+  {1} free text
+  {2} free text
+Q 3337 [gaps] If I {1} late for class, I {2} the exam. (be/fail)
+  {1} free text
+  {2} free text
+Q 3338 [gaps] If I {1} the exam, my parents {2} angry. (fail/be)
+  {1} free text
+  {2} free text
+Q 3339 [gaps] If my parents {1} angry, they {2} me a guitar. (be/not buy)
+  {1} free text
+  {2} free text
+Q 3340 [gaps] If my parents {1} me a guitar, I {2} able to take guitar lessons. (not buy/not be)
+  {1} free text
+  {2} free text
+Q 3341 [gaps] If I {1} guitar lessons, I {2} a musician. (not take/not become).
+  {1} free text
+  {2} free text
+Q 3342 [gaps] If I {1} a musician, I {2} to take a different job. (not become/have)
+  {1} free text
+  {2} free text
+Q 3343 [gaps] If I {1} to take a different job, I {2} very miserable. (have/be)
+  {1} free text
+  {2} free text
+Q 3344 [gaps] If I {1} very miserable, I {2} my life. (be/hate)
+  {1} free text
+  {2} free text
+
+=== PAGE /grammar-points/a2/should-shouldnt/ | Should, shouldn’t | level a2
+--- QUIZ 384
+CONTEXT:
+Exercise 1
+ Complete the sentences using should, shouldn’t and the words in brackets ( ).
+Q 3285 [gaps] You have a great job; you {1} (change) it.
+  {1} free text
+Q 3286 [gaps] You {1} (drink) so much coffee; it's bad for your blood pressure.
+  {1} free text
+Q 3287 [gaps] The government {1} (help) people in need.
+  {1} free text
+Q 3288 [gaps] It's an incredible film. You {1} (watch) it.
+  {1} free text
+Q 3289 [gaps] It's a very dangerous area. Tourists {1} (go) there.
+  {1} free text
+Q 3290 [gaps] I think I {1} (apply) for a new job.
+  {1} free text
+Q 3291 [gaps] You {1} (go) to that restaurant. The food is terrible.
+  {1} free text
+Q 3292 [gaps] When someone does you a favour, you {1} (say) thank you.
+  {1} free text
+Q 3293 [gaps] He {1} (study) more if he wants to pass his exam.
+  {1} free text
+Q 3294 [gaps] Children {1} (drink) sugary drinks. It's not very healthy.
+  {1} free text
+
+=== PAGE /grammar-points/a2/should-shouldnt/ | Should, shouldn’t | level a2
+--- QUIZ 385
+CONTEXT:
+Exercise 2
+ Choose the correct forms to complete the following sentences.
+Q 3295 [radio] What _____ tell Peter?
+ 5458) A. should I
+ 5459) B. should I to
+ 5460) C. do I should
+Q 3296 [radio] They _____ to go to the police.
+ 5461) A. should
+ 5462) B. ought
+ 5463) C. shouldn't
+Q 3297 [radio] I _____ take that course. It's a waste of time.
+ 5464) A. think you shouldn't
+ 5465) B. think you should not
+ 5466) C. don't think you should
+Q 3298 [radio] People _____ be afraid of their governments.
+ 5467) A. ought not to
+ 5468) B. ought to not
+ 5469) C. shouldn't to
+Q 3299 [radio] What _____ do if he doesn't get a promotion?
+ 5470) A. does Brian should
+ 5471) B. should Brian
+ 5472) C. should Brian to
+Q 3300 [radio] You _____ swim immediately after a meal.
+ 5473) A. should not
+ 5474) B. ought not
+ 5475) C. shouldn't to
+Q 3301 [radio] We _____ take the money. You'll never be able to pay it back.
+ 5476) A. think you should not
+ 5477) B. think you ought not to
+ 5478) C. don't think you should
+Q 3302 [radio] Politicians _____ to be completely honest and transparent.
+ 5479) A. ought
+ 5480) B. shouldn't
+ 5481) C. should
+Q 3303 [radio] She _____ work so hard. She's under too much stress.
+ 5482) A. shouldn't
+ 5483) B. shouldn't to
+ 5484) C. ought not
+Q 3304 [radio] Why _____ listen to you?
+ 5485) A. do I should
+ 5486) B. should I
+ 5487) C. should I to
+
+=== PAGE /grammar-points/a2/should-shouldnt/ | Should, shouldn’t | level a2
+--- QUIZ 386
+CONTEXT:
+Exercise 3
+ Complete the sentences with should, shouldn’t and a verb in the list.
+ ask – call – do – drink – eat – give – lie – speak – take – watch – wear
+ EXAMPLE: You shouldn’t lie about what happened. It’s important to tell the truth.
+Q 3305 [gaps] I {1} more vegetables, but I hate them.
+  {1} free text
+Q 3306 [gaps] You {1} so many questions. You are going to get into trouble.
+  {1} free text
+Q 3307 [gaps] Parents {1} medicine to their children without going to the doctor first.
+  {1} free text
+Q 3308 [gaps] I {1} more exercise. I have gained some weight.
+  {1} free text
+Q 3309 [gaps] What kind of dress {1} I {2} for tonight's ceremony?
+  {1} free text
+  {2} free text
+Q 3310 [gaps] You {1} John immediately. He needs to speak to you urgently.
+  {1} free text
+Q 3311 [gaps] Your children {1} TV all day. Take them to the park sometimes.
+  {1} free text
+Q 3312 [gaps] It's raining. I think we {1} a taxi.
+  {1} free text
+Q 3313 [gaps] You {1} some water or you will dehydrate.
+  {1} free text
+Q 3314 [gaps] Children {1} to strangers.
+  {1} free text
+
+=== PAGE /grammar-points/a2/have-to-dont-have-to-must-mustnt/ | Have to, don’t have to, must, mustn’t | level a2
+--- QUIZ 381
+CONTEXT:
+Exercise 1
+ Choose the correct forms, don’t have to, mustn’t, to complete the sentences below.
+Q 3265 [gaps] You {1} apologise; it isn't necessary.
+  {1} options: mustn't | don't have to
+Q 3266 [gaps] You {1} tell the boss what happened, or he'll fire you.
+  {1} options: mustn't | don't have to
+Q 3267 [gaps] I {1} wear a tie; I do it because I like wearing ties.
+  {1} options: don't have to | mustn't
+Q 3268 [gaps] You {1} smoke in here; smoking is not allowed.
+  {1} options: don't have to | mustn't
+Q 3269 [gaps] I {1} be late. It's the most important meeting of the year.
+  {1} options: don't have to | mustn't
+Q 3271 [gaps] You {1} go now; you can stay a bit longer.
+  {1} options: mustn't | don't have to
+Q 3270 [gaps] Visitors to the zoo {1} feed the animals.
+  {1} options: don't have to | mustn't
+Q 3272 [gaps] You {1} drive so fast; we have a lot of time.
+  {1} options: don't have to | mustn't
+Q 3273 [gaps] We {1} cook more; there's enough food.
+  {1} options: mustn't | don't have to
+Q 3274 [gaps] You {1} put salt in her food; the doctor said she can't eat salt.
+  {1} options: don't have to | mustn't
+
+=== PAGE /grammar-points/a2/have-to-dont-have-to-must-mustnt/ | Have to, don’t have to, must, mustn’t | level a2
+--- QUIZ 382
+CONTEXT:
+Exercise 2
+ Choose the most appropriate forms, have to, don’t have to, must, mustn’t, to complete the following sentences.
+Q 3275 [radio] I _____ leave early because I wasn't feeling well.
+ 5428) A. had to
+ 5429) B. must
+ 5430) C. have to
+Q 3276 [radio] You _____ do something to solve this problem.
+ 5431) A. have to
+ 5432) B. 've to
+ 5433) C. must
+Q 3277 [radio] I don't like these clothes, but I _____ wear them at work.
+ 5434) A. must
+ 5435) B. 've to
+ 5436) C. have to
+Q 3278 [radio] Teacher: 'You _____ arrive on time for class.'
+ 5437) A. must
+ 5438) B. mustn't
+ 5439) C. have to
+Q 3279 [radio] We didn't have money, so we _____ find a cash dispenser.
+ 5440) A. must
+ 5441) B. had to
+ 5442) C. have to
+Q 3281 [radio] You ____ tell anyone; it's a secret.
+ 5446) A. don't have to
+ 5447) B. haven't to
+ 5448) C. mustn't
+Q 3280 [radio] _____ pay for the car repair or did the insurance cover it?
+ 5443) A. Did you have to
+ 5444) B. Had you to
+ 5445) C. Did you must
+Q 3282 [radio] We ______ leave now; it's 10 and the conference doesn't start until 12.
+ 5449) A. don't have to
+ 5450) B. haven't to
+ 5451) C. mustn't
+Q 3283 [radio] We had an accident, but it was OK, we _____ go to the hospital.
+ 5452) A. didn't have to
+ 5453) B. hadn't to
+ 5454) C. didn't must
+Q 3284 [radio] The doctor has put me on a strict diet. I _____ eat more fruit and vegetables and do more exercise.
+ 5455) A. must
+ 5456) B. have to
+ 5457) C. 've to
+
+=== PAGE /grammar-points/a2/have-to-dont-have-to-must-mustnt/ | Have to, don’t have to, must, mustn’t | level a2
+--- QUIZ 383
+CONTEXT:
+Exercise 3
+ Read an interview with a woman about her job. Fill in the gaps with the verbs in brackets and the correct forms of have to (affirmative, negative, interrogative) in present or past simple.
+ EXAMPLE:
+ Interviewer: What did you have to do(you/do) at home when you were a child?
+ Claire: I had to clean (clean) my room and make the bed every day.
+Q 3264 [gaps] INTERVIEWER: 1 {1} (you/work) at night? /  CLAIRE: Yes, I 2 {2} (work) night shifts once every three weeks. /  INTERVIEWER: 3 {3} (you/work) long hours? /  CLAIRE: No, I 4 {4} (not work) long hours, but I can do paid overtime if I want. /  INTERVIEWER: Before you started to work for this company, 5 {5} (you/do) on-the-job training? /  CLAIRE: Yes, and I 6 {6} (study) a lot too. /  INTERVIEWER: What is the most difficult part of your job? /  CLAIRE: Well, I usually 7 {7} (get up) very early and every three weeks I 8 {8} (work) nights. In my previous job, a few years ago, I 9 {9} (not work) night shifts and I 10 {10} (not get up) so early.
+  {1} free text
+  {2} free text
+  {3} free text
+  {4} free text
+  {5} free text
+  {6} free text
+  {7} free text
+  {8} free text
+  {9} free text
+  {10} free text
+
+=== PAGE /grammar-points/a2/infinitives-and-gerunds/ | Infinitives and gerunds: Verb patterns | level a2
+--- QUIZ 378
+CONTEXT:
+Exercise 1
+ Choose the correct infinitives and gerunds to complete the sentences below.
+Q 3234 [gaps] She offered {1} me.
+  {1} options: helping | help | to help
+Q 3235 [gaps] We've decided {1} soon.
+  {1} options: get married | to get married | getting married
+Q 3236 [gaps] I stopped {1} football when I got married.
+  {1} options: play | playing | to play
+Q 3237 [gaps] We should {1} very early in the morning.
+  {1} options: arriving | to arrive | arrive
+Q 3238 [gaps] I'm not very good at {1} sports.
+  {1} options: playing | to play | play
+Q 3239 [gaps] You promised {1} the children to the cinema.
+  {1} options: to take | taking | take
+Q 3240 [gaps] Have you finished {1} the house?
+  {1} options: painting | to paint | paint
+Q 3241 [gaps] You should avoid {1} to strangers.
+  {1} options: talking | to talk | talk
+Q 3242 [gaps] {1} around the world has always been my dream.
+  {1} options: Travelling | To travel | Travel
+Q 3243 [gaps] I couldn't {1} you because I didn't have my phone.
+  {1} options: phoning | phone | to phone
+
+=== PAGE /grammar-points/a2/infinitives-and-gerunds/ | Infinitives and gerunds: Verb patterns | level a2
+--- QUIZ 379
+CONTEXT:
+Exercise 2
+ Choose the correct infinitives and gerunds to complete the following sentences.
+Q 3244 [radio] I would like _____ my grandmother next year.
+ 5398) A. visit
+ 5399) B. to visit
+ 5400) C. visiting
+Q 3245 [radio] I might _____ late today. I have a lot of work.
+ 5401) A. be
+ 5402) B. to be
+ 5403) C. being
+Q 3246 [radio] We are planning _____ to Switzerland next year.
+ 5404) A. go
+ 5405) B. to go
+ 5406) C. going
+Q 3247 [radio] Keep quiet, I need _____ on my homework.
+ 5407) A. concentrate
+ 5408) B. to concentrate
+ 5409) C. concentrating
+Q 3248 [radio] My brother is trying _____ smoking.
+ 5410) A. quit
+ 5411) B. to quit
+ 5412) C. quitting
+Q 3249 [radio] Tennis is okay, but I prefer _____ padel.
+ 5413) A. play
+ 5414) B. to play
+ 5415) C. playing
+Q 3250 [radio] I enjoy _____ stories to my children.
+ 5416) A. read
+ 5417) B. to read
+ 5418) C. reading
+Q 3251 [radio] You must never _____ him the truth.
+ 5419) A. tell
+ 5420) B. to tell
+ 5421) C. telling
+Q 3252 [radio] I hope _____ a job soon.
+ 5422) A. find
+ 5423) B. to find
+ 5424) C. finding
+Q 3253 [radio] What do you want _____ tonight?
+ 5425) A. do
+ 5426) B. to do
+ 5427) C. doing
+
+=== PAGE /grammar-points/a2/infinitives-and-gerunds/ | Infinitives and gerunds: Verb patterns | level a2
+--- QUIZ 380
+CONTEXT:
+Exercise 3
+ Fill in the gaps with the correct infinitive or gerund forms of the verbs in box below.
+ be – buy – do – eat – go – lock – look – rain – see – travel – work
+ EXAMPLE: It was nice to see her again after so many years.
+Q 3254 [gaps] The weather was nice, so I suggested {1} for a walk.
+  {1} free text
+Q 3255 [gaps] I'd prefer {1} in a restaurant today.
+  {1} free text
+Q 3256 [gaps] When it stopped {1} we went for a picnic.
+  {1} free text
+Q 3257 [gaps] {1} a police officer in this city can be very dangerous.
+  {1} free text
+Q 3258 [gaps] I don’t mind {1} long hours because I love my job.
+  {1} free text
+Q 3259 [gaps] We are planning {1} to Australia this summer. We have already saved the money for the trip.
+  {1} free text
+Q 3260 [gaps] I forgot {1} the door when I left home.
+  {1} free text
+Q 3261 [gaps] I’m thinking of {1} for a new job.
+  {1} free text
+Q 3262 [gaps] I went to the greengrocer’s {1} some food.
+  {1} free text
+Q 3263 [gaps] Could you show me how {1} this exercise?
+  {1} free text
+
+=== PAGE /grammar-points/a2/much-many-little-few-some-any/ | Much, many, little, few, some, any: Quantifiers | level a2
+--- QUIZ 374
+CONTEXT:
+Exercise 1
+ Choose much, many, little, few, some, any to complete each sentence.
+Q 3194 [radio] We haven't got _____ petrol. We need to stop and get some.
+ 5368) A. much
+ 5369) B. many
+ 5370) C. little
+Q 3195 [radio] We had ________ rain last autumn.
+ 5371) A. a lot of
+ 5372) B. much
+ 5373) C. many
+Q 3196 [radio] There was ________ food in the fridge. It was nearly empty.
+ 5374) A. little
+ 5375) B. a little
+ 5376) C. few
+Q 3197 [radio] You travel a lot. Have you been to _____ countries?
+ 5377) A. much
+ 5378) B. many
+ 5379) C. few
+Q 3198 [radio] It costs _____ money to give your children a good education.
+ 5380) A. much
+ 5381) B. many
+ 5382) C. a lot of
+Q 3199 [radio] There was ________ space for all the people who came.
+ 5383) A. very little
+ 5384) B. very few
+ 5385) C. many
+Q 3200 [radio] "Have you got any coins for the vending machine?" "Yes, I have ________."
+ 5386) A. a little
+ 5387) B. a few
+ 5388) C. few
+Q 3201 [radio] There's _____ of sun cream in the bottle.
+ 5389) A. a bit
+ 5390) B. a little
+ 5391) C. a few
+Q 3202 [radio] We need to go to the greengrocer's. There are _____ potatoes left.
+ 5392) A. few
+ 5393) B. a few
+ 5394) C. a little
+Q 3203 [radio] There was _____ traffic so we arrived very early.
+ 5395) A. a little
+ 5396) B. a few
+ 5397) C. little
+
+=== PAGE /grammar-points/a2/much-many-little-few-some-any/ | Much, many, little, few, some, any: Quantifiers | level a2
+--- QUIZ 373
+CONTEXT:
+Exercise 2
+ Choose much, many, little, few, some, any to complete the sentences below.
+Q 3184 [gaps] We spent too {1} money on our last holiday.
+  {1} options: a lot of | much | many
+Q 3185 [gaps] Don't worry, we have {1} time.
+  {1} options: many | a lot of | much
+Q 3186 [gaps] Did {1} people come to your party?
+  {1} options: some | many | much
+Q 3187 [gaps] I don't usually drink {1} beer.
+  {1} options: many | much | few
+Q 3188 [gaps] It didn't take {1} effort to repaint the house.
+  {1} options: many | few | much
+Q 3189 [gaps] I only speak {1} English.
+  {1} options: a lot of | a little | a few
+Q 3190 [gaps] There were only {1} people at the party.
+  {1} options: a few | a little | many
+Q 3191 [gaps] I need {1} of sugar for the cake.
+  {1} options: much | a little | a bit
+Q 3192 [gaps] I hope it will rain. There isn't {1} water in the reservoir.
+  {1} options: many | much | some
+Q 3193 [gaps] How {1} soap do you need?
+  {1} options: many | few | much
+
+=== PAGE /grammar-points/a2/much-many-little-few-some-any/ | Much, many, little, few, some, any: Quantifiers | level a2
+--- QUIZ 375
+CONTEXT:
+Exercise 3
+ Fill in the gaps with a lot of, much, many, how much, how many.
+Q 3204 [gaps] There were {1} people in the streets.
+  {1} free text
+Q 3208 [gaps] Are there {1} new students this year?
+  {1} free text
+Q 3205 [gaps] There isn't {1} cheese left in the fridge.
+  {1} free text
+Q 3206 [gaps] {1} backpackers travel to the east coast every summer.
+  {1} free text
+Q 3209 [gaps] We went to that hotel because we didn't have {1} options.
+  {1} free text
+Q 3207 [gaps] {1} milk do you want in your coffee?
+  {1} free text
+Q 3210 [gaps] Not {1} people know his secret.
+  {1} free text
+Q 3211 [gaps] Was there {1} turbulence during the flight?
+  {1} free text
+Q 3212 [gaps] There are {1} things that I haven't told you yet.
+  {1} free text
+Q 3213 [gaps] {1} visitors does this museum have every day?
+  {1} free text
+
+=== PAGE /grammar-points/a2/much-many-little-few-some-any/ | Much, many, little, few, some, any: Quantifiers | level a2
+--- QUIZ 376
+CONTEXT:
+Exercise 4
+ Fill in the gaps with few, little, a few, a little.
+Q 3214 [gaps] 'Were there any people at the conference?' 'Yes, {1} .
+  {1} free text
+Q 3215 [gaps] There were {1} people on the beach because it was raining.
+  {1} free text
+Q 3217 [gaps] We have very {1} money, so we can't afford to buy a new car.
+  {1} free text
+Q 3216 [gaps] I've got {1} cranberries. Let's make a cake.
+  {1} free text
+Q 3218 [gaps] There is {1} coffee left. Would you like one?
+  {1} free text
+Q 3219 [gaps] We've bought {1} new cushions for the sofa.
+  {1} free text
+Q 3220 [gaps] I've got {1} money saved; I think I'll buy a new bike.
+  {1} free text
+Q 3223 [gaps] There are {1} things that I haven't told you. I always tell you everything.
+  {1} free text
+Q 3221 [gaps] I speak {1} English, so when I'm in England I don't have problems.
+  {1} free text
+Q 3222 [gaps] There's very {1} snow in the street. We don't need the snow boots.
+  {1} free text
+
+=== PAGE /grammar-points/a2/much-many-little-few-some-any/ | Much, many, little, few, some, any: Quantifiers | level a2
+--- QUIZ 377
+CONTEXT:
+Exercise 5
+ Fill in the gaps with some or any.
+Q 3224 [gaps] Are there {1} eggs in the fridge?
+  {1} free text
+Q 3225 [gaps] Can I have {1} tea, please?
+  {1} free text
+Q 3226 [gaps] My brother took {1} interesting photographs.
+  {1} free text
+Q 3227 [gaps] Do you know {1} good restaurants in the centre?
+  {1} free text
+Q 3228 [gaps] Don't worry, I don't need {1} help.
+  {1} free text
+Q 3230 [gaps] There are {1} things that we need to ask you.
+  {1} free text
+Q 3229 [gaps] Can you play {1} instruments?
+  {1} free text
+Q 3231 [gaps] Would you like {1} wine?
+  {1} free text
+Q 3232 [gaps] We didn't find {1} decent restaurants in the area.
+  {1} free text
+Q 3233 [gaps] Do you have {1} brothers or sisters?
+  {1} free text
+
+=== PAGE /grammar-points/a2/too-too-much-too-many-enough/ | Too, too much, too many, enough | level a2
+--- QUIZ 371
+CONTEXT:
+Exercise 1
+ Choose too, too much, too many, enough to complete the sentences below.
+Q 3154 [gaps] There's {1} smoke in here; I can't breathe.
+  {1} options: too many | too | too much
+Q 3155 [gaps] I don't earn {1} to buy that car.
+  {1} options: money enough | too much money | enough money
+Q 3156 [gaps] My manager says that I play {1} to win the competition.
+  {1} options: too much well | enough well | well enough
+Q 3157 [gaps] I know I talk {1} . I should talk less.
+  {1} options: too many | enough | too much
+Q 3158 [gaps] I don't think the door is {1} to get the sofa into the room.
+  {1} options: wide enough | too much wide | enough wide
+Q 3159 [gaps] {1} money can be bad for football players who are still in their 20s.
+  {1} options: Too many | Too | Too much
+Q 3160 [gaps] I ate {1} cakes and felt sick later.
+  {1} options: too much | too | too many
+Q 3161 [gaps] I can't drink this milk. It's {1} hot.
+  {1} options: too | too much | enough
+Q 3162 [gaps] I think I've eaten {1} . I don't feel very well.
+  {1} options: enough | too many | too much
+Q 3163 [gaps] There weren't {1} to play a match, so everybody went home.
+  {1} options: enough people | people enough | too much people
+
+=== PAGE /grammar-points/a2/too-too-much-too-many-enough/ | Too, too much, too many, enough | level a2
+--- QUIZ 372
+CONTEXT:
+Exercise 2
+ Choose too, too much, too many, enough to complete each sentence.
+Q 3164 [radio] You work _____; you need a holiday.
+ 5338) A. too much
+ 5339) B. too many
+ 5340) C. too
+Q 3165 [radio] My parents got angry because my marks weren't _____.
+ 5341) A. enough good
+ 5342) B. good enough
+ 5343) C. too much good
+Q 3167 [radio] I can't help you. I have _____ problems right now.
+ 5347) A. too much
+ 5348) B. too
+ 5349) C. too many
+Q 3166 [radio] He didn't accept my project because he said it wasn't _____.
+ 5344) A. too much good
+ 5345) B. enough good
+ 5346) C. good enough
+Q 3168 [radio] This house is _____ small; we need a bigger one.
+ 5350) A. too
+ 5351) B. too much
+ 5352) C. enough
+Q 3169 [radio] You don't need to buy anything. I think we have _____ for the journey.
+ 5353) A. enough food
+ 5354) B. food enough
+ 5355) C. too many food
+Q 3170 [radio] I didn't study _____ and I failed the exam.
+ 5356) A. enough
+ 5357) B. too many
+ 5358) C. too
+Q 3171 [radio] This hospital is a total chaos. There are _____ patients and not _____ doctors.
+ 5359) A. to much / too many
+ 5360) B. too / enough
+ 5361) C. too many / enough
+Q 3172 [radio] People spend _____ time on their mobile phones.
+ 5362) A. too
+ 5363) B. too many
+ 5364) C. too much
+Q 3173 [radio] Aren't we _____ for these kinds of games?
+ 5365) A. too old
+ 5366) B. too much old
+ 5367) C. enough old
+
+=== PAGE /grammar-points/a2/too-too-much-too-many-enough/ | Too, too much, too many, enough | level a2
+--- QUIZ 370
+CONTEXT:
+Exercise 3
+ Complete the sentences with too, too much, too many, enough and the word in brackets.
+Q 3174 [gaps] There were {1} (people) at the concert and we couldn't see anything.
+  {1} free text
+Q 3175 [gaps] I'll talk to you later; I'm {1} (busy) now.
+  {1} free text
+Q 3176 [gaps] You aren't {1} (well) to go to work. You should stay home.
+  {1} free text
+Q 3178 [gaps] You are {1} (nice). You must learn to say 'no' to people who ask you for favours.
+  {1} free text
+Q 3177 [gaps] You spend {1} (time) at the computer. You should play outside more often.
+  {1} free text
+Q 3179 [gaps] You look exhausted. I think you work {1} (hard).
+  {1} free text
+Q 3180 [gaps] You can't run 10 miles. You aren't {1} (fit); you need more training.
+  {1} free text
+Q 3181 [gaps] Please, don't put {1} (sugar) in my coffee; I don't like it too sweet.
+  {1} free text
+Q 3182 [gaps] I don't like people who ask {1} (questions).
+  {1} free text
+Q 3183 [gaps] We don't have {1} (time) to have another coffee; we need to leave now.
+  {1} free text
+
+=== PAGE /grammar-points/a2/comparative-superlative-adjectives-adverbs/ | Comparative and superlative adjectives and adverbs | level a2
+--- QUIZ 366
+CONTEXT:
+Exercise 1
+ Choose the correct comparative and superlative adjective and adverbs to complete the dialogues below.
+Q 3114 [gaps] They arrived {1} .
+  {1} options: earlier than us | earlier than we | more early than we
+Q 3115 [gaps] Please, can you drive {1} ?
+  {1} options: more slowly | most slowly | slowlier
+Q 3116 [gaps] This is going to be {1} show you have ever seen.
+  {1} options: the bigest | the bigger | the biggest
+Q 3117 [gaps] My current job is {1} more stressful than my last job.
+  {1} options: lot | much | very
+Q 3118 [gaps] He isn't as {1} you.
+  {1} options: smart as | smarter than | smarter as
+Q 3119 [gaps] What is the {1} option in the menu?
+  {1} options: healthier | healthiest | most healthy
+Q 3120 [gaps] You aren't as determined {1} .
+  {1} options: as I | as I am | than me
+Q 3121 [gaps] My great-grandmother is the oldest person {1} the family.
+  {1} options: of | from | in
+Q 3122 [gaps] This is the greatest evening I {1} .
+  {1} options: 've ever had | 've never had | ever had
+Q 3123 [gaps] York is a bit {1} than Leeds.
+  {1} options: farer | more far | further
+
+=== PAGE /grammar-points/a2/comparative-superlative-adjectives-adverbs/ | Comparative and superlative adjectives and adverbs | level a2
+--- QUIZ 367
+CONTEXT:
+Exercise 2
+ Choose the correct comparative and superlative adjective and adverbs to complete each sentence.
+Q 3124 [radio] The south is _____ the north.
+ 5308) A. hotter than
+ 5309) B. more hotter than
+ 5310) C. more hot than
+Q 3125 [radio] We work _____ now with the new manager.
+ 5311) A. most happily
+ 5312) B. more happily
+ 5313) C. happilier
+Q 3126 [radio] He is ______ England.
+ 5314) A. the most famous painter in
+ 5315) B. the famousest painter in
+ 5316) C. the most famous painter of
+Q 3127 [radio] Tuesdays are _____ than Mondays.
+ 5317) A. much more busy
+ 5318) B. much more busier
+ 5319) C. a lot busier
+Q 3128 [radio] It's the worst experience _____.
+ 5320) A. I've never had
+ 5321) B. I ever had
+ 5322) C. I've ever had
+Q 3129 [radio] She eats better _____.
+ 5323) A. than my
+ 5324) B. than me
+ 5325) C. that I do
+Q 3130 [radio] He doesn't run _____ his brother.
+ 5326) A. as faster as
+ 5327) B. as fast as
+ 5328) C. fast as
+Q 3131 [radio] The bus is a bit _____ the train.
+ 5329) A. comfortabler than
+ 5330) B. more comfortable as
+ 5331) C. more comfortable than
+Q 3132 [radio] This year we are having _____ summer since 1976.
+ 5332) A. the most hot
+ 5333) B. the hottest
+ 5334) C. the hotter
+Q 3133 [radio] We finished _____ we expected.
+ 5335) A. more quickly than
+ 5336) B. quicklier than
+ 5337) C. more quick than
+
+=== PAGE /grammar-points/a2/comparative-superlative-adjectives-adverbs/ | Comparative and superlative adjectives and adverbs | level a2
+--- QUIZ 368
+CONTEXT:
+Exercise 3
+ Complete the sentences with the comparative or superlative forms of the adjectives in brackets. Add any necessary missing words, such as than, the, as.
+Q 3134 [gaps] Cardiff is {1} (wet) city in Britain. It rains an average of 148 days a year.
+  {1} free text
+Q 3135 [gaps] The north of Italy is much {1} (cold) the south in winter.
+  {1} free text
+Q 3136 [gaps] The kitchen isn't as {1} (large) the living room.
+  {1} free text
+Q 3137 [gaps] New York is {1} (populated) city in the US.
+  {1} free text
+Q 3138 [gaps] Athens is {1} (old) city in the world.
+  {1} free text
+Q 3139 [gaps] Shanghai is {1} (busy) most other cities in Asia.
+  {1} free text
+Q 3140 [gaps] What is {1} (far) planet from Earth?
+  {1} free text
+Q 3141 [gaps] Men lose weight {1} (easily) women.
+  {1} free text
+Q 3142 [gaps] His last book is OK, but I think it is {1} (bad) the previous one.
+  {1} free text
+Q 3143 [gaps] Where is {1} (near) petrol station?
+  {1} free text
+
+=== PAGE /grammar-points/a2/comparative-superlative-adjectives-adverbs/ | Comparative and superlative adjectives and adverbs | level a2
+--- QUIZ 369
+CONTEXT:
+Exercise 4
+ Write sentences with the present perfect + the word ever and a superlative.
+ EXAMPLE: This is/good film/I see → This is the best film I’ve ever seen.
+Q 3144 [gaps] It's/long trip/I make ‣ It's {1} .
+  {1} free text
+Q 3145 [gaps] This is/good food/I try ‣ This is {1} .
+  {1} free text
+Q 3146 [gaps] It's/bad nightmare/I have ‣ It's {1} .
+  {1} free text
+Q 3152 [gaps] What's/inspiring book/you read? ‣ What's {1} ?
+  {1} free text
+Q 3147 [gaps] It's/horrible thing/I experience. ‣ It's {1} .
+  {1} free text
+Q 3148 [gaps] He is/nice person/I meet ‣ He is {1} .
+  {1} free text
+Q 3149 [gaps] This is/easy test/I take ‣ This is {1} .
+  {1} free text
+Q 3150 [gaps] He's/important client/we have ‣ He's {1} .
+  {1} free text
+Q 3151 [gaps] It was/amazing view/I see ‣ It was {1} .
+  {1} free text
+Q 3153 [gaps] What's/cheap country/you be to? ‣ What's {1} ?
+  {1} free text
+
+=== PAGE /grammar-points/a2/something-anything-nothing-etc/ | Something, anything, nothing, etc. | level a2
+--- QUIZ 363
+CONTEXT:
+Exercise 1
+ Choose the correct form (something, anything, nothing, etc.) to complete the dialogues below.
+Q 3085 [gaps] I can’t find my keys {1} .
+  {1} options: anywhere | nowhere | somewhere
+Q 3086 [gaps] ‘What did you have to drink?’ ‘I didn’t drink {1} ; only water.’
+  {1} options: something | anything | nothing
+Q 3087 [gaps] {1} was at the party; all our friends and family were there.
+  {1} options: Anybody | Somebody | Everybody
+Q 3088 [gaps] ‘Did you see {1} interesting at the party?’ ‘ {2} . Only boring people.’
+  {1} options: somebody | nobody | anybody
+  {2} options: Anybody | Nobody | Everybody
+Q 3089 [gaps] {1} robbed a bank yesterday. They took a lot of money.
+  {1} options: Anybody | Somebody | Nobody
+Q 3090 [gaps] The police think the robber is hiding {1} in the neighbourhood.
+  {1} options: somewhere | anywhere | everywhere
+Q 3091 [gaps] ‘Have you eaten {1} ?’ ‘ {2} . I’m very hungry.’
+  {1} options: nothing | anything | something
+  {2} options: Everything | Nothing | Anything
+Q 3092 [gaps] Can I stay here tonight? I have {1} to go.’
+  {1} options: nowhere | somewhere | anywhere
+Q 3093 [gaps] I think {1} bad has happened, because there are police officers {2} .
+  {1} options: something | anything | everything
+  {2} options: nowhere | anywhere | everywhere
+Q 3094 [gaps] {1} is big in New York; the streets, the buildings, the cars, even the hamburgers.
+  {1} options: Anything | Something | Everything
+
+=== PAGE /grammar-points/a2/something-anything-nothing-etc/ | Something, anything, nothing, etc. | level a2
+--- QUIZ 364
+CONTEXT:
+Exercise 2
+ Choose the correct form (something, anything, nothing, etc.) to complete each sentence.
+Q 3066 [radio] _____ used my computer yesterday. I need to know who did it.
+ 5281) A. Somebody
+ 5282) B. Nobody
+ 5283) C. Anybody
+Q 3095 [radio] It happened very quickly and I couldn't see _____.
+ 5278) A. nothing
+ 5279) B. something
+ 5280) C. anything
+Q 3096 [radio] Have you talked to _____ about your problem?
+ 5284) A. somebody
+ 5285) B. nobody
+ 5286) C. anybody
+Q 3097 [radio] I'm bored. I don't have _____ to do.
+ 5287) A. nothing
+ 5288) B. anything
+ 5289) C. something
+Q 3098 [radio] He lost his house and now he has _____ to live.
+ 5290) A. nowhere
+ 5291) B. anywhere
+ 5292) C. everywhere
+Q 3100 [radio] She doesn't have _____ in her life. She's very lonely.
+ 5293) A. somebody
+ 5294) B. nobody
+ 5295) C. anybody
+Q 3101 [radio] Would you like _____ to eat?
+ 5296) A. something
+ 5297) B. anything
+ 5298) C. nothing
+Q 3102 [radio] 'Do you know _____ in Dublin?' 'Yes, I know a few people.'
+ 5299) A. someone
+ 5300) B. anyone
+ 5301) C. no one
+Q 3103 [radio] Sarah told _____ that she broke up with you. Now we all know.
+ 5302) A. anyone
+ 5303) B. no one
+ 5304) C. everyone
+Q 3104 [radio] I'm going to bed. There's _____ interesting on TV.
+ 5305) A. something
+ 5306) B. anything
+ 5307) C. nothing
+
+=== PAGE /grammar-points/a2/something-anything-nothing-etc/ | Something, anything, nothing, etc. | level a2
+--- QUIZ 365
+CONTEXT:
+Exercise 3
+ Fill in the gaps with something, anything, nothing, everything, someone, anyone, no one, everyone, somewhere, anywhere, nowhere, everywhere.
+Q 3099 [gaps] We have looked for Mike {1} but we can't find him {2} . Do you know where he is?
+  {1} free text
+  {2} free text
+Q 3105 [gaps] {1} called you this morning, but I don't know who.
+  {1} free text
+Q 3106 [gaps] I didn't go {1} yesterday. I stayed home all day.
+  {1} free text
+Q 3107 [gaps] I don't know {1} in the class yet, but I know most of them.
+  {1} free text
+Q 3108 [gaps] I'm sorry but I can't help you. I don't know {1} about Napoleon.
+  {1} free text
+Q 3109 [gaps] He's behaving very strangely. {1} is wrong with him, but I don't know what.
+  {1} free text
+Q 3110 [gaps] {1} was there when I arrived. I was the only person there.
+  {1} free text
+Q 3111 [gaps] Have you seen my wallet? I can't find it {1} .
+  {1} free text
+Q 3112 [gaps] We lost, so there is {1} to celebrate today. Let's go home.
+  {1} free text
+Q 3113 [gaps] The police thought they were hiding in the house, but they didn't find {1} hiding in that house.
+  {1} free text
+
+=== PAGE /grammar-points/a2/present-perfect-or-past-simple/ | Present perfect or past simple? | level a2
+--- QUIZ 359
+CONTEXT:
+Exercise 1
+ Choose the correct present perfect or past simple forms to complete the dialogues below.
+Q 3069 [gaps] A: I 1 {1} Peter last night. /  B: Oh really. I 2 {2} him since last summer. Is he OK?
+  {1} options: saw | have seen
+  {2} options: didn't see | haven't seen
+Q 3070 [gaps] A: 3 {1} this film before? /  B: Yes, actually I 4 {2} it last night.
+  {1} options: Have you seen | Did you see
+  {2} options: have seen | saw
+Q 3071 [gaps] A: What 5 {1} last weekend? /  B: I 6 {2} at home all weekend.
+  {1} options: have you done | did you do
+  {2} options: stayed | have stayed
+Q 3072 [gaps] A: So, Tom is your best friend. 7 {1} Tom when you were in school? /  B: Yes, we 8 {2} for over 30 years.
+  {1} options: Did you meet | Have you met
+  {2} options: 've been friends | were friends
+Q 3073 [gaps] A: 9 {1} a marathon? /  B: Yes, last year I 10 {2} the Boston marathon.
+  {1} options: Have you ever run | Did you ever run
+  {2} options: have run | ran

@@ -1,26 +1,82 @@
 @import "tailwindcss";
+@plugin "@tailwindcss/typography";
 
 :root {
   --background: #ffffff;
-  --foreground: #171717;
+  --foreground: #1a1d21;
+  --surface: #ffffff;
+  --muted: #f1f3f5;
+  --line: #e2e5e9;
+  --subtle: #5f6670;
+  --brand: #16a34a;
+  --brand-strong: #15803d;
+  --ok: #16a34a;
+  --bad: #dc2626;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0f1113;
+    --foreground: #e8eaed;
+    --surface: #16191c;
+    --muted: #22262a;
+    --line: #2e3338;
+    --subtle: #9aa1a9;
+    --brand: #22c55e;
+    --brand-strong: #16a34a;
+    --ok: #22c55e;
+    --bad: #f87171;
+  }
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+  --color-surface: var(--surface);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-subtle: var(--subtle);
+  --color-brand: var(--brand);
+  --color-brand-strong: var(--brand-strong);
+  --color-ok: var(--ok);
+  --color-bad: var(--bad);
   --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Imported lesson HTML */
+.prose-content {
+  @apply prose max-w-none dark:prose-invert prose-headings:tracking-tight prose-a:text-brand prose-img:rounded-xl;
+}
+.prose-content h5 {
+  @apply text-base font-medium text-subtle;
+}
+.prose-content h6 {
+  @apply text-sm font-normal text-subtle;
+}
+.prose-content ul.grammar-ex {
+  @apply list-none rounded-xl border-l-4 border-brand bg-muted py-3 pl-4;
+}
+.prose-content ul.grammar-ex li {
+  @apply my-1 pl-0;
+}
+.prose-content .textBox {
+  @apply my-4 whitespace-pre-line rounded-xl border border-line bg-muted p-4;
+}
+.prose-content .list-separator-dots,
+.prose-content .read-separator-dots {
+  @apply my-8 border-t border-dashed border-line text-center;
+}
+.prose-content .list-separator-dots span {
+  @apply relative -top-3 bg-background px-3 text-sm font-semibold uppercase text-subtle;
+}
+.prose-content table {
+  @apply block overflow-x-auto;
+}
+.quiz-prompt p {
+  margin: 0;
 }

@@ -1,0 +1,740 @@
+{
+ "5443": {
+  "gaps": [
+   [
+    "'d better book"
+   ]
+  ],
+  "feedback": "Correct answer: 'd better book<br>‣ <strong>had better</strong> + bare infinitive gives strong advice."
+ },
+ "5444": {
+  "gaps": [
+   [
+    "'d better not be"
+   ]
+  ],
+  "feedback": "Correct answer: 'd better not be<br>‣ The negative is <strong>had better not</strong> + infinitive."
+ },
+ "5445": {
+  "gaps": [
+   [
+    "'d better go"
+   ]
+  ],
+  "feedback": "Correct answer: 'd better go<br>‣ <strong>had better</strong> + bare infinitive, without to."
+ },
+ "5446": {
+  "gaps": [
+   [
+    "should see"
+   ]
+  ],
+  "feedback": "Correct answer: should see<br>‣ For a recommendation (not a warning) we use <strong>should</strong>."
+ },
+ "5447": {
+  "gaps": [
+   [
+    "went"
+   ]
+  ],
+  "feedback": "Correct answer: went<br>‣ <strong>It's time</strong> + subject + past simple."
+ },
+ "5448": {
+  "gaps": [
+   [
+    "'d better not have"
+   ]
+  ],
+  "feedback": "Correct answer: 'd better not have<br>‣ The negative is <strong>had better not</strong> + infinitive."
+ },
+ "5449": {
+  "gaps": [
+   [
+    "'d better get"
+   ]
+  ],
+  "feedback": "Correct answer: 'd better get<br>‣ <strong>had better</strong> + bare infinitive."
+ },
+ "5450": {
+  "gaps": [
+   [
+    "for Tom to prove"
+   ]
+  ],
+  "feedback": "Correct answer: for Tom to prove<br>‣ <strong>It's time for</strong> + person + to-infinitive."
+ },
+ "5451": {
+  "gaps": [
+   [
+    "should try"
+   ]
+  ],
+  "feedback": "Correct answer: should try<br>‣ For a recommendation we use <strong>should</strong>, not had better."
+ },
+ "5452": {
+  "gaps": [
+   [
+    "'d better not leave"
+   ]
+  ],
+  "feedback": "Correct answer: 'd better not leave<br>‣ The negative is <strong>had better not</strong> + infinitive."
+ },
+ "5453": {
+  "choices": [
+   8432
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>had better</strong> + bare infinitive for urgent advice."
+ },
+ "5454": {
+  "choices": [
+   8437
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because <strong>It's time</strong> + subject + past simple."
+ },
+ "5455": {
+  "choices": [
+   8439
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>had better</strong> + bare infinitive, with a warning."
+ },
+ "5456": {
+  "choices": [
+   8442
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>had better</strong> + bare infinitive (be)."
+ },
+ "5457": {
+  "choices": [
+   8446
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because the negative is <strong>had better not</strong>."
+ },
+ "5458": {
+  "choices": [
+   8447
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>It's time</strong> + subject + past simple."
+ },
+ "5459": {
+  "choices": [
+   8451
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because for a general opinion we use <strong>should</strong>."
+ },
+ "5460": {
+  "choices": [
+   8455
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because the negative is <strong>had better not</strong>."
+ },
+ "5461": {
+  "choices": [
+   8457
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>It's time for</strong> + person + to-infinitive."
+ },
+ "5462": {
+  "choices": [
+   8459
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>had better</strong> + bare infinitive."
+ },
+ "5463": {
+  "gaps": [
+   [
+    "started"
+   ]
+  ],
+  "feedback": "Correct answer: started<br>‣ <strong>It's time</strong> + subject + past simple."
+ },
+ "5464": {
+  "gaps": [
+   [
+    "take"
+   ]
+  ],
+  "feedback": "Correct answer: take<br>‣ <strong>had better</strong> + bare infinitive."
+ },
+ "5465": {
+  "gaps": [
+   [
+    "call"
+   ]
+  ],
+  "feedback": "Correct answer: call<br>‣ <strong>had better</strong> + bare infinitive."
+ },
+ "5466": {
+  "gaps": [
+   [
+    "to change"
+   ]
+  ],
+  "feedback": "Correct answer: to change<br>‣ <strong>It's time for</strong> + person + to-infinitive."
+ },
+ "5467": {
+  "gaps": [
+   [
+    "had"
+   ]
+  ],
+  "feedback": "Correct answer: had<br>‣ The full form of 'd in this structure is <strong>had</strong> better."
+ },
+ "5468": {
+  "gaps": [
+   [
+    "not lose"
+   ]
+  ],
+  "feedback": "Correct answer: not lose<br>‣ <strong>had better not</strong> + bare infinitive."
+ },
+ "5469": {
+  "gaps": [
+   [
+    "accepted"
+   ]
+  ],
+  "feedback": "Correct answer: accepted<br>‣ <strong>It's time</strong> + subject + past simple."
+ },
+ "5470": {
+  "gaps": [
+   [
+    "change"
+   ]
+  ],
+  "feedback": "Correct answer: change<br>‣ <strong>had better</strong> + bare infinitive."
+ },
+ "5471": {
+  "gaps": [
+   [
+    "to go",
+    "we went",
+    "you went",
+    "I went",
+    "for us to go"
+   ]
+  ],
+  "feedback": "Correct answer: to go<br>‣ <strong>It's time</strong> + to-infinitive (or subject + past simple)."
+ },
+ "5472": {
+  "gaps": [
+   [
+    "not say"
+   ]
+  ],
+  "feedback": "Correct answer: not say<br>‣ <strong>had better not</strong> + bare infinitive."
+ },
+ "5473": {
+  "choices": [
+   8463
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because she prefers mobile phone apps."
+ },
+ "5474": {
+  "choices": [
+   8467
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because she prefers buying clothes in a store to try them on."
+ },
+ "5475": {
+  "choices": [
+   8469
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>it</strong> refers to the present she bought, which arrived today."
+ },
+ "5476": {
+  "choices": [
+   8471
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because the present arrived the next day, which saves her time."
+ },
+ "5477": {
+  "choices": [
+   8476
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because she says bad things can happen, but she is careful with her details."
+ },
+ "5478": {
+  "choices": [
+   8479
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because she thinks it will be the only way we will shop."
+ },
+ "5479": {
+  "choices": [
+   8481
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because to steal means to take something without permission."
+ },
+ "5487": {
+  "gaps": [
+   [
+    "'s"
+   ],
+   [
+    "few"
+   ],
+   [
+    "me"
+   ],
+   [
+    "any"
+   ],
+   [
+    "decided"
+   ],
+   [
+    "am working",
+    "work"
+   ],
+   [
+    "opposite"
+   ],
+   [
+    "at"
+   ],
+   [
+    "working"
+   ],
+   [
+    "am usually"
+   ],
+   [
+    "can't think"
+   ],
+   [
+    "am I going"
+   ],
+   [
+    "best"
+   ],
+   [
+    "are telling",
+    "told"
+   ],
+   [
+    "don't want"
+   ]
+  ],
+  "feedback": "Correct answers: 1 's, 2 few, 3 me, 4 any, 5 decided, 6 am working, 7 opposite, 8 at, 9 working, 10 am usually, 11 can't think, 12 am I going, 13 best, 14 are telling, 15 don't want<br>‣ <strong>a few</strong>; object pronoun; <strong>any</strong> in negatives; present continuous for temporary jobs; <strong>at work</strong>; <strong>enjoy</strong> + -ing; frequency adverb after be; superlative."
+ },
+ "5488": {
+  "choices": [
+   8505
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because subject pronoun <strong>we</strong> and possessive <strong>our</strong>."
+ },
+ "5489": {
+  "choices": [
+   8507
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because we use <strong>an</strong> before a vowel sound."
+ },
+ "5490": {
+  "choices": [
+   8511
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because adjectives don't take -s and go before the noun."
+ },
+ "5491": {
+  "choices": [
+   8518
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because negative present simple: doesn't + base verb."
+ },
+ "5492": {
+  "choices": [
+   8522
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because we use <strong>on</strong> with days."
+ },
+ "5493": {
+  "choices": [
+   8523
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because present simple for routines."
+ },
+ "5494": {
+  "choices": [
+   8526
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because past question: did + subject + base verb."
+ },
+ "5495": {
+  "choices": [
+   8530
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because can't + base verb."
+ },
+ "5496": {
+  "choices": [
+   8534
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because <strong>would like to</strong> + infinitive for wishes."
+ },
+ "5497": {
+  "choices": [
+   8536
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because negative imperative: Don't + verb."
+ },
+ "5498": {
+  "choices": [
+   8539
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because <strong>offer</strong> is followed by the to-infinitive."
+ },
+ "5499": {
+  "choices": [
+   8541
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because <strong>many</strong> with plural countable nouns in negatives."
+ },
+ "5500": {
+  "choices": [
+   8546
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because <strong>it</strong> is the dummy subject before an adjective + to-infinitive."
+ },
+ "5501": {
+  "choices": [
+   8549
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because clouds are <strong>above</strong> us."
+ },
+ "5502": {
+  "choices": [
+   8552
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because the comparative of far is <strong>further/farther</strong>."
+ },
+ "5503": {
+  "choices": [
+   8554
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because he grew up in Lancaster."
+ },
+ "5504": {
+  "choices": [
+   8555
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because his dad speaks English and French and his mum can speak French too."
+ },
+ "5505": {
+  "choices": [
+   8558
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because his dad moved to England and married his mum there."
+ },
+ "5506": {
+  "choices": [
+   8559
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because his dad is much taller than his mum."
+ },
+ "5507": {
+  "choices": [
+   8561
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because she works at a chemist's opposite their home."
+ },
+ "5508": {
+  "choices": [
+   8563
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because she has the same eye colour as her father, who has blue eyes."
+ },
+ "5509": {
+  "choices": [
+   8566
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because he has blonde hair like his dad."
+ },
+ "5510": {
+  "choices": [
+   8568
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because she would like to be a musician; she isn't one yet."
+ },
+ "5511": {
+  "choices": [
+   8569
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because they always order pizza."
+ },
+ "5512": {
+  "choices": [
+   8572
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because she starts at 5:15 and checks emails for 30 minutes."
+ },
+ "5513": {
+  "choices": [
+   8576
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because she runs for an hour and a half."
+ },
+ "5514": {
+  "choices": [
+   8579
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because breakfast is usually cereal and fruit, occasionally less healthy."
+ },
+ "5515": {
+  "choices": [
+   8580
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because she meditates every morning and sometimes in the afternoon."
+ },
+ "5516": {
+  "choices": [
+   8583
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because she sometimes falls asleep listening to music."
+ },
+ "5517": {
+  "choices": [
+   8587
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because she always makes sure her alarm is set."
+ },
+ "5524": {
+  "choices": [
+   8608
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because it is very peaceful and quiet."
+ },
+ "5525": {
+  "choices": [
+   8609
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because there aren't many cars."
+ },
+ "5526": {
+  "choices": [
+   8612
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because he plays baseball in the field, not in the playground."
+ },
+ "5527": {
+  "choices": [
+   8614
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because he lives on Maple Road."
+ },
+ "5528": {
+  "choices": [
+   8616
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because the gardens are beautiful in the spring."
+ },
+ "5529": {
+  "choices": [
+   8618
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because he lives in the suburbs."
+ },
+ "5530": {
+  "choices": [
+   8620
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because the police station is next to the school."
+ },
+ "5531": {
+  "choices": [
+   8621
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because he thinks he is lucky to live there."
+ },
+ "5546": {
+  "choices": [
+   8667
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because Muensterberger thinks we collect to feel safe and secure."
+ },
+ "5547": {
+  "choices": [
+   8672
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because Jung linked collecting to survival in ancient times."
+ },
+ "5548": {
+  "choices": [
+   8682
+  ],
+  "feedback": "‣ <strong>F</strong> is correct because Roach thinks people collect to remember childhood collections."
+ },
+ "5549": {
+  "choices": [
+   8686
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because Bloom thinks collectors want historical importance after death."
+ },
+ "5550": {
+  "choices": [
+   8694
+  ],
+  "feedback": "‣ <strong>F</strong> is correct because Roach says adults have money and opportunity to find special items."
+ },
+ "5551": {
+  "choices": [
+   8699
+  ],
+  "feedback": "‣ <strong>E</strong> is correct because no one says this; Jung talks about food for winter, not something to do."
+ },
+ "5552": {
+  "choices": [
+   8701
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because Baker feels connected to famous people by meeting them."
+ },
+ "5553": {
+  "choices": [
+   8707
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because Mark Baker loves the excitement of trying to get autographs."
+ },
+ "5568": {
+  "choices": [
+   8750
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because it remembers the gift of trees from the mayor of Tokyo to the mayor of Washington."
+ },
+ "5569": {
+  "choices": [
+   8751
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because Burning Man is a nine-day desert event; the others are described as family events."
+ },
+ "5570": {
+  "choices": [
+   8756
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because it has parades, concerts, a kite festival and a 10-mile run."
+ },
+ "5571": {
+  "choices": [
+   8758
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because it is the largest 2-day food festival in the country."
+ },
+ "5572": {
+  "choices": [
+   8761
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because most of the food comes from regional restaurants."
+ },
+ "5573": {
+  "choices": [
+   8763
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because it is very popular with influencers on social media."
+ },
+ "5574": {
+  "choices": [
+   8768
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because the parade includes marching bands."
+ },
+ "5575": {
+  "choices": [
+   8771
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because the sculptures are surprising because they are all made from rubbish."
+ },
+ "5576": {
+  "choices": [
+   8773
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because nobody was allowed to build there, so his project was illegal."
+ },
+ "5577": {
+  "choices": [
+   8778
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because the government tried to destroy it, but the people wanted to keep it."
+ },
+ "5578": {
+  "choices": [
+   8784
+  ],
+  "feedback": "‣ <strong>D</strong> is correct because when he returned from the USA, his garden was destroyed."
+ },
+ "5579": {
+  "choices": [
+   8785
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because the plan to build a VIP road failed because local people protested."
+ },
+ "5599": {
+  "choices": [
+   8862
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because Pope Francis worked as a bouncer, responsible for security at a bar."
+ },
+ "5600": {
+  "choices": [
+   8864
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because Brad Pitt dressed up like a chicken."
+ },
+ "5601": {
+  "choices": [
+   8866
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because Obama said the job taught him responsibility and hard work."
+ },
+ "5602": {
+  "choices": [
+   8870
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because Brad Pitt waved at cars to attract customers to the restaurant."
+ },
+ "5603": {
+  "choices": [
+   8872
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because Obama said the job was quite hard."
+ },
+ "5604": {
+  "choices": [
+   8877
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because Pope Francis worked several jobs before joining the Jesuits."
+ },
+ "6230": {
+  "choices": [
+   10629
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because Sandy often carried a painting and the writer wanted to paint too."
+ },
+ "6231": {
+  "choices": [
+   10633
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because she started in January because her birthday is in December."
+ },
+ "6232": {
+  "choices": [
+   10634
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because three other kids started school on the same day."
+ },
+ "6233": {
+  "choices": [
+   10637
+  ],
+  "feedback": "‣ <strong>A</strong> is correct because she was excited about her first day."
+ },
+ "6234": {
+  "choices": [
+   10642
+  ],
+  "feedback": "‣ <strong>C</strong> is correct because she cried when thirty children looked at her."
+ },
+ "6235": {
+  "choices": [
+   10644
+  ],
+  "feedback": "‣ <strong>B</strong> is correct because Miss Holland read them a story."
+ }
+}

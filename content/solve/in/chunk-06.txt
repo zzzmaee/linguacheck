@@ -1,0 +1,2687 @@
+=== PAGE /grammar-points/b1-b2/do-or-make-which-is-it/ | Do or Make: Which is it? | level b1-b2
+--- QUIZ 1115
+CONTEXT:
+Exercise 2
+ Fill in the gaps with either ‘do’ or ‘make’ in the correct form. Use the subject or word in brackets where needed.
+ EXAMPLE: The children are doing their homework right now.
+Q 9603 [gaps] The teacher {1} us stay after school because we hadn’t finished our work.
+  {1} free text
+Q 9604 [gaps] The children {1} (not) very well in the last history exam.
+  {1} free text
+Q 9605 [gaps] Sam {1} his bed yet.
+  {1} free text
+Q 9606 [gaps] The best cheeses are {1} in France.
+  {1} free text
+Q 9607 [gaps] The company {1} a huge profit last year.
+  {1} free text
+Q 9608 [gaps] The telephone rang while we {1} ourselves a snack.
+  {1} free text
+Q 9609 [gaps] {1} (you) the dishes yet?
+  {1} free text
+Q 9610 [gaps] He {1} me a huge favour and picked up the kids from school.
+  {1} free text
+Q 9611 [gaps] I asked the manager to {1} something about the noise.
+  {1} free text
+Q 9612 [gaps] I will {1} the report as soon as I get home.
+  {1} free text
+
+=== PAGE /reading/b2/finding-calm-in-cities-b2-english-reading-test/ | Finding calm in cities – B2 English Reading Test | level b2
+--- QUIZ 1009
+CONTEXT:
+B2 English Reading Test
+ You are going to read about Alicia’s experiences living in four different cities. For questions 1-10, choose from the cities A-D. You may choose each city more than once.
+ Finding calm in cities
+ A. Trinka
+ While studying here, I stayed in an apartment in Saint Catherine’s Square. In medieval times, this would have been a bustling area used for markets and public gatherings, but now it’s a little haven of calm, away from traffic and commerce. There are places like this dotted around the city, most of which have benches where you can rest your feet. There’s no greenery in them, though. It would have been nice to get some shade from a tree or enjoy its blossom. The city as a whole lacks green spaces or paths beside the river where you can enjoy nature. Even so, under the canopy of a sidewalk café, with your back against a café window, you can detach yourself from the fast pace of city life and while away the hours even on the city’s busiest streets.
+ B. Kampela
+ As a city, Kampela is entirely utilitarian. The purpose of its streets is simply to shift people and goods from one place to another. Consequently, they are devoid of any aesthetic attributes, like statues or old decorative features. Since there’s nothing of appeal to make you want to linger, everyone just puts their head down and gets where they want to be as quickly as possible. As a result, it doesn’t give the impression of a relaxing city. That said, once you get where you want to be, you will often find yourself somewhere peaceful and serene. For there is no shortage of quiet tea shops and bars designed with soft lighting and comfortable furniture to calm your nerves. Many of these have outdoor spaces at the back, which are quiet and well-tended despite being overlooked by other buildings. 
+ C. Pokamarka
+ Urban planners in Pokamarka seem to have not considered that people might enjoy eating or drinking outside since wide pavements or pedestrianized zones which might house a bench or a café don’t exist here. If you want to keep moving, though, you can get some quiet time in plenty of places. The routes along the canal are perfect for stretching the legs. Moreover, the city’s park is barely used, though it’s not terribly well maintained. It’s hard to find somewhere to sit which looks both clean and able to support someone’s weight. There’s rather a lot of graffiti and vandalism, which has probably discouraged the local council from planting trees and flowers. The few that exist look rather unkempt.
+ D. Melwick
+ From an aerial photograph, you would think that Melwick would have plenty of peaceful outdoor spaces. After all, its harbour location offers lots of paved walkways and open plazas, and Great Park is well-known for its stunning trees and botanical gardens, which are just as spectacular in real life as in pictures. The problem is that these spaces are always heaving with tourists trying to take selfies against the statues and memorials, so trying to relax there will make you stressed and irritated. Your best option is to get on a ferry or cable car at a quiet time of day. Then, you can watch the city drift past in peace. However, time it wrong and you’ll be queuing next to a load of noisy school kids. Even the cafes don’t give you any kind of refuge, as the servers want you in and out as quickly as possible.
+ Questions
+ Which city is being described?
+Q 8604 [radio] The city has no attractive outdoor features.
+ 15170) Trinka
+ 15171) Kampela
+ 15172) Pokamarka
+ 15173) Melwick
+Q 8605 [radio] You are unlikely to find peace eating or drinking indoors here.
+ 15174) Trinka
+ 15175) Kampela
+ 15176) Pokamarka
+ 15177) Melwick
+Q 8606 [radio] The city has many popular historical monuments.
+ 15178) Trinka
+ 15179) Kampela
+ 15180) Pokamarka
+ 15181) Melwick
+Q 8607 [radio] You can have a peaceful walk beside the water here.
+ 15182) Trinka
+ 15183) Kampela
+ 15184) Pokamarka
+ 15185) Melwick
+Q 8608 [radio] The most peaceful areas are inside or behind buildings.
+ 15186) Trinka
+ 15187) Kampela
+ 15188) Pokamarka
+ 15189) Melwick
+Q 8609 [radio] Areas that used to be busy are now peaceful.
+ 15190) Trinka
+ 15191) Kampela
+ 15192) Pokamarka
+ 15193) Melwick
+Q 8610 [radio] Sitting outdoors in this city is pleasant and relaxing.
+ 15194) Trinka
+ 15195) Kampela
+ 15196) Pokamarka
+ 15197) Melwick
+Q 8611 [radio] You may find peace when taking some forms of transport.
+ 15198) Trinka
+ 15199) Kampela
+ 15200) Pokamarka
+ 15201) Melwick
+Q 8612 [radio] You won’t find many people in this city’s park.
+ 15202) Trinka
+ 15203) Kampela
+ 15204) Pokamarka
+ 15205) Melwick
+Q 8613 [radio] The public park has attractive, well-kept plants.
+ 15206) Trinka
+ 15207) Kampela
+ 15208) Pokamarka
+ 15209) Melwick
+
+=== PAGE /reading/b1/adopting-a-child-b1-english-reading-test/ | Adopting a child – B1 English Reading Test | level b1
+--- QUIZ 1006
+CONTEXT:
+B1 English Reading Test
+ Read a text about child adoption, and for questions 1 to 6, choose the correct answer.
+ Adopting a child
+ Adopting felt like the right choice for my husband and I. It wasn’t because we couldn’t have a baby by ourselves. I didn’t get pregnant naturally, but we could have tried IVF. But I was worried that doing so would affect our relationship. We had always aimed to do things together and share responsibility. But that’s not possible when it comes to pregnancy and IVF. Plus, my husband’s mother was adopted, so it didn’t seem an unusual thing to do. Since then, I’ve realised just how many kids are in care, looking for homes and families, and I know it was the right choice. 
+ Parents interested in adoption have to go through an in-depth training course. They not only learn about the experiences of kids in care, but also they study their own lives in detail. It’s an emotional process because you remember all sorts of issues from your past that you’d rather not think about. But it teaches you a lot about yourself and your partner. Afterwards, you are far more prepared to deal with family issues than people who become parents naturally. 
+ The adoption agency encouraged us to specify what sort of child we wanted to adopt regarding their sex, age, appearance, health, educational ability, hobbies and so on. We didn’t feel comfortable about that because we would have been happy to provide a home for any child who needed it. But their reasoning was clear. The better the child meets the parents’ expectations, the more likely it’ll succeed. Our training had taught us that we had certain expectations of family life, so we followed their advice and came up with a list. 
+ We had to have an interview in front of a large panel of social workers to be accepted as potential parents. We did everything we could to prepare for that. We even volunteered with a local youth group to get experience with children, as we didn’t have any nieces, nephews or friends with kids. As soon as they’d come to a decision –a positive one, our social worker brought out a file with information about kids currently in care. We started to put documents into piles: “yes”, “no” and “maybe”. 
+ We got further information about three of those kids, and one stood out for us both. He was six years old, which is quite old among children who are up for adoption. Many parents prefer to adopt toddlers because they want to experience teaching them to walk, talk, read and write. That wasn’t important to us. It does seem a shame, though, that 6-year-olds already face discrimination for their age. 
+ Things happened very fast after that. We met the boy’s foster carers and teachers, and his social worker visited us at home. However, parents only meet the child they’re going to adopt once the adoption has been finalised. That way, the kid doesn’t get stressed or given false hopes. After a second interview, we were accepted. A week was put in the diary when we would first spend time with the boy at his carer’s home, taking him out on trips or just hanging out playing games and reading stories. A few days later, they stayed at a hotel near our house, and he gradually spent more time with us. Finally, the carers left, and the boy stayed – we now had a son!
+ Questions
+Q 8581 [radio] Why did the writer choose to adopt a child?
+ 15080) A. She hadn't been able to have a baby with IVF.
+ 15081) B. Her mother-in-law persuaded her to adopt.
+ 15082) C. She didn't want her relationship to change.
+ 15083) D. She was concerned about the number of kids in care.
+Q 8582 [radio] What does the writer most likely think about the pre-adoption training?
+ 15084) A. Talking about emotional past issues was unnecessary.
+ 15085) B. She learned a lot about the life of the child she adopted.
+ 15086) C. She benefited more from the training than her partner.
+ 15087) D. All parents would benefit from doing a course like that.
+Q 8583 [radio] How did the couple select a child to adopt?
+ 15088) A. They made a list of criteria that they wanted.
+ 15089) B. They accepted any child who needed a home.
+ 15090) C. They chose a child whose earlier adoption had failed.
+ 15091) D. They let the agency choose a suitable child for them.
+Q 8584 [radio] What happened after the couple's first interview?
+ 15092) A. They volunteered with a local youth group.
+ 15093) B. They shortlisted potential children to adopt.
+ 15094) C. They spent time with several different kids in care.
+ 15095) D. They got parenting advice from their social worker.
+Q 8585 [radio] The boy the couple adopted was…
+ 15096) A. older than they originally intended to adopt.
+ 15097) B. older than most children chosen by adopters.
+ 15098) C. younger than they originally intended to adopt.
+ 15099) D. younger than most children chosen by adopters.
+Q 8586 [radio] Which of these events was the last to occur?
+ 15100) A. The couple met the boy.
+ 15101) B. The couple had a second interview.
+ 15102) C. The couple met the boy's teacher.
+ 15103) D. The adoption was finalised.
+
+=== PAGE /vocabulary/b2/work-and-jobs-b2-english-vocabulary/ | Work and jobs – B2 English Vocabulary | level b2
+--- QUIZ 1096
+CONTEXT:
+Work and jobs
+ In this B2 Pre-advanced Vocabulary Lesson about Work and Jobs, you will learn common terms and phrases associated with employment and the workplace. Check the explanation to familiarize yourself with the expressions before doing the exercises.
+ Exercise 1
+ Complete the sentences with the most suitable words about Work and Jobs.
+Q 9430 [radio] Sara _____ because the company no longer required an assistant receptionist.
+ 16551) A. was made redundant
+ 16552) B. was sacked
+ 16553) C. got promoted
+ 16554) D. clocked in
+Q 9431 [radio] Gary and his colleagues are always _____, even when they’re not at work.
+ 16555) A. clock in
+ 16556) B. being laid off
+ 16557) C. being snowed under
+ 16558) D. talking shop
+Q 9432 [radio] Jerry has been on _____ ever since his car accident last month.
+ 16559) A. maternity leave
+ 16560) B. early retirement
+ 16561) C. sick leave
+ 16562) D. paternity leave
+Q 9433 [radio] Pablo plans to _____ and stop working when he turns 55.
+ 16563) A. clock in
+ 16564) B. get promoted
+ 16565) C. do work experience
+ 16566) D. take early retirement
+Q 9434 [radio] The doctor was tired because he’d just finished a 12-hour _____.
+ 16567) A. bonus
+ 16568) B. leave
+ 16569) C. shift
+ 16570) D. apprenticeship
+Q 9435 [radio] We were surprised when Tom _____, as we’d thought he was happy working here.
+ 16571) A. handed in his notice
+ 16572) B. met deadlines
+ 16573) C. switched off
+ 16574) D. was snowed under
+Q 9436 [radio] I’m trying to earn some extra cash, so I’m doing a lot of _____.
+ 16575) A. apprenticeship
+ 16576) B. overtime
+ 16577) C. perks
+ 16578) D. bonus
+Q 9437 [radio] I want to find a _____ so I don’t have to work nights and weekends anymore.
+ 16579) A. benefit
+ 16580) B. sick leave
+ 16581) C. apprenticeship
+ 16582) D. nine-to-five job
+Q 9438 [radio] With robots replacing many jobs these days, lots of people worry about _____.
+ 16583) A. being sacked
+ 16584) B. being made redundant
+ 16585) C. getting promoted
+ 16586) D. meeting deadlines
+Q 9439 [radio] Jim has been _____ ever since the factory where he worked closed down.
+ 16587) A. out of work
+ 16588) B. talking shop
+ 16589) C. snowed under
+ 16590) D. sacked
+
+=== PAGE /vocabulary/b2/work-and-jobs-b2-english-vocabulary/ | Work and jobs – B2 English Vocabulary | level b2
+--- QUIZ 1097
+CONTEXT:
+Work and jobs
+ Exercise 2
+ Choose the most suitable options to complete these sentences. You can use each option ONLY ONCE.
+Q 9440 [gaps] I see there’s a job {1} at the bank. You should apply for it.
+  {1} options: benefits | security | leave | dead-end | were laid off | got promoted | clocked off | bonus | vacancy | qualifications
+Q 9441 [gaps] As soon as I {1} work, I caught the bus home.
+  {1} options: benefits | bonus | vacancy | were laid off | got promoted | dead-end | qualifications | leave | security | clocked off
+Q 9442 [gaps] I know it’s a {1} job, so I’m looking for something else.
+  {1} options: clocked off | qualifications | dead-end | security | vacancy | benefits | got promoted | were laid off | bonus | leave
+Q 9443 [gaps] Sara {1} last week. Now she’s an area manager.
+  {1} options: dead-end | were laid off | benefits | leave | clocked off | qualifications | got promoted | vacancy | bonus | security
+Q 9444 [gaps] Many people {1} when the factory closed down.
+  {1} options: security | got promoted | dead-end | were laid off | qualifications | vacancy | benefits | leave | bonus | clocked off
+Q 9445 [gaps] All Alice’s {1} were listed on her CV.
+  {1} options: benefits | qualifications | bonus | clocked off | were laid off | dead-end | leave | got promoted | vacancy | security
+Q 9446 [gaps] Signing a contract with the company will provide you with greater job {1} .
+  {1} options: qualifications | clocked off | leave | bonus | dead-end | security | vacancy | got promoted | benefits | were laid off
+Q 9447 [gaps] Last year, I received a generous {1} for helping to boost sales.
+  {1} options: vacancy | were laid off | qualifications | bonus | dead-end | benefits | got promoted | clocked off | security | leave
+Q 9448 [gaps] Jean gave birth to twins last month, so is currently on maternity {1} .
+  {1} options: bonus | leave | security | benefits | were laid off | clocked off | vacancy | qualifications | dead-end | got promoted
+Q 9449 [gaps] As well as a decent salary, the job comes with excellent perks and {1} .
+  {1} options: clocked off | bonus | dead-end | got promoted | leave | were laid off | benefits | vacancy | security | qualifications
+
+=== PAGE /vocabulary/b2/work-and-jobs-b2-english-vocabulary/ | Work and jobs – B2 English Vocabulary | level b2
+--- QUIZ 1098
+CONTEXT:
+Work and jobs
+ Exercise 3
+ Complete the sentences with the words from the box. Use each word ONLY ONCE.
+ apprenticeship – burnout – clocked off – demanding job – got promoted – meet deadlines – perks – resign – steady job – switch off
+Q 9450 [gaps] Ever since I was a child, I'd dreamt of finding a job in the travel industry, and when I was 20 years old, I got an 1 {1} with a national airline. I really enjoyed the experience, and when that came to an end, the company offered me a 2 {2} as a travel rep, booking holidays for customers. The job came with a decent salary and some great 3 {3} , such as two free flights a year and first-class tickets to certain destinations, so I was absolutely delighted. My employers were obviously impressed with my performance, as after just six months, I 4 {4} to head of my department.  /  Although I enjoyed this position, it was a 5 {5} , and with very few staff to help me, I was often snowed under with work and struggled to 6 {6} . I rarely 7 {7} before midnight, and on the rare occasions that I did, I found it impossible to 8 {8} . It wasn’t long before I started suffering from 9 {9} , and my husband urged me to 10 {10} .  /  I did, and it turned out to be a good decision, as soon after that, we became parents to a beautiful baby boy. I’m sure I’ll return to work one day, but for now, I’m happy just watching my son grow up and enjoy a stress-free life.
+  {1} free text
+  {2} free text
+  {3} free text
+  {4} free text
+  {5} free text
+  {6} free text
+  {7} free text
+  {8} free text
+  {9} free text
+  {10} free text
+
+=== PAGE /vocabulary/b2/health-and-sickness-b2-english-vocabulary/ | Health and sickness – B2 English Vocabulary | level b2
+--- QUIZ 1093
+CONTEXT:
+Health and sickness
+ In this B2 Pre-advanced Vocabulary Lesson about Health and Sickness, you will learn various terms and verbs associated with health, medical conditions, and treatments. Check the explanation to familiarize yourself with the expressions before doing the exercises.
+ Exercise 1
+ Complete the sentences with the most suitable words about Health and Sickness.
+Q 9420 [radio] After several tests, the patient ___ a rare condition that needed immediate attention.
+ 16511) A. contracted
+ 16512) B. came down with
+ 16513) C. was diagnosed with
+ 16514) D. prescribed
+Q 9421 [radio] Doctors often ___ medications to help patients manage their symptoms.
+ 16515) A. come down with
+ 16516) B. die of
+ 16517) C. prescribe
+ 16518) D. develop
+Q 9422 [radio] Sadly, many people ___ serious illnesses due to lack of early detection.
+ 16519) A. die from
+ 16520) B. come down with
+ 16521) C. contract
+ 16522) D. are diagnosed with
+Q 9423 [radio] Some patients prefer using ___ instead of or alongside standard treatments.
+ 16523) A. conventional medicine
+ 16524) B. alternative medicine
+ 16525) C. mental health
+ 16526) D. healthcare
+Q 9424 [radio] Unlike ___ which relies on pharmaceuticals, alternative treatments may include herbal remedies.
+ 16527) A. healthcare
+ 16528) B. mental health
+ 16529) C. conventional medicine
+ 16530) D. alternative medicine
+Q 9425 [radio] Maintaining a regular exercise routine helps people stay ___.
+ 16531) A. in good shape
+ 16532) B. health-conscious
+ 16533) C. on the mend
+ 16534) D. on their feet
+Q 9426 [radio] There is increasing awareness about the importance of ___ in overall well-being.
+ 16535) A. mental health
+ 16536) B. healthcare
+ 16537) C. alternative medicine
+ 16538) D. conventional medicine
+Q 9427 [radio] The government is working to improve the ___ system to make treatments more accessible.
+ 16539) A. healthcare
+ 16540) B. alternative medicine
+ 16541) C. lifestyle
+ 16542) D. health risk
+Q 9428 [radio] When I ___ the flu, I never go to the doctor
+ 16543) A. come down with
+ 16544) B. be diagnosed with
+ 16545) C. prescribe
+ 16546) D. die of
+Q 9429 [radio] The new treatment may reduce significantly the number of people who _____ the disease.
+ 16547) A. contract
+ 16548) B. prescribe
+ 16549) C. prevent
+ 16550) D. recover from
+
+=== PAGE /vocabulary/b2/health-and-sickness-b2-english-vocabulary/ | Health and sickness – B2 English Vocabulary | level b2
+--- QUIZ 1094
+CONTEXT:
+Health and sickness
+ Exercise 2
+ Choose the most suitable options to complete these sentences. You can use each option ONLY ONCE.
+Q 9410 [gaps] Washing your hands regularly can help to {1} the spread of germs and illnesses.
+  {1} options: terminally ill | health issues | passed away | get over | suffer from | a bit under the weather | prevent | back on my feet | catch | health-conscious
+Q 9417 [gaps] Due to her {1} , she has to visit the doctor more frequently than usual.
+  {1} options: passed away | a bit under the weather | catch | terminally ill | back on my feet | prevent | suffer from | health-conscious | get over | health issues
+Q 9411 [gaps] He has the flu. Don't get near him, or you'll {1} it yourself.
+  {1} options: back on my feet | get over | passed away | prevent | suffer from | a bit under the weather | health-conscious | health issues | terminally ill | catch
+Q 9412 [gaps] I won't be coming to the party tonight as I feel {1} .
+  {1} options: terminally ill | suffer from | passed away | prevent | health issues | back on my feet | catch | health-conscious | get over | a bit under the weather
+Q 9413 [gaps] Many people {1} allergies during the spring season.
+  {1} options: suffer from | back on my feet | catch | a bit under the weather | health-conscious | get over | health issues | prevent | terminally ill | passed away
+Q 9416 [gaps] It's sad to hear that the elderly man has been {1} for several months now.
+  {1} options: suffer from | get over | passed away | health issues | a bit under the weather | terminally ill | prevent | catch | back on my feet | health-conscious
+Q 9414 [gaps] It took her several weeks to {1} COVID.
+  {1} options: catch | passed away | suffer from | back on my feet | get over | health-conscious | a bit under the weather | terminally ill | prevent | health issues
+Q 9415 [gaps] After my surgery, I am finally {1} and returning to my normal activities.
+  {1} options: back on my feet | passed away | health-conscious | catch | suffer from | terminally ill | health issues | get over | a bit under the weather | prevent
+Q 9418 [gaps] Since he became more {1} , he has started eating a lot of fruits and vegetables.
+  {1} options: passed away | catch | prevent | suffer from | get over | a bit under the weather | health issues | health-conscious | back on my feet | terminally ill
+Q 9419 [gaps] They were sad to hear that their beloved teacher had {1} after a long battle with illness.
+  {1} options: terminally ill | suffer from | catch | health issues | a bit under the weather | passed away | health-conscious | get over | back on my feet | prevent
+
+=== PAGE /vocabulary/b2/health-and-sickness-b2-english-vocabulary/ | Health and sickness – B2 English Vocabulary | level b2
+--- QUIZ 1095
+CONTEXT:
+Health and sickness
+ Exercise 3
+ Complete the text with the words in the box. Use each word ONLY ONCE.
+ develop – health risk – health scare – life-threatening – lifestyle – look after – on the mend – out of shape – relieve – sick note
+Q 9409 [gaps] Maintaining good health is essential for a happy and fulfilling life. One way to 1 {1} your health is by focusing on a balanced diet and active 2 {2} . John, a 35-year-old office worker, learned this the hard way. He used to lead a sedentary life, which led him to become quite 3 {3} . This became a significant 4 {4} , as his doctor warned that he might 5 {5} heart problems if he didn't change his habits. /  One day, John had a 6 {6} when he felt a sharp pain in his chest. He was rushed to the hospital, where the doctors managed to 7 {7} the pain. After several tests, they concluded it wasn't a 8 {8} condition, but it was a wake-up call for John. He was given a 9 {9} and advised to rest at home for a week. /  During his recovery, John decided to change his life. He started exercising regularly and eating healthier foods. Slowly, he began to be 10 {10} . It wasn't easy, but after a few months, he was in good shape and felt better than ever. John's story is a reminder that taking care of our physical and mental well-being is vital.
+  {1} free text
+  {2} free text
+  {3} free text
+  {4} free text
+  {5} free text
+  {6} free text
+  {7} free text
+  {8} free text
+  {9} free text
+  {10} free text
+
+=== PAGE /reading/b2/second-hand-fashion-b2-english-reading-test/ | Second-hand fashion – B2 English Reading Test | level b2
+--- QUIZ 1010
+CONTEXT:
+B2 English Reading Test
+ You are going to read an article about the growth and impact of the second-hand fashion industry. For questions 1-6, choose the correct answer.
+ Second-Hand Fashion
+ Amy Wyke, a successful second-hand clothes retailer, talks about the evolution of this industry.
+ Amy had told me that she mostly wore purely second-hand outfits these days, so when I first saw her in her sharp, red blazer and pleated skirt, I assumed this was one of the rare days when she’d decided to dress in brand-new clothes. Surely, if they were second-hand, the red would be faded, and the jacket would have lost its shape. However, Amy assured me that they were not. She admits, though, that she would ordinarily wear something far more comfortable and scruffy.
+ Asked whether she’d always been a fan of dressing second-hand, Amy said, ‘As teenagers, we’d make fun of the kids who wore used clothes. It was a sign that you couldn’t afford new things, and no one wanted to admit to coming from a poor family. Whenever my mum came home with something for me, I’d refuse to wear it, even if it looked quite trendy. I was convinced that someone would somehow know where it had come from. It might have belonged to one of my friend’s siblings for all I knew! 
+ ‘It’s completely different now,’ Amy continues. ‘Teens these days will happily admit to wearing second-hand clothes. The fact that they are affordable is a benefit, but it’s not their main motivation. After all, plenty of stores offer cheap, mass-produced clothes. Even with many high street shops closing, you can buy them online, and despite what is often said, these clothes can be well-designed and long-lasting. But there lies the problem. They produce mountains of polluting waste, and young people want to do their bit to prevent that.’ 
+ Now, Amy is one of many new entrepreneurs making the most of the trend in second-hand clothing. It’s not all plain sailing, though. As Amy says, ‘With so many competitors, you’ve got to find your edge. Some sellers specialise in designer labels, for example, or clothing from a particular era. Of course, you have the problem of sourcing the right clothes for your brand. Trends change as well, which could turn around and bite you. Selling a bit of everything, as I do, means I’m not putting all my eggs in one basket, but it means I have to find other ways to attract customers’. 
+ ‘I’ve learned important lessons in my work, especially regarding money. I struggled working alone and earning a pittance for ages, thinking it was more cost-effective than taking on staff. I’m so glad I’m not doing that now, as I’m bringing in far more even while paying out for two people’s wages. It’s the same with the website. The one I designed was decent enough, but it has really paid off since I took the plunge and paid professionals to improve the design. It doesn’t come easily to me, as I’m not naturally a spendthrift.’ 
+ I asked Amy her thoughts about the future of second-hand clothing. After all, a growing industry in second-hand clothes could hurt the industries that produce new clothes, so potentially, once all our second-hand ones are worn out, we might run out of clothes. Amy is more optimistic, however. ‘The second-hand clothing market has brought in a new interest in adapting and redesigning old clothes or making them from scratch. That’s something that really died out in the era of chain stores. So, in future, I think I’ll be stocking more of those kinds of clothes, which is great.’
+ Questions
+Q 8614 [radio] The clothes that Amy is wearing to the interview…
+ 15210) A. were purchased brand new for the interview.
+ 15211) B. are smart but visibly second-hand.
+ 15212) C. are in better condition than the interviewer expected.
+ 15213) D. are second-hand, casual clothes in good condition.
+Q 8615 [radio] As a child, Amy…
+ 15214) A. never wore the second-hand clothes she was given.
+ 15215) B. wore second-hand clothes but didn’t tell anyone.
+ 15216) C. was made fun of for wearing second-hand clothes.
+ 15217) D. made wearing second-hand clothes trendy among her peers.
+Q 8616 [radio] According to Amy, what is the main reason why young people buy second-hand clothes?
+ 15218) A. Second-hand clothes are better quality than most cheap, new clothes.
+ 15219) B. Young people want to reduce the environmental issues of new clothes.
+ 15220) C. Many of the high street shops that sell new clothes have closeD.
+ 15221) D. Buying second-hand clothes is cheaper than buying brand-new clothes.
+Q 8617 [radio] The way Amy runs her business means that she…
+ 15222) A. attracts more customers than her competitors.
+ 15223) B. spends a lot of time looking for the right clothes to sell.
+ 15224) C. avoids problems that some of her competitors experience.
+ 15225) D. has recently lost trade due to growing competition.
+Q 8618 [radio] Which idiom best reflects Amy’s experience?
+ 15226) A. An investment in knowledge pays the best interest.
+ 15227) B. What is comfortable is rarely profitable.
+ 15228) C. You’ve got to spend money to make money.
+ 15229) D. A fool and his money are soon parteD.
+Q 8619 [radio] Amy believes that in future…
+ 15230) A. more people will make or redesign their clothes.
+ 15231) B. companies like hers will sell more homemade clothes.
+ 15232) C. chain stores that sell new clothes will close down.
+ 15233) D. chain stores will sell second-hand clothes.
+
+=== PAGE /vocabulary/b2/car-b2-english-vocabulary/ | Cars, roads and traffic – B2 English Vocabulary | level b2
+--- QUIZ 1089
+CONTEXT:
+Cars, roads and traffic
+ In this B2 Pre-advanced Vocabulary Lesson about Cars, Roads and Traffic, you will learn about the various components of vehicles, road features, and common verbs and verb phrases used to describe driving actions and events. Check the explanation to familiarize yourself with the expressions before doing the exercises. 
+ Exercise 1
+ Choose the correct option for each gap.
+Q 9383 [radio] To avoid an accident, the driver had to quickly switch to another _____.
+ 16407) A. roundabout
+ 16408) B. DUI
+ 16409) C. crosswalk
+ 16410) D. lane
+Q 9384 [radio] _____ incidents are often caused by stress and frustration while driving.
+ 16411) A. Merge
+ 16412) B. Road rage
+ 16413) C. DUI
+ 16414) D. Brake
+Q 9385 [radio] He was drunk at the wheel and was arrested for _____.
+ 16415) A. get pulled over
+ 16416) B. reverse
+ 16417) C. DUI
+ 16418) D. change gears
+Q 9386 [radio] In a manual car, it's important to know how to smoothly _____.
+ 16419) A. be fined
+ 16420) B. change gears
+ 16421) C. honk
+ 16422) D. stall
+Q 9387 [radio] If a car suddenly cuts you off, your immediate reaction might be to _____ the horn.
+ 16423) A. honk
+ 16424) B. brake
+ 16425) C. merge
+ 16426) D. yield
+Q 9388 [radio] If a car's engine suddenly _____ while driving, it might cause a hazardous situation.
+ 16427) A. merges
+ 16428) B. reverses
+ 16429) C. stalls
+ 16430) D. gets pulled over
+Q 9389 [radio] On a busy highway, it's important to safely _____ into the flow of traffic.
+ 16431) A. reverse
+ 16432) B. merge
+ 16433) C. overtake
+ 16434) D. pull over
+Q 9390 [radio] In a tight parking spot, you might have to _____ several times to align your car correctly.
+ 16435) A. change lanes
+ 16436) B. give way
+ 16437) C. pull over
+ 16438) D. reverse
+Q 9391 [radio] If you exceed the speed limit, you may _____ by the police.
+ 16439) A. change gears
+ 16440) B. get pulled over
+ 16441) C. yield
+ 16442) D. stall
+Q 9392 [radio] If you don't slow down, you will _____.
+ 16443) A. merge
+ 16444) B. get a ticket
+ 16445) C. reverse
+ 16446) D. DUI
+
+=== PAGE /vocabulary/b2/car-b2-english-vocabulary/ | Cars, roads and traffic – B2 English Vocabulary | level b2
+--- QUIZ 1090
+CONTEXT:
+Cars, roads and traffic
+ Exercise 2
+ Choose the most suitable option to complete each sentence. You can use each option ONLY ONCE.
+Q 9373 [gaps] When you see a police car behind you with its lights flashing, you should safely {1} .
+  {1} options: rest area | pull over | speed bump | oncoming traffic | yield | turn signal | drink-driving | make a U-turn | the right of way | overtake
+Q 9374 [gaps] {1} is illegal and can result in serious legal consequences.
+  {1} options: the right of way | make a U-turn | rest area | yield | overtake | oncoming traffic | turn signal | pull over | drink-driving | speed bump
+Q 9375 [gaps] Before you change lanes, always use your {1} to let other drivers know your intentions.
+  {1} options: drink-driving | oncoming traffic | make a U-turn | overtake | yield | rest area | turn signal | the right of way | pull over | speed bump
+Q 9376 [gaps] When approaching a busy roundabout without traffic signals, remember to {1} to vehicles already in the roundabout.
+  {1} options: overtake | the right of way | turn signal | make a U-turn | yield | oncoming traffic | pull over | speed bump | rest area | drink-driving
+Q 9377 [gaps] To return to the direction from which you came, it's necessary to {1} .
+  {1} options: oncoming traffic | speed bump | overtake | the right of way | rest area | drink-driving | yield | turn signal | pull over | make a U-turn
+Q 9378 [gaps] As I approached the school zone, I slowed down for the {1} to avoid damaging my car.
+  {1} options: speed bump | yield | overtake | pull over | oncoming traffic | the right of way | make a U-turn | drink-driving | turn signal | rest area
+Q 9379 [gaps] Drivers should always be cautious of {1} when passing on a two-lane road.
+  {1} options: speed bump | drink-driving | yield | make a U-turn | pull over | rest area | the right of way | turn signal | overtake | oncoming traffic
+Q 9380 [gaps] If another vehicle is approaching at a higher speed, it's often safer to let them {1} you.
+  {1} options: drink-driving | pull over | yield | speed bump | rest area | oncoming traffic | the right of way | turn signal | make a U-turn | overtake
+Q 9381 [gaps] Pedestrians at a marked crosswalk usually have {1} over vehicles.
+  {1} options: oncoming traffic | turn signal | drink-driving | make a U-turn | the right of way | pull over | overtake | yield | speed bump | rest area
+Q 9382 [gaps] After driving for several hours, I decided to stop at a {1} to stretch my legs and grab a snack.
+  {1} options: speed bump | the right of way | pull over | make a U-turn | yield | rest area | drink-driving | overtake | oncoming traffic | turn signal
+
+=== PAGE /vocabulary/b2/car-b2-english-vocabulary/ | Cars, roads and traffic – B2 English Vocabulary | level b2
+--- QUIZ 1091
+CONTEXT:
+Cars, roads and traffic
+ Exercise 3
+ Complete the sentences with the words from the box. Use each word ONLY ONCE.
+ brake – car crash – give way – junction – rear-view mirror – rush hour – signal right – speed camera – speed limit – stuck in a traffic jam
+Q 9372 [gaps] On my daily commute, I noticed the traffic was heavier than usual, signaling the start of the dreaded 1 {1} . Approaching a complex 2 {2} , I remembered to 3 {3} before merging into the turning lane. A few yards ahead, there was a 4 {4} mounted on a pole, reminding drivers to adhere to the 5 {5} of 45 mph. /  As I drove, I noticed a driver in my 6 {6} impatiently switching lanes. I decided to 7 {7} and let them pass. Nearing the downtown area, the traffic slowed down unexpectedly, and I realized I was 8 {8} . Thankfully, it cleared quickly, but not before I witnessed a car ahead failing to 9 {9} in time, resulting in a minor 10 {10} . Shaken by the sight, I reminded myself of the importance of staying alert and maintaining a safe distance. The rest of my journey was uneventful, and I was relieved to reach my destination without further delays or incidents.
+  {1} free text
+  {2} free text
+  {3} free text
+  {4} free text
+  {5} free text
+  {6} free text
+  {7} free text
+  {8} free text
+  {9} free text
+  {10} free text
+
+=== PAGE /vocabulary/b1-b2/houses-and-home-words-b1-english-vocabulary/ | Houses and home words – B1+ English Vocabulary | level b1-b2
+--- QUIZ 1086
+CONTEXT:
+Houses and home words
+ In this B1+ Upper-intermediate Vocabulary Lesson about Houses and Homes, you will learn essential terms and phrases used to describe various types of housing, the roles of individuals in real estate transactions, common housing-related issues, and key concepts involved in renting, buying, and maintaining properties. Check the explanation to familiarize yourself with the expressions before doing the exercises.
+ Exercise 1
+ Complete the sentences with the most suitable words about houses and homes.
+Q 9353 [radio] Jane hopes to _____ her apartment to a nice family.
+ 16331) A. lease
+ 16332) B. take a mortgage
+ 16333) C. evict
+ 16334) D. leak
+Q 9363 [radio] He lives in a _____ in a street where all the houses are identical.
+ 16371) A. penthouse
+ 16372) B. flat
+ 16373) C. town house
+ 16374) D. bedsit
+Q 9364 [radio] After graduating, Mark could only afford to live in a tiny ___ near the university.
+ 16375) A. penthouse
+ 16376) B. bedsit
+ 16377) C. terraced house
+ 16378) D. detached house
+Q 9365 [radio] To buy their dream home, the Smiths had to ___ with the bank.
+ 16379) A. lease
+ 16380) B. let
+ 16381) C. take out a mortgage
+ 16382) D. evict
+Q 9366 [radio] Living on the top floor, Sarah enjoyed the luxury of her ___ overlooking the city.
+ 16383) A. penthouse
+ 16384) B. semi-detached house
+ 16385) C. town house
+ 16386) D. bedsit
+Q 9367 [radio] The _____ in our house is caused by condensation.
+ 16387) A. poor water pressure
+ 16388) B. damp
+ 16389) C. leak
+ 16390) D. crack
+Q 9368 [radio] The walls of the house started to show ___ due to its structural problems.
+ 16391) A. damp
+ 16392) B. cracks
+ 16393) C. mould
+ 16394) D. poor insulation
+Q 9369 [radio] To sell their house quickly, they hired an experienced ___.
+ 16395) A. landlord
+ 16396) B. property owner
+ 16397) C. tenant
+ 16398) D. estate agent
+Q 9370 [radio] _____ are getting worried about rising costs of insurance and property taxes.
+ 16399) A. Real estate agents
+ 16400) B. Homeowners
+ 16401) C. Tenants
+ 16402) D. Cracks
+Q 9371 [radio] The ___ refused to fix the heating system, despite the tenants' complaints.
+ 16403) A. homebuyer
+ 16404) B. estate agent
+ 16405) C. landlord
+ 16406) D. tenant
+
+=== PAGE /vocabulary/b1-b2/houses-and-home-words-b1-english-vocabulary/ | Houses and home words – B1+ English Vocabulary | level b1-b2
+--- QUIZ 1087
+CONTEXT:
+Houses and home words
+ Exercise 2
+ Look at the pictures and choose the material shown in each one to complete the sentence with the corresponding number.
+Q 9343 [gaps] After noticing a {1} in the kitchen, I immediately called the plumber to fix it.
+  {1} options: leak | terraced house | let | homebuyer | evict | duplex | poor insulation | cottage | apartment building | tenant
+Q 9344 [gaps] They live in a beautiful {1} in the countryside, surrounded by nature.
+  {1} options: cottage | evict | tenant | homebuyer | terraced house | duplex | let | apartment building | leak | poor insulation
+Q 9345 [gaps] The {1} has ten floors and offers a stunning view of the city.
+  {1} options: cottage | tenant | evict | terraced house | leak | duplex | apartment building | homebuyer | let | poor insulation
+Q 9346 [gaps] As a {1} , it's important to read your lease agreement carefully to understand your rights and responsibilities.
+  {1} options: leak | terraced house | tenant | cottage | apartment building | poor insulation | evict | duplex | homebuyer | let
+Q 9347 [gaps] They decided to {1} their apartment to a young couple who recently moved to the city.
+  {1} options: apartment building | cottage | tenant | homebuyer | poor insulation | evict | terraced house | duplex | leak | let
+Q 9348 [gaps] Being a {1} for the first time is exciting, but it also involves a lot of paperwork and decision-making.
+  {1} options: poor insulation | leak | tenant | cottage | let | terraced house | apartment building | duplex | evict | homebuyer
+Q 9349 [gaps] If rent is consistently not paid on time, the landlord may have no choice but to {1} the non-paying residents.
+  {1} options: homebuyer | let | evict | terraced house | leak | tenant | poor insulation | apartment building | duplex | cottage
+Q 9350 [gaps] Our energy bills are high because the house has {1} , letting heat escape easily in the winter.
+  {1} options: poor insulation | let | evict | terraced house | homebuyer | tenant | leak | apartment building | duplex | cottage
+Q 9351 [gaps] A {1} is ideal for those who want a home that feels like a single-family residence but with a shared wall.
+  {1} options: poor insulation | apartment building | duplex | evict | let | leak | tenant | homebuyer | cottage | terraced house
+Q 9352 [gaps] Living in a {1} means having neighbors on both sides, which can be great for building a sense of community.
+  {1} options: poor insulation | duplex | tenant | homebuyer | let | terraced house | apartment building | evict | leak | cottage
+
+=== PAGE /vocabulary/b1-b2/houses-and-home-words-b1-english-vocabulary/ | Houses and home words – B1+ English Vocabulary | level b1-b2
+--- QUIZ 1088
+CONTEXT:
+Houses and home words
+ Exercise 3
+ Complete the sentences with the words from the box. Use each word ONLY ONCE.
+ block of flats – detached house – flat – landlord – mould – poor water pressure – real estate agent – rent – semi-detached house – utility bills
+Q 9342 [gaps] When I moved to the city for my new job, I started house hunting. Initially, I dreamt of living in a quiet 1 {1} with a big garden, but soon realized it was too expensive for someone just starting their career. My next thought was to find a two-bedroom 2 {2} in a high building, hoping for a place with a great view of the city skyline. /  I contacted a 3 {3} who was very helpful. She showed me a unit in a high 4 {4} , but I noticed 5 {5} in the corner of the ceiling, and the monthly 6 {6} was a little over my budget. /  Then, I found an ad for a 7 {7} , which shared a wall with a quiet neighbour. It offered more space than a flat, but without the isolation of a detached house. I met the 8 {8} , who lived next door, and he seemed quite amiable. The place was almost perfect, but I learned that the 9 {9} would be higher due to the older heating system. /  In the end, I settled for a cozy flat. It's not perfect; the 10 {10} in the shower can be frustrating, but it's a good start for my life in the city.
+  {1} free text
+  {2} free text
+  {3} free text
+  {4} free text
+  {5} free text
+  {6} free text
+  {7} free text
+  {8} free text
+  {9} free text
+  {10} free text
+
+=== PAGE /vocabulary/b1-b2/business-b1-english-vocabulary/ | Business – B1+ English Vocabulary | level b1-b2
+--- QUIZ 1083
+CONTEXT:
+Business
+ In this B1+ Upper-intermediate Vocabulary Lesson about Business, you will learn common terms and verbs used to talk about industries, companies, financial instruments, business operations, and the people who are involved in them. Check the explanation to familiarize yourself with the expressions before doing the exercises.
+ Exercise 1
+ Complete the sentences with the most suitable words about business.
+Q 9321 [radio] Business was poor for the company, and Sam _____ on his investment.
+ 16291) A. expanded
+ 16292) B. diversified
+ 16293) C. made a profit
+ 16294) D. made a loss
+Q 9322 [radio] Tom set up a _____ that specialised in computer products.
+ 16295) A. tech company
+ 16296) B. founder
+ 16297) C. investment
+ 16298) D. turnover
+Q 9323 [radio] Our company’s _____ was 25% higher last year than it was the previous year.
+ 16299) A. shares
+ 16300) B. start-up
+ 16301) C. turnover
+ 16302) D. stock market
+Q 9324 [radio] Colombia _____ more coffee than any other country.
+ 16303) A. manufactures
+ 16304) B. produces
+ 16305) C. expands
+ 16306) D. merges
+Q 9325 [radio] After considerable negotiation, the CEO finally _____ with the advertising firm.
+ 16307) A. made a loss
+ 16308) B. diversified
+ 16309) C. struck a deal
+ 16310) D. manufactured
+Q 9326 [radio] I plan to invest some of my money in the _____.
+ 16311) A. revenue
+ 16312) B. turnover
+ 16313) C. founder
+ 16314) D. stock market
+Q 9327 [radio] Business has doubled since we went into _____ with another company.
+ 16315) A. profit margin
+ 16316) B. partnership
+ 16317) C. CEO
+ 16318) D. investment
+Q 9328 [radio] Unfortunately, the start-up was unsuccessful, and _____ after just a year.
+ 16319) A. made a profit
+ 16320) B. produced
+ 16321) C. went bankrupt
+ 16322) D. merged
+Q 9329 [radio] My _____ in the company have doubled in value since I made my investment last year.
+ 16323) A. shares
+ 16324) B. revenues
+ 16325) C. start-ups
+ 16326) D. turnovers
+Q 9330 [radio] The company’s _____ was close to $10 million last year.
+ 16327) A. branch
+ 16328) B. chain
+ 16329) C. revenue
+ 16330) D. industry
+
+=== PAGE /vocabulary/b1-b2/business-b1-english-vocabulary/ | Business – B1+ English Vocabulary | level b1-b2
+--- QUIZ 1084
+CONTEXT:
+Business
+ Exercise 2
+ Choose the most suitable option to complete each sentence. You can use each option ONLY ONCE.
+Q 9331 [gaps] Robert works for a well-known law {1} .
+  {1} options: investment | made a profit | expanding | firm | CEO | founder | turnover | merged | start-up | profit margin
+Q 9332 [gaps] The company is doing well, and I {1} on my investment.
+  {1} options: made a profit | profit margin | merged | investment | turnover | firm | founder | CEO | start-up | expanding
+Q 9333 [gaps] The company is {1} and plans to open three new branches this year.
+  {1} options: investment | CEO | made a profit | merged | firm | turnover | expanding | profit margin | start-up | founder
+Q 9334 [gaps] I plan on investing in a {1} that my friend set up last month.
+  {1} options: expanding | turnover | investment | made a profit | founder | firm | merged | profit margin | start-up | CEO
+Q 9335 [gaps] The {1} of the company helped it make a name for itself in the early years.
+  {1} options: start-up | CEO | merged | investment | founder | made a profit | firm | profit margin | expanding | turnover
+Q 9336 [gaps] The firm’s annual {1} was slightly less than it had been the previous year.
+  {1} options: founder | turnover | investment | firm | CEO | merged | profit margin | made a profit | expanding | start-up
+Q 9337 [gaps] The two companies {1} and formed a successful clothing company.
+  {1} options: CEO | firm | investment | founder | made a profit | merged | start-up | turnover | expanding | profit margin
+Q 9338 [gaps] Before I make an {1} , I need to know more about the company.
+  {1} options: start-up | expanding | firm | made a profit | founder | CEO | profit margin | investment | merged | turnover
+Q 9339 [gaps] This year’s {1} is higher because we've reduced production costs.
+  {1} options: founder | profit margin | firm | investment | start-up | CEO | turnover | expanding | made a profit | merged
+Q 9340 [gaps] The {1} called a meeting which all staff were required to attend.
+  {1} options: made a profit | turnover | merged | investment | start-up | founder | firm | CEO | profit margin | expanding
+
+=== PAGE /vocabulary/b1-b2/business-b1-english-vocabulary/ | Business – B1+ English Vocabulary | level b1-b2
+--- QUIZ 1085
+CONTEXT:
+Business
+ Exercise 3
+ Complete the sentences with the words from the box. Use each word ONLY ONCE.
+ branch – CEO – chain – diversifying – entrepreneur – industry – launched – manufactured – setting up – staff
+Q 9341 [gaps] Clothes have been my passion ever since I was a child, so it came as no surprise to my family when I decided on a career in the fashion 1 {1} . While I was studying fashion design at university, I worked nights in a factory that 2 {2} toothbrushes. This certainly wasn't my dream job, so when a friend told me that a popular clothing 3 {3} was opening a new 4 {4} in our town, I immediately stopped by to ask if they were taking on 5 {5} . Luckily, they were, and I got a job as a sales assistant. I enjoyed working there so much that I decided to stay on even after I graduated. /  Last year, the 6 {6} of the company visited my store, and we started chatting. He told me he was interested in 7 {7} the business and introducing a line of footwear. When I told him I had a degree in fashion design, he asked me if I'd be interested in designing women's shoes for the company. Needless to say, I jumped at the opportunity, and I've been working in the head office as chief footwear designer ever since. My hard work has paid off, and when we 8 {8} our first line of heels last month, it was a great success. /  I still dream of becoming a young 9 {9} and 10 {10} my own clothing company one day, but for now, I'm very happy designing great shoes and learning more about the industry.
+  {1} free text
+  {2} free text
+  {3} free text
+  {4} free text
+  {5} free text
+  {6} free text
+  {7} free text
+  {8} free text
+  {9} free text
+  {10} free text
+
+=== PAGE /vocabulary/b1/sport-b1-english-vocabulary/ | Sport – B1 English Vocabulary | level b1
+--- QUIZ 1080
+CONTEXT:
+Sport
+ In this Intermediate Vocabulary Lesson about Sport, you will learn about about the various people involved in sports, the places where sports are played, and the common verbs and verb phrases used to describe sporting actions and events. Check the explanation to familiarize yourself with the expressions before doing the exercises.
+ Exercise 1
+ Choose the correct option for each gap.
+Q 9318 [radio] The baseball player tried to _____ the ball as far as possible.
+ 16279) A. kick
+ 16280) B. catch
+ 16281) C. pass
+ 16282) D. hit
+Q 9311 [radio] The tennis match was closely monitored by the _____.
+ 16251) A. referee
+ 16252) B. umpire
+ 16253) C. coach
+ 16254) D. goalkeeper
+Q 9313 [radio] After school, the basketball team practiced in the _____.
+ 16259) A. course
+ 16260) B. sports hall
+ 16261) C. stadium
+ 16262) D. pitch
+Q 9314 [radio] Skiers went down the snowy _____ in the mountains.
+ 16263) A. track
+ 16264) B. court
+ 16265) C. piste
+ 16266) D. pitch
+Q 9312 [radio] The football game was held in a large _____.
+ 16255) A. stadium
+ 16256) B. piste
+ 16257) C. court
+ 16258) D. track
+Q 9315 [radio] The athlete managed to _____ in the 100m sprint.
+ 16267) A. break a record
+ 16268) B. get fit
+ 16269) C. warm up
+ 16270) D. get fit
+Q 9316 [radio] During the match, the player _____ and had to stop playing.
+ 16271) A. scored
+ 16272) B. got injured
+ 16273) C. drew
+ 16274) D. beat
+Q 9319 [radio] He _____ the ball with his left foot and scored the third goal.
+ 16283) A. threw
+ 16284) B. hit
+ 16285) C. kicked
+ 16286) D. passed
+Q 9320 [radio] The baseball player managed to _____ the ball in his glove.
+ 16287) A. kick
+ 16288) B. pass
+ 16289) C. hit
+ 16290) D. catch
+Q 9317 [radio] Just before the race, the runners _____ to prepare their muscles.
+ 16275) A. warmed up
+ 16276) B. got fit
+ 16277) C. passed
+ 16278) D. kicked
+
+=== PAGE /vocabulary/b1/sport-b1-english-vocabulary/ | Sport – B1 English Vocabulary | level b1
+--- QUIZ 1081
+CONTEXT:
+Sport
+ Exercise 2
+ Choose the most suitable option to complete these sentences. You can use each option ONLY ONCE.
+Q 9301 [gaps] He {1} a last-minute goal.
+  {1} options: hold | linesmen | won | court | passed | get fit | course | beat | track | scored
+Q 9302 [gaps] The {1} watch the sides of the pitch.
+  {1} options: linesmen | course | won | get fit | track | beat | hold | court | passed | scored
+Q 9303 [gaps] Tennis is usually played on a {1} , which can be made of grass, clay, or hard material.
+  {1} options: won | passed | scored | hold | course | court | track | linesmen | beat | get fit
+Q 9306 [gaps] They had three more points than their opponents, so they {1} the game.
+  {1} options: hold | scored | court | beat | linesmen | won | get fit | course | passed | track
+Q 9307 [gaps] The boxer managed to {1} his opponent with a knockout.
+  {1} options: get fit | scored | course | court | linesmen | won | passed | track | hold | beat
+Q 9310 [gaps] He {1} the ball to his teammate.
+  {1} options: passed | won | course | linesmen | track | hold | court | get fit | beat | scored
+Q 9308 [gaps] He would {1} the record for the fastest 100-meter freestyle for many years.
+  {1} options: course | hold | track | won | scored | get fit | passed | linesmen | court | beat
+Q 9304 [gaps] Golfers spend hours on the {1} perfecting their swings.
+  {1} options: hold | won | course | linesmen | get fit | scored | track | passed | court | beat
+Q 9309 [gaps] After months of regular exercise and healthy eating, he finally started to {1} .
+  {1} options: passed | beat | court | track | won | linesmen | course | hold | scored | get fit
+Q 9305 [gaps] The athletes sprinted around the {1} during the 400-meter race.
+  {1} options: course | linesmen | track | scored | get fit | hold | beat | court | won | passed
+
+=== PAGE /vocabulary/b1/sport-b1-english-vocabulary/ | Sport – B1 English Vocabulary | level b1
+--- QUIZ 1082
+CONTEXT:
+Sport
+ Exercise 3
+ Complete the each sentence using a word from the box.
+ coach – crowd – drew – fans – goalkeeper – pitch – referee – score – sent off – team
+Q 9300 [gaps] The local 1 {1} was playing an important match. The 2 {2} roared as the players entered the 3 {3} . The match began with great enthusiasm from both sides. In the first half, the home team managed to 4 {4} a goal. The local 5 {5} went wild, waving their flags and singing their hymns. /  During the second half, the opposing team’s 6 {6} made several impressive saves. However, the intensity of the game increased when the home team’s defender was 7 {7} for violent conduct. The 8 {8} was very strict, ensuring the game was played fairly. Playing with one less player, the team had to work harder. Their 9 {9} was giving instructions, trying to reorganize the team. As the game was about to end, the opposing team scored a goal and 10 {10} the game 1-1.
+  {1} free text
+  {2} free text
+  {3} free text
+  {4} free text
+  {5} free text
+  {6} free text
+  {7} free text
+  {8} free text
+  {9} free text
+  {10} free text
+
+=== PAGE /vocabulary/b1/free-time-activities-b1-english-vocabulary/ | Free time activities – B1 English Vocabulary | level b1
+--- QUIZ 1077
+CONTEXT:
+Free time activities 
+ In this Intermediate Vocabulary Lesson about Free Time Activities, you will learn essential verbs and phrasal verbs used to talk about free time and leisure activities. Check the explanation to familiarize yourself with the expressions before doing the exercises.
+ Exercise 1
+ Choose the correct option for each gap.
+Q 9292 [radio] For our anniversary, we decided to ___ at a fancy Italian restaurant.
+ 16219) A. hang out
+ 16220) B. chill out
+ 16221) C. get together
+ 16222) D. eat out
+Q 9290 [radio] On rainy days, I prefer to ___ rather than going outside.
+ 16211) A. stay in
+ 16212) B. get together
+ 16213) C. go out
+ 16214) D. eat out
+Q 9294 [radio] When the work week is over, I just want to ___ and read a book.
+ 16227) A. chill out
+ 16228) B. spend time
+ 16229) C. work out
+ 16230) D. eat out
+Q 9295 [radio] My family plans to ___ at my aunt's house for her birthday party.
+ 16231) A. get together
+ 16232) B. take up
+ 16233) C. stay in
+ 16234) D. work out
+Q 9296 [radio] She's been learning to ___ the guitar.
+ 16235) A. have lessons
+ 16236) B. play
+ 16237) C. take up
+ 16238) D. work out
+Q 9298 [radio] He recently decided to ___ painting to express his creativity.
+ 16243) A. stay in
+ 16244) B. take up
+ 16245) C. go to
+ 16246) D. play
+Q 9297 [radio] When there's nothing else to do, I usually ___ TV.
+ 16239) A. take up
+ 16240) B. spend time with
+ 16241) C. watch
+ 16242) D. play
+Q 9299 [radio] To stay fit, she goes to the gym to ___ three times a week.
+ 16247) A. go out
+ 16248) B. work out
+ 16249) C. hang out
+ 16250) D. chill out
+Q 9291 [radio] Tonight, we are planning to ___ with friends at a new club downtown.
+ 16215) A. work out
+ 16216) B. take up
+ 16217) C. go out
+ 16218) D. watch TV
+Q 9293 [radio] After school, the kids like to ___ at the neighborhood park.
+ 16223) A. hang out
+ 16224) B. play in a band
+ 16225) C. take up
+ 16226) D. stay in
+
+=== PAGE /vocabulary/b1/free-time-activities-b1-english-vocabulary/ | Free time activities – B1 English Vocabulary | level b1
+--- QUIZ 1078
+CONTEXT:
+Free time activities 
+ Exercise 2
+ Choose the most suitable option to complete these sentences. You can use each option ONLY ONCE.
+Q 9283 [gaps] I'm really excited about next weekend because I'm going to go {1} of my favorite band.
+  {1} options: for a walk | yourself | spend time | a lot of fun | online | clubbing | Spanish lessons | football | to a concert | computer games
+Q 9280 [gaps] Every Saturday morning, I like to play {1} with my friends at the local park.
+  {1} options: to a concert | online | a lot of fun | spend time | Spanish lessons | clubbing | yourself | computer games | football | for a walk
+Q 9288 [gaps] We had {1} at the theme park, trying all the different rides and games.
+  {1} options: computer games | football | online | yourself | a lot of fun | clubbing | to a concert | for a walk | spend time | Spanish lessons
+Q 9284 [gaps] Twice a week, I have {1} with a tutor to improve my language skills.
+  {1} options: for a walk | a lot of fun | clubbing | yourself | spend time | Spanish lessons | computer games | football | to a concert | online
+Q 9285 [gaps] After school, my brother usually spends hours in his room playing {1} .
+  {1} options: spend time | a lot of fun | computer games | Spanish lessons | clubbing | football | online | yourself | to a concert | for a walk
+Q 9289 [gaps] It's important to enjoy {1} on vacation and try new things that you wouldn't normally do.
+  {1} options: a lot of fun | spend time | online | clubbing | computer games | Spanish lessons | to a concert | yourself | football | for a walk
+Q 9286 [gaps] Whenever I have a question about something, I usually go {1} to find the answer.
+  {1} options: a lot of fun | Spanish lessons | football | yourself | computer games | spend time | for a walk | to a concert | online | clubbing
+Q 9281 [gaps] Next Saturday night, I'm planning to go {1} with a group of friends.
+  {1} options: for a walk | to a concert | online | a lot of fun | football | yourself | clubbing | Spanish lessons | computer games | spend time
+Q 9287 [gaps] On Sunday afternoons, I often {1} with my family, usually having lunch or watching a movie together.
+  {1} options: to a concert | football | yourself | clubbing | Spanish lessons | for a walk | spend time | online | computer games | a lot of fun
+Q 9282 [gaps] When I need to clear my mind, I often go {1} in the nearby park.
+  {1} options: to a concert | spend time | clubbing | football | computer games | online | yourself | Spanish lessons | a lot of fun | for a walk
+
+=== PAGE /vocabulary/b1/free-time-activities-b1-english-vocabulary/ | Free time activities – B1 English Vocabulary | level b1
+--- QUIZ 1079
+CONTEXT:
+Free time activities 
+ Exercise 3
+ Complete the each sentence using a word from the box. You can use each option ONLY ONCE.
+ chill out – eat out – go – go for – got together – plays the guitar – spend time – stay in – take up – work out
+Q 9279 [gaps] Last weekend, I had plenty of activities. On Friday night, I decided to 1 {1} out with some friends. We went to a new Japanese restaurant. It's always nice to 2 {2} and try different cuisines. On Saturday morning, I felt like I needed to be active, so I went to the gym to 3 {3} . After a good session there, I met up with my brother. He 4 {4} and I sing, so I often 5 {5} with him practicing. /  In the afternoon, my friends and I decided to 6 {6} a walk in the park. It was relaxing and a perfect way to 7 {7} after a busy week. After that, I had dinner with my parents, but later that evening, we all 8 {8} at Sarah's house. She recently decided to 9 {9} baking, and she wanted us to try her new cake recipes. /  On Sunday, I chose to 10 {10} because I was tired and I just wanted a quiet day. In the afternoon, I made some popcorn and watched a movie. It was nice to just relax on the sofa and not worry about anything. It was a great weekend, with a good balance of activities and relaxation.
+  {1} free text
+  {2} free text
+  {3} free text
+  {4} free text
+  {5} free text
+  {6} free text
+  {7} free text
+  {8} free text
+  {9} free text
+  {10} free text
+
+=== PAGE /vocabulary/b1/houses-and-buildings-b1-english-vocabulary/ | Houses – B1 English Vocabulary | level b1
+--- QUIZ 1073
+CONTEXT:
+Houses
+ In this Intermediate Vocabulary Lesson about Houses, you will learn about different rooms and parts of a house, terms used for describing houses, and verbs related to repair and renovation. Check the explanation to familiarize yourself with the expressions before doing the exercises.
+ Exercise 1
+ Choose the correct option for each gap.
+Q 9277 [radio] To save on heating bills and reduce noise, we decided to _____ the attic and the external walls.
+ 16203) A. fix
+ 16204) B. refurbish
+ 16205) C. insulate
+ 16206) D. decorate
+Q 9269 [radio] We converted the space below our house into a _____ where we now store wine and preserved foods.
+ 16171) A. attic
+ 16172) B. cellar
+ 16173) C. loft
+ 16174) D. landing
+Q 9270 [radio] Our new apartment has an upper-level _____ that we use as an additional living space.
+ 16175) A. basement
+ 16176) B. cellar
+ 16177) C. loft
+ 16178) D. landing
+Q 9275 [radio] The old chair leg is loose; I need to _____ it before someone falls off.
+ 16195) A. put in
+ 16196) B. insulate
+ 16197) C. fix
+ 16198) D. decorate
+Q 9271 [radio] At the top of the staircase, there's a small _____ with a mirror and a console table.
+ 16179) A. shed
+ 16180) B. cellar
+ 16181) C. loft
+ 16182) D. landing
+Q 9272 [radio] We enjoy spending our evenings on the _____, where we have comfortable chairs and a view of the garden.
+ 16183) A. basement
+ 16184) B. cellar
+ 16185) C. loft
+ 16186) D. porch
+Q 9276 [radio] We decided to _____ the Victorian house to restore its original charm.
+ 16199) A. fix
+ 16200) B. refurbish
+ 16201) C. insulate
+ 16202) D. put in
+Q 9273 [radio] The small cabin in the woods felt incredibly _____ with its warm fireplace and comfortable furniture.
+ 16187) A. cozy
+ 16188) B. in a good location
+ 16189) C. fix
+ 16190) D. refurbish
+Q 9274 [radio] Our house is _____, just a five-minute walk from the local school and grocery store.
+ 16191) A. cozy
+ 16192) B. in a good location
+ 16193) C. in a good condition
+ 16194) D. furnished
+Q 9278 [radio] We have a large _____ under our house where we've set up a home gym and a play area for the kids.
+ 16207) A. basement
+ 16208) B. porch
+ 16209) C. landing
+ 16210) D. pantry
+
+=== PAGE /vocabulary/b1/houses-and-buildings-b1-english-vocabulary/ | Houses – B1 English Vocabulary | level b1
+--- QUIZ 1072
+CONTEXT:
+Houses
+ Exercise 2
+ Choose the most suitable option to complete these sentences. You can use each option ONLY ONCE.
+Q 9266 [gaps] Every Sunday, I have to {1} , like vacuuming and dusting.
+  {1} options: do housework | playroom | study | utility room | pantry | do up | roomy | install | light | redecorate
+Q 9264 [gaps] We decided to {1} the living room with new curtains and a fresh coat of paint.
+  {1} options: do housework | light | do up | roomy | pantry | redecorate | install | utility room | study | playroom
+Q 9260 [gaps] We store all our canned food and spices in the {1} next to the kitchen.
+  {1} options: pantry | redecorate | utility room | playroom | install | light | do up | roomy | do housework | study
+Q 9259 [gaps] I converted the small room upstairs into a {1} where I can work and read in peace.
+  {1} options: playroom | study | utility room | install | do housework | roomy | light | pantry | do up | redecorate
+Q 9268 [gaps] After school, the children like to spend time in the {1} with their toys and games.
+  {1} options: study | pantry | do up | install | roomy | utility room | do housework | playroom | redecorate | light
+Q 9262 [gaps] The new house is very {1} , with big windows that let in lots of sunshine during the day.
+  {1} options: roomy | utility room | do housework | playroom | do up | light | study | redecorate | pantry | install
+Q 9265 [gaps] Next week, the technicians will come to {1} the new air conditioning system.
+  {1} options: do up | pantry | redecorate | do housework | study | install | light | utility room | playroom | roomy
+Q 9261 [gaps] The {1} is where we keep the washing machine, dryer, and other cleaning supplies.
+  {1} options: redecorate | do housework | playroom | study | do up | install | roomy | light | pantry | utility room
+Q 9263 [gaps] Our living room is quite {1} ; it has enough space for a large sofa and a dining table.
+  {1} options: light | do housework | study | do up | redecorate | playroom | pantry | utility room | roomy | install
+Q 9267 [gaps] We're going to {1} the old farmhouse, restoring it to its former glory.
+  {1} options: do up | pantry | install | utility room | roomy | redecorate | study | do housework | light
+
+=== PAGE /vocabulary/b1/houses-and-buildings-b1-english-vocabulary/ | Houses – B1 English Vocabulary | level b1
+--- QUIZ 1071
+CONTEXT:
+Houses
+ Exercise 3
+ Complete the each sentence using a word from the box.
+ attic – cramped – DIY – in bad condition – patio – put in – renovate – shed – spacious – unfurnished
+Q 9258 [gaps] When I first saw the house, I knew it needed a lot of work to transform it into my dream home. The previous owners had left it 1 {1} , with peeling paint and a neglected garden. The first thing I did was to 2 {2} the entire house. I started with the living room. It was 3 {3} , and you couldn't fit a big sofa in it, so I knocked down a wall to make it more 4 {4} . /  In the kitchen, I decided to 5 {5} new cabinets and a modern stove. Upstairs, the 6 {6} was full of old junk, so I cleared it out and turned it into a small study. The house already had a two-story structure, so I focused on utilizing every space efficiently. /  Outside, the 7 {7} was falling apart, so I had to fix the roof and repaint it. I also worked on the garden, turning the overgrown weeds into a beautiful 8 {8} area for family barbecues. /  Finally, I tackled the bedrooms. The main bedroom was initially 9 {9} , but I found some great pieces that matched the new decor. After months of hard work and some creative 10 {10} , my house was not only in good condition but also a cozy place I could call home.
+  {1} free text
+  {2} free text
+  {3} free text
+  {4} free text
+  {5} free text
+  {6} free text
+  {7} free text
+  {8} free text
+  {9} free text
+  {10} free text
+
+=== PAGE /vocabulary/b1-b2/personality-b1-english-vocabulary/ | Personality – B1+ English Vocabulary | level b1-b2
+--- QUIZ 1074
+CONTEXT:
+Personality
+ In this B1+ Upper-intermediate Vocabulary Lesson about Personality, you will learn about various personality traits and their meanings. Check the explanation to familiarize yourself with the expressions before doing the exercises.
+ Exercise 1
+ Complete the sentences with the most suitable words about personality.
+Q 9255 [radio] His _____ behavior at the dinner table, like talking with his mouth full, embarrassed his family.
+ 16159) A. ill-mannered
+ 16160) B. ambitious
+ 16161) C. innocent
+ 16162) D. sociable
+Q 9248 [radio] She was very _____. She could play the piano, violin, and guitar with equal skill.
+ 16131) A. ambitious
+ 16132) B. talented
+ 16133) C. honest
+ 16134) D. sociable
+Q 9254 [radio] His tendency to speak without thinking led some students to call him '_____' unfairly.
+ 16155) A. bossy
+ 16156) B. tight-fisted
+ 16157) C. half-witted
+ 16158) D. ambitious
+Q 9249 [radio] He was very _____ and never doubted his abilities.
+ 16135) A. self-confident
+ 16136) B. innocent
+ 16137) C. sociable
+ 16138) D. talented
+Q 9250 [radio] At parties, she was always the center of attention, her _____ personality making her well-liked and popular.
+ 16139) A. honest
+ 16140) B. sociable
+ 16141) C. ambitious
+ 16142) D. talented
+Q 9257 [radio] Known for his absolute reluctance to spend money, he was often called _____ by his friends.
+ 16167) A. ambitious
+ 16168) B. bossy
+ 16169) C. sociable
+ 16170) D. tight-fisted
+Q 9251 [radio] He always spoke the truth, even when it was difficult, which made him very _____ in the eyes of his peers.
+ 16143) A. honest
+ 16144) B. ambitious
+ 16145) C. sociable
+ 16146) D. self-confident
+Q 9252 [radio] At his young age, he still had a very _____ outlook on life, unaware of the world's complexities.
+ 16147) A. innocent
+ 16148) B. bossy
+ 16149) C. ill-mannered
+ 16150) D. self-confident
+Q 9253 [radio] Her _____ nature pushed her to achieve great success in her career.
+ 16151) A. sociable
+ 16152) B. honest
+ 16153) C. ambitious
+ 16154) D. innocent
+Q 9256 [radio] In group projects, she often took over, giving orders to everyone, which showed how _____ she was.
+ 16163) A. bossy
+ 16164) B. talented
+ 16165) C. innocent
+ 16166) D. sociable
+
+=== PAGE /vocabulary/b1-b2/personality-b1-english-vocabulary/ | Personality – B1+ English Vocabulary | level b1-b2
+--- QUIZ 1075
+CONTEXT:
+Personality
+ Exercise 2
+ Choose the most suitable option to complete each sentence. You can use each option ONLY ONCE.
+Q 9247 [gaps] The spy was {1} in his methods, always staying one step ahead of his adversaries.
+  {1} options: thrifty | honest | cunning | naive | determined | arrogant | insecure | extroverted | moody | down-to-earth
+Q 9238 [gaps] Despite her popularity, Emily remained {1} and never let praise get to her head.
+  {1} options: arrogant | insecure | thrifty | moody | honest | naive | extroverted | determined | cunning | down-to-earth
+Q 9244 [gaps] Even as a child, he showed a {1} trust in strangers, often to the worry of his parents.
+  {1} options: naive | down-to-earth | insecure | arrogant | determined | thrifty | extroverted | honest | cunning | moody
+Q 9245 [gaps] The {1} CEO rarely listened to his employees' suggestions, believing he always knew best.
+  {1} options: down-to-earth | honest | moody | extroverted | arrogant | determined | naive | cunning | thrifty | insecure
+Q 9243 [gaps] The scientist was {1} about her findings, even when they contradicted her initial hypothesis.
+  {1} options: cunning | honest | thrifty | naive | arrogant | extroverted | determined | insecure | moody | down-to-earth
+Q 9240 [gaps] Despite the criticism, he remained {1} to follow his dream of becoming a dancer.
+  {1} options: extroverted | cunning | arrogant | down-to-earth | determined | thrifty | moody | naive | honest | insecure
+Q 9242 [gaps] The old man was known for his {1} ways, never spending more than necessary.
+  {1} options: extroverted | naive | arrogant | honest | down-to-earth | cunning | determined | insecure | thrifty | moody
+Q 9241 [gaps] Her {1} nature made her the life of the party and a favorite among her peers.
+  {1} options: honest | extroverted | thrifty | arrogant | down-to-earth | cunning | moody | determined | naive | insecure
+Q 9246 [gaps] She felt {1} about her artwork despite the numerous compliments she received.
+  {1} options: moody | down-to-earth | determined | arrogant | cunning | naive | extroverted | thrifty | insecure | honest
+Q 9239 [gaps] He was {1} and unpredictable. He'd go from happy to irritable without any apparent reason.
+  {1} options: moody | honest | insecure | arrogant | cunning | determined | naive | down-to-earth | thrifty | extroverted
+
+=== PAGE /vocabulary/b1-b2/personality-b1-english-vocabulary/ | Personality – B1+ English Vocabulary | level b1-b2
+--- QUIZ 1076
+CONTEXT:
+Personality
+ Exercise 3
+ Complete the sentences with the words from the box. Use each word ONLY ONCE.
+ affectionate – bright – charming – enthusiastic – forgetful – greedy – nosy – open-minded – sensitive – stubborn
+Q 9237 [gaps] In the heart of a bustling city lived Clara, an 1 {1} mother known for her warm hugs and comforting words. Her daughter, Sophie, inherited her 2 {2} nature, often shedding tears during sad movies or when her friends were upset. /  At the local high school, Mr. Allen was a very 3 {3} teacher who inspired his students to love literature with his passion for the subject. He was particularly 4 {4} about new teaching methods and always willing to try new and innovative ideas to engage his class. In contrast, the math teacher, Mr. Hughes, was extremely 5 {5} , and always refused to deviate from traditional teaching techniques. /  Among the students, Lucas stood out as a 6 {6} young teen, excelling academically without much effort. His friend, Ethan, with his 7 {7} smile and friendly demeanor, could lighten the mood of any room. /  However, the school also had a 8 {8} canteen manager who was always raising prices and a 9 {9} librarian who constantly lost and misplaced books. And then there was Nora, a 10 {10} student who always wanted to know about everyone's business.
+  {1} free text
+  {2} free text
+  {3} free text
+  {4} free text
+  {5} free text
+  {6} free text
+  {7} free text
+  {8} free text
+  {9} free text
+  {10} free text
+
+=== PAGE /vocabulary/b1-b2/technology-b1-english-vocabulary/ | Technology – B1+ English Vocabulary | level b1-b2
+--- QUIZ 1068
+CONTEXT:
+Technology
+ In this B1+ Upper-intermediate Vocabulary Lesson about Technology, you will learn about various aspects of technology, from devices and applications to internet usage and the people engaged with these technologies. Check the explanation to familiarize yourself with the expressions before doing the exercises.
+ Exercise 1
+ Complete the sentences with the most suitable words about technology.
+Q 9215 [radio] A smartwatch is a _____ that performs various useful functions.
+ 16091) A. freeware
+ 16092) B. techie
+ 16093) C. server
+ 16094) D. gadget
+Q 9216 [radio] The office is full of _____ devices. It’s very futuristic and impressive.
+ 16095) A. high-tech
+ 16096) B. cybersecurity
+ 16097) C. computer buff
+ 16098) D. wearable
+Q 9217 [radio] I’ve had this phone for years; it’s time I _____ to a more modern version.
+ 16099) A. backed up
+ 16100) B. upgraded
+ 16101) C. browsed
+ 16102) D. signed in
+Q 9218 [radio] It’s a good idea to _____ these files in case your computer crashes.
+ 16103) A. back up
+ 16104) B. upgrade
+ 16105) C. sign up
+ 16106) D. browse
+Q 9219 [radio] Tom’s a real _____! He’s always buying the latest gadgets and devices.
+ 16107) A. technophobe
+ 16108) B. screenshot
+ 16109) C. internet provider
+ 16110) D. techie
+Q 9220 [radio] I need to find a _____, so I can check if I've received any emails.
+ 16111) A. search engine
+ 16112) B. techie
+ 16113) C. WiFi hotspot
+ 16114) D. server
+Q 9221 [radio] It’s important to have a reliable _____, who are on call 24 hours a day.
+ 16115) A. technophobe
+ 16116) B. internet provider
+ 16117) C. cybersecurity
+ 16118) D. freeware
+Q 9222 [radio] _____ such as smartwatches is becoming part of our everyday lives.
+ 16119) A. VR games
+ 16120) B. Wearable technology
+ 16121) C. Freeware
+ 16122) D. Search engines
+Q 9223 [radio] Most of the apps I use are _____, so I can use them without a license.
+ 16123) A. hi-tech
+ 16124) B. cutting edge
+ 16125) C. freeware
+ 16126) D. wearable technology
+Q 9224 [radio] I tend to use Google as my _____, as it’s faster than others I’ve tried.
+ 16127) A. cybersecurity
+ 16128) B. techie
+ 16129) C. internet provider
+ 16130) D. search engine
+
+=== PAGE /vocabulary/b1-b2/technology-b1-english-vocabulary/ | Technology – B1+ English Vocabulary | level b1-b2
+--- QUIZ 1069
+CONTEXT:
+Technology
+ Exercise 2
+ Choose the most suitable option to complete each sentence. You can use each option ONLY ONCE.
+Q 9225 [gaps] The company produces {1} technology well ahead of its time.
+  {1} options: sign in | software developer | obsolete | screenshot | sign up | update | technophobes | cybersecurity | cutting-edge | user-friendly
+Q 9226 [gaps] I couldn't {1} to my account because I had forgotten my password.
+  {1} options: sign in | user-friendly | cybersecurity | technophobes | cutting-edge | update | sign up | obsolete | software developer | screenshot
+Q 9227 [gaps] My parents are both {1} and aren't comfortable using computers.
+  {1} options: update | technophobes | software developer | obsolete | sign up | sign in | cutting-edge | screenshot | user-friendly | cybersecurity
+Q 9229 [gaps] These tablets are {1} ; even a toddler can use them.
+  {1} options: user-friendly | update | software developer | cybersecurity | cutting-edge | sign in | screenshot | obsolete | sign up | technophobes
+Q 9230 [gaps] If you {1} your tablet, you'll be able to use the most recent version of the app.
+  {1} options: sign in | sign up | cybersecurity | user-friendly | update | technophobes | screenshot | cutting-edge | software developer | obsolete
+Q 9231 [gaps] All the equipment in the hospital is {1} and needs replacing.
+  {1} options: technophobes | sign up | cybersecurity | software developer | cutting-edge | user-friendly | obsolete | update | screenshot | sign in
+Q 9232 [gaps] As a {1} , my job is to design and upgrade computer systems.
+  {1} options: sign in | screenshot | user-friendly | software developer | cybersecurity | sign up | obsolete | cutting-edge | technophobes | update
+Q 9233 [gaps] To download films, you need to {1} and become a member of the website.
+  {1} options: update | screenshot | user-friendly | obsolete | software developer | cybersecurity | cutting-edge | sign in | technophobes | sign up
+Q 9234 [gaps] Lisa took a {1} of the error message to send to the tech support team.
+  {1} options: software developer | update | technophobes | screenshot | user-friendly | cybersecurity | obsolete | sign up | sign in | cutting-edge
+Q 9235 [gaps] Without {1} , we would be vulnerable to malicious attacks.
+  {1} options: technophobes | user-friendly | obsolete | sign up | update | software developer | cybersecurity | sign in | cutting-edge | screenshot
+
+=== PAGE /vocabulary/b1-b2/technology-b1-english-vocabulary/ | Technology – B1+ English Vocabulary | level b1-b2
+--- QUIZ 1070
+CONTEXT:
+Technology
+ Exercise 3
+ Complete the sentences with the words from the box. Use each word ONLY ONCE.
+ attach – browsing – computer nerd – crashed – downloading – go online – social networks – video calls – VR games – VR headset
+Q 9236 [gaps] People tell me that I’m a 1 {1} , as I’ve always been obsessed with computers and use them all the time. 2 I {2} as soon as I wake up in the morning and spend most of my free time 3 {3} the internet and 4 {4} movies onto my computer to watch when I am bored. When I’m not doing that, I like gaming, and 5 {5} are my favorites. I have a 6 {6} that I wear when I am playing. /  I also use my computer for work, and I have 7 {7} several times a day where I talk to clients overseas. After each call, I usually send them emails, to which I 8 {8} files relevant to the subjects discussed in our meeting. As a self-employed worker who has recently set up a company, I rely on 9 {9} to promote my business and keep my followers up-to-date with our latest deals. I’d be lost if my computer ever 10 {10} , but if that did happen, I’d be prepared, as I always back up my files onto my other computer just in case.
+  {1} free text
+  {2} free text
+  {3} free text
+  {4} free text
+  {5} free text
+  {6} free text
+  {7} free text
+  {8} free text
+  {9} free text
+  {10} free text
+
+=== PAGE /vocabulary/b2/money-and-finance-b2-english-vocabulary/ | Money and finance – B2 English Vocabulary | level b2
+--- QUIZ 1065
+CONTEXT:
+Money and finance
+ In this B2 Pre-advanced Vocabulary Lesson about Money and Finance, you will learn a wide range of terms and expressions that are essential for discussing personal and business financial matters. Check the explanation to familiarize yourself with the expressions before doing the exercises.
+ Exercise 1
+ Complete the sentences with the most suitable words about Money and Finance.
+Q 9194 [radio] After purchasing a new phone, my account was ______.
+ 16051) A. prodigal
+ 16052) B. broke
+ 16053) C. bankrupt
+ 16054) D. in the red
+Q 9195 [radio] The ring is absolutely ______! It's not even made of real silver.
+ 16055) A. penniless
+ 16056) B. worthless
+ 16057) C. cheap
+ 16058) D. frugal
+Q 9196 [radio] I can't afford to go out this weekend. I'm completely ______
+ 16059) A. cheap
+ 16060) B. prodigal
+ 16061) C. broke
+ 16062) D. good value
+Q 9197 [radio] The man tried to charge me $60 for a T-shirt! What a ______!
+ 16063) A. lump-sum
+ 16064) B. rip-off
+ 16065) C. installment
+ 16066) D. bill
+Q 9198 [radio] The ______ on my mortgage has risen in the past year.
+ 16067) A. interest rate
+ 16068) B. budget
+ 16069) C. income
+ 16070) D. expense
+Q 9199 [radio] I am currently ______ to buy a new washing machine.
+ 16071) A. making a loss
+ 16072) B. investing
+ 16073) C. saving up
+ 16074) D. living off
+Q 9200 [radio] I decided to pay for the sofa in one ______ rather than in installments.
+ 16075) A. bill
+ 16076) B. lump-sum
+ 16077) C. mortgage
+ 16078) D. income
+Q 9201 [radio] Everyone at the golf club was quite ______, and I felt out of place.
+ 16079) A. good value
+ 16080) B. worthless
+ 16081) C. bankrupt
+ 16082) D. affluent
+Q 9202 [radio] Bob's ______ is just over $50,000 per year.
+ 16083) A. income
+ 16084) B. standard of living
+ 16085) C. broke
+ 16086) D. bankrupt
+Q 9203 [radio] I can't believe Larry was too ______ to tip the waiter.
+ 16087) A. loaded
+ 16088) B. well-off
+ 16089) C. cheap
+ 16090) D. prodigal
+
+=== PAGE /vocabulary/b2/money-and-finance-b2-english-vocabulary/ | Money and finance – B2 English Vocabulary | level b2
+--- QUIZ 1066
+CONTEXT:
+Money and finance
+ Exercise 2
+ Choose the most suitable options to complete these sentences. You can use each option ONLY ONCE.
+Q 9204 [gaps] The rise in the {1} has left many people struggling.
+  {1} options: bill | installments | prodigal | skint | cost of living | funding | loaded | good value | fees | well-off
+Q 9205 [gaps] John doesn't need to worry about money; he's absolutely {1} .
+  {1} options: cost of living | installments | skint | fees | good value | well-off | prodigal | bill | loaded | funding
+Q 9206 [gaps] The restaurant is {1} ; the food is tasty, and the portions are huge.
+  {1} options: prodigal | cost of living | good value | well-off | funding | loaded | fees | skint | installments | bill
+Q 9207 [gaps] I chose to pay for the television in {1} rather than in one lump sum.
+  {1} options: fees | cost of living | loaded | funding | skint | well-off | installments | bill | prodigal | good value
+Q 9208 [gaps] After we'd finished dessert, I asked the waiter for the {1} .
+  {1} options: funding | good value | prodigal | fees | cost of living | well-off | bill | installments | skint | loaded
+Q 9209 [gaps] After spending a fortune on holiday, I'm now completely {1} .
+  {1} options: prodigal | skint | cost of living | fees | good value | funding | loaded | bill | installments | well-off
+Q 9210 [gaps] You'd have to be quite {1} to afford a car like that!
+  {1} options: installments | bill | fees | funding | loaded | prodigal | good value | cost of living | skint | well-off
+Q 9211 [gaps] Without government {1} , we'll be unable to pursue this research.
+  {1} options: skint | well-off | cost of living | bill | good value | funding | fees | prodigal | installments | loaded
+Q 9212 [gaps] Joe's {1} spending habits leave him unable to pay his bills.
+  {1} options: loaded | prodigal | funding | skint | good value | well-off | cost of living | bill | fees | installments
+Q 9213 [gaps] I can't afford to send my son to that school; the {1} are just too high.
+  {1} options: loaded | well-off | good value | prodigal | cost of living | fees | funding | skint | installments | bill
+
+=== PAGE /vocabulary/b2/money-and-finance-b2-english-vocabulary/ | Money and finance – B2 English Vocabulary | level b2
+--- QUIZ 1067
+CONTEXT:
+Money and finance
+ Exercise 3
+ Complete the sentences with the words from the box. Use each word ONLY ONCE.
+ bargains – bills – expenses – frugal – live off – loaded – make a profit – make ends meet – mortgage – put down
+Q 9214 [gaps] When I was a student at university, I didn't want to 1 {1} my parents any longer, so I took a part-time job and I learned to be 2 {2} with my money and live with very little. Of course, there were 3 {3} that I had to pay, such as 4 {4} , food, and rent, but I learned how to 5 {5} by shopping around for 6 {6} , haggling in markets, and not buying anything I didn’t need. /  After graduating, I worked hard as an engineer and earned a decent salary. However, I continued to live frugally and was soon able to 7 {7} a deposit on an apartment. Five years later, I had already paid off my 8 {8} , and the money I was saving each month on accommodation enabled me to set up my own company. It's been hard work, but my business is starting to 9 {9} . Nowadays, I am certainly not 10 {10} , but I’m in a better financial position than I ever thought I’d be. Money may not buy happiness, but being careful with it certainly helps.
+  {1} free text
+  {2} free text
+  {3} free text
+  {4} free text
+  {5} free text
+  {6} free text
+  {7} free text
+  {8} free text
+  {9} free text
+  {10} free text
+
+=== PAGE /vocabulary/a2/in-a-hotel-a2-english-vocabulary/ | In a hotel – A2 English Vocabulary | level a2
+--- QUIZ 1062
+CONTEXT:
+In a hotel
+ In this Pre-intermediate Vocabulary Lesson about Hotels, you will learn the different types of rooms and accommodations available, what amenities and services you can expect, and useful verb phrases to use at a hotel. Check the explanation and do the exercises.
+ Exercise 1
+ Choose the best option for each gap.
+Q 9164 [radio] We'd paid for _____, so we had all our meals in the hotel restaurant.
+ 16011) A. half board
+ 16012) B. full board
+ 16013) C. room service
+ 16014) D. laundry service
+Q 9165 [radio] The two boys slept in a _____ next to ours, with two small beds.
+ 16015) A. single room
+ 16016) B. double room
+ 16017) C. twin room
+ 16018) D. room service
+Q 9166 [radio] We wanted to stay in a place with _____, because we were driving. (2 words)
+ 16019) A. laundry service
+ 16020) B. half board
+ 16021) C. internet access
+ 16022) D. parking facilities
+Q 9167 [radio] The company had booked the _____ to host their annual meeting.
+ 16023) A. conference room
+ 16024) B. spa
+ 16025) C. laundry service
+ 16026) D. housekeeping
+Q 9168 [radio] I called reception to _____ a wake-up call for 6 a.m. the next morning.
+ 16027) A. check out
+ 16028) B. request
+ 16029) C. check in
+ 16030) D. book
+Q 9169 [radio] My wife and I shared a _____ with a huge bed and excellent sea views.
+ 16031) A. single room
+ 16032) B. half board
+ 16033) C. double room
+ 16034) D. twin room
+Q 9170 [radio] The staff at the _____ were very friendly and greeted us as we checked in.
+ 16035) A. housekeeping
+ 16036) B. room service
+ 16037) C. spa
+ 16038) D. reception desk
+Q 9171 [radio] When we checked out of the hotel, we had to _____ the bill.
+ 16039) A. check in
+ 16040) B. pay
+ 16041) C. request
+ 16042) D. book
+Q 9172 [radio] We'd only paid for _____, as we knew we'd be out for lunch.
+ 16043) A. full board
+ 16044) B. room service
+ 16045) C. internet access
+ 16046) D. half board
+Q 9173 [radio] Our room had a beautiful _____ and we enjoyed watching the waves at sunset.
+ 16047) A. spa
+ 16048) B. room service
+ 16049) C. housekeeping
+ 16050) D. sea view
+
+=== PAGE /vocabulary/a2/in-a-hotel-a2-english-vocabulary/ | In a hotel – A2 English Vocabulary | level a2
+--- QUIZ 1063
+CONTEXT:
+In a hotel
+ Exercise 2
+ Choose the best option to complete these sentences. You can use each option ONLY ONCE.
+Q 9174 [gaps] After we'd {1} at reception, we were given a key to our room.
+  {1} options: the reception desk | housekeeping | single | internet access | checked out | spa | booked | checked in | laundry service | requested
+Q 9175 [gaps] As I was traveling alone, I had booked a {1} room.
+  {1} options: requested | checked in | checked out | the reception desk | spa | single | laundry service | housekeeping | internet access | booked
+Q 9176 [gaps] We were too tired to go out for dinner, so we {1} room service instead.
+  {1} options: requested | spa | internet access | housekeeping | single | the reception desk | booked | checked in | laundry service | checked out
+Q 9177 [gaps] My wife spent a day in the {1} having massages and treatments.
+  {1} options: requested | single | spa | booked | the reception desk | laundry service | checked in | housekeeping | internet access | checked out
+Q 9178 [gaps] I {1} the room online a few months before our holiday.
+  {1} options: single | housekeeping | the reception desk | checked in | checked out | booked | requested | spa | internet access | laundry service
+Q 9179 [gaps] My room didn't have {1} , so I couldn't check my emails.
+  {1} options: checked out | requested | single | internet access | checked in | laundry service | spa | booked | the reception desk | housekeeping
+Q 9180 [gaps] Tom called {1} to ask for more towels.
+  {1} options: checked in | checked out | requested | booked | spa | internet access | single | laundry service | housekeeping | the reception desk
+Q 9181 [gaps] The {1} was well organized, and our room was cleaned daily.
+  {1} options: checked in | laundry service | housekeeping | the reception desk | checked out | booked | internet access | requested | single | spa
+Q 9182 [gaps] After we'd {1} of the hotel, we caught a taxi to the airport.
+  {1} options: housekeeping | booked | requested | checked out | laundry service | spa | the reception desk | checked in | single | internet access
+Q 9183 [gaps] The hotel's {1} was expensive. It cost me $40 to wash my shirts.
+  {1} options: laundry service | single | requested | checked out | booked | internet access | housekeeping | spa | checked in | the reception desk
+
+=== PAGE /vocabulary/a2/in-a-hotel-a2-english-vocabulary/ | In a hotel – A2 English Vocabulary | level a2
+--- QUIZ 1064
+CONTEXT:
+In a hotel
+ Exercise 3
+ Complete the sentences with the words from the box. Use each word ONLY ONCE.
+ booked – check out – housekeeping – internet access – laundry service – reception desk – room service – single room – spa – wake-up call
+Q 9184 [gaps] They say we can pay the bill when we {1} at the end of our stay.
+  {1} free text
+Q 9185 [gaps] The {1} had a huge pool and a very impressive sauna.
+  {1} free text
+Q 9186 [gaps] I left a sign on my door for {1} saying that we didn’t want them to clean our room.
+  {1} free text
+Q 9187 [gaps] Last night, I ordered {1} and had a burger in my room.
+  {1} free text
+Q 9188 [gaps] When we arrived at the hotel, we checked in at the {1} .
+  {1} free text
+Q 9189 [gaps] My wife {1} the room over the phone a few months before our stay.
+  {1} free text
+Q 9190 [gaps] The {1} was efficient, and my clothes were returned to me later that day.
+  {1} free text
+Q 9191 [gaps] You don’t need to request a {1} . You’ve got an alarm on your phone.
+  {1} free text
+Q 9192 [gaps] I needed a room with {1} , so I could check my emails regularly.
+  {1} free text
+Q 9193 [gaps] My {1} was tiny, with just a small bed and a wardrobe.
+  {1} free text
+
+=== PAGE /vocabulary/a1/parts-of-the-body-a1-english-vocabulary/ | Parts of the body – A1 English Vocabulary | level a1
+--- QUIZ 1053
+CONTEXT:
+Parts of the body
+ In this A1 Elementary Vocabulary Lesson, you will learn 20 basic parts of the human body. Check the explanation to learn the words and then do the exercises.
+ Exercise 1
+ Choose the correct option for each gap.
+Q 9005 [radio] Your ______ is in the middle of your face.
+ 15891) A. eyes
+ 15892) B. shoulders
+ 15893) C. back
+ 15894) D. nose
+Q 9006 [radio] My feet are so cold that I can't feel my ______.
+ 15895) A. fingers
+ 15896) B. toes
+ 15897) C. eyes
+ 15898) D. ears
+Q 9007 [radio] Tom was wearing shorts, so I could see his ______.
+ 15899) A. arms
+ 15900) B. ears
+ 15901) C. legs
+ 15902) D. eyes
+Q 9008 [radio] Your hands are at the end of your ______.
+ 15903) A. arms
+ 15904) B. legs
+ 15905) C. shoulders
+ 15906) D. eyes
+Q 9009 [radio] Henry has a big tattoo on his ______.
+ 15907) A. ears
+ 15908) B. eyes
+ 15909) C. toes
+ 15910) D. chest
+Q 9010 [radio] Fred opened his ______ and started to speak.
+ 15911) A. ears
+ 15912) B. mouth
+ 15913) C. nose
+ 15914) D. fingers
+Q 9011 [radio] Dan is holding a pencil in his ______.
+ 15915) A. head
+ 15916) B. nose
+ 15917) C. stomach
+ 15918) D. hand
+Q 9012 [radio] After eating a big lunch, my ______ was full.
+ 15919) A. nose
+ 15920) B. stomach
+ 15921) C. arms
+ 15922) D. back
+Q 9013 [radio] She kissed her husband on the _____.
+ 15923) A. ears
+ 15924) B. eyes
+ 15925) C. feet
+ 15926) D. lips
+Q 9014 [radio] Your ______ are at the top of your arms.
+ 15927) A. shoulders
+ 15928) B. ears
+ 15929) C. feet
+ 15930) D. eyes
+
+=== PAGE /vocabulary/a1/parts-of-the-body-a1-english-vocabulary/ | Parts of the body – A1 English Vocabulary | level a1
+--- QUIZ 1054
+CONTEXT:
+Parts of the body
+ Exercise 2
+ Complete each sentence with one of the options. You can use each option only ONCE.
+Q 9015 [gaps] Sara is holding the baby in her {1} .
+  {1} options: head | knees | feet | ears | fingers | tongue | arms | eyes | back | teeth
+Q 9016 [gaps] Open your mouth and show me your {1} .
+  {1} options: back | arms | teeth | fingers | feet | knees | eyes | head | ears | tongue
+Q 9017 [gaps] I brush my {1} three times a day.
+  {1} options: ears | feet | fingers | eyes | teeth | head | back | arms | tongue | knees
+Q 9018 [gaps] The baby’s {1} were closed because it was sleeping.
+  {1} options: feet | tongue | eyes | back | ears | arms | head | fingers | teeth | knees
+Q 9019 [gaps] I have five {1} on each hand.
+  {1} options: teeth | arms | knees | back | head | ears | tongue | fingers | eyes | feet
+Q 9020 [gaps] Your {1} are in the middle of your legs.
+  {1} options: head | eyes | arms | ears | back | knees | feet | teeth | tongue | fingers
+Q 9021 [gaps] John is lying on his {1} , looking up at the sky.
+  {1} options: teeth | knees | back | eyes | feet | tongue | ears | fingers | head | arms
+Q 9022 [gaps] Ken is wearing a blue hat on his {1} .
+  {1} options: arms | feet | eyes | knees | ears | head | tongue | back | teeth | fingers
+Q 9023 [gaps] My {1} were cold, so I put on some warm socks.
+  {1} options: fingers | knees | arms | back | ears | feet | eyes | tongue | teeth | head
+Q 9024 [gaps] The music was very loud, so I covered my {1} with my hands.
+  {1} options: tongue | back | arms | feet | teeth | head | ears | knees | fingers | eyes
+
+=== PAGE /vocabulary/a1/parts-of-the-body-a1-english-vocabulary/ | Parts of the body – A1 English Vocabulary | level a1
+--- QUIZ 1055
+CONTEXT:
+Parts of the body
+ Exercise 3
+ Fill in each gap with a word from the box below. You can use each option only ONCE.
+ eyes – feet – finger – hand – head – mouth – nose – stomach – teeth – toes
+Q 9025 [gaps] My {1} hurt when I wear these shoes.
+  {1} free text
+Q 9026 [gaps] Claudia has blonde hair and blue {1} .
+  {1} free text
+Q 9027 [gaps] Tony's {1} often hurts because he eats a lot of cake.
+  {1} free text
+Q 9028 [gaps] We have five {1} on each foot.
+  {1} free text
+Q 9029 [gaps] I can't see the top of Jim's {1} because he is wearing a hat.
+  {1} free text
+Q 9030 [gaps] Sally was wearing a ring on her {1} .
+  {1} free text
+Q 9031 [gaps] Most adults have 34 {1} in their mouth.
+  {1} free text
+Q 9032 [gaps] Polly holds her mother's {1} when they cross the road.
+  {1} free text
+Q 9033 [gaps] When Ken opened his {1} , I could see his white teeth.
+  {1} free text
+Q 9034 [gaps] The smell was very bad, so I covered my {1} .
+  {1} free text
+
+=== PAGE /vocabulary/a2/the-weather-a2-english-vocabulary/ | The weather – A2 English Vocabulary | level a2
+--- QUIZ 1059
+CONTEXT:
+The weather
+ In this Pre-intermediate Vocabulary Lesson about The Weather, you will learn essential terms about weather conditions and weather phenomena. Check the explanation and do the exercises.
+ Exercise 1
+ Choose the best option for each gap.
+Q 9144 [radio] Take an umbrella. The weather is _____ today.
+ 15971) A. cloudy
+ 15972) B. wet
+ 15973) C. humid
+ 15974) D. rainy
+Q 9145 [radio] The hot, _____ weather made it uncomfortable to move around.
+ 15975) A. warm
+ 15976) B. humid
+ 15977) C. cloudy
+ 15978) D. freezing
+Q 9146 [radio] The temperature is about 20 degrees below zero. It’s absolutely _____!
+ 15979) A. snowy
+ 15980) B. freezing
+ 15981) C. windy
+ 15982) D. warm
+Q 9147 [radio] It was a _____ day, so the sky was not very bright.
+ 15983) A. cloudy
+ 15984) B. humid
+ 15985) C. sunny
+ 15986) D. dry
+Q 9148 [radio] The temperature here rarely reaches 30 _____.
+ 15987) A. hails
+ 15988) B. showers
+ 15989) C. degrees
+ 15990) D. snowstorms
+Q 9149 [radio] As it was a bright _____ day, we decided to go to the beach.
+ 15991) A. windy
+ 15992) B. humid
+ 15993) C. sunny
+ 15994) D. rainy
+Q 9150 [radio] There has been a bit of _____. I can see drops of water on the windows.
+ 15995) A. snowstorm
+ 15996) B. drizzle
+ 15997) C. cloudy
+ 15998) D. snowy
+Q 9151 [radio] It is very _____ in the desert because it rarely rains.
+ 15999) A. dry
+ 16000) B. wet
+ 16001) C. cloudy
+ 16002) D. warm
+Q 9152 [radio] I could hear the balls of _____ hitting the roof of the car.
+ 16003) A. rainy
+ 16004) B. snowstorm
+ 16005) C. hail
+ 16006) D. showers
+Q 9153 [radio] After the _____, everything was painted white.
+ 16007) A. shower
+ 16008) B. snowstorm
+ 16009) C. drizzle
+ 16010) D. thunderstorm
+
+=== PAGE /vocabulary/a2/the-weather-a2-english-vocabulary/ | The weather – A2 English Vocabulary | level a2
+--- QUIZ 1060
+CONTEXT:
+The weather
+ Exercise 2
+ Choose the best option to complete these sentences. You can use each option ONLY ONCE.
+Q 9154 [gaps] During the storm, we saw bright flashes of {1} across the sky.
+  {1} options: snowy | hail | windy | rainy | warm | showers | wet | dry | thunderstorm | lightning
+Q 9155 [gaps] The schools were closed, and everything was white because of the {1} weather.
+  {1} options: wet | rainy | hail | thunderstorm | snowy | lightning | warm | showers | windy | dry
+Q 9156 [gaps] All the vegetation is very {1} because it hasn't rained in a long time.
+  {1} options: lightning | dry | hail | windy | thunderstorm | rainy | showers | snowy | warm | wet
+Q 9157 [gaps] During the storm, small pieces of {1} started falling from the sky.
+  {1} options: windy | wet | warm | hail | showers | snowy | dry | rainy | thunderstorm | lightning
+Q 9158 [gaps] We are expecting {1} this afternoon, so I’ll take my umbrella to work.
+  {1} options: showers | windy | wet | lightning | snowy | thunderstorm | warm | hail | rainy | dry
+Q 9159 [gaps] After a week of heavy rain, the ground was very {1} .
+  {1} options: rainy | lightning | wet | thunderstorm | hail | showers | warm | snowy | dry | windy
+Q 9160 [gaps] There was a loud {1} last night, with lots of rain and lightning.
+  {1} options: warm | snowy | dry | hail | windy | thunderstorm | lightning | showers | wet | rainy
+Q 9161 [gaps] It was such a {1} day that my hat blew away while I was walking to work.
+  {1} options: thunderstorm | windy | warm | snowy | rainy | showers | dry | wet | lightning | hail
+Q 9162 [gaps] It was a nice, {1} day, with temperatures around twenty degrees Celsius.
+  {1} options: warm | hail | dry | lightning | windy | snowy | showers | rainy | wet | thunderstorm
+Q 9163 [gaps] On {1} days like these, it’s too wet to use the garden.
+  {1} options: snowy | thunderstorm | warm | dry | rainy | showers | windy | lightning | hail | wet
+
+=== PAGE /vocabulary/a2/the-weather-a2-english-vocabulary/ | The weather – A2 English Vocabulary | level a2
+--- QUIZ 1061
+CONTEXT:
+The weather
+ Exercise 3
+ Complete the sentences with the words from the box. Use each word ONLY ONCE.
+ degrees – drizzle – freezing – hail – hot – humid – thunder – thunderstorm – warm – windy
+Q 9066 [gaps] It's often very {1} here, and we need to turn on the air conditioning.
+  {1} free text
+Q 9067 [gaps] When I went outside, I could feel the {1} air making it hard to breathe comfortably.
+  {1} free text
+Q 9068 [gaps] There was a bit of {1} on the windows which didn’t take long to dry.
+  {1} free text
+Q 9069 [gaps] Because of the {1} weather, the roads were covered in ice.
+  {1} free text
+Q 9065 [gaps] The temperature will drop to two {1} this evening, so wear a warm jacket.
+  {1} free text
+Q 9070 [gaps] The sound of {1} was so loud, it shook the windows.
+  {1} free text
+Q 9071 [gaps] It was a pleasantly {1} evening, so I didn’t need to wear a jacket.
+  {1} free text
+Q 9072 [gaps] My umbrella blew away because it was very {1} .
+  {1} free text
+Q 9073 [gaps] My car was covered in small balls of {1} .
+  {1} free text
+Q 9074 [gaps] The big {1} caused enormous damage in the city.
+  {1} free text
+
+=== PAGE /vocabulary/a1/shops-and-shopping-a1-english-vocabulary/ | Shops and shopping – A1 English Vocabulary | level a1
+--- QUIZ 1047
+CONTEXT:
+Shops and shopping
+ In this A1 Elementary Vocabulary Lesson, you will learn different common types of shops and useful phrases that are used when shopping. Check the explanation to learn the words and then do the exercises.
+ Exercise 1
+ Choose the correct option for each gap.
+Q 8945 [radio] I bought a new television from the _____.
+ 15811) A. electronics store
+ 15812) B. newsagent’s
+ 15813) C. stationery store
+ 15814) D. pharmacy
+Q 8946 [radio] The _____ at the end of the street sells lots of pens and notebooks.
+ 15815) A. pharmacy
+ 15816) B. toy store
+ 15817) C. stationery store
+ 15818) D. pet store
+Q 8947 [radio] Tom bought his wife some roses from the _____.
+ 15819) A. hardware store
+ 15820) B. electronics store
+ 15821) C. flower shop
+ 15822) D. shoe store
+Q 8948 [radio] Alice bought a pair of boots from the _____.
+ 15823) A. pet shop
+ 15824) B. shoe store
+ 15825) C. chemist’s
+ 15826) D. hardware store
+Q 8949 [radio] I could smell fresh bread when I walked past the _____.
+ 15827) A. shoe store
+ 15828) B. chemist’s
+ 15829) C. gift shop
+ 15830) D. bakery
+Q 8950 [radio] I saw lots of beautiful necklaces at the _____.
+ 15831) A. jewelry store
+ 15832) B. chemist’s
+ 15833) C. hardware store
+ 15834) D. electronics store
+Q 8951 [radio] I’m going to the _____ to buy some cheese.
+ 15835) A. electronics shop
+ 15836) B. flower shop
+ 15837) C. grocery store
+ 15838) D. pet store
+Q 8952 [radio] I bought a beautiful golden fish at the _____.
+ 15839) A. hardware store
+ 15840) B. pet store
+ 15841) C. supermarket
+ 15842) D. flower shop
+Q 8953 [radio] We went to the _____ to buy some pills.
+ 15843) A. bakery
+ 15844) B. chemist's
+ 15845) C. stationery store
+ 15846) D. supermarket
+Q 8954 [radio] Mary is going to the _____ to buy a dress for the party.
+ 15847) A. clothing store
+ 15848) B. pet shop
+ 15849) C. hardware store
+ 15850) D. gift shop
+
+=== PAGE /vocabulary/a1/shops-and-shopping-a1-english-vocabulary/ | Shops and shopping – A1 English Vocabulary | level a1
+--- QUIZ 1048
+CONTEXT:
+Shops and shopping
+ Exercise 2
+ Complete each sentence with one of the options. You can use each option only ONCE.
+Q 8955 [gaps] There were lots of sweet animals at the {1} .
+  {1} options: toy store | convenience store | hardware store | pet store | furniture store | gift shop | jewelry store | pharmacy | clothes store | bakery
+Q 8956 [gaps] We bought a new bed from the {1} .
+  {1} options: hardware store | gift shop | pharmacy | bakery | toy store | clothes store | convenience store | jewelry store | furniture store | pet store
+Q 8957 [gaps] I'm going to the {1} to buy some bread.
+  {1} options: furniture store | clothes store | bakery | jewelry store | toy store | pet store | hardware store | pharmacy | gift shop | convenience store
+Q 8958 [gaps] My husband bought me a ring from the {1} .
+  {1} options: furniture store | pharmacy | gift shop | pet store | bakery | convenience store | clothes store | jewelry store | hardware store | toy store
+Q 8959 [gaps] I went to the {1} to buy some medicine.
+  {1} options: convenience store | pharmacy | pet store | hardware store | gift shop | jewelry store | bakery | furniture store | toy store | clothes store
+Q 8960 [gaps] We got the Christmas presents for the children at the {1} .
+  {1} options: furniture store | hardware store | bakery | pharmacy | gift shop | jewelry store | toy store | convenience store | pet store | clothes store
+Q 8961 [gaps] Sara went to the {1} to buy a present for her mother.
+  {1} options: clothes store | jewelry store | pet store | gift shop | pharmacy | convenience store | bakery | hardware store | toy store | furniture store
+Q 8962 [gaps] You can buy a magazine from the {1} .
+  {1} options: pharmacy | toy store | clothes store | convenience store | furniture store | hardware store | bakery | jewelry store | gift shop | pet store
+Q 8963 [gaps] I saw some beautiful jeans at the {1} in town.
+  {1} options: convenience store | bakery | hardware store | jewelry store | furniture store | pet store | gift shop | clothes store | toy store | pharmacy
+Q 8964 [gaps] Dad bought some tools from the {1} .
+  {1} options: gift shop | clothes store | newsagent's | jewelry store | furniture store | toy store | hardware store | pharmacy | pet store | bakery
+
+=== PAGE /vocabulary/a1/shops-and-shopping-a1-english-vocabulary/ | Shops and shopping – A1 English Vocabulary | level a1
+--- QUIZ 1049
+CONTEXT:
+Shops and shopping
+ Exercise 3
+ Complete each sentence with the correct ending. You can choose each option ONLY ONCE.
+Q 8965 [gaps] How can {1}
+  {1} options: these shoes cost? | 13 dollars. | does this watch cost? | in cash. | credit card? | I help you? | looking. Thanks. | for a pair of jeans. | this t-shirt? | any winter coats?
+Q 8966 [gaps] I'm just {1}
+  {1} options: this t-shirt? | any winter coats? | I help you? | does this watch cost? | for a pair of jeans. | credit card? | 13 dollars. | in cash. | looking. Thanks. | these shoes cost?
+Q 8967 [gaps] How much do {1}
+  {1} options: looking. Thanks. | for a pair of jeans. | does this watch cost? | any winter coats? | this t-shirt? | in cash. | these shoes cost? | credit card? | I help you? | 13 dollars.
+Q 8968 [gaps] I'm looking {1}
+  {1} options: looking. Thanks. | these shoes cost? | 13 dollars. | this t-shirt? | credit card? | I help you? | any winter coats? | does this watch cost? | for a pair of jeans. | in cash.
+Q 8969 [gaps] Do you have {1}
+  {1} options: this t-shirt? | 13 dollars. | credit card? | for a pair of jeans. | looking. Thanks. | in cash. | any winter coats? | does this watch cost? | these shoes cost? | I help you?
+Q 8970 [gaps] I'll pay {1}
+  {1} options: these shoes cost? | credit card? | for a pair of jeans. | does this watch cost? | I help you? | 13 dollars. | this t-shirt? | in cash. | looking. Thanks. | any winter coats?
+Q 8971 [gaps] Can I pay by {1}
+  {1} options: does this watch cost? | 13 dollars. | for a pair of jeans. | looking. Thanks. | in cash. | I help you? | any winter coats? | these shoes cost? | credit card? | this t-shirt?
+Q 8972 [gaps] How much {1}
+  {1} options: in cash. | for a pair of jeans. | these shoes cost? | I help you? | looking. Thanks. | this t-shirt? | does this watch cost? | credit card? | 13 dollars. | any winter coats?
+Q 8973 [gaps] It's {1}
+  {1} options: any winter coats? | does this watch cost? | this t-shirt? | for a pair of jeans. | I help you? | these shoes cost? | in cash. | 13 dollars. | credit card? | looking. Thanks.
+Q 8974 [gaps] How much is {1}
+  {1} options: these shoes cost? | does this watch cost? | for a pair of jeans. | looking. Thanks. | any winter coats? | 13 dollars. | I help you? | credit card? | this t-shirt? | in cash.
+
+=== PAGE /vocabulary/a2/common-phrasal-verbs-a2-english-vocabulary/ | Common phrasal verbs – A2 English Vocabulary | level a2
+--- QUIZ 1056
+CONTEXT:
+Common phrasal verbs
+ In this Pre-intermediate Vocabulary Lesson about Common Phrasal Verbs, you will learn essential phrasal verbs that we often use in our daily lives. Check the explanation and do the exercises.
+ Exercise 1
+ Choose the best option for each gap.
+Q 9045 [radio] Tom _____ his old trainers because they were full of holes.
+ 15931) A. brought back
+ 15932) B. threw away
+ 15933) C. worked out
+ 15934) D. picked up
+Q 9046 [radio] The party _____ until 5:30 a.m.
+ 15935) A. brought back
+ 15936) B. turned on
+ 15937) C. took off
+ 15938) D. went on
+Q 9047 [radio] I don’t like _____ my little brother; he always misbehaves.
+ 15939) A. looking for
+ 15940) B. looking after
+ 15941) C. giving back
+ 15942) D. running out
+Q 9048 [radio] Sara and Alice don’t _____ very well. They’re always arguing.
+ 15943) A. pick up
+ 15944) B. put on
+ 15945) C. get along
+ 15946) D. get up
+Q 9049 [radio] You would feel much better if you _____ smoking.
+ 15947) A. brought back
+ 15948) B. gave up
+ 15949) C. got up
+ 15950) D. turned off
+Q 9050 [radio] Please _____ the library books when you have finished reading them.
+ 15951) A. bring back
+ 15952) B. work out
+ 15953) C. break up
+ 15954) D. take off
+Q 9051 [radio] I had to drink my coffee black because we had _____ of milk.
+ 15955) A. put on
+ 15956) B. picked up
+ 15957) C. run out
+ 15958) D. given back
+Q 9052 [radio] Peter had lost his hat, so his friends helped him _____ it.
+ 15959) A. look after
+ 15960) B. take off
+ 15961) C. put on
+ 15962) D. look for
+Q 9053 [radio] Please _____ your dirty shoes before coming into the house.
+ 15963) A. put on
+ 15964) B. turn off
+ 15965) C. take off
+ 15966) D. turn on
+Q 9054 [radio] Tara _____ the keys from the table and put them in her bag.
+ 15967) A. gave back
+ 15968) B. picked up
+ 15969) C. threw away
+ 15970) D. worked out
+
+=== PAGE /vocabulary/a2/common-phrasal-verbs-a2-english-vocabulary/ | Common phrasal verbs – A2 English Vocabulary | level a2
+--- QUIZ 1057
+CONTEXT:
+Common phrasal verbs
+ Exercise 2
+ Choose the best option to complete these sentences. You can use each option ONLY ONCE.
+Q 9055 [gaps] Remember to {1} the cooker when you’ve finished using it.
+  {1} options: bring back | went on | work out | looking for | get up | broke up | turn off | took off | hang out | put on
+Q 9056 [gaps] I {1} my pyjamas and got into bed.
+  {1} options: broke up | bring back | get up | took off | turn off | hang out | went on | put on | work out | looking for
+Q 9057 [gaps] The concert {1} until after midnight.
+  {1} options: work out | turn off | broke up | bring back | looking for | took off | get up | hang out | went on | put on
+Q 9058 [gaps] They are trying to get fit, so they {1} at the gym every morning.
+  {1} options: looking for | took off | work out | broke up | hang out | put on | went on | get up | turn off | bring back
+Q 9059 [gaps] I am {1} my keys. Have you seen them?
+  {1} options: hang out | get up | broke up | bring back | looking for | work out | took off | went on | turn off | put on
+Q 9060 [gaps] My friends and I usually {1} together after school.
+  {1} options: looking for | hang out | took off | went on | bring back | work out | turn off | broke up | put on | get up
+Q 9061 [gaps] Please {1} the book when you've read it.
+  {1} options: looking for | hang out | went on | work out | bring back | took off | turn off | broke up | get up | put on
+Q 9062 [gaps] Alice and her boyfriend {1} last week. She’s very upset.
+  {1} options: turn off | get up | took off | hang out | put on | work out | broke up | bring back | looking for | went on
+Q 9063 [gaps] As soon as I {1} in the morning, I have a shower.
+  {1} options: took off | work out | hang out | bring back | put on | get up | went on | looking for | broke up | turn off
+Q 9064 [gaps] I {1} my coat and hung it on a hook.
+  {1} options: turn off | get up | bring back | took off | looking for | broke up | hang out | went on | work out | put on
+
+=== PAGE /vocabulary/a2/common-phrasal-verbs-a2-english-vocabulary/ | Common phrasal verbs – A2 English Vocabulary | level a2
+--- QUIZ 1058
+CONTEXT:
+Common phrasal verbs
+ Exercise 3
+ Complete the sentences with the words from the box. Use each word ONLY ONCE.
+ broke down – get along – get up – give up – look after – put on – run out – take out – throw away – turn on
+Q 9035 [gaps] The car {1} in the middle of the motorway.
+  {1} free text
+Q 9036 [gaps] Don't {1} that sandwich. I'll have it if you don't want it.
+  {1} free text
+Q 9037 [gaps] Please {1} the television. I want to watch the news.
+  {1} free text
+Q 9038 [gaps] My cousin and I {1} really well.
+  {1} free text
+Q 9039 [gaps] I need to go to the shop because I've {1} of cat food.
+  {1} free text
+Q 9040 [gaps] When I {1} very early, I have a short nap in the afternoon.
+  {1} free text
+Q 9041 [gaps] {1} your jacket before going outside. It's very cold.
+  {1} free text
+Q 9042 [gaps] When my neighbour goes on holiday, I {1} his cats.
+  {1} free text
+Q 9043 [gaps] I want to {1} meat and become a vegetarian.
+  {1} free text
+Q 9044 [gaps] I'll {1} the dog when I get home.
+  {1} free text
+
+=== PAGE /vocabulary/a1/countries-and-nationalities-a1-english-vocabulary/ | Countries and nationalities – A1 English Vocabulary | level a1
+--- QUIZ 1044
+CONTEXT:
+Countries and nationalities
+ In this A1 Elementary Vocabulary Lesson, you will learn the names of 20 common countries and nationalities in English and the language spoken in each country. Check the explanation to learn the words and then do the exercises. 
+ Exercise 1
+ Choose the correct option for each gap.
+Q 8926 [radio] The _____ capital, Dublin, is a lovely place to visit.
+ 15775) A. English
+ 15776) B. Italian
+ 15777) C. French
+ 15778) D. Irish
+Q 8927 [radio] Joe speaks _____ well because he lived in Brazil for two years.
+ 15779) A. Portuguese
+ 15780) B. Spanish
+ 15781) C. Italy
+ 15782) D. Portugal
+Q 8928 [radio] Canberra, the _____ capital, is beautiful in the spring.
+ 15783) A. English
+ 15784) B. Australia
+ 15785) C. Brazilian
+ 15786) D. Australian
+Q 8929 [radio] Tequila is a _____ drink that is famous all over the world.
+ 15787) A. Mexico
+ 15788) B. Portuguese
+ 15789) C. Mexican
+ 15790) D. Spanish
+Q 8930 [radio] Paolo learned to speak _____ when he moved to London last year.
+ 15791) A. English
+ 15792) B. Ireland
+ 15793) C. England
+ 15794) D. American
+Q 8925 [radio] My favourite part of _____ was Athens, where we stayed for a month last year.
+ 15771) A. Greek
+ 15772) B. Greece
+ 15773) C. Arabic
+ 15774) D. Portugal
+Q 8931 [radio] I love _____ food, especially pizza and pasta.
+ 15795) A. Egyptian
+ 15796) B. Italy
+ 15797) C. Italian
+ 15798) D. Egyptian
+Q 8932 [radio] When I visited _____, I stayed with a family in Stockholm.
+ 15799) A. Germany
+ 15800) B. Ireland
+ 15801) C. Greece
+ 15802) D. Sweden
+Q 8933 [radio] _____ is a beautiful country on the west coast of Africa.
+ 15803) A. Nigeria
+ 15804) B. India
+ 15805) C. Greece
+ 15806) D. Germany
+Q 8934 [radio] Cairo is the capital city of _____.
+ 15807) A. Egyptian
+ 15808) B. Arab
+ 15809) C. Italian
+ 15810) D. Egypt
+
+=== PAGE /vocabulary/a1/countries-and-nationalities-a1-english-vocabulary/ | Countries and nationalities – A1 English Vocabulary | level a1
+--- QUIZ 1045
+CONTEXT:
+Countries and nationalities
+ Exercise 2
+ Complete each sentence with one of the options. You can use each option only ONCE.
+Q 8915 [gaps] My neighbour, Sven, is {1} ; He was born in Stockholm.
+  {1} options: Arabic | German | Ireland | South Korean | Swedish | Indian | Russian | Greek | Hindi | the United States
+Q 8916 [gaps] In Seoul, you can eat delicious {1} food.
+  {1} options: Greek | Russian | Indian | Hindi | German | South Korean | Swedish | Ireland | the United States | Arabic
+Q 8917 [gaps] People from {1} are called Americans.
+  {1} options: the United States | South Korean | Indian | Russian | Arabic | Hindi | Ireland | Swedish | German | Greek
+Q 8918 [gaps] Vladimir is from Moscow; his first language is {1} .
+  {1} options: Hindi | the United States | Arabic | Russian | Swedish | German | South Korean | Ireland | Greek | Indian
+Q 8919 [gaps] I went to Dublin when I visited {1} last year.
+  {1} options: German | Swedish | Greek | South Korean | the United States | Ireland | Arabic | Russian | Hindi | Indian
+Q 8920 [gaps] I love {1} food, especially the hot curries.
+  {1} options: Hindi | German | the United States | South Korean | Swedish | Ireland | Greek | Indian | Arabic | Russian
+Q 8921 [gaps] Ali is from Egypt. His first language is {1} .
+  {1} options: Russian | Ireland | Arabic | the United States | South Korean | Swedish | Indian | Hindi | German | Greek
+Q 8922 [gaps] We visited the {1} capital, Athens during our trip to Europe last year.
+  {1} options: the United States | Russian | German | Ireland | South Korean | Swedish | Hindi | Indian | Arabic | Greek
+Q 8923 [gaps] Many people in India speak {1} .
+  {1} options: the United States | Arabic | Hindi | Swedish | Ireland | Greek | Indian | Russian | German | South Korean
+Q 8924 [gaps] I’m going to Berlin next year, so I’m trying to learn {1} .
+  {1} options: the United States | South Korean | German | Greek | Ireland | Indian | Swedish | Hindi | Arabic | Russian
+
+=== PAGE /vocabulary/a1/countries-and-nationalities-a1-english-vocabulary/ | Countries and nationalities – A1 English Vocabulary | level a1
+--- QUIZ 1046
+CONTEXT:
+Countries and nationalities
+ Exercise 3
+ Fill in each gap with a word from the box below. You can use each option only ONCE.
+ Australia – Brazilian – Canadian – Chinese – France – French – Germany – Japanese – Spain – United Kingdom
+Q 8935 [gaps] Tim is going to {1} because he has a meeting in Berlin.
+  {1} free text
+Q 8936 [gaps] Ottawa, the {1} capital, can be very cold in winter.
+  {1} free text
+Q 8937 [gaps] Jean’s family comes from Paris, so his first language is {1} .
+  {1} free text
+Q 8938 [gaps] When I lived in Tokyo, I learned to speak {1} .
+  {1} free text
+Q 8939 [gaps] When we go to the {1} , we hope to visit Wales.
+  {1} free text
+Q 8940 [gaps] The {1} capital, Beijing, is a very busy city.
+  {1} free text
+Q 8941 [gaps] Next week I’m going to {1} to see my friend Juan who lives in Madrid.
+  {1} free text
+Q 8942 [gaps] I made a lot of {1} friends when I visited Rio de Janeiro last year.
+  {1} free text
+Q 8943 [gaps] Before I visit {1} , I need to learn some French.
+  {1} free text
+Q 8944 [gaps] Michael lives in {1} , in a town quite near Melbourne.
+  {1} free text
+
+=== PAGE /vocabulary/b1/transport-b1-english-vocabulary/ | Transport – B1 English Vocabulary | level b1
+--- QUIZ 1041
+CONTEXT:
+Transport
+ In this Intermediate Vocabulary lesson about Transport, you will learn about various means of transport, common phrases used in transportation, and essential vocabulary used to talk about different transport situations. Check the explanation to familiarize yourself with the expressions before doing the exercises.
+ Exercise 1
+ Choose the correct option for each gap.
+Q 8905 [radio] Make sure that you are driving within the limits when approaching a _____.
+ 15731) A. traffic light
+ 15732) B. roundabout
+ 15733) C. speed camera
+ 15734) D. bus stop
+Q 8914 [radio] Every morning, It _____ me 30 minutes to get to my workplace.
+ 15767) A. takes
+ 15768) B. misses
+ 15769) C. commutes
+ 15770) D. gets on
+Q 8912 [radio] The traffic lights at the intersection have been replaced by a _____.
+ 15759) A. bus lane
+ 15760) B. roundabout
+ 15761) C. highway
+ 15762) D. platform
+Q 8907 [radio] A _____ between a van and an ambulance caused a huge delay this morning.
+ 15739) A. traffic jam
+ 15740) B. road accident
+ 15741) C. motorway
+ 15742) D. traffic light
+Q 8906 [radio] There's a lot of traffic. It'll be faster to get to the city center by _____.
+ 15735) A. coach
+ 15736) B. ferry
+ 15737) C. tram
+ 15738) D. van
+Q 8911 [radio] All the packages were transported in a large _____.
+ 15755) A. lorry
+ 15756) B. tram
+ 15757) C. underground
+ 15758) D. coach
+Q 8908 [radio] For our school trip, we traveled in a _____, which was very comfortable.
+ 15743) A. lorry
+ 15744) B. coach
+ 15745) C. van
+ 15746) D. ferry
+Q 8909 [radio] There was a major _____ on the bridge, and several cars were involved.
+ 15747) A. car crash
+ 15748) B. bus stop
+ 15749) C. traffic jam
+ 15750) D. roundabout
+Q 8910 [radio] At the intersection, the _____ turned red just as we were approaching.
+ 15751) A. platform
+ 15752) B. speed camera
+ 15753) C. roundabout
+ 15754) D. traffic light
+Q 8913 [radio] It's time to leave, so let's _____ the car and head to the airport.
+ 15763) A. get in
+ 15764) B. board
+ 15765) C. commute
+ 15766) D. fill up
+
+=== PAGE /vocabulary/b1/transport-b1-english-vocabulary/ | Transport – B1 English Vocabulary | level b1
+--- QUIZ 1042
+CONTEXT:
+Transport
+ Exercise 2
+ Choose the most suitable option to complete these sentences. You can use each option ONLY ONCE.
+Q 8895 [gaps] We took a {1} to cross the river to the other side of the city.
+  {1} options: ferry | miss | single ticket | fill up | board | pick up | highway | run out | subway | get to
+Q 8896 [gaps] Before the flight, passengers were called to {1} the plane.
+  {1} options: subway | run out | get to | fill up | ferry | miss | board | highway | pick up | single ticket
+Q 8897 [gaps] I only needed a {1} since I was not planning to return that day.
+  {1} options: highway | ferry | subway | board | fill up | run out | get to | single ticket | miss | pick up
+Q 8898 [gaps] Can you {1} my sister from the train station on your way home?
+  {1} options: subway | single ticket | fill up | pick up | run out | board | ferry | highway | get to | miss
+Q 8899 [gaps] We need to stop at the next gas station to {1} the tank.
+  {1} options: board | miss | ferry | subway | single ticket | run out | highway | fill up | pick up | get to
+Q 8900 [gaps] We'll go faster if we take the {1} .
+  {1} options: miss | board | single ticket | get to | pick up | fill up | run out | subway | ferry | highway
+Q 8901 [gaps] We didn't know that we would {1} of petrol in the middle of our road trip.
+  {1} options: board | subway | single ticket | run out | miss | get to | pick up | highway | ferry | fill up
+Q 8902 [gaps] The {1} is faster than the bus because you avoid traffic.
+  {1} options: board | ferry | run out | subway | highway | miss | fill up | pick up | get to | single ticket
+Q 8903 [gaps] It's important to leave early to {1} the airport on time.
+  {1} options: pick up | single ticket | run out | get to | fill up | board | subway | ferry | miss | highway
+Q 8904 [gaps] I sometimes wake up late and {1} my morning bus.
+  {1} options: single ticket | miss | get to | highway | run out | ferry | subway | board | fill up | pick up
+
+=== PAGE /vocabulary/b1/transport-b1-english-vocabulary/ | Transport – B1 English Vocabulary | level b1
+--- QUIZ 1043
+CONTEXT:
+Transport
+ Exercise 3
+ Complete the each sentence using a word from the box.
+ bus lanes – commute – get off – get on – get out – platform – railway station – return ticket – traffic jam – underground
+Q 8894 [gaps] In the morning, I often 1 {1} to work using public transport. First, I 2 {2} the train at the local 3 {3} . I always make sure to have a 4 {4} to avoid buying another one for my journey back home. The train is not usually on time, so I often have to wait on the 5 {5} for ten or twenty minutes. /  Once I arrive in the city, I transfer to the 6 {6} to reach my office. The tube station is always bustling with people, especially during rush hours. After a few stops, I 7 {7} and go to the nearest bus stop. I prefer taking the bus for the last part of my journey as it drops me right in front of my office building. /  During my commute, I often see a 8 {8} on the main road. It reminds me of why I prefer using public transport. The city has several 9 {9} , which makes the bus a quicker option than driving a car. /  One day last week, when I was driving instead of taking the train, I had to take a different route as there was a road accident on my usual path. This incident caused significant delays, and many people had to 10 {10} of their vehicles and walk to their destinations. It was a hectic day, but I managed to reach work on time, thanks to the efficiency of the city's public transport system.
+  {1} free text
+  {2} free text
+  {3} free text
+  {4} free text
+  {5} free text
+  {6} free text
+  {7} free text
+  {8} free text
+  {9} free text
+  {10} free text
+
+=== PAGE /vocabulary/a2/towns-and-cities-a2-english-vocabulary/ | Towns and cities – A2 English Vocabulary | level a2
+--- QUIZ 1037
+CONTEXT:
+Towns and cities
+ In this pre-intermediate vocabulary lesson about Towns and Cities, you will learn essential adjectives used to describe towns or cities and different nouns for common places you can find in them. Check the explanation and do the exercises.
+ Exercise 1
+ Choose the best option for each gap.
+Q 8857 [radio] The bus was really _______, so we couldn’t get a seat.
+ 15677) A. modern
+ 15678) B. crowded
+ 15679) C. peaceful
+ 15680) D. safe
+Q 8858 [radio] It’s an _______ area, full of factories and warehouses.
+ 15681) A. quiet
+ 15682) B. picturesque
+ 15683) C. industrial
+ 15684) D. residential
+Q 8859 [radio] On sunny days, we often have a picnic in the _______.
+ 15685) A. statue
+ 15686) B. park
+ 15687) C. church
+ 15688) D. mall
+Q 8860 [radio] Many Christians in the area visit this _______ every Sunday.
+ 15689) A. church
+ 15690) B. mosque
+ 15691) C. suburb
+ 15692) D. factory
+Q 8861 [radio] I needed to send a letter, so I went to the _______.
+ 15693) A. library
+ 15694) B. park
+ 15695) C. post office
+ 15696) D. market
+Q 8862 [radio] We visited a _______ where we saw some pots and tools that were over 600 years old.
+ 15697) A. factory
+ 15698) B. statue
+ 15699) C. park
+ 15700) D. museum
+Q 8863 [radio] It’s a _______ city with very little crime.
+ 15701) A. vibrant
+ 15702) B. crowded
+ 15703) C. dangerous
+ 15704) D. safe
+Q 8864 [radio] It was _______ in the park, and I found it easy to relax.
+ 15705) A. peaceful
+ 15706) B. industrial
+ 15707) C. residential
+ 15708) D. lively
+Q 8865 [radio] Our hotel was in a _______ area, with lots of museums and attractions.
+ 15709) A. residential
+ 15710) B. touristy
+ 15711) C. quiet
+ 15712) D. cosmopolitan
+Q 8866 [radio] The restaurant was very _______, so we were lucky to get a table.
+ 15713) A. industrial
+ 15714) B. peaceful
+ 15715) C. cosmopolitan
+ 15716) D. busy
+
+=== PAGE /vocabulary/a2/towns-and-cities-a2-english-vocabulary/ | Towns and cities – A2 English Vocabulary | level a2
+--- QUIZ 1038
+CONTEXT:
+Towns and cities
+ Exercise 2
+ Choose the best option to complete these sentences. You can use each option ONLY ONCE.
+Q 8867 [gaps] There are over 50 stores and restaurants inside the {1} .
+  {1} options: residential | multicultural | castle | market | tourist attraction | statue | mosque | shopping centre | picturesque | library
+Q 8868 [gaps] We live in a quiet {1} area where there aren’t any shops or offices.
+  {1} options: multicultural | residential | library | castle | tourist attraction | shopping centre | picturesque | statue | mosque | market
+Q 8869 [gaps] We visited a 500-year-old {1} with very high, thick walls.
+  {1} options: castle | shopping centre | multicultural | mosque | statue | picturesque | library | market | tourist attraction | residential
+Q 8870 [gaps] We visited a very {1} town. It was incredibly beautiful.
+  {1} options: library | picturesque | shopping centre | statue | mosque | castle | residential | market | multicultural | tourist attraction
+Q 8871 [gaps] I went to the {1} yesterday to return the books that I’d borrowed.
+  {1} options: statue | shopping centre | library | mosque | residential | picturesque | tourist attraction | multicultural | castle | market
+Q 8872 [gaps] It’s a {1} city, home to people from all over the world.
+  {1} options: statue | residential | picturesque | castle | market | mosque | library | shopping centre | multicultural | tourist attraction
+Q 8873 [gaps] There’s a great outdoor {1} in town where you can buy fresh vegetables.
+  {1} options: residential | shopping centre | multicultural | picturesque | library | mosque | market | castle | tourist attraction | statue
+Q 8874 [gaps] Many Muslims in the area visit the {1} regularly to pray.
+  {1} options: market | castle | picturesque | statue | multicultural | residential | shopping centre | mosque | library | tourist attraction
+Q 8875 [gaps] There is a {1} of the former president, just outside the town hall.
+  {1} options: castle | mosque | tourist attraction | multicultural | shopping centre | residential | library | statue | picturesque | market
+Q 8876 [gaps] The castle is the city’s most popular {1} .
+  {1} options: multicultural | market | tourist attraction | picturesque | statue | shopping centre | library | residential | mosque | castle
+
+=== PAGE /vocabulary/a2/towns-and-cities-a2-english-vocabulary/ | Towns and cities – A2 English Vocabulary | level a2
+--- QUIZ 1039
+CONTEXT:
+Towns and cities
+ Exercise 3
+ Complete the sentences with the words from the box. Use each word ONLY ONCE.
+ car park – dangerous – downtown – factory – historical – quiet – residential – suburb – town hall – vibrant
+Q 8877 [gaps] All the good shops are located {1} .
+  {1} free text
+Q 8878 [gaps] It’s a really {1} city with so many amazing things to do.
+  {1} free text
+Q 8879 [gaps] Most of the town's people work at the big car {1} .
+  {1} free text
+Q 8880 [gaps] That part of the city can be quite {1} , so you should avoid it if you can.
+  {1} free text
+Q 8881 [gaps] The town is full of {1} buildings that were built four centuries ago.
+  {1} free text
+Q 8882 [gaps] The big {1} makes travel easier for those with no access to public transport.
+  {1} free text
+Q 8883 [gaps] They moved to a {1} area where lots of young families live.
+  {1} free text
+Q 8884 [gaps] We live in a quiet {1} on the western edge of town.
+  {1} free text
+Q 8885 [gaps] It’s {1} near the lake, with very little noise.
+  {1} free text
+Q 8886 [gaps] The local government members make all their decisions in the {1} .
+  {1} free text
+
+=== PAGE /vocabulary/a1/food-and-meals-a1-english-vocabulary/ | Food and meals – A1 English Vocabulary | level a1
+--- QUIZ 1034
+CONTEXT:
+Food and meals
+ In this A1 Elementary Vocabulary lesson, you will learn essential vocabulary for food and meals.
+ Exercise 1
+ Choose the correct option for each gap.
+Q 8807 [radio] I was hungry in the middle of the afternoon, so I had a _____.
+ 15558) A. breakfast
+ 15559) B. lunch
+ 15560) C. snack
+ 15561) D. dinner
+Q 8808 [radio] Apples and bananas are my favourite _____.
+ 15562) A. vegetables
+ 15563) B. meat
+ 15564) C. fish
+ 15565) D. fruits
+Q 8809 [radio] I don't drink coffee, but I drink five cups of _____ a day.
+ 15566) A. beer
+ 15567) B. tea
+ 15568) C. coffee
+ 15569) D. salad
+Q 8810 [radio] It was a cold day, so I had a hot bowl of _____ for lunch.
+ 15570) A. wine
+ 15571) B. soup
+ 15572) C. bread
+ 15573) D. dessert
+Q 8811 [radio] My family is vegetarian, so we don’t eat any _____.
+ 15574) A. vegetables
+ 15575) B. crisps
+ 15576) C. meat
+ 15577) D. meals
+Q 8812 [radio] We made a nice _____ with some lettuce and tomatoes.
+ 15578) A. dessert
+ 15579) B. cake
+ 15580) C. salad
+ 15581) D. jam
+Q 8813 [radio] My sister and I had sandwiches and cakes for _____.
+ 15582) A. tea
+ 15583) B. coffee
+ 15584) C. butter
+ 15585) D. cereal
+Q 8814 [radio] You need _____ to make a sandwich.
+ 15586) A. lunch
+ 15587) B. chips
+ 15588) C. rice
+ 15589) D. bread
+Q 8815 [radio] Mum made curry with some white _____.
+ 15590) A. soup
+ 15591) B. salad
+ 15592) C. rice
+ 15593) D. water
+Q 8816 [radio] I drink _____ every morning, made with oranges from our garden.
+ 15594) A. juice
+ 15595) B. milk
+ 15596) C. tea
+ 15597) D. coffee
+
+=== PAGE /vocabulary/a1/food-and-meals-a1-english-vocabulary/ | Food and meals – A1 English Vocabulary | level a1
+--- QUIZ 1035
+CONTEXT:
+Food and meals
+ Exercise 2
+ Complete each sentence with one of the options. You can use each option only ONCE.
+Q 8817 [gaps] I often eat {1} in a little restaurant next to my office.
+  {1} options: dinner | meal | lunch | pasta | milk | water | fish | dessert | beer | vegetables
+Q 8818 [gaps] Breakfast is my favourite {1} of the day.
+  {1} options: fish | milk | meal | vegetables | beer | lunch | pasta | water | dessert | dinner
+Q 8819 [gaps] We live by the sea, so we eat a lot of {1} .
+  {1} options: dessert | meal | water | fish | vegetables | milk | pasta | lunch | beer | dinner
+Q 8820 [gaps] I sometimes eat ice cream for {1} .
+  {1} options: water | lunch | meal | vegetables | dessert | beer | fish | milk | pasta | dinner
+Q 8821 [gaps] I drink my coffee black; I don’t put any {1} in it.
+  {1} options: vegetables | lunch | fish | meal | dessert | milk | water | pasta | beer | dinner
+Q 8822 [gaps] I have a {1} with my friends at the pub on Friday evenings.
+  {1} options: meal | vegetables | pasta | fish | dinner | water | lunch | beer | dessert | milk
+Q 8823 [gaps] I love all {1} , but carrots are my favourite.
+  {1} options: beer | dessert | vegetables | meal | lunch | fish | water | milk | pasta | dinner
+Q 8824 [gaps] I drink a big bottle of {1} when I'm at the gym.
+  {1} options: beer | dessert | fish | pasta | lunch | dinner | meal | vegetables | water | milk
+Q 8825 [gaps] My family and I eat {1} together at 6:30 every evening.
+  {1} options: pasta | vegetables | beer | dessert | dinner | lunch | water | fish | meal | milk
+Q 8826 [gaps] I love {1} and pizza. Italian food is my favourite.
+  {1} options: dinner | pasta | vegetables | fish | water | lunch | dessert | beer | meal | milk
+
+=== PAGE /vocabulary/a1/food-and-meals-a1-english-vocabulary/ | Food and meals – A1 English Vocabulary | level a1
+--- QUIZ 1036
+CONTEXT:
+Food and meals
+ Exercise 3
+ Fill in each gap with a word from the box below. You can use each option only ONCE.
+ breakfast – cake – candy bars – cereal – coffee – crisps – eggs – jam – toast – wine
+Q 8827 [gaps] I won’t sleep tonight if I have another cup of {1} .
+  {1} free text
+Q 8828 [gaps] Every morning, I eat a bowl of {1} with milk.
+  {1} free text
+Q 8829 [gaps] I love to eat toast with strawberry {1} on it.
+  {1} free text
+Q 8830 [gaps] We sometimes drink red {1} at dinner.
+  {1} free text
+Q 8831 [gaps] I like eating {1} with peanut butter.
+  {1} free text
+Q 8832 [gaps] They often eat fried {1} for breakfast.
+  {1} free text
+Q 8833 [gaps] During the movie, I ate a bag of {1} .
+  {1} free text
+Q 8834 [gaps] For my birthday, my mom made chocolate {1} .
+  {1} free text
+Q 8835 [gaps] {1} is my favourite meal of the day.
+  {1} free text
+Q 8836 [gaps] Some very popular {1} are Snickers, Kit Kat, and Twix.
+  {1} free text
+
+=== PAGE /vocabulary/b2/pollution-and-the-environment-b2-english-vocabulary/ | Pollution and the environment – B2 English Vocabulary | level b2
+--- QUIZ 1031
+CONTEXT:
+Pollution and the environment
+ In this B2 Pre-advanced Vocabulary Lesson about Pollution and the Environment, you will learn essential nouns, verbs and phrases used to talk about pollution and the environment. 
+ Exercise 1
+ Choose the correct option for each gap.
+Q 8798 [radio] To combat climate change, industries are being urged to _____ emissions to help reduce the impact of global warming.
+ 15522) A. cut back on
+ 15523) B. tackle
+ 15524) C. dump
+ 15525) D. break down
+Q 8801 [radio] Excessive use of pesticides in farming can _____ the environment, affecting both soil and water quality.
+ 15534) A. harm
+ 15535) B. break down
+ 15536) C. dump
+ 15537) D. switch to
+Q 8802 [radio] The beach cleanup initiative focused on removing _____, which is harmful to marine life.
+ 15538) A. waste management
+ 15539) B. pollution control
+ 15540) C. plastic waste
+ 15541) D. rising sea levels
+Q 8803 [radio] The city has implemented new _____ measures to improve air quality.
+ 15542) A. plastic waste
+ 15543) B. pollution control
+ 15544) C. waste management
+ 15545) D. eco-friendly products
+Q 8797 [radio] Many communities are making efforts to _____ by growing their own food and using renewable energy.
+ 15518) A. become self-sufficient
+ 15519) B. switch to renewable energy
+ 15520) C. dump waste
+ 15521) D. break down
+Q 8804 [radio] A good _____ system is crucial to reduce landfill use and increase recycling rates.
+ 15546) A. carbon footprint
+ 15547) B. pollution control
+ 15548) C. waste management
+ 15549) D. forest protection
+Q 8805 [radio] We should choose _____ made from recycled or natural materials to minimize their impact on the environment.
+ 15550) A. sustainable practices
+ 15551) B. renewable energy
+ 15552) C. plastic waste
+ 15553) D. eco-friendly products
+Q 8799 [radio] In nature, organic material will naturally _____ into simpler substances over time.
+ 15526) A. break down
+ 15527) B. dump
+ 15528) C. cut down
+ 15529) D. harm
+Q 8806 [radio] Local communities are actively engaged in _____ to preserve habitats, maintain biodiversity and combat climate change.
+ 15554) A. waste management
+ 15555) B. pollution control
+ 15556) C. eco-friendly products
+ 15557) D. forest protection
+Q 8800 [radio] It is illegal for companies to _____ waste in rivers, as it pollutes water and harms aquatic life.
+ 15530) A. cut back
+ 15531) B. break down
+ 15532) C. dump
+ 15533) D. tackle
+
+=== PAGE /vocabulary/b2/pollution-and-the-environment-b2-english-vocabulary/ | Pollution and the environment – B2 English Vocabulary | level b2
+--- QUIZ 1032
+CONTEXT:
+Pollution and the environment
+ Exercise 2
+ Choose the most suitable options to complete this text. You can use each option ONLY ONCE.
+Q 8796 [gaps] As 1 {1} grows, more individuals and communities are taking action to reduce their reliance on unsustainable resources. This shift towards 2 {2} is crucial in reducing the human 3 {3} and mitigating the effects of 4 {4} caused by rising average temperatures. One of the most effective strategies is to 5 {5} clean energy sources, such as solar farms, which don't emit harmful gases like fossil fuels do. /  Meanwhile, 6 {6} is a pressing issue that harms the environment by releasing stored carbon and contributes to 7 {7} and shrinking wildlife habitats. To 8 {8} these environmental challenges, concerted efforts to 9 {9} forests and species are underway, aiming to 10 {10} on carbon emissions, reverse the damage and support biodiversity.
+  {1} options: sustainable practices | cut back | global warming | switch to | tackle | preserve | deforestation | desertification | ecological footprint | environmental awareness
+  {2} options: preserve | global warming | tackle | environmental awareness | deforestation | sustainable practices | switch to | cut back | ecological footprint | desertification
+  {3} options: tackle | environmental awareness | desertification | deforestation | cut back | global warming | switch to | sustainable practices | preserve | ecological footprint
+  {4} options: ecological footprint | deforestation | global warming | cut back | preserve | desertification | tackle | sustainable practices | switch to | environmental awareness
+  {5} options: tackle | ecological footprint | deforestation | environmental awareness | cut back | preserve | switch to | desertification | global warming | sustainable practices
+  {6} options: cut back | preserve | switch to | desertification | tackle | deforestation | global warming | environmental awareness | sustainable practices | ecological footprint
+  {7} options: cut back | global warming | desertification | sustainable practices | environmental awareness | preserve | tackle | switch to | deforestation | ecological footprint
+  {8} options: environmental awareness | global warming | switch to | cut back | tackle | desertification | sustainable practices | deforestation | preserve | ecological footprint
+  {9} options: tackle | preserve | global warming | desertification | ecological footprint | switch to | cut back | sustainable practices | environmental awareness | deforestation
+  {10} options: sustainable practices | tackle | cut back | environmental awareness | ecological footprint | global warming | preserve | desertification | deforestation | switch to
+
+=== PAGE /vocabulary/b2/pollution-and-the-environment-b2-english-vocabulary/ | Pollution and the environment – B2 English Vocabulary | level b2
+--- QUIZ 1033
+CONTEXT:
+Pollution and the environment
+ Exercise 3
+ Choose the most suitable options to complete this text. You can use each option ONLY ONCE.
+Q 8795 [gaps] The increase in the emission of 1 {1} from human activities, especially the burning of 2 {2} such as coal, gas or oil, contributes to the 3 {3} , which causes gases to be trapped in the atmosphere and leads to global warming. This warming of the planet causes 4 {4} , as seen in extreme weather episodes and the melting of ice caps and glaciers, which are responsible for 5 {5} . /  To combat these issues, there is a push for 6 {6} , such as power from solar farms and 7 {7} . Additionally, efforts in 8 {8} are critical, as they not only help capture carbon but also aid in 9 {9} . By adopting these eco-friendly practices, we can help reduce our 10 {10} and protect our environment for future generations.
+  {1} options: reforestation | carbon footprint | renewable energy | rising sea levels | wildlife conservation | climate change | greenhouse effect | wind turbines | greenhouse gases | fossil fuels
+  {2} options: rising sea levels | fossil fuels | reforestation | carbon footprint | greenhouse effect | climate change | wildlife conservation | renewable energy | greenhouse gases | wind turbines
+  {3} options: reforestation | carbon footprint | renewable energy | greenhouse effect | wildlife conservation | wind turbines | greenhouse gases | fossil fuels | rising sea levels | climate change
+  {4} options: rising sea levels | greenhouse effect | greenhouse gases | renewable energy | fossil fuels | wind turbines | climate change | carbon footprint | wildlife conservation | reforestation
+  {5} options: renewable energy | greenhouse effect | fossil fuels | reforestation | greenhouse gases | rising sea levels | carbon footprint | climate change | wildlife conservation | wind turbines
+  {6} options: wind turbines | wildlife conservation | renewable energy | reforestation | greenhouse gases | climate change | greenhouse effect | fossil fuels | rising sea levels | carbon footprint
+  {7} options: renewable energy | rising sea levels | carbon footprint | reforestation | greenhouse effect | wind turbines | climate change | greenhouse gases | wildlife conservation | fossil fuels
+  {8} options: carbon footprint | renewable energy | reforestation | greenhouse effect | greenhouse gases | wind turbines | wildlife conservation | climate change | fossil fuels | rising sea levels
+  {9} options: rising sea levels | renewable energy | wind turbines | fossil fuels | climate change | greenhouse gases | greenhouse effect | wildlife conservation | carbon footprint | reforestation
+  {10} options: greenhouse gases | fossil fuels | renewable energy | climate change | greenhouse effect | reforestation | carbon footprint | wildlife conservation | wind turbines | rising sea levels
+
+=== PAGE /reading/b1-b2/extreme-weather-b1-english-reading-test/ | Extreme weather – B1+ English Reading Test | level b1-b2
+--- QUIZ 1008
+CONTEXT:
+B1+ English Reading Test
+ Read the text about extreme weather and choose the correct missing sentence for each gap. There is ONE EXTRA SENTENCE that you don’t need to use.
+ Extreme weather
+ The summer of 2022 has seen record-breaking heatwaves in countries as widespread as India, the UK, Brazil and Australia. The high temperatures have resulted in many serious problems. Wildfires have destroyed vast areas of vegetation across Europe and sometimes houses or entire towns. 1 __. First, scorching temperatures draw moisture from the ground, resulting in tinder-dry conditions. Then, lightning from storms, which also increase in hot weather, may supply the spark that sets the vegetation alight. 
+ Meanwhile, in China, the heatwave resulted in power cuts. 2 __. The drought has affected crop production everywhere, which is forecast to be up to fifty per cent lower for some crops in Europe. This will result in food shortages and higher prices.
+ Increasing temperatures have also increased the incidence of floods, devastating New Zealand and Pakistan this year. 3 __. In Asia, the monsoon rains have become more unpredictable. Dry periods have occurred at critical planting times, while sudden downpours have destroyed homes and drowned out entire crops. Cyclones are also more common. 
+ Human-induced climate change is now accepted as the reason behind these extreme weather events. Emissions caused by the burning of fossil fuels have been trapping heat in the atmosphere since the start of the industrial era. Climate experts say that extreme temperatures are now ten times more likely a result of climate change, and future temperatures may well be higher. 4 __. Whether or not we meet the emissions targets set by the Paris Agreement in 2015 will affect billions of people across the globe. 
+ 5 __. However, even in this case, the heat index is forecast to reach dangerous levels ten times more often. When this happens, the effects of heat on the body make it increasingly difficult for humans to maintain a safe body temperature. The conditions will be unprecedented for people working outdoors in countries where it is already as hot as this, such as Sub-Saharan African farmers.
+ Poorer countries like Bangladesh, Pakistan and Afghanistan, experiencing increasingly extreme weather events, are looking to richer countries for more finance. 6 __. With limited means themselves, they are forced to choose between rebuilding or developing ways to cope with future climate crises. Richer countries have promised funding, but developing countries still need to receive it or receive it in the form of loans they cannot repay. 
+ Questions
+Q 8598 [radio] Gap 1
+ 15128) A. The best-case scenario is that countries manage to keep global temperatures to less than 2ºC above preindustrial levels.
+ 15129) B. How much so depends hugely on our ability to reduce carbon emissions in the next few years.
+ 15130) C. The weather across the globe has always been variable, but those variations are becoming more extreme.
+ 15131) D. This event is due to the lakes that supply the hydroelectric power stations drying up.
+ 15132) E. Although humans sometimes are the cause of these fires, climate plays a large part in the extent of their damage.
+ 15133) F. This is because more moisture evaporates into the atmosphere, resulting in more and heavier drops that fall in a shorter space of time.
+ 15134) G. These countries claim they are bearing the brunt of climate change caused by richer nations.
+Q 8599 [radio] Gap 2
+ 15135) A. The best-case scenario is that countries manage to keep global temperatures to less than 2ºC above preindustrial levels.
+ 15136) B. How much so depends hugely on our ability to reduce carbon emissions in the next few years.
+ 15137) C. The weather across the globe has always been variable, but those variations are becoming more extreme.
+ 15138) D. This event is due to the lakes that supply the hydroelectric power stations drying up.
+ 15139) E. Although humans sometimes are the cause of these fires, climate plays a large part in the extent of their damage.
+ 15140) F. This is because more moisture evaporates into the atmosphere, resulting in more and heavier drops that fall in a shorter space of time.
+ 15141) G. These countries claim they are bearing the brunt of climate change caused by richer nations.
+Q 8600 [radio] Gap 3
+ 15142) A. The best-case scenario is that countries manage to keep global temperatures to less than 2ºC above preindustrial levels.
+ 15143) B. How much so depends hugely on our ability to reduce carbon emissions in the next few years.
+ 15144) C. The weather across the globe has always been variable, but those variations are becoming more extreme.
+ 15145) D. This event is due to the lakes that supply the hydroelectric power stations drying up.
+ 15146) E. Although humans sometimes are the cause of these fires, climate plays a large part in the extent of their damage.
+ 15147) F. This is because more moisture evaporates into the atmosphere, resulting in more and heavier drops that fall in a shorter space of time.
+ 15148) G. These countries claim they are bearing the brunt of climate change caused by richer nations.
+Q 8601 [radio] Gap 4
+ 15149) A. The best-case scenario is that countries manage to keep global temperatures to less than 2ºC above preindustrial levels.
+ 15150) B. How much so depends hugely on our ability to reduce carbon emissions in the next few years.
+ 15151) C. The weather across the globe has always been variable, but those variations are becoming more extreme.
+ 15152) D. This event is due to the lakes that supply the hydroelectric power stations drying up.
+ 15153) E. Although humans sometimes are the cause of these fires, climate plays a large part in the extent of their damage.
+ 15154) F. This is because more moisture evaporates into the atmosphere, resulting in more and heavier drops that fall in a shorter space of time.
+ 15155) G. These countries claim they are bearing the brunt of climate change caused by richer nations.
+Q 8602 [radio] Gap 5
+ 15156) A. The best-case scenario is that countries manage to keep global temperatures to less than 2ºC above preindustrial levels.
+ 15157) B. How much so depends hugely on our ability to reduce carbon emissions in the next few years.
+ 15158) C. The weather across the globe has always been variable, but those variations are becoming more extreme.
+ 15159) D. This event is due to the lakes that supply the hydroelectric power stations drying up.
+ 15160) E. Although humans sometimes are the cause of these fires, climate plays a large part in the extent of their damage.
+ 15161) F. This is because more moisture evaporates into the atmosphere, resulting in more and heavier drops that fall in a shorter space of time.
+ 15162) G. These countries claim they are bearing the brunt of climate change caused by richer nations.
+Q 8603 [radio] Gap 6
+ 15163) A. The best-case scenario is that countries manage to keep global temperatures to less than 2ºC above preindustrial levels.
+ 15164) B. How much so depends hugely on our ability to reduce carbon emissions in the next few years.
+ 15165) C. The weather across the globe has always been variable, but those variations are becoming more extreme.
+ 15166) D. This event is due to the lakes that supply the hydroelectric power stations drying up.
+ 15167) E. Although humans sometimes are the cause of these fires, climate plays a large part in the extent of their damage.
+ 15168) F. This is because more moisture evaporates into the atmosphere, resulting in more and heavier drops that fall in a shorter space of time.
+ 15169) G. These countries claim they are bearing the brunt of climate change caused by richer nations.
+
+=== PAGE /vocabulary/b1/hotels-and-accommodation-b1-english-vocabulary/ | Hotels and accommodation – B1 English Vocabulary | level b1
+--- QUIZ 1022
+CONTEXT:
+Hotels and accommodation
+ In this intermediate vocabulary lesson about Hotels and Accommodation, you will learn terms to refer to different types of accommodation and adjectives used to describe them in reviews. Check the explanation to familiarize yourself with the expressions before doing the exercises.
+ Exercise 1
+ Choose the correct option for each gap.
+Q 8705 [radio] The prices in the hotel were _____; much lower than I’d expected.
+ 15398) A. clean
+ 15399) B. reasonable
+ 15400) C. central
+ 15401) D. dirty
+Q 8706 [radio] It was really _____ in our room. We couldn’t hear anything but the sea.
+ 15402) A. tasty
+ 15403) B. spotless
+ 15404) C. peaceful
+ 15405) D. reasonable
+Q 8707 [radio] The restaurant was _____, with just one waiter looking after all the tables.
+ 15406) A. polite
+ 15407) B. attentive
+ 15408) C. untidy
+ 15409) D. understaffed
+Q 8708 [radio] Unfortunately, our hotel was next to a night club, so it was very _____ all night.
+ 15410) A. quiet
+ 15411) B. worn
+ 15412) C. firm
+ 15413) D. noisy
+Q 8709 [radio] Our hotel’s _____ location meant that everything we needed was nearby.
+ 15414) A. central
+ 15415) B. inconvenient
+ 15416) C. comfortable
+ 15417) D. friendly
+Q 8710 [radio] The receptionist was very _____. She didn’t even say ‘Good Morning’.
+ 15418) A. attentive
+ 15419) B. crisp
+ 15420) C. rude
+ 15421) D. modern
+Q 8711 [radio] All the furniture was very _____ and need to be replaced.
+ 15422) A. spotless
+ 15423) B. tatty
+ 15424) C. modern
+ 15425) D. unhelpful
+Q 8712 [radio] The room was absolutely _____! Much cleaner than I’d expected.
+ 15426) A. cramped
+ 15427) B. spotless
+ 15428) C. worn
+ 15429) D. affordable
+Q 8713 [radio] Everything in the bar was _____. They were charging $18 for a beer!
+ 15430) A. overpriced
+ 15431) B. cheap
+ 15432) C. stained
+ 15433) D. affordable
+Q 8714 [radio] The receptionist was _____ and dealt with my requests immediately.
+ 15434) A. impolite
+ 15435) B. cheap
+ 15436) C. stained
+ 15437) D. attentive
+
+=== PAGE /vocabulary/b1/hotels-and-accommodation-b1-english-vocabulary/ | Hotels and accommodation – B1 English Vocabulary | level b1
+--- QUIZ 1023
+CONTEXT:
+Hotels and accommodation
+ Exercise 2
+ Choose the most suitable option to complete these sentences. You can use each option ONLY ONCE.
+Q 8715 [gaps] When we drove from Utah to Iowa, we spent the night in a {1} by the highway.
+  {1} options: disappointing | convenient | motel | homestay | cramped | crisp | lodge | bland | stained | guest
+Q 8716 [gaps] The food was really {1} . It had no taste at all.
+  {1} options: guest | disappointing | motel | cramped | bland | lodge | crisp | stained | homestay | convenient
+Q 8717 [gaps] Our hotel's {1} location meant we had everything we needed nearby.
+  {1} options: convenient | lodge | motel | homestay | crisp | disappointing | stained | bland | guest | cramped
+Q 8718 [gaps] When I stayed in a {1} last year, I got to know my host family very well.
+  {1} options: convenient | motel | crisp | homestay | lodge | stained | cramped | disappointing | guest | bland
+Q 8719 [gaps] The sheets were {1} and clean, and the mattress was nice and firm.
+  {1} options: lodge | stained | homestay | bland | convenient | disappointing | cramped | crisp | guest | motel
+Q 8720 [gaps] Our room was so {1} that I barely had room to move.
+  {1} options: motel | bland | lodge | disappointing | stained | homestay | convenient | crisp | guest | cramped
+Q 8721 [gaps] Our meal was {1} ; not nearly as good as we’d hoped.
+  {1} options: bland | homestay | convenient | motel | lodge | crisp | stained | disappointing | cramped | guest
+Q 8722 [gaps] I noticed the carpet was {1} and that there was dust on all the surfaces.
+  {1} options: convenient | crisp | homestay | lodge | bland | disappointing | guest | cramped | stained | motel
+Q 8723 [gaps] We stayed in a lovely {1} in the woods with three bedrooms, a terrace, and a jacuzzi.
+  {1} options: lodge | bland | motel | cramped | convenient | stained | disappointing | crisp | homestay | guest
+Q 8724 [gaps] I stayed in a {1} house next to a bigger house where the owner lived.
+  {1} options: disappointing | stained | guest | crisp | homestay | cramped | convenient | motel | bland | lodge
+
+=== PAGE /vocabulary/b1/hotels-and-accommodation-b1-english-vocabulary/ | Hotels and accommodation – B1 English Vocabulary | level b1
+--- QUIZ 1024
+CONTEXT:
+Hotels and accommodation
+ Exercise 3
+ Complete the each sentence using a word from the box.
+ affordable – amazing – firm – helpful – inconvenient – modern – spacious – tasty – untidy – worn
+Q 8725 [gaps] Our bed was comfortable and had a nice, {1} mattress.
+  {1} free text
+Q 8726 [gaps] The rooms were {1} and very good value for money.
+  {1} free text
+Q 8727 [gaps] My room was so {1} that there was enough room for an entire football team.
+  {1} free text
+Q 8728 [gaps] We had an {1} stay. Everything was fantastic.
+  {1} free text
+Q 8729 [gaps] The room was very {1} , with clothes all over the floor.
+  {1} free text
+Q 8730 [gaps] The hotel was {1} , and all the furnishings looked brand new.
+  {1} free text
+Q 8731 [gaps] The carpet was very {1} and looked at least fifty years old.
+  {1} free text
+Q 8732 [gaps] The {1} receptionist gave us very detailed directions to the museum.
+  {1} free text
+Q 8733 [gaps] The breakfasts in our B&B were so {1} that I ate much more than I should have.
+  {1} free text
+Q 8734 [gaps] Our holiday let was in a very {1} location. The closest shop or restaurant was miles away.
+  {1} free text
+
+=== PAGE /vocabulary/b1-b2/clothes-b1-b2-english-vocabulary/ | Clothes – B1+ English Vocabulary | level b1-b2
+--- QUIZ 1028
+CONTEXT:
+Clothes
+ In this B1+ Upper-intermediate Vocabulary Lesson about Clothes, you will learn terms related to clothing, including styles, how they fit, and their patterns, as well as the materials they’re made from and verbs associated with wearing clothes.
+ Exercise 1
+ Complete the sentences with the most suitable words about clothes.
+Q 8775 [radio] Martha looked very _____ in her elegant silk dress.
+ 15478) A. plain
+ 15479) B. casual
+ 15480) C. tight
+ 15481) D. chic
+Q 8776 [radio] After I'd _____ my shirt, I hung it up in my wardrobe.
+ 15482) A. suited
+ 15483) B. ironed
+ 15484) C. folded
+ 15485) D. zipped up
+Q 8777 [radio] You should wear blue more often. It really _____ you.
+ 15486) A. suits
+ 15487) B. fits
+ 15488) C. matches
+ 15489) D. hangs
+Q 8778 [radio] Sam was wearing a _____ shirt that was covered in red and white squares.
+ 15490) A. striped
+ 15491) B. plain
+ 15492) C. checked
+ 15493) D. spotted
+Q 8779 [radio] Tight shorts and T-shirts are very _____ at the moment.
+ 15494) A. chic
+ 15495) B. casual
+ 15496) C. loose
+ 15497) D. trendy
+Q 8780 [radio] I prefer wearing _____ shirts to ones with patterns or logos on them.
+ 15498) A. matched
+ 15499) B. striped
+ 15500) C. plain
+ 15501) D. tight
+Q 8781 [radio] Cara is a _____ dresser. She always looks so elegant.
+ 15502) A. stylish
+ 15503) B. trendy
+ 15504) C. casual
+ 15505) D. baggy
+Q 8782 [radio] As a teen, I liked to wear _____ clothes. Nowadays, though, I prefer comfortable ones.
+ 15506) A. fashionable
+ 15507) B. casual
+ 15508) C. checked
+ 15509) D. spotted
+Q 8783 [radio] Those boots _____ your belt. They are the exact same shade of green.
+ 15510) A. suit
+ 15511) B. fit
+ 15512) C. match
+ 15513) D. fold
+Q 8784 [radio] My jeans were really _____ because I had lost so much weight.
+ 15514) A. tight
+ 15515) B. formal
+ 15516) C. loose
+ 15517) D. classic
+
+=== PAGE /vocabulary/b1-b2/clothes-b1-b2-english-vocabulary/ | Clothes – B1+ English Vocabulary | level b1-b2
+--- QUIZ 1029
+CONTEXT:
+Clothes
+ Exercise 2
+ Look at the pictures and choose the material shown in each one to complete the sentence with the corresponding number.
+Q 8765 [gaps] Wearing {1} clothes feels really smooth on your skin.
+  {1} options: fur | tweed | lace | linen | silk | leather | fleece | velvet | suede | denim
+Q 8766 [gaps] Jackets made of {1} are warm and classic.
+  {1} options: velvet | lace | fleece | fur | leather | suede | linen | tweed | denim | silk
+Q 8767 [gaps] I often wear a {1} jacket when it's warm.
+  {1} options: lace | fleece | leather | silk | suede | tweed | linen | denim | fur | velvet
+Q 8768 [gaps] Cleaning {1} clothes is not easy.
+  {1} options: denim | fleece | silk | lace | velvet | tweed | linen | leather | suede | fur
+Q 8769 [gaps] Wearing {1} clothes is perfect in summer.
+  {1} options: silk | leather | velvet | linen | fleece | denim | fur | suede | tweed | lace
+Q 8770 [gaps] I think selling {1} garments should be illegal.
+  {1} options: suede | fleece | leather | velvet | linen | fur | silk | lace | tweed | denim
+Q 8771 [gaps] It seems that {1} dresses are trendy this year.
+  {1} options: velvet | tweed | silk | linen | fleece | lace | leather | fur | denim | suede
+Q 8772 [gaps] I love wearing {1} , either shoes or jackets.
+  {1} options: tweed | silk | fleece | leather | lace | linen | denim | fur | velvet | suede
+Q 8773 [gaps] When it's cold, I wear a {1} jacket.
+  {1} options: velvet | suede | tweed | fleece | silk | leather | denim | fur | lace | linen
+Q 8774 [gaps] I wore a {1} suit at the party.
+  {1} options: suede | denim | fleece | silk | fur | velvet | tweed | lace | linen | leather

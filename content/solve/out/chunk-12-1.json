@@ -1,0 +1,1654 @@
+{
+"5040": {
+"choices": [
+7970
+],
+"feedback": "‣ <strong>B</strong> is correct because in the picture the ball is at the side of the dog, so it is <strong>beside</strong> the dog."
+},
+"5041": {
+"choices": [
+7976
+],
+"feedback": "‣ <strong>C</strong> is correct because the ball is at a higher position than the dog, so it is <strong>above</strong> the dog."
+},
+"5042": {
+"choices": [
+7983
+],
+"feedback": "‣ <strong>E</strong> is correct because the dog and the cat are facing each other, so the dog is <strong>opposite</strong> the cat."
+},
+"5043": {
+"choices": [
+7988
+],
+"feedback": "‣ <strong>E</strong> is correct because the ball is in front of the dog, so the dog is <strong>behind</strong> the ball."
+},
+"5044": {
+"choices": [
+7989
+],
+"feedback": "‣ <strong>A</strong> is correct because the ball is <strong>in front of</strong> the dog in the picture."
+},
+"5045": {
+"choices": [
+7996
+],
+"feedback": "‣ <strong>C</strong> is correct because the ball is lower than the dog and covered by it, so it is <strong>under</strong> the dog."
+},
+"5046": {
+"choices": [
+8000
+],
+"feedback": "‣ <strong>B</strong> is correct because the dog is at the side of the ball, so it is <strong>next to</strong> the ball."
+},
+"5048": {
+"choices": [
+8009
+],
+"feedback": "‣ <strong>A</strong> is correct because the blanket covers the bear, so the bear is <strong>under</strong> the blanket."
+},
+"5047": {
+"choices": [
+8007
+],
+"feedback": "‣ <strong>D</strong> is correct because the ball is higher than the dog, so it is <strong>over</strong> the dog."
+},
+"5049": {
+"choices": [
+8015
+],
+"feedback": "‣ <strong>B</strong> is correct because there is a ball on each side of the dog, so the dog is <strong>between</strong> the balls."
+},
+"5050": {
+"gaps": [
+[
+"next to",
+"beside"
+]
+],
+"feedback": "Correct answer: next to<br>‣ Diego and Laura are standing side by side, so Diego is <strong>next to</strong> (beside) Laura."
+},
+"5051": {
+"gaps": [
+[
+"behind",
+"in front of"
+]
+],
+"feedback": "Correct answer: behind<br>‣ Laura is standing at the back of the table, so she is <strong>behind</strong> it."
+},
+"5052": {
+"gaps": [
+[
+"over",
+"above"
+]
+],
+"feedback": "Correct answer: over<br>‣ The pans hang at a higher position than the table: <strong>over</strong> (above) the table."
+},
+"5053": {
+"gaps": [
+[
+"opposite",
+"in front of",
+"facing"
+]
+],
+"feedback": "Correct answer: opposite<br>‣ David and Martha are facing each other, so David is <strong>opposite</strong> Martha."
+},
+"5054": {
+"gaps": [
+[
+"in front of",
+"opposite",
+"facing"
+]
+],
+"feedback": "Correct answer: in front of<br>‣ Martha is facing David, so she is standing <strong>in front of</strong> (opposite) him."
+},
+"5055": {
+"gaps": [
+[
+"under",
+"below",
+"beneath"
+]
+],
+"feedback": "Correct answer: under<br>‣ The pans are over the table, so the table is <strong>under</strong> the pans."
+},
+"5056": {
+"gaps": [
+[
+"behind",
+"above",
+"over"
+]
+],
+"feedback": "Correct answer: behind<br>‣ The painting is on the wall at Martha's back, so it is <strong>behind</strong> her."
+},
+"5057": {
+"gaps": [
+[
+"above",
+"over",
+"next to",
+"beside"
+]
+],
+"feedback": "Correct answer: above<br>‣ The chilies hang at a higher position than the cooker: <strong>above</strong> it."
+},
+"5058": {
+"gaps": [
+[
+"between"
+]
+],
+"feedback": "Correct answer: between<br>‣ Martin is in the middle of two people, so we use <strong>between</strong>."
+},
+"5089": {
+"gaps": [
+[
+"It"
+]
+],
+"feedback": "Correct answer: It<br>‣ We use <strong>it</strong> as an empty subject with <strong>be</strong> + adjective + to-infinitive."
+},
+"5090": {
+"gaps": [
+[
+"there"
+]
+],
+"feedback": "Correct answer: there<br>‣ We use <strong>there was</strong> to say that something existed or appeared."
+},
+"5091": {
+"gaps": [
+[
+"There"
+]
+],
+"feedback": "Correct answer: There<br>‣ We use <strong>there was</strong> to introduce something for the first time."
+},
+"5092": {
+"gaps": [
+[
+"It"
+]
+],
+"feedback": "Correct answer: It<br>‣ We use <strong>it</strong> to talk about time: <strong>it's late</strong>."
+},
+"5093": {
+"gaps": [
+[
+"There"
+]
+],
+"feedback": "Correct answer: There<br>‣ We use <strong>there are/aren't</strong> to say if something exists."
+},
+"5094": {
+"gaps": [
+[
+"It"
+]
+],
+"feedback": "Correct answer: It<br>‣ <strong>It</strong> refers back to the series already mentioned."
+},
+"5095": {
+"gaps": [
+[
+"It"
+]
+],
+"feedback": "Correct answer: It<br>‣ We use <strong>it</strong> to talk about the weather."
+},
+"5096": {
+"gaps": [
+[
+"There"
+]
+],
+"feedback": "Correct answer: There<br>‣ We use <strong>there is</strong> to introduce new information."
+},
+"5097": {
+"gaps": [
+[
+"It"
+]
+],
+"feedback": "Correct answer: It<br>‣ <strong>It</strong> refers back to the park already mentioned."
+},
+"5098": {
+"gaps": [
+[
+"There"
+]
+],
+"feedback": "Correct answer: There<br>‣ We use <strong>there is</strong> to say that something exists or takes place."
+},
+"5099": {
+"choices": [
+8050
+],
+"feedback": "‣ <strong>B</strong> is correct because we use <strong>it</strong> to talk about the weather."
+},
+"5100": {
+"choices": [
+8052
+],
+"feedback": "‣ <strong>B</strong> is correct because we use <strong>it</strong> to talk about distance."
+},
+"5101": {
+"choices": [
+8053
+],
+"feedback": "‣ <strong>A</strong> is correct because we use <strong>there is</strong> to ask if something exists."
+},
+"5102": {
+"choices": [
+8055
+],
+"feedback": "‣ <strong>A</strong> is correct because we use <strong>there was</strong> to say that something existed."
+},
+"5103": {
+"choices": [
+8058
+],
+"feedback": "‣ <strong>B</strong> is correct because we use <strong>it</strong> to talk about time."
+},
+"5104": {
+"choices": [
+8060
+],
+"feedback": "‣ <strong>B</strong> is correct because we use <strong>it</strong> with weather verbs like <strong>snow</strong>."
+},
+"5105": {
+"choices": [
+8061
+],
+"feedback": "‣ <strong>A</strong> is correct because we use <strong>there was</strong> to introduce a new event."
+},
+"5106": {
+"choices": [
+8064
+],
+"feedback": "‣ <strong>B</strong> is correct because we use <strong>it</strong> as an empty subject before an adjective and a to-infinitive."
+},
+"5107": {
+"choices": [
+8066
+],
+"feedback": "‣ <strong>B</strong> is correct because we use <strong>it</strong> to talk about the weather."
+},
+"5108": {
+"choices": [
+8067
+],
+"feedback": "‣ <strong>A</strong> is correct because we use <strong>there is</strong> to say that an event exists or takes place."
+},
+"5109": {
+"gaps": [
+[
+"There"
+]
+],
+"feedback": "Correct answer: There<br>‣ We use <strong>there were</strong> to say that something existed."
+},
+"5111": {
+"gaps": [
+[
+"There"
+],
+[
+"They"
+]
+],
+"feedback": "Correct answer: 1 There, 2 They<br>‣ <strong>There are</strong> introduces the students; <strong>they</strong> refers back to them."
+},
+"5110": {
+"gaps": [
+[
+"It"
+]
+],
+"feedback": "Correct answer: It<br>‣ <strong>It</strong> refers back to the bag."
+},
+"5113": {
+"gaps": [
+[
+"there"
+]
+],
+"feedback": "Correct answer: there<br>‣ We use <strong>are there</strong> to ask if something exists."
+},
+"5112": {
+"gaps": [
+[
+"It"
+],
+[
+"there"
+]
+],
+"feedback": "Correct answer: 1 It, 2 there<br>‣ <strong>It</strong> for time; <strong>there are</strong> to say that things exist."
+},
+"5115": {
+"gaps": [
+[
+"It"
+]
+],
+"feedback": "Correct answer: It<br>‣ <strong>It</strong> refers back to the swimming pool."
+},
+"5116": {
+"gaps": [
+[
+"It"
+]
+],
+"feedback": "Correct answer: It<br>‣ <strong>It</strong> is an empty subject before an adjective and a to-infinitive."
+},
+"5117": {
+"gaps": [
+[
+"They"
+]
+],
+"feedback": "Correct answer: They<br>‣ <strong>They</strong> refers back to the two people."
+},
+"5114": {
+"gaps": [
+[
+"It"
+],
+[
+"it"
+]
+],
+"feedback": "Correct answer: 1 It, 2 it<br>‣ We use <strong>it</strong> to talk about time and distance."
+},
+"5118": {
+"gaps": [
+[
+"There"
+]
+],
+"feedback": "Correct answer: There<br>‣ We use <strong>there were</strong> to say that something existed."
+},
+"5024": {
+"choices": [
+7952
+],
+"feedback": "‣ <strong>B</strong> is correct because the text says the festival is usually referred to as the Spring Festival in mainland China."
+},
+"5025": {
+"choices": [
+7956
+],
+"feedback": "‣ <strong>C</strong> is correct because the first day begins on the new moon that appears between 21 January and 20 February."
+},
+"5026": {
+"choices": [
+7957
+],
+"feedback": "‣ <strong>A</strong> is correct because Chinese New Year has strongly influenced these celebrations, so they are similar to it."
+},
+"5027": {
+"choices": [
+7960
+],
+"feedback": "‣ <strong>A</strong> is correct because the text says regional customs and traditions vary widely within China."
+},
+"5028": {
+"choices": [
+7965
+],
+"feedback": "‣ <strong>C</strong> is correct because families clean the house to sweep away ill-fortune and make way for good luck."
+},
+"5029": {
+"choices": [
+7967
+],
+"feedback": "‣ <strong>B</strong> is correct because in the northern regions, dumplings feature prominently in meals celebrating the festival."
+},
+"5018": {
+"choices": [
+7931
+],
+"feedback": "‣ <strong>B</strong> is correct because the writer says there are wild claims about the supposed medical benefits of cannabis, such as curing cancer."
+},
+"5019": {
+"choices": [
+7936
+],
+"feedback": "‣ <strong>C</strong> is correct because the review found evidence for some applications, such as managing chronic pain and reducing nausea."
+},
+"5020": {
+"choices": [
+7938
+],
+"feedback": "‣ <strong>A</strong> is correct because this often-aired claim is part of the misunderstanding behind the belief that cannabis cures cancer."
+},
+"5021": {
+"choices": [
+7945
+],
+"feedback": "‣ <strong>D</strong> is correct because some advocates claim that cannabis's cancer-curing abilities are covered up by drug companies."
+},
+"5022": {
+"choices": [
+7946
+],
+"feedback": "‣ <strong>A</strong> is correct because the writer says the idea that researchers would suppress a cancer cure is ludicrous."
+},
+"5023": {
+"gaps": [
+[
+"shortage"
+]
+],
+"feedback": "Correct answer: shortage<br>‣ <strong>No shortage of</strong> means that there is a lot of something; <strong>shortage</strong> means a lack of something."
+},
+"4978": {
+"gaps": [
+[
+"about"
+]
+],
+"feedback": "Correct answer: about<br>‣ We say <strong>excited about</strong> something."
+},
+"4979": {
+"gaps": [
+[
+"for"
+]
+],
+"feedback": "Correct answer: for<br>‣ We say <strong>famous for</strong> something."
+},
+"4980": {
+"gaps": [
+[
+"from"
+]
+],
+"feedback": "Correct answer: from<br>‣ We say <strong>different from</strong> someone."
+},
+"4981": {
+"gaps": [
+[
+"at"
+]
+],
+"feedback": "Correct answer: at<br>‣ We say <strong>bad at</strong> doing something."
+},
+"4982": {
+"gaps": [
+[
+"of"
+]
+],
+"feedback": "Correct answer: of<br>‣ We say <strong>capable of</strong> doing something."
+},
+"4983": {
+"gaps": [
+[
+"with"
+]
+],
+"feedback": "Correct answer: with<br>‣ We say <strong>obsessed with</strong> something."
+},
+"4984": {
+"gaps": [
+[
+"of"
+]
+],
+"feedback": "Correct answer: of<br>‣ We say <strong>proud of</strong> someone."
+},
+"4985": {
+"gaps": [
+[
+"to"
+]
+],
+"feedback": "Correct answer: to<br>‣ We say <strong>married to</strong> someone."
+},
+"4986": {
+"gaps": [
+[
+"with"
+]
+],
+"feedback": "Correct answer: with<br>‣ We say <strong>fed up with</strong> someone or something."
+},
+"4987": {
+"gaps": [
+[
+"on"
+]
+],
+"feedback": "Correct answer: on<br>‣ We say <strong>keen on</strong> doing something."
+},
+"4998": {
+"choices": [
+7670
+],
+"feedback": "‣ <strong>A</strong> is correct because we say <strong>similar to</strong> someone."
+},
+"4999": {
+"choices": [
+7676
+],
+"feedback": "‣ <strong>C</strong> is correct because we say something is <strong>bad for</strong> someone."
+},
+"5000": {
+"choices": [
+7679
+],
+"feedback": "‣ <strong>B</strong> is correct because we say <strong>sorry for</strong> doing something."
+},
+"5001": {
+"choices": [
+7685
+],
+"feedback": "‣ <strong>D</strong> is correct because we say <strong>tired of</strong> doing something."
+},
+"5002": {
+"choices": [
+7687
+],
+"feedback": "‣ <strong>B</strong> is correct because we say <strong>kind to</strong> someone."
+},
+"5003": {
+"choices": [
+7690
+],
+"feedback": "‣ <strong>A</strong> is correct because we say <strong>fond of</strong> something."
+},
+"5004": {
+"choices": [
+7702
+],
+"feedback": "‣ <strong>A</strong> is correct because we say <strong>angry with</strong> a person."
+},
+"5005": {
+"choices": [
+7695
+],
+"feedback": "‣ <strong>B</strong> is correct because we say <strong>full of</strong> something."
+},
+"5006": {
+"choices": [
+7698
+],
+"feedback": "‣ <strong>A</strong> is correct because we say something is <strong>good for</strong> you."
+},
+"5007": {
+"choices": [
+7708
+],
+"feedback": "‣ <strong>C</strong> is correct because we say <strong>worried about</strong> someone."
+},
+"4988": {
+"gaps": [
+[
+"on"
+]
+],
+"feedback": "Correct answer: on<br>‣ We say <strong>hooked on</strong> something."
+},
+"4989": {
+"gaps": [
+[
+"in"
+]
+],
+"feedback": "Correct answer: in<br>‣ We say <strong>interested in</strong> something."
+},
+"4990": {
+"gaps": [
+[
+"to"
+]
+],
+"feedback": "Correct answer: to<br>‣ We say <strong>rude to</strong> someone."
+},
+"4991": {
+"gaps": [
+[
+"about",
+"for"
+]
+],
+"feedback": "Correct answer: about<br>‣ We say <strong>sorry about</strong> something that happened."
+},
+"4992": {
+"gaps": [
+[
+"about",
+"with",
+"at"
+]
+],
+"feedback": "Correct answer: about<br>‣ We say <strong>angry about</strong> a situation."
+},
+"4993": {
+"gaps": [
+[
+"to"
+]
+],
+"feedback": "Correct answer: to<br>‣ We say <strong>close to</strong> someone."
+},
+"4994": {
+"gaps": [
+[
+"with"
+]
+],
+"feedback": "Correct answer: with<br>‣ We say <strong>pleased with</strong> something."
+},
+"4995": {
+"gaps": [
+[
+"of"
+]
+],
+"feedback": "Correct answer: of<br>‣ We say <strong>afraid of</strong> something."
+},
+"4996": {
+"gaps": [
+[
+"to"
+]
+],
+"feedback": "Correct answer: to<br>‣ We say <strong>addicted to</strong> something."
+},
+"4997": {
+"gaps": [
+[
+"at"
+]
+],
+"feedback": "Correct answer: at<br>‣ We say <strong>good at</strong> doing something."
+},
+"4959": {
+"gaps": [
+[
+"for"
+]
+],
+"feedback": "Correct answer: for<br>‣ We say <strong>wait for</strong> someone."
+},
+"4960": {
+"gaps": [
+[
+"to"
+]
+],
+"feedback": "Correct answer: to<br>‣ We say <strong>look forward to</strong> + -ing."
+},
+"4961": {
+"gaps": [
+[
+"at"
+]
+],
+"feedback": "Correct answer: at<br>‣ We say <strong>arrive at</strong> a building or small place."
+},
+"4962": {
+"gaps": [
+[
+"of"
+]
+],
+"feedback": "Correct answer: of<br>‣ We say <strong>think of</strong> doing something."
+},
+"4963": {
+"gaps": [
+[
+"at"
+]
+],
+"feedback": "Correct answer: at<br>‣ We say <strong>shout at</strong> someone when we are angry."
+},
+"4964": {
+"gaps": [
+[
+"to"
+]
+],
+"feedback": "Correct answer: to<br>‣ We say <strong>belong to</strong> someone."
+},
+"4965": {
+"gaps": [
+[
+"about"
+]
+],
+"feedback": "Correct answer: about<br>‣ We say <strong>complain about</strong> something."
+},
+"4966": {
+"gaps": [
+[
+"on"
+]
+],
+"feedback": "Correct answer: on<br>‣ We say <strong>spend money on</strong> something."
+},
+"4958": {
+"gaps": [
+[
+"to"
+]
+],
+"feedback": "Correct answer: to<br>‣ We say <strong>get married to</strong> someone."
+},
+"4967": {
+"gaps": [
+[
+"in"
+]
+],
+"feedback": "Correct answer: in<br>‣ We say <strong>arrive in</strong> a city or country."
+},
+"4948": {
+"choices": [
+7631
+],
+"feedback": "‣ <strong>B</strong> is correct because we say <strong>smile at</strong> someone."
+},
+"4949": {
+"choices": [
+7635
+],
+"feedback": "‣ <strong>B</strong> is correct because we say <strong>pay for</strong> something."
+},
+"4950": {
+"choices": [
+7641
+],
+"feedback": "‣ <strong>D</strong> is correct because we say <strong>say something to</strong> someone."
+},
+"4951": {
+"choices": [
+7644
+],
+"feedback": "‣ <strong>C</strong> is correct because we say <strong>insist on</strong> doing something."
+},
+"4952": {
+"choices": [
+7646
+],
+"feedback": "‣ <strong>A</strong> is correct because we say <strong>invest in</strong> something."
+},
+"4953": {
+"choices": [
+7653
+],
+"feedback": "‣ <strong>D</strong> is correct because we say <strong>remind someone of</strong> someone or something similar."
+},
+"4954": {
+"choices": [
+7654
+],
+"feedback": "‣ <strong>A</strong> is correct because we say <strong>dream about</strong> something."
+},
+"4955": {
+"choices": [
+7658
+],
+"feedback": "‣ <strong>A</strong> is correct because we say <strong>compare</strong> one thing <strong>with</strong> another."
+},
+"4956": {
+"choices": [
+7664
+],
+"feedback": "‣ <strong>C</strong> is correct because we say <strong>laugh at</strong> someone."
+},
+"4957": {
+"choices": [
+7669
+],
+"feedback": "‣ <strong>D</strong> is correct because we say <strong>apply for</strong> a job."
+},
+"4968": {
+"gaps": [
+[
+"in"
+]
+],
+"feedback": "Correct answer: in<br>‣ We say <strong>believe in</strong> something."
+},
+"4972": {
+"gaps": [
+[
+"with"
+]
+],
+"feedback": "Correct answer: with<br>‣ We say <strong>stay with</strong> someone."
+},
+"4969": {
+"gaps": [
+[
+"to"
+]
+],
+"feedback": "Correct answer: to<br>‣ We say <strong>listen to</strong> someone."
+},
+"4970": {
+"gaps": [
+[
+"in"
+]
+],
+"feedback": "Correct answer: in<br>‣ We say <strong>succeed in</strong> doing something."
+},
+"4971": {
+"gaps": [
+[
+"to",
+"about"
+]
+],
+"feedback": "Correct answer: to<br>‣ We say <strong>talk to</strong> someone."
+},
+"4974": {
+"gaps": [
+[
+"with"
+]
+],
+"feedback": "Correct answer: with<br>‣ We say <strong>argue with</strong> someone."
+},
+"4973": {
+"gaps": [
+[
+"to"
+]
+],
+"feedback": "Correct answer: to<br>‣ We say <strong>write to</strong> someone."
+},
+"4975": {
+"gaps": [
+[
+"about"
+]
+],
+"feedback": "Correct answer: about<br>‣ We say <strong>argue about</strong> something."
+},
+"4976": {
+"gaps": [
+[
+"on"
+]
+],
+"feedback": "Correct answer: on<br>‣ We say <strong>depend on</strong> something."
+},
+"4977": {
+"gaps": [
+[
+"with"
+]
+],
+"feedback": "Correct answer: with<br>‣ We say <strong>agree with</strong> someone."
+},
+"4945": {
+"gaps": [
+[
+"An important advantage"
+],
+[
+"In addition",
+"Furthermore"
+],
+[
+"Another point in favour"
+],
+[
+"On the other hand"
+],
+[
+"For example"
+],
+[
+"Furthermore",
+"In addition"
+],
+[
+"although"
+],
+[
+"To sum up"
+]
+],
+"feedback": "Correct answer: 1 An important advantage, 2 In addition, 3 Another point in favour, 4 On the other hand, 5 For example, 6 Furthermore, 7 although, 8 To sum up<br>‣ Advantages are listed first, contrast is introduced with <strong>On the other hand</strong> and the essay ends with <strong>To sum up</strong>."
+},
+"4947": {
+"gaps": [
+[
+"ain",
+"main"
+],
+[
+"mportant",
+"important"
+],
+[
+"dvantage",
+"advantage"
+],
+[
+"avour",
+"favour",
+"avor",
+"favor"
+],
+[
+"oint",
+"point"
+],
+[
+"ddition",
+"addition"
+],
+[
+"urthermore",
+"Furthermore"
+],
+[
+"or",
+"For"
+],
+[
+"nstance",
+"instance"
+],
+[
+"the other"
+],
+[
+"owever",
+"However"
+],
+[
+"um up",
+"sum up"
+],
+[
+"onclusion",
+"conclusion"
+]
+],
+"feedback": "Correct answer: 1 ain, 2 mportant, 3 dvantage, 4 avour, 5 oint, 6 ddition, 7 urthermore, 8 or, 9 nstance, 10 the other, 11 owever, 12 um up, 13 onclusion<br>‣ The expressions are: The main advantage, An important advantage, Another advantage, Another point in favour, Another negative point, In addition, Furthermore, For example, For instance, On the other hand, However, To sum up, In conclusion."
+},
+"4930": {
+"choices": [
+7568
+],
+"feedback": "‣ <strong>B</strong> is correct because we use <strong>if only / wish + would</strong> to complain about someone's annoying behaviour that we want to change."
+},
+"4931": {
+"choices": [
+7574
+],
+"feedback": "‣ <strong>D</strong> is correct because we need a passive -ing form after <strong>hate</strong>: someone tells me, so I hate <strong>being told</strong>."
+},
+"4932": {
+"choices": [
+7575
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>as though</strong> is followed by a clause, and the past perfect shows an earlier action."
+},
+"4933": {
+"choices": [
+7580
+],
+"feedback": "‣ <strong>B</strong> is correct because <strong>neither ... nor</strong> is used to make a negative statement about two things."
+},
+"4934": {
+"choices": [
+7586
+],
+"feedback": "‣ <strong>D</strong> is correct because the past perfect continuous shows the duration of an action up to a point in the past."
+},
+"4935": {
+"choices": [
+7589
+],
+"feedback": "‣ <strong>C</strong> is correct because the future continuous describes an action that will be in progress at a certain moment in the future."
+},
+"4942": {
+"choices": [
+7616
+],
+"feedback": "‣ <strong>B</strong> is correct because after <strong>would rather</strong> + another subject, we use the past simple to talk about the present or future."
+},
+"4936": {
+"choices": [
+7591
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>deny</strong> is followed by an -ing form; the perfect -ing shows a previous action."
+},
+"4937": {
+"choices": [
+7595
+],
+"feedback": "‣ <strong>A</strong> is correct because we use <strong>wish + could</strong> to talk about an ability that we would like to have now."
+},
+"4938": {
+"choices": [
+7602
+],
+"feedback": "‣ <strong>D</strong> is correct because <strong>whenever</strong> means 'every time'."
+},
+"4939": {
+"choices": [
+7606
+],
+"feedback": "‣ <strong>D</strong> is correct because in indirect questions we use statement word order, and the preposition goes at the end."
+},
+"4940": {
+"choices": [
+7608
+],
+"feedback": "‣ <strong>B</strong> is correct because we use emphatic <strong>did</strong> + infinitive to contradict what someone said."
+},
+"4941": {
+"choices": [
+7613
+],
+"feedback": "‣ <strong>C</strong> is correct because we use <strong>such a</strong> + adjective + singular countable noun."
+},
+"4943": {
+"choices": [
+7620
+],
+"feedback": "‣ <strong>B</strong> is correct because we use subject + <strong>is believed</strong> + perfect infinitive for a past action."
+},
+"4944": {
+"choices": [
+7626
+],
+"feedback": "‣ <strong>D</strong> is correct because <strong>have something done</strong> means another person (the decorator) does it for us."
+},
+"4929": {
+"gaps": [
+[
+"used to be"
+],
+[
+"does"
+],
+[
+"far-reaching"
+],
+[
+"both"
+],
+[
+"so"
+],
+[
+"didn't have"
+],
+[
+"eating"
+],
+[
+"has been receiving"
+],
+[
+"Despite"
+],
+[
+"have been produced"
+],
+[
+"live"
+],
+[
+"is known to benefit"
+],
+[
+"used"
+],
+[
+"the better"
+],
+[
+"the hungry"
+]
+],
+"feedback": "Correct answer: 1 used to be, 2 does, 3 far-reaching, 4 both, 5 so, 6 didn't have, 7 eating, 8 has been receiving, 9 Despite, 10 have been produced, 11 live, 12 is known to benefit, 13 used, 14 the better, 15 the hungry<br>‣ Note <strong>used to</strong> for past states, <strong>wish</strong> + past simple, <strong>despite</strong> + noun, <strong>the + comparative ..., the + comparative</strong> and <strong>the hungry</strong>."
+},
+"4911": {
+"choices": [
+7537
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>remember</strong> is a stative verb, so it is not normally used in the continuous form."
+},
+"4914": {
+"choices": [
+7548
+],
+"feedback": "‣ <strong>C</strong> is correct because the past perfect shows that he gave her the ring before she sold it."
+},
+"4912": {
+"choices": [
+7542
+],
+"feedback": "‣ <strong>C</strong> is correct because the present perfect with <strong>recently</strong> describes a recent action with a present result."
+},
+"4915": {
+"choices": [
+7551
+],
+"feedback": "‣ <strong>C</strong> is correct because the past simple describes consecutive completed actions in a story."
+},
+"4913": {
+"choices": [
+7544
+],
+"feedback": "‣ <strong>B</strong> is correct because the present perfect continuous describes an activity that started in the past and continues now."
+},
+"4916": {
+"choices": [
+7554
+],
+"feedback": "‣ <strong>C</strong> is correct because we use <strong>will</strong> for predictions based on opinion, especially after <strong>I'm sure</strong>."
+},
+"4917": {
+"choices": [
+7555
+],
+"feedback": "‣ <strong>A</strong> is correct because we use <strong>be going to</strong> for predictions based on present evidence."
+},
+"4918": {
+"choices": [
+7558
+],
+"feedback": "‣ <strong>A</strong> is correct because we use the present perfect with <strong>yet</strong> in questions."
+},
+"4919": {
+"choices": [
+7562
+],
+"feedback": "‣ <strong>B</strong> is correct because the past continuous describes an action in progress at that moment in the past."
+},
+"4920": {
+"choices": [
+7564
+],
+"feedback": "‣ <strong>A</strong> is correct because the present continuous describes a temporary situation happening around now."
+},
+"4900": {
+"gaps": [
+[
+"have never been"
+]
+],
+"feedback": "Correct answer: have never been<br>‣ The present perfect describes life experiences up to now."
+},
+"4901": {
+"gaps": [
+[
+"are you driving"
+]
+],
+"feedback": "Correct answer: are you driving<br>‣ The present continuous describes an action happening right now."
+},
+"4903": {
+"gaps": [
+[
+"'ll drive"
+]
+],
+"feedback": "Correct answer: 'll drive<br>‣ We use <strong>will</strong> for offers and decisions made at the moment of speaking."
+},
+"4904": {
+"gaps": [
+[
+"have lived"
+]
+],
+"feedback": "Correct answer: have lived<br>‣ We use the present perfect with <strong>since</strong> for a situation that continues now."
+},
+"4905": {
+"gaps": [
+[
+"did you arrive"
+]
+],
+"feedback": "Correct answer: did you arrive<br>‣ We use the past simple with finished time expressions like <strong>last night</strong>."
+},
+"4906": {
+"gaps": [
+[
+"was going through"
+]
+],
+"feedback": "Correct answer: was going through<br>‣ The past continuous describes a situation in progress at a past moment."
+},
+"4907": {
+"gaps": [
+[
+"had given"
+]
+],
+"feedback": "Correct answer: had given<br>‣ The past perfect shows an earlier action in the past."
+},
+"4908": {
+"gaps": [
+[
+"Are you going to"
+]
+],
+"feedback": "Correct answer: Are you going to<br>‣ We use <strong>be going to</strong> for plans and intentions."
+},
+"4909": {
+"gaps": [
+[
+"do you do"
+]
+],
+"feedback": "Correct answer: do you do<br>‣ The present simple describes routines."
+},
+"4910": {
+"gaps": [
+[
+"Will you pass"
+]
+],
+"feedback": "Correct answer: Will you pass<br>‣ We use <strong>will you</strong> to make requests."
+},
+"4921": {
+"gaps": [
+[
+"'s raining",
+"is raining"
+],
+[
+"'ll get",
+"will get",
+"'re going to get",
+"are going to get"
+],
+[
+"'ll take",
+"will take"
+]
+],
+"feedback": "Correct answer: 1 's raining, 2 'll get, 3 'll take<br>‣ Present continuous for now; <strong>will</strong> for a prediction and for a decision made at the moment of speaking."
+},
+"4922": {
+"gaps": [
+[
+"are you doing",
+"are you going to do"
+],
+[
+"'m going to cut",
+"am going to cut",
+"'m cutting",
+"am cutting"
+],
+[
+"'ve just eaten",
+"have just eaten"
+]
+],
+"feedback": "Correct answer: 1 are you doing, 2 'm going to cut, 3 've just eaten<br>‣ Present continuous or <strong>going to</strong> for intentions; present perfect with <strong>just</strong>."
+},
+"4923": {
+"gaps": [
+[
+"were you doing"
+],
+[
+"was having"
+],
+[
+"hadn't seen",
+"had not seen",
+"hadn't been seeing"
+]
+],
+"feedback": "Correct answer: 1 were you doing, 2 was having, 3 hadn't seen<br>‣ Past continuous for an action in progress; past perfect for a situation up to a past moment."
+},
+"4924": {
+"gaps": [
+[
+"Are you going",
+"Are you going to go"
+],
+[
+"'ve already bought",
+"have already bought"
+]
+],
+"feedback": "Correct answer: 1 Are you going, 2 've already bought<br>‣ Present continuous or <strong>going to</strong> for plans; present perfect with <strong>already</strong>."
+},
+"4925": {
+"gaps": [
+[
+"Have you ever been"
+],
+[
+"went"
+]
+],
+"feedback": "Correct answer: 1 Have you ever been, 2 went<br>‣ Present perfect for experiences; past simple with <strong>last year</strong>."
+},
+"4926": {
+"gaps": [
+[
+"'ve been cooking",
+"have been cooking"
+],
+[
+"'ll help",
+"will help"
+]
+],
+"feedback": "Correct answer: 1 've been cooking, 2 'll help<br>‣ Present perfect continuous for an activity with a present result; <strong>will</strong> for offers."
+},
+"4927": {
+"gaps": [
+[
+"are you drinking"
+],
+[
+"never drink"
+],
+[
+"drank"
+]
+],
+"feedback": "Correct answer: 1 are you drinking, 2 never drink, 3 drank<br>‣ Present continuous for now, present simple for habits, past simple for <strong>yesterday</strong>."
+},
+"4928": {
+"gaps": [
+[
+"have we been driving"
+],
+[
+"Shall we stop"
+]
+],
+"feedback": "Correct answer: 1 have we been driving, 2 Shall we stop<br>‣ Present perfect continuous with <strong>how long</strong>; <strong>shall we</strong> for suggestions."
+},
+"4885": {
+"choices": [
+7474
+],
+"feedback": "‣ <strong>A</strong> is correct because when the question word is the subject (<strong>how many students</strong>), we do not use the auxiliary <strong>did</strong>."
+},
+"4886": {
+"choices": [
+7481
+],
+"feedback": "‣ <strong>D</strong> is correct because we use <strong>neither + auxiliary + subject</strong> to agree with a negative sentence."
+},
+"4887": {
+"choices": [
+7484
+],
+"feedback": "‣ <strong>C</strong> is correct because we use <strong>the + comparative ..., the + comparative</strong>."
+},
+"4888": {
+"choices": [
+7488
+],
+"feedback": "‣ <strong>C</strong> is correct because the order of adjectives is opinion, age, origin: <strong>intelligent young American</strong>."
+},
+"4892": {
+"choices": [
+7505
+],
+"feedback": "‣ <strong>D</strong> is correct because we use <strong>such</strong> + adjective + plural noun."
+},
+"4893": {
+"choices": [
+7507
+],
+"feedback": "‣ <strong>B</strong> is correct because adverbials usually follow the order manner, place, time."
+},
+"4894": {
+"choices": [
+7512
+],
+"feedback": "‣ <strong>C</strong> is correct because the future perfect describes something that will be completed by a certain time in the future."
+},
+"4895": {
+"choices": [
+7515
+],
+"feedback": "‣ <strong>B</strong> is correct because after <strong>when</strong> referring to the future we use the present perfect for a completed action."
+},
+"4889": {
+"choices": [
+7492
+],
+"feedback": "‣ <strong>C</strong> is correct because the third conditional uses <strong>would have</strong> + past participle for an imaginary past situation."
+},
+"4896": {
+"choices": [
+7518
+],
+"feedback": "‣ <strong>A</strong> is correct because we use <strong>wish + would</strong> to complain about annoying behaviour."
+},
+"4890": {
+"choices": [
+7495
+],
+"feedback": "‣ <strong>B</strong> is correct because the negative form is <strong>didn't use to</strong>."
+},
+"4899": {
+"choices": [
+7533
+],
+"feedback": "‣ <strong>D</strong> is correct because <strong>can't have been</strong> expresses a logical deduction that something was impossible in the past."
+},
+"4897": {
+"choices": [
+7524
+],
+"feedback": "‣ <strong>C</strong> is correct because subject + <strong>is thought</strong> + perfect infinitive refers to a past action."
+},
+"4891": {
+"choices": [
+7498
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>whoever</strong> means 'the person who'."
+},
+"4898": {
+"choices": [
+7526
+],
+"feedback": "‣ <strong>A</strong> is correct because we use <strong>either</strong> in negative sentences to refer to two things."
+},
+"4884": {
+"gaps": [
+[
+"what ghosting was"
+],
+[
+"hadn’t been answering"
+],
+[
+"funny big old"
+],
+[
+"being given"
+],
+[
+"despite"
+],
+[
+"amazing"
+],
+[
+"were clearly destined"
+],
+[
+"should have told"
+],
+[
+"had done"
+],
+[
+"might never have disappeared"
+],
+[
+"was there"
+],
+[
+"such a"
+],
+[
+"spending"
+],
+[
+"the longer"
+],
+[
+"whatever"
+]
+],
+"feedback": "Correct answer: 1 what ghosting was, 2 hadn’t been answering, 3 funny big old, 4 being given, 5 despite, 6 amazing, 7 were clearly destined, 8 should have told, 9 had done, 10 might never have disappeared, 11 was there, 12 such a, 13 spending, 14 the longer, 15 whatever<br>‣ Note indirect question word order, <strong>despite</strong> + -ing, <strong>feel</strong> + adjective, <strong>such a</strong> + adjective + noun and <strong>enjoy</strong> + -ing."
+},
+"4853": {
+"gaps": [
+[
+"Have you seen"
+],
+[
+"called"
+]
+],
+"feedback": "Correct answer: 1 Have you seen, 2 called<br>‣ Present perfect for recent past with present relevance; past simple with <strong>five minutes ago</strong>."
+},
+"4854": {
+"gaps": [
+[
+"'m leaving"
+],
+[
+"arrive"
+]
+],
+"feedback": "Correct answer: 1 'm leaving, 2 arrive<br>‣ Present continuous for arrangements; present simple after <strong>as soon as</strong> for the future."
+},
+"4855": {
+"gaps": [
+[
+"had won"
+]
+],
+"feedback": "Correct answer: had won<br>‣ Past perfect with <strong>by the time</strong> + past."
+},
+"4856": {
+"gaps": [
+[
+"are you doing"
+],
+[
+"'ve just arrived"
+],
+[
+"will be giving"
+]
+],
+"feedback": "Correct answer: 1 are you doing, 2 've just arrived, 3 will be giving<br>‣ Present continuous for now, present perfect with <strong>just</strong>, future continuous for a planned future event."
+},
+"4857": {
+"gaps": [
+[
+"have you known"
+],
+[
+"'ve been going out"
+]
+],
+"feedback": "Correct answer: 1 have you known, 2 've been going out<br>‣ <strong>Know</strong> is stative (present perfect simple); present perfect continuous for an ongoing activity."
+},
+"4858": {
+"gaps": [
+[
+"turned"
+],
+[
+"had disappeared"
+]
+],
+"feedback": "Correct answer: 1 turned, 2 had disappeared<br>‣ The bike disappeared before he turned around, so we need the past perfect."
+},
+"4859": {
+"gaps": [
+[
+"had been waiting"
+],
+[
+"'ve had"
+],
+[
+"hung up"
+]
+],
+"feedback": "Correct answer: 1 had been waiting, 2 've had, 3 hung up<br>‣ Past perfect continuous for duration before a past event; present perfect in direct speech; past simple for the next event."
+},
+"4860": {
+"gaps": [
+[
+"'ll be having"
+]
+],
+"feedback": "Correct answer: 'll be having<br>‣ The future continuous describes an action in progress at a future time."
+},
+"4861": {
+"gaps": [
+[
+"Are you going to propose"
+],
+[
+"'ve never been"
+]
+],
+"feedback": "Correct answer: 1 Are you going to propose, 2 've never been<br>‣ <strong>Going to</strong> for intentions; present perfect for experience up to now."
+},
+"4862": {
+"gaps": [
+[
+"will have risen"
+],
+[
+"will be living"
+]
+],
+"feedback": "Correct answer: 1 will have risen, 2 will be living<br>‣ Future perfect with <strong>by</strong> + time; future continuous for a situation in progress in the future."
+},
+"4863": {
+"choices": [
+7433
+],
+"feedback": "‣ <strong>C</strong> is correct because the present perfect continuous explains a present result (being tired) of a recent activity."
+},
+"4864": {
+"choices": [
+7436
+],
+"feedback": "‣ <strong>C</strong> is correct because the past perfect simple is used when we mention a quantity (<strong>too many beers</strong>)."
+},
+"4865": {
+"choices": [
+7441
+],
+"feedback": "‣ <strong>C</strong> is correct because the future perfect with <strong>by the end of the day</strong> describes a completed action by a future time."
+},
+"4866": {
+"choices": [
+7446
+],
+"feedback": "‣ <strong>D</strong> is correct because we use <strong>will</strong> for offers and decisions made at the moment of speaking."
+}
+}

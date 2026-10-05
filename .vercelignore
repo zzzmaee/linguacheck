@@ -1,0 +1,5 @@
+# Source data and answer-key work files; the build only reads content/{index,answers}.json and content/pages.
+/raw
+/content/solve
+/scripts
+/.idea

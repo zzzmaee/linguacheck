@@ -1,0 +1,770 @@
+{
+"6860": {
+"choices": [
+11884
+],
+"feedback": "‣ <strong>C</strong> is correct because <strong>How are you finding ...?</strong> asks for someone's opinion of an experience."
+},
+"6861": {
+"choices": [
+11886
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>drop someone a line</strong> means to write them a short message."
+},
+"6862": {
+"choices": [
+11891
+],
+"feedback": "‣ <strong>B</strong> is correct because <strong>Let me know</strong> means tell me."
+},
+"6863": {
+"choices": [
+11896
+],
+"feedback": "‣ <strong>C</strong> is correct because we say <strong>hear from</strong> someone."
+},
+"6864": {
+"choices": [
+11901
+],
+"feedback": "‣ <strong>D</strong> is correct because <strong>be in touch</strong> means to be in contact."
+},
+"6865": {
+"choices": [
+11904
+],
+"feedback": "‣ <strong>C</strong> is correct because <strong>You'll never guess ...</strong> introduces surprising news."
+},
+"6866": {
+"choices": [
+11906
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>get on with</strong> something means to progress with it."
+},
+"6867": {
+"choices": [
+11912
+],
+"feedback": "‣ <strong>C</strong> is correct because <strong>get in touch</strong> means to contact someone."
+},
+"6868": {
+"choices": [
+11914
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>How's it going?</strong> is an informal greeting."
+},
+"6869": {
+"choices": [
+11919
+],
+"feedback": "‣ <strong>B</strong> is correct because <strong>What have you been up to?</strong> asks what someone has been doing."
+},
+"6870": {
+"gaps": [
+[
+"'ve moved"
+]
+],
+"feedback": "Correct answer: 've moved<br>‣ The present perfect simple describes a completed action with a present result."
+},
+"6871": {
+"gaps": [
+[
+"'s studying"
+]
+],
+"feedback": "Correct answer: 's studying<br>‣ The present continuous describes a current, temporary activity."
+},
+"6872": {
+"gaps": [
+[
+"'ve been learning"
+]
+],
+"feedback": "Correct answer: 've been learning<br>‣ The present perfect continuous describes an activity that started in the past and is still continuing."
+},
+"6873": {
+"gaps": [
+[
+"has been working"
+]
+],
+"feedback": "Correct answer: has been working<br>‣ The present perfect continuous describes a recent ongoing activity."
+},
+"6874": {
+"gaps": [
+[
+"had"
+]
+],
+"feedback": "Correct answer: had<br>‣ Past simple with a finished time expression (<strong>last month</strong>)."
+},
+"6875": {
+"gaps": [
+[
+"have got"
+]
+],
+"feedback": "Correct answer: have got<br>‣ Present perfect simple for recent news with a present result."
+},
+"6876": {
+"gaps": [
+[
+"'m working"
+]
+],
+"feedback": "Correct answer: 'm working<br>‣ Present continuous for a current situation."
+},
+"6877": {
+"gaps": [
+[
+"went"
+]
+],
+"feedback": "Correct answer: went<br>‣ Past simple with a finished time expression (<strong>last Friday</strong>)."
+},
+"6878": {
+"gaps": [
+[
+"finding"
+]
+],
+"feedback": "Correct answer: finding<br>‣ <strong>How are you finding ...?</strong> asks for an opinion."
+},
+"6879": {
+"gaps": [
+[
+"getting"
+]
+],
+"feedback": "Correct answer: getting<br>‣ <strong>How are you getting on?</strong> asks about progress."
+},
+"6880": {
+"gaps": [
+[
+"touch"
+]
+],
+"feedback": "Correct answer: touch<br>‣ <strong>Get in touch</strong> means contact me."
+},
+"6881": {
+"gaps": [
+[
+"up"
+]
+],
+"feedback": "Correct answer: up<br>‣ <strong>What have you been up to?</strong> asks what someone has been doing."
+},
+"6882": {
+"gaps": [
+[
+"forward"
+]
+],
+"feedback": "Correct answer: forward<br>‣ <strong>look forward to</strong> + -ing."
+},
+"6883": {
+"gaps": [
+[
+"drop"
+]
+],
+"feedback": "Correct answer: drop<br>‣ <strong>drop someone a line</strong> means to write to them."
+},
+"6884": {
+"gaps": [
+[
+"send"
+]
+],
+"feedback": "Correct answer: send<br>‣ <strong>send their love</strong> is a friendly closing phrase."
+},
+"6885": {
+"gaps": [
+[
+"while"
+]
+],
+"feedback": "Correct answer: while<br>‣ <strong>It's been a while</strong> means it's been some time."
+},
+"6886": {
+"gaps": [
+[
+"haven't seen"
+],
+[
+"'ve been working"
+],
+[
+"'ve just come"
+],
+[
+"'m working"
+],
+[
+"guess"
+],
+[
+"went"
+],
+[
+"has been learning"
+],
+[
+"hasn't found"
+],
+[
+"drop"
+],
+[
+"let"
+]
+],
+"feedback": "Correct answer: haven't seen / 've been working / 've just come / 'm working / guess / went / has been learning / hasn't found / drop / let<br>‣ Present perfect for unfinished time, continuous forms for ongoing activities, past simple for <strong>last month</strong>; <strong>drop me a line</strong>, <strong>let me know</strong>."
+},
+"6609": {
+"choices": [
+11577
+],
+"feedback": "‣ <strong>B</strong> is correct because events are mainly held in London, but some are held in other British towns and cities."
+},
+"6610": {
+"choices": [
+11579
+],
+"feedback": "‣ <strong>B</strong> is correct because some people have available rooms; others are looking for accommodation."
+},
+"6611": {
+"choices": [
+11580
+],
+"feedback": "‣ <strong>A</strong> is correct because all guests are given a sticker, and both white and pink stickers include their name."
+},
+"6612": {
+"choices": [
+11582
+],
+"feedback": "‣ <strong>A</strong> is correct because pink stickers are for people looking for a room."
+},
+"6613": {
+"choices": [
+11585
+],
+"feedback": "‣ <strong>B</strong> is correct because there are about 17 events per month in total; only the larger ones cover the whole of central London."
+},
+"6614": {
+"choices": [
+11586
+],
+"feedback": "‣ <strong>A</strong> is correct because people meet in a relaxed, social setting and enjoy the friendly atmosphere."
+},
+"6615": {
+"choices": [
+11588
+],
+"feedback": "‣ <strong>A</strong> is correct because Paul is in his forties, while most sharers are in their twenties and thirties."
+},
+"6616": {
+"choices": [
+11591
+],
+"feedback": "‣ <strong>B</strong> is correct because Paul met three people in the same situation and they rented a place together."
+},
+"6617": {
+"choices": [
+11593
+],
+"feedback": "‣ <strong>B</strong> is correct because Melissa attended the event on her own."
+},
+"6618": {
+"choices": [
+11594
+],
+"feedback": "‣ <strong>A</strong> is correct because she met a landlord who was looking for tenants."
+},
+"6801": {
+"gaps": [
+[
+"give way"
+]
+],
+"feedback": "Correct answer: give way<br>‣ <strong>Give way</strong> means to let other traffic go first."
+},
+"6803": {
+"gaps": [
+[
+"went off"
+]
+],
+"feedback": "Correct answer: went off<br>‣ Lights <strong>go off</strong> when they stop working."
+},
+"6802": {
+"gaps": [
+[
+"for"
+]
+],
+"feedback": "Correct answer: for<br>‣ <strong>go for</strong> means to try to achieve something."
+},
+"6809": {
+"gaps": [
+[
+"hand in"
+]
+],
+"feedback": "Correct answer: hand in<br>‣ <strong>hand in</strong> means to give work to a teacher."
+},
+"6804": {
+"gaps": [
+[
+"went on"
+]
+],
+"feedback": "Correct answer: went on<br>‣ <strong>go on</strong> means to continue."
+},
+"6800": {
+"gaps": [
+[
+"give up"
+]
+],
+"feedback": "Correct answer: give up<br>‣ <strong>give up</strong> means to stop doing an activity."
+},
+"6805": {
+"gaps": [
+[
+"out"
+]
+],
+"feedback": "Correct answer: out<br>‣ <strong>go out</strong> means to leave home for a social activity."
+},
+"6808": {
+"gaps": [
+[
+"grow up"
+]
+],
+"feedback": "Correct answer: grow up<br>‣ <strong>grow up</strong> means to become an adult."
+},
+"6807": {
+"gaps": [
+[
+"go together"
+]
+],
+"feedback": "Correct answer: go together<br>‣ Things that <strong>go together</strong> look good together."
+},
+"6806": {
+"gaps": [
+[
+"go with"
+]
+],
+"feedback": "Correct answer: go with<br>‣ <strong>go with</strong> means to match or suit."
+},
+"6812": {
+"choices": [
+11821
+],
+"feedback": "‣ <strong>B</strong> is correct because <strong>hang up</strong> means to end a phone call."
+},
+"6810": {
+"choices": [
+11812
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>hand out</strong> means to distribute."
+},
+"6818": {
+"choices": [
+11846
+],
+"feedback": "‣ <strong>C</strong> is correct because <strong>lie down</strong> means to rest in a horizontal position."
+},
+"6813": {
+"choices": [
+11825
+],
+"feedback": "‣ <strong>B</strong> is correct because <strong>be held up</strong> means to be delayed."
+},
+"6819": {
+"choices": [
+11848
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>look after</strong> means to take care of."
+},
+"6815": {
+"choices": [
+11834
+],
+"feedback": "‣ <strong>C</strong> is correct because <strong>keep on</strong> + -ing means to continue doing something."
+},
+"6816": {
+"choices": [
+11836
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>Keep up the good work</strong> means continue doing well."
+},
+"6811": {
+"choices": [
+11819
+],
+"feedback": "‣ <strong>D</strong> is correct because <strong>hang out</strong> means to spend relaxed time with friends."
+},
+"6817": {
+"choices": [
+11840
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>be knocked down</strong> by a car means to be hit by it."
+},
+"6814": {
+"choices": [
+11831
+],
+"feedback": "‣ <strong>D</strong> is correct because <strong>keep someone in</strong> hospital means to make them stay there."
+},
+"6822": {
+"gaps": [
+[
+"up"
+]
+],
+"feedback": "Correct answer: up<br>‣ <strong>look up</strong> means to search for information in a reference book."
+},
+"6827": {
+"gaps": [
+[
+"off"
+]
+],
+"feedback": "Correct answer: off<br>‣ <strong>put off</strong> means to postpone."
+},
+"6829": {
+"gaps": [
+[
+"out"
+]
+],
+"feedback": "Correct answer: out<br>‣ <strong>Look out!</strong> is a warning of danger."
+},
+"6823": {
+"gaps": [
+[
+"pass on"
+]
+],
+"feedback": "Correct answer: pass on<br>‣ <strong>pass on</strong> means to give a message to someone else."
+},
+"6825": {
+"gaps": [
+[
+"pick up"
+]
+],
+"feedback": "Correct answer: pick up<br>‣ <strong>pick up</strong> means to collect someone."
+},
+"6826": {
+"gaps": [
+[
+"down"
+]
+],
+"feedback": "Correct answer: down<br>‣ <strong>put your name down</strong> means to add it to a list."
+},
+"6821": {
+"gaps": [
+[
+"forward"
+]
+],
+"feedback": "Correct answer: forward<br>‣ <strong>look forward to</strong> means to be excited about something in the future."
+},
+"6824": {
+"gaps": [
+[
+"put away"
+]
+],
+"feedback": "Correct answer: put away<br>‣ <strong>put away</strong> means to put something in its place."
+},
+"6820": {
+"gaps": [
+[
+"for"
+]
+],
+"feedback": "Correct answer: for<br>‣ <strong>look for</strong> means to try to find."
+},
+"6828": {
+"gaps": [
+[
+"put on"
+]
+],
+"feedback": "Correct answer: put on<br>‣ <strong>put on weight</strong> means to become heavier."
+},
+"6765": {
+"choices": [
+11723
+],
+"feedback": "‣ <strong>B</strong> is correct because <strong>sugar</strong> is uncountable, so we use <strong>How much</strong>."
+},
+"6766": {
+"choices": [
+11726
+],
+"feedback": "‣ <strong>A</strong> is correct because negative past simple: <strong>didn't + base form</strong>."
+},
+"6767": {
+"choices": [
+11729
+],
+"feedback": "‣ <strong>A</strong> is correct because past simple for the completed action and past continuous for the background (<strong>was shining</strong>)."
+},
+"6768": {
+"choices": [
+11734
+],
+"feedback": "‣ <strong>C</strong> is correct because <strong>so</strong> introduces a result."
+},
+"6769": {
+"choices": [
+11736
+],
+"feedback": "‣ <strong>B</strong> is correct because <strong>who</strong> is the relative pronoun for people."
+},
+"6770": {
+"choices": [
+11740
+],
+"feedback": "‣ <strong>C</strong> is correct because present perfect for life experience up to now."
+},
+"6771": {
+"choices": [
+11741
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>somewhere</strong> is used in questions expecting a positive answer, like offers or suggestions."
+},
+"6772": {
+"choices": [
+11745
+],
+"feedback": "‣ <strong>B</strong> is correct because with three items we use the superlative <strong>the fastest</strong>."
+},
+"6773": {
+"choices": [
+11749
+],
+"feedback": "‣ <strong>C</strong> is correct because <strong>Most of</strong> is used before a determiner like 'my'."
+},
+"6774": {
+"choices": [
+11750
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>mustn't</strong> expresses prohibition."
+},
+"6775": {
+"choices": [
+11754
+],
+"feedback": "‣ <strong>B</strong> is correct because second conditional: <strong>would + base form</strong> in the main clause."
+},
+"6776": {
+"choices": [
+11756
+],
+"feedback": "‣ <strong>A</strong> is correct because past simple with <strong>a long time ago</strong>; 'occur' is intransitive and has no passive."
+},
+"6777": {
+"choices": [
+11761
+],
+"feedback": "‣ <strong>C</strong> is correct because we say <strong>get home</strong> without a preposition."
+},
+"6778": {
+"choices": [
+11762
+],
+"feedback": "‣ <strong>A</strong> is correct because <strong>tell</strong> takes a person as object: told me."
+},
+"6779": {
+"choices": [
+11766
+],
+"feedback": "‣ <strong>B</strong> is correct because the past perfect shows he had not been invited before the party."
+},
+"6780": {
+"choices": [
+11774
+],
+"feedback": "‣ <strong>C</strong> is correct because an <strong>apartment</strong> is a home, not a room."
+},
+"6781": {
+"choices": [
+11779
+],
+"feedback": "‣ <strong>D</strong> is correct because a <strong>cooker</strong> is found in a kitchen, not a bathroom."
+},
+"6782": {
+"choices": [
+11781
+],
+"feedback": "‣ <strong>B</strong> is correct because a <strong>bath</strong> is found in a bathroom."
+},
+"6789": {
+"choices": [
+11809
+],
+"feedback": "‣ <strong>B</strong> is correct because people don't usually eat in the <strong>basement</strong>."
+},
+"6783": {
+"choices": [
+11785
+],
+"feedback": "‣ <strong>B</strong> is correct because a <strong>washing machine</strong> is usually in the kitchen or utility room."
+},
+"6784": {
+"choices": [
+11791
+],
+"feedback": "‣ <strong>D</strong> is correct because a <strong>fridge</strong> belongs in the kitchen."
+},
+"6785": {
+"choices": [
+11795
+],
+"feedback": "‣ <strong>D</strong> is correct because a <strong>study</strong> is a room for work, not for clothes."
+},
+"6786": {
+"choices": [
+11796
+],
+"feedback": "‣ <strong>A</strong> is correct because a <strong>bookcase</strong> holds books; it is not used for washing."
+},
+"6787": {
+"choices": [
+11802
+],
+"feedback": "‣ <strong>C</strong> is correct because the <strong>hall</strong> is usually downstairs at the entrance."
+},
+"6788": {
+"choices": [
+11805
+],
+"feedback": "‣ <strong>B</strong> is correct because plants need light, so they are not usually in a <strong>basement</strong>."
+},
+"6790": {
+"gaps": [
+[
+"Upstairs"
+]
+],
+"feedback": "Correct answer: Upstairs<br>‣ <strong>Upstairs</strong> describes the floor above."
+},
+"6791": {
+"gaps": [
+[
+"and"
+]
+],
+"feedback": "Correct answer: and<br>‣ <strong>and</strong> joins the last item in a list."
+},
+"6792": {
+"gaps": [
+[
+"on"
+]
+],
+"feedback": "Correct answer: on<br>‣ We say <strong>on</strong> a street."
+},
+"6793": {
+"gaps": [
+[
+"from"
+]
+],
+"feedback": "Correct answer: from<br>‣ We say <strong>not far from</strong>."
+},
+"6794": {
+"gaps": [
+[
+"hasn’t got"
+]
+],
+"feedback": "Correct answer: hasn’t got<br>‣ <strong>has got / hasn't got</strong> expresses possession."
+},
+"6795": {
+"gaps": [
+[
+"with"
+]
+],
+"feedback": "Correct answer: with<br>‣ <strong>with</strong> describes what something has."
+},
+"6796": {
+"gaps": [
+[
+"just"
+]
+],
+"feedback": "Correct answer: just<br>‣ <strong>just</strong> means only."
+},
+"6797": {
+"gaps": [
+[
+"any"
+]
+],
+"feedback": "Correct answer: any<br>‣ <strong>any</strong> is used in negative sentences."
+},
+"6798": {
+"gaps": [
+[
+"a"
+]
+],
+"feedback": "Correct answer: a<br>‣ <strong>a</strong> is used with a singular countable noun."
+},
+"6799": {
+"gaps": [
+[
+"but"
+]
+],
+"feedback": "Correct answer: but<br>‣ <strong>but</strong> introduces a contrast."
+},
+"6764": {
+"gaps": [
+[
+"on"
+],
+[
+"from"
+],
+[
+"near"
+],
+[
+"has got"
+],
+[
+"with"
+],
+[
+"there is"
+],
+[
+"Outside"
+],
+[
+"there are"
+],
+[
+"only"
+],
+[
+"but"
+]
+],
+"feedback": "Correct answer: on / from / near / has got / with / there is / Outside / there are / only / but<br>‣ <strong>on</strong> a street, <strong>not far from</strong>, <strong>near</strong> the house, <strong>with</strong> a table, <strong>there is/are</strong>, <strong>only</strong> = just, <strong>but</strong> for contrast."
+}
+}
